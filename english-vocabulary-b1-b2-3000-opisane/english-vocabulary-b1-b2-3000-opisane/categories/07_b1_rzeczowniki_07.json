@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-rzeczowniki-07",
+    "name": "B1 — Rzeczowniki 7/9 (M–P)"
+  },
+  "questions": [
+    {
+      "id": "b1-rzeczowniki-07-001",
+      "question": "mud",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błoto"
+        },
+        {
+          "id": "b",
+          "text": "matematyk"
+        },
+        {
+          "id": "c",
+          "text": "zapalniczka"
+        },
+        {
+          "id": "d",
+          "text": "nieporozumienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mud” (rzeczownik, poziom B1) oznacza po polsku „błoto”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-002",
+      "question": "mule",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tablica ogłoszeń"
+        },
+        {
+          "id": "b",
+          "text": "wątroba"
+        },
+        {
+          "id": "c",
+          "text": "muł"
+        },
+        {
+          "id": "d",
+          "text": "miara"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mule” (rzeczownik, poziom B1) oznacza po polsku „muł”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-003",
+      "question": "murderer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyzwolenie"
+        },
+        {
+          "id": "b",
+          "text": "obserwacja"
+        },
+        {
+          "id": "c",
+          "text": "mięsień, muskuł"
+        },
+        {
+          "id": "d",
+          "text": "morderca"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„murderer” (rzeczownik, poziom B1) oznacza po polsku „morderca”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-004",
+      "question": "muscle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nonsens, bzdura"
+        },
+        {
+          "id": "b",
+          "text": "ograniczenie"
+        },
+        {
+          "id": "c",
+          "text": "monstrum, potwór"
+        },
+        {
+          "id": "d",
+          "text": "mięsień, muskuł"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„muscle” (rzeczownik, poziom B1) oznacza po polsku „mięsień, muskuł”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-005",
+      "question": "mustard",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sieć"
+        },
+        {
+          "id": "b",
+          "text": "musztarda"
+        },
+        {
+          "id": "c",
+          "text": "życie nocne"
+        },
+        {
+          "id": "d",
+          "text": "domek dozorcy, domek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mustard” (rzeczownik, poziom B1) oznacza po polsku „musztarda”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-006",
+      "question": "myth",
+      "answers": [
+        {
+          "id": "a",
+          "text": "loteria"
+        },
+        {
+          "id": "b",
+          "text": "głośnik"
+        },
+        {
+          "id": "c",
+          "text": "przedmiot, obiekt"
+        },
+        {
+          "id": "d",
+          "text": "mit"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„myth” (rzeczownik, poziom B1) oznacza po polsku „mit”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-007",
+      "question": "nail",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedmiot, obiekt"
+        },
+        {
+          "id": "b",
+          "text": "skinienie głową"
+        },
+        {
+          "id": "c",
+          "text": "gwóźdź"
+        },
+        {
+          "id": "d",
+          "text": "płuco"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nail” (rzeczownik, poziom B1) oznacza po polsku „gwóźdź”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-008",
+      "question": "nap",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lojalność"
+        },
+        {
+          "id": "b",
+          "text": "modem"
+        },
+        {
+          "id": "c",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "d",
+          "text": "drzemka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nap” (rzeczownik, poziom B1) oznacza po polsku „drzemka”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-009",
+      "question": "nationalist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kierownictwo, zarządzanie"
+        },
+        {
+          "id": "b",
+          "text": "umiejscowienie"
+        },
+        {
+          "id": "c",
+          "text": "morderca"
+        },
+        {
+          "id": "d",
+          "text": "nacjonalista"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nationalist” (rzeczownik, poziom B1) oznacza po polsku „nacjonalista”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-010",
+      "question": "necklace",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płuco"
+        },
+        {
+          "id": "b",
+          "text": "loteria"
+        },
+        {
+          "id": "c",
+          "text": "(w nazwach) góra"
+        },
+        {
+          "id": "d",
+          "text": "kolia, naszyjnik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„necklace” (rzeczownik, poziom B1) oznacza po polsku „kolia, naszyjnik”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-011",
+      "question": "nectar",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odżywianie się"
+        },
+        {
+          "id": "b",
+          "text": "zapalniczka"
+        },
+        {
+          "id": "c",
+          "text": "ratownik"
+        },
+        {
+          "id": "d",
+          "text": "nektar"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nectar” (rzeczownik, poziom B1) oznacza po polsku „nektar”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-012",
+      "question": "needle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mechanik"
+        },
+        {
+          "id": "b",
+          "text": "igła"
+        },
+        {
+          "id": "c",
+          "text": "obserwacja"
+        },
+        {
+          "id": "d",
+          "text": "miara"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„needle” (rzeczownik, poziom B1) oznacza po polsku „igła”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-013",
+      "question": "negotiation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siostrzeniec, bratanek"
+        },
+        {
+          "id": "b",
+          "text": "kłamca"
+        },
+        {
+          "id": "c",
+          "text": "negocjacje"
+        },
+        {
+          "id": "d",
+          "text": "bochenek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„negotiation” (rzeczownik, poziom B1) oznacza po polsku „negocjacje”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-014",
+      "question": "neighbourhood",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sąsiedztwo"
+        },
+        {
+          "id": "b",
+          "text": "członkostwo"
+        },
+        {
+          "id": "c",
+          "text": "(w nazwach) góra"
+        },
+        {
+          "id": "d",
+          "text": "kupiec, hurtownik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„neighbourhood” (rzeczownik, poziom B1) oznacza po polsku „sąsiedztwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-015",
+      "question": "nephew",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strata, utrata"
+        },
+        {
+          "id": "b",
+          "text": "wilgoć"
+        },
+        {
+          "id": "c",
+          "text": "skinienie głową"
+        },
+        {
+          "id": "d",
+          "text": "siostrzeniec, bratanek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nephew” (rzeczownik, poziom B1) oznacza po polsku „siostrzeniec, bratanek”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-016",
+      "question": "net",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siatka, sieć"
+        },
+        {
+          "id": "b",
+          "text": "(w budynku) winda"
+        },
+        {
+          "id": "c",
+          "text": "burmistrz"
+        },
+        {
+          "id": "d",
+          "text": "mięsień, muskuł"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„net” (rzeczownik, poziom B1) oznacza po polsku „siatka, sieć”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-017",
+      "question": "network",
+      "answers": [
+        {
+          "id": "a",
+          "text": "literatura"
+        },
+        {
+          "id": "b",
+          "text": "cząsteczka, molekuła"
+        },
+        {
+          "id": "c",
+          "text": "powieściopisarz"
+        },
+        {
+          "id": "d",
+          "text": "sieć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„network” (rzeczownik, poziom B1) oznacza po polsku „sieć”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-018",
+      "question": "newcomer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ograniczenie"
+        },
+        {
+          "id": "b",
+          "text": "przybysz"
+        },
+        {
+          "id": "c",
+          "text": "minerał"
+        },
+        {
+          "id": "d",
+          "text": "płuco"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„newcomer” (rzeczownik, poziom B1) oznacza po polsku „przybysz”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-019",
+      "question": "nickname",
+      "answers": [
+        {
+          "id": "a",
+          "text": "życie nocne"
+        },
+        {
+          "id": "b",
+          "text": "bochenek"
+        },
+        {
+          "id": "c",
+          "text": "przezwisko, przydomek"
+        },
+        {
+          "id": "d",
+          "text": "sałata"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nickname” (rzeczownik, poziom B1) oznacza po polsku „przezwisko, przydomek”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-020",
+      "question": "niece",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieszczęście"
+        },
+        {
+          "id": "b",
+          "text": "płuco"
+        },
+        {
+          "id": "c",
+          "text": "bratanica, siostrzenica"
+        },
+        {
+          "id": "d",
+          "text": "marmur"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„niece” (rzeczownik, poziom B1) oznacza po polsku „bratanica, siostrzenica”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-021",
+      "question": "nightlife",
+      "answers": [
+        {
+          "id": "a",
+          "text": "umiejscowienie"
+        },
+        {
+          "id": "b",
+          "text": "kupiec, hurtownik"
+        },
+        {
+          "id": "c",
+          "text": "życie nocne"
+        },
+        {
+          "id": "d",
+          "text": "pojęcie, opinia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nightlife” (rzeczownik, poziom B1) oznacza po polsku „życie nocne”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-022",
+      "question": "nod",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strata, utrata"
+        },
+        {
+          "id": "b",
+          "text": "logika"
+        },
+        {
+          "id": "c",
+          "text": "iluzjonista, prestidigitator"
+        },
+        {
+          "id": "d",
+          "text": "skinienie głową"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nod” (rzeczownik, poziom B1) oznacza po polsku „skinienie głową”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-023",
+      "question": "nonsense",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pojęcie, opinia"
+        },
+        {
+          "id": "b",
+          "text": "substancja odżywcza"
+        },
+        {
+          "id": "c",
+          "text": "nonsens, bzdura"
+        },
+        {
+          "id": "d",
+          "text": "motywacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nonsense” (rzeczownik, poziom B1) oznacza po polsku „nonsens, bzdura”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-024",
+      "question": "noticeboard",
+      "answers": [
+        {
+          "id": "a",
+          "text": "związek"
+        },
+        {
+          "id": "b",
+          "text": "skinienie głową"
+        },
+        {
+          "id": "c",
+          "text": "burmistrz"
+        },
+        {
+          "id": "d",
+          "text": "tablica ogłoszeń"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„noticeboard” (rzeczownik, poziom B1) oznacza po polsku „tablica ogłoszeń”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-025",
+      "question": "notion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pojęcie, opinia"
+        },
+        {
+          "id": "b",
+          "text": "śródziemnomorski"
+        },
+        {
+          "id": "c",
+          "text": "iluzjonista, prestidigitator"
+        },
+        {
+          "id": "d",
+          "text": "drzemka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„notion” (rzeczownik, poziom B1) oznacza po polsku „pojęcie, opinia”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-026",
+      "question": "novelist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błoto"
+        },
+        {
+          "id": "b",
+          "text": "powieściopisarz"
+        },
+        {
+          "id": "c",
+          "text": "sąsiedztwo"
+        },
+        {
+          "id": "d",
+          "text": "przedmiot, obiekt"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„novelist” (rzeczownik, poziom B1) oznacza po polsku „powieściopisarz”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-027",
+      "question": "nucleus",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jądro"
+        },
+        {
+          "id": "b",
+          "text": "pomnik, statua"
+        },
+        {
+          "id": "c",
+          "text": "bibliotekarz"
+        },
+        {
+          "id": "d",
+          "text": "pojęcie, opinia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„nucleus” (rzeczownik, poziom B1) oznacza po polsku „jądro”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-028",
+      "question": "nutrient",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przybysz"
+        },
+        {
+          "id": "b",
+          "text": "umiejscowienie"
+        },
+        {
+          "id": "c",
+          "text": "substancja odżywcza"
+        },
+        {
+          "id": "d",
+          "text": "powieściopisarz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nutrient” (rzeczownik, poziom B1) oznacza po polsku „substancja odżywcza”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-029",
+      "question": "nutrition",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wilgoć"
+        },
+        {
+          "id": "b",
+          "text": "życie nocne"
+        },
+        {
+          "id": "c",
+          "text": "odżywianie się"
+        },
+        {
+          "id": "d",
+          "text": "modem"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nutrition” (rzeczownik, poziom B1) oznacza po polsku „odżywianie się”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-030",
+      "question": "object",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powieściopisarz"
+        },
+        {
+          "id": "b",
+          "text": "przedmiot, obiekt"
+        },
+        {
+          "id": "c",
+          "text": "matematyka"
+        },
+        {
+          "id": "d",
+          "text": "jądro"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„object” (rzeczownik, poziom B1) oznacza po polsku „przedmiot, obiekt”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-031",
+      "question": "objection",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieszczęście"
+        },
+        {
+          "id": "b",
+          "text": "życie nocne"
+        },
+        {
+          "id": "c",
+          "text": "bratanica, siostrzenica"
+        },
+        {
+          "id": "d",
+          "text": "wątpliwość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„objection” (rzeczownik, poziom B1) oznacza po polsku „wątpliwość”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-032",
+      "question": "observation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obserwacja"
+        },
+        {
+          "id": "b",
+          "text": "motocykl"
+        },
+        {
+          "id": "c",
+          "text": "nieszczęście"
+        },
+        {
+          "id": "d",
+          "text": "przezwisko, przydomek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„observation” (rzeczownik, poziom B1) oznacza po polsku „obserwacja”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-033",
+      "question": "obstacle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeszkoda"
+        },
+        {
+          "id": "b",
+          "text": "opozycja"
+        },
+        {
+          "id": "c",
+          "text": "nagroda"
+        },
+        {
+          "id": "d",
+          "text": "ksiądz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„obstacle” (rzeczownik, poziom B1) oznacza po polsku „przeszkoda”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-034",
+      "question": "occasion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "port"
+        },
+        {
+          "id": "b",
+          "text": "recepta"
+        },
+        {
+          "id": "c",
+          "text": "okazja"
+        },
+        {
+          "id": "d",
+          "text": "substancja zanieczyszczająca środowisko"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„occasion” (rzeczownik, poziom B1) oznacza po polsku „okazja”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-035",
+      "question": "ocean",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ocean"
+        },
+        {
+          "id": "b",
+          "text": "uprzedzenie"
+        },
+        {
+          "id": "c",
+          "text": "odosobnienie, osobność"
+        },
+        {
+          "id": "d",
+          "text": "fotokopia, kserokopia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ocean” (rzeczownik, poziom B1) oznacza po polsku „ocean”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-036",
+      "question": "opening",
+      "answers": [
+        {
+          "id": "a",
+          "text": "papuga"
+        },
+        {
+          "id": "b",
+          "text": "otwarcie"
+        },
+        {
+          "id": "c",
+          "text": "paczka, pakunek"
+        },
+        {
+          "id": "d",
+          "text": "port"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„opening” (rzeczownik, poziom B1) oznacza po polsku „otwarcie”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-037",
+      "question": "operation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "modlitwa"
+        },
+        {
+          "id": "b",
+          "text": "zachowanie"
+        },
+        {
+          "id": "c",
+          "text": "operacja"
+        },
+        {
+          "id": "d",
+          "text": "okazja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„operation” (rzeczownik, poziom B1) oznacza po polsku „operacja”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-038",
+      "question": "opposition",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwrot, idiom"
+        },
+        {
+          "id": "b",
+          "text": "uczestnik"
+        },
+        {
+          "id": "c",
+          "text": "wieprzowina"
+        },
+        {
+          "id": "d",
+          "text": "opozycja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„opposition” (rzeczownik, poziom B1) oznacza po polsku „opozycja”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-039",
+      "question": "oppression",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiosło, pagaj"
+        },
+        {
+          "id": "b",
+          "text": "pochwała"
+        },
+        {
+          "id": "c",
+          "text": "poezja"
+        },
+        {
+          "id": "d",
+          "text": "prześladowanie, ucisk"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„oppression” (rzeczownik, poziom B1) oznacza po polsku „prześladowanie, ucisk”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-040",
+      "question": "option",
+      "answers": [
+        {
+          "id": "a",
+          "text": "operacja"
+        },
+        {
+          "id": "b",
+          "text": "ceramika"
+        },
+        {
+          "id": "c",
+          "text": "trucizna"
+        },
+        {
+          "id": "d",
+          "text": "możliwość, opcja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„option” (rzeczownik, poziom B1) oznacza po polsku „możliwość, opcja”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-041",
+      "question": "orbit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czasownik złożony"
+        },
+        {
+          "id": "b",
+          "text": "bieda, ubóstwo"
+        },
+        {
+          "id": "c",
+          "text": "przeszkoda"
+        },
+        {
+          "id": "d",
+          "text": "orbita"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„orbit” (rzeczownik, poziom B1) oznacza po polsku „orbita”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-042",
+      "question": "orchestra",
+      "answers": [
+        {
+          "id": "a",
+          "text": "więzień"
+        },
+        {
+          "id": "b",
+          "text": "prezydent"
+        },
+        {
+          "id": "c",
+          "text": "orkiestra"
+        },
+        {
+          "id": "d",
+          "text": "ocean"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„orchestra” (rzeczownik, poziom B1) oznacza po polsku „orkiestra”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-043",
+      "question": "organ",
+      "answers": [
+        {
+          "id": "a",
+          "text": "operacja"
+        },
+        {
+          "id": "b",
+          "text": "papuga"
+        },
+        {
+          "id": "c",
+          "text": "pobożność"
+        },
+        {
+          "id": "d",
+          "text": "organ"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„organ” (rzeczownik, poziom B1) oznacza po polsku „organ”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-044",
+      "question": "organism",
+      "answers": [
+        {
+          "id": "a",
+          "text": "organizm"
+        },
+        {
+          "id": "b",
+          "text": "przepracowanie"
+        },
+        {
+          "id": "c",
+          "text": "organ"
+        },
+        {
+          "id": "d",
+          "text": "tlen"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„organism” (rzeczownik, poziom B1) oznacza po polsku „organizm”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-045",
+      "question": "organization",
+      "answers": [
+        {
+          "id": "a",
+          "text": "organizacja"
+        },
+        {
+          "id": "b",
+          "text": "filozof"
+        },
+        {
+          "id": "c",
+          "text": "obecność"
+        },
+        {
+          "id": "d",
+          "text": "przepracowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„organization” (rzeczownik, poziom B1) oznacza po polsku „organizacja”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-046",
+      "question": "origin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ananas"
+        },
+        {
+          "id": "b",
+          "text": "pasztet w cieście"
+        },
+        {
+          "id": "c",
+          "text": "pochodzenie"
+        },
+        {
+          "id": "d",
+          "text": "poeta"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„origin” (rzeczownik, poziom B1) oznacza po polsku „pochodzenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-047",
+      "question": "outlaw",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fizyka"
+        },
+        {
+          "id": "b",
+          "text": "zakazywać"
+        },
+        {
+          "id": "c",
+          "text": "orbita"
+        },
+        {
+          "id": "d",
+          "text": "tempo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„outlaw” (rzeczownik, poziom B1) oznacza po polsku „zakazywać”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-048",
+      "question": "overwork",
+      "answers": [
+        {
+          "id": "a",
+          "text": "platforma"
+        },
+        {
+          "id": "b",
+          "text": "filozofia"
+        },
+        {
+          "id": "c",
+          "text": "poduszka"
+        },
+        {
+          "id": "d",
+          "text": "przepracowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„overwork” (rzeczownik, poziom B1) oznacza po polsku „przepracowanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-049",
+      "question": "oxygen",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tlen"
+        },
+        {
+          "id": "b",
+          "text": "przepracowanie"
+        },
+        {
+          "id": "c",
+          "text": "opakowanie"
+        },
+        {
+          "id": "d",
+          "text": "przedstawianie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„oxygen” (rzeczownik, poziom B1) oznacza po polsku „tlen”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-050",
+      "question": "pace",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tempo"
+        },
+        {
+          "id": "b",
+          "text": "posiadanie"
+        },
+        {
+          "id": "c",
+          "text": "więzień"
+        },
+        {
+          "id": "d",
+          "text": "poeta"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pace” (rzeczownik, poziom B1) oznacza po polsku „tempo”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-051",
+      "question": "package",
+      "answers": [
+        {
+          "id": "a",
+          "text": "parkowanie"
+        },
+        {
+          "id": "b",
+          "text": "rura"
+        },
+        {
+          "id": "c",
+          "text": "apteka"
+        },
+        {
+          "id": "d",
+          "text": "paczuszka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„package” (rzeczownik, poziom B1) oznacza po polsku „paczuszka”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-052",
+      "question": "packing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawdopodobieństwo"
+        },
+        {
+          "id": "b",
+          "text": "paczka, pakunek"
+        },
+        {
+          "id": "c",
+          "text": "opakowanie"
+        },
+        {
+          "id": "d",
+          "text": "patrol"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„packing” (rzeczownik, poziom B1) oznacza po polsku „opakowanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-053",
+      "question": "paddle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pobożność"
+        },
+        {
+          "id": "b",
+          "text": "wiosło, pagaj"
+        },
+        {
+          "id": "c",
+          "text": "filozof"
+        },
+        {
+          "id": "d",
+          "text": "fizyka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„paddle” (rzeczownik, poziom B1) oznacza po polsku „wiosło, pagaj”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-054",
+      "question": "pain",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ból"
+        },
+        {
+          "id": "b",
+          "text": "możliwość"
+        },
+        {
+          "id": "c",
+          "text": "orbita"
+        },
+        {
+          "id": "d",
+          "text": "tyczka, słup"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pain” (rzeczownik, poziom B1) oznacza po polsku „ból”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-055",
+      "question": "palm",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochwała"
+        },
+        {
+          "id": "b",
+          "text": "możliwość"
+        },
+        {
+          "id": "c",
+          "text": "poduszka"
+        },
+        {
+          "id": "d",
+          "text": "dłoń"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„palm” (rzeczownik, poziom B1) oznacza po polsku „dłoń”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-056",
+      "question": "parachute",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spadochron"
+        },
+        {
+          "id": "b",
+          "text": "uczestnik"
+        },
+        {
+          "id": "c",
+          "text": "pochodzenie"
+        },
+        {
+          "id": "d",
+          "text": "tlen"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„parachute” (rzeczownik, poziom B1) oznacza po polsku „spadochron”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-057",
+      "question": "paradise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spadochron"
+        },
+        {
+          "id": "b",
+          "text": "więzień"
+        },
+        {
+          "id": "c",
+          "text": "raj"
+        },
+        {
+          "id": "d",
+          "text": "przedrostek, prefiks"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„paradise” (rzeczownik, poziom B1) oznacza po polsku „raj”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-058",
+      "question": "parcel",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paczka, pakunek"
+        },
+        {
+          "id": "b",
+          "text": "bieda, ubóstwo"
+        },
+        {
+          "id": "c",
+          "text": "plastik"
+        },
+        {
+          "id": "d",
+          "text": "filozofia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„parcel” (rzeczownik, poziom B1) oznacza po polsku „paczka, pakunek”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-059",
+      "question": "parking",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odosobnienie, osobność"
+        },
+        {
+          "id": "b",
+          "text": "orbita"
+        },
+        {
+          "id": "c",
+          "text": "pasztet w cieście"
+        },
+        {
+          "id": "d",
+          "text": "parkowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„parking” (rzeczownik, poziom B1) oznacza po polsku „parkowanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-060",
+      "question": "parrot",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dłoń"
+        },
+        {
+          "id": "b",
+          "text": "papuga"
+        },
+        {
+          "id": "c",
+          "text": "kartka pocztowa, widokówka"
+        },
+        {
+          "id": "d",
+          "text": "preferencja, upodobanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„parrot” (rzeczownik, poziom B1) oznacza po polsku „papuga”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-061",
+      "question": "participant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "preferencja, upodobanie"
+        },
+        {
+          "id": "b",
+          "text": "prażona kukurydza"
+        },
+        {
+          "id": "c",
+          "text": "tlen"
+        },
+        {
+          "id": "d",
+          "text": "uczestnik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„participant” (rzeczownik, poziom B1) oznacza po polsku „uczestnik”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-062",
+      "question": "participle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "parkowanie"
+        },
+        {
+          "id": "b",
+          "text": "port"
+        },
+        {
+          "id": "c",
+          "text": "imiesłów"
+        },
+        {
+          "id": "d",
+          "text": "prześladowanie, ucisk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„participle” (rzeczownik, poziom B1) oznacza po polsku „imiesłów”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-063",
+      "question": "passion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "namiętność"
+        },
+        {
+          "id": "b",
+          "text": "wykonawca"
+        },
+        {
+          "id": "c",
+          "text": "wiosło, pagaj"
+        },
+        {
+          "id": "d",
+          "text": "plastik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„passion” (rzeczownik, poziom B1) oznacza po polsku „namiętność”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-064",
+      "question": "passport",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paszport"
+        },
+        {
+          "id": "b",
+          "text": "plastik"
+        },
+        {
+          "id": "c",
+          "text": "spadochron"
+        },
+        {
+          "id": "d",
+          "text": "dół, jama"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„passport” (rzeczownik, poziom B1) oznacza po polsku „paszport”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-065",
+      "question": "password",
+      "answers": [
+        {
+          "id": "a",
+          "text": "operacja"
+        },
+        {
+          "id": "b",
+          "text": "zakazywać"
+        },
+        {
+          "id": "c",
+          "text": "przyimek"
+        },
+        {
+          "id": "d",
+          "text": "hasło"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„password” (rzeczownik, poziom B1) oznacza po polsku „hasło”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-066",
+      "question": "patience",
+      "answers": [
+        {
+          "id": "a",
+          "text": "otwarcie"
+        },
+        {
+          "id": "b",
+          "text": "cierpliwość"
+        },
+        {
+          "id": "c",
+          "text": "tlen"
+        },
+        {
+          "id": "d",
+          "text": "odosobnienie, osobność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„patience” (rzeczownik, poziom B1) oznacza po polsku „cierpliwość”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-067",
+      "question": "patrol",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odosobnienie, osobność"
+        },
+        {
+          "id": "b",
+          "text": "wieprzowina"
+        },
+        {
+          "id": "c",
+          "text": "druk"
+        },
+        {
+          "id": "d",
+          "text": "patrol"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„patrol” (rzeczownik, poziom B1) oznacza po polsku „patrol”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-068",
+      "question": "pattern",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzór, wzorzec"
+        },
+        {
+          "id": "b",
+          "text": "filozofia"
+        },
+        {
+          "id": "c",
+          "text": "filozof"
+        },
+        {
+          "id": "d",
+          "text": "druk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pattern” (rzeczownik, poziom B1) oznacza po polsku „wzór, wzorzec”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-069",
+      "question": "pause",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasada"
+        },
+        {
+          "id": "b",
+          "text": "tlen"
+        },
+        {
+          "id": "c",
+          "text": "kartka pocztowa, widokówka"
+        },
+        {
+          "id": "d",
+          "text": "przerwa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pause” (rzeczownik, poziom B1) oznacza po polsku „przerwa”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-070",
+      "question": "peanut",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiosło, pagaj"
+        },
+        {
+          "id": "b",
+          "text": "czasownik złożony"
+        },
+        {
+          "id": "c",
+          "text": "orzeszek ziemny"
+        },
+        {
+          "id": "d",
+          "text": "port"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„peanut” (rzeczownik, poziom B1) oznacza po polsku „orzeszek ziemny”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-071",
+      "question": "penny",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pens"
+        },
+        {
+          "id": "b",
+          "text": "filozof"
+        },
+        {
+          "id": "c",
+          "text": "więzień"
+        },
+        {
+          "id": "d",
+          "text": "rura"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„penny” (rzeczownik, poziom B1) oznacza po polsku „pens”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-072",
+      "question": "performer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tempo"
+        },
+        {
+          "id": "b",
+          "text": "pobożność"
+        },
+        {
+          "id": "c",
+          "text": "wykonawca"
+        },
+        {
+          "id": "d",
+          "text": "pens"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„performer” (rzeczownik, poziom B1) oznacza po polsku „wykonawca”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-073",
+      "question": "pharmacy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "apteka"
+        },
+        {
+          "id": "b",
+          "text": "hasło"
+        },
+        {
+          "id": "c",
+          "text": "wykonawca"
+        },
+        {
+          "id": "d",
+          "text": "filozofia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pharmacy” (rzeczownik, poziom B1) oznacza po polsku „apteka”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-074",
+      "question": "phenomenon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "producent"
+        },
+        {
+          "id": "b",
+          "text": "ceramika"
+        },
+        {
+          "id": "c",
+          "text": "zjawisko"
+        },
+        {
+          "id": "d",
+          "text": "przygotowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„phenomenon” (rzeczownik, poziom B1) oznacza po polsku „zjawisko”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-075",
+      "question": "philosopher",
+      "answers": [
+        {
+          "id": "a",
+          "text": "orzeszek ziemny"
+        },
+        {
+          "id": "b",
+          "text": "wiosło, pagaj"
+        },
+        {
+          "id": "c",
+          "text": "filozof"
+        },
+        {
+          "id": "d",
+          "text": "druk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„philosopher” (rzeczownik, poziom B1) oznacza po polsku „filozof”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-076",
+      "question": "philosophy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "polityk"
+        },
+        {
+          "id": "b",
+          "text": "parkowanie"
+        },
+        {
+          "id": "c",
+          "text": "filozofia"
+        },
+        {
+          "id": "d",
+          "text": "pasztet w cieście"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„philosophy” (rzeczownik, poziom B1) oznacza po polsku „filozofia”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-077",
+      "question": "photocopy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fotokopia, kserokopia"
+        },
+        {
+          "id": "b",
+          "text": "zasada"
+        },
+        {
+          "id": "c",
+          "text": "producent"
+        },
+        {
+          "id": "d",
+          "text": "listonosz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„photocopy” (rzeczownik, poziom B1) oznacza po polsku „fotokopia, kserokopia”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-078",
+      "question": "phrasal verb",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czasownik złożony"
+        },
+        {
+          "id": "b",
+          "text": "organ"
+        },
+        {
+          "id": "c",
+          "text": "ananas"
+        },
+        {
+          "id": "d",
+          "text": "producent"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„phrasal verb” (rzeczownik, poziom B1) oznacza po polsku „czasownik złożony”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-079",
+      "question": "phrase",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepracowanie"
+        },
+        {
+          "id": "b",
+          "text": "przedrostek, prefiks"
+        },
+        {
+          "id": "c",
+          "text": "polityk"
+        },
+        {
+          "id": "d",
+          "text": "zwrot, idiom"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„phrase” (rzeczownik, poziom B1) oznacza po polsku „zwrot, idiom”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-080",
+      "question": "physics",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spadochron"
+        },
+        {
+          "id": "b",
+          "text": "fizyka"
+        },
+        {
+          "id": "c",
+          "text": "ceramika"
+        },
+        {
+          "id": "d",
+          "text": "odosobnienie, osobność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„physics” (rzeczownik, poziom B1) oznacza po polsku „fizyka”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-081",
+      "question": "pick",
+      "answers": [
+        {
+          "id": "a",
+          "text": "orbita"
+        },
+        {
+          "id": "b",
+          "text": "siekiera, topór"
+        },
+        {
+          "id": "c",
+          "text": "nagroda"
+        },
+        {
+          "id": "d",
+          "text": "możliwość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pick” (rzeczownik, poziom B1) oznacza po polsku „siekiera, topór”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-082",
+      "question": "pie",
+      "answers": [
+        {
+          "id": "a",
+          "text": "preferencja, upodobanie"
+        },
+        {
+          "id": "b",
+          "text": "prawdopodobieństwo"
+        },
+        {
+          "id": "c",
+          "text": "pasztet w cieście"
+        },
+        {
+          "id": "d",
+          "text": "ocean"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pie” (rzeczownik, poziom B1) oznacza po polsku „pasztet w cieście”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-083",
+      "question": "piety",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bieda, ubóstwo"
+        },
+        {
+          "id": "b",
+          "text": "staw"
+        },
+        {
+          "id": "c",
+          "text": "pobożność"
+        },
+        {
+          "id": "d",
+          "text": "opozycja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„piety” (rzeczownik, poziom B1) oznacza po polsku „pobożność”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-084",
+      "question": "pillow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ból"
+        },
+        {
+          "id": "b",
+          "text": "wzór, wzorzec"
+        },
+        {
+          "id": "c",
+          "text": "poduszka"
+        },
+        {
+          "id": "d",
+          "text": "pochwała"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pillow” (rzeczownik, poziom B1) oznacza po polsku „poduszka”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-085",
+      "question": "pineapple",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochwała"
+        },
+        {
+          "id": "b",
+          "text": "przedrostek, prefiks"
+        },
+        {
+          "id": "c",
+          "text": "ananas"
+        },
+        {
+          "id": "d",
+          "text": "poduszka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pineapple” (rzeczownik, poziom B1) oznacza po polsku „ananas”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-086",
+      "question": "pipe",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cierpliwość"
+        },
+        {
+          "id": "b",
+          "text": "rura"
+        },
+        {
+          "id": "c",
+          "text": "fizyka"
+        },
+        {
+          "id": "d",
+          "text": "przyimek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pipe” (rzeczownik, poziom B1) oznacza po polsku „rura”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-087",
+      "question": "pit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "platforma"
+        },
+        {
+          "id": "b",
+          "text": "dół, jama"
+        },
+        {
+          "id": "c",
+          "text": "ból"
+        },
+        {
+          "id": "d",
+          "text": "przyimek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pit” (rzeczownik, poziom B1) oznacza po polsku „dół, jama”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-088",
+      "question": "plastic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plastik"
+        },
+        {
+          "id": "b",
+          "text": "ksiądz"
+        },
+        {
+          "id": "c",
+          "text": "orzeszek ziemny"
+        },
+        {
+          "id": "d",
+          "text": "wiosło, pagaj"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„plastic” (rzeczownik, poziom B1) oznacza po polsku „plastik”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-089",
+      "question": "platform",
+      "answers": [
+        {
+          "id": "a",
+          "text": "funt"
+        },
+        {
+          "id": "b",
+          "text": "polityk"
+        },
+        {
+          "id": "c",
+          "text": "proch, pył, proszek"
+        },
+        {
+          "id": "d",
+          "text": "platforma"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„platform” (rzeczownik, poziom B1) oznacza po polsku „platforma”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-090",
+      "question": "poet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hasło"
+        },
+        {
+          "id": "b",
+          "text": "tyczka, słup"
+        },
+        {
+          "id": "c",
+          "text": "poeta"
+        },
+        {
+          "id": "d",
+          "text": "ksiądz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„poet” (rzeczownik, poziom B1) oznacza po polsku „poeta”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-091",
+      "question": "poetry",
+      "answers": [
+        {
+          "id": "a",
+          "text": "okazja"
+        },
+        {
+          "id": "b",
+          "text": "zjawisko"
+        },
+        {
+          "id": "c",
+          "text": "poezja"
+        },
+        {
+          "id": "d",
+          "text": "prażona kukurydza"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„poetry” (rzeczownik, poziom B1) oznacza po polsku „poezja”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-092",
+      "question": "poison",
+      "answers": [
+        {
+          "id": "a",
+          "text": "otwarcie"
+        },
+        {
+          "id": "b",
+          "text": "operacja"
+        },
+        {
+          "id": "c",
+          "text": "poezja"
+        },
+        {
+          "id": "d",
+          "text": "trucizna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„poison” (rzeczownik, poziom B1) oznacza po polsku „trucizna”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-093",
+      "question": "pole",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also the press) prasa, dziennikarze"
+        },
+        {
+          "id": "b",
+          "text": "paczuszka"
+        },
+        {
+          "id": "c",
+          "text": "tyczka, słup"
+        },
+        {
+          "id": "d",
+          "text": "pobożność"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pole” (rzeczownik, poziom B1) oznacza po polsku „tyczka, słup”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-094",
+      "question": "policy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zakazywać"
+        },
+        {
+          "id": "b",
+          "text": "pasztet w cieście"
+        },
+        {
+          "id": "c",
+          "text": "operacja"
+        },
+        {
+          "id": "d",
+          "text": "polityka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„policy” (rzeczownik, poziom B1) oznacza po polsku „polityka”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-095",
+      "question": "politician",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzór, wzorzec"
+        },
+        {
+          "id": "b",
+          "text": "trucizna"
+        },
+        {
+          "id": "c",
+          "text": "polityk"
+        },
+        {
+          "id": "d",
+          "text": "preferencja, upodobanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„politician” (rzeczownik, poziom B1) oznacza po polsku „polityk”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-096",
+      "question": "politics",
+      "answers": [
+        {
+          "id": "a",
+          "text": "polityka"
+        },
+        {
+          "id": "b",
+          "text": "papuga"
+        },
+        {
+          "id": "c",
+          "text": "przedrostek, prefiks"
+        },
+        {
+          "id": "d",
+          "text": "staw"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„politics” (rzeczownik, poziom B1) oznacza po polsku „polityka”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-097",
+      "question": "pollutant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ból"
+        },
+        {
+          "id": "b",
+          "text": "substancja zanieczyszczająca środowisko"
+        },
+        {
+          "id": "c",
+          "text": "prawdopodobieństwo"
+        },
+        {
+          "id": "d",
+          "text": "papuga"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pollutant” (rzeczownik, poziom B1) oznacza po polsku „substancja zanieczyszczająca środowisko”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-098",
+      "question": "pond",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obecność"
+        },
+        {
+          "id": "b",
+          "text": "polityk"
+        },
+        {
+          "id": "c",
+          "text": "staw"
+        },
+        {
+          "id": "d",
+          "text": "uczestnik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pond” (rzeczownik, poziom B1) oznacza po polsku „staw”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-099",
+      "question": "popcorn",
+      "answers": [
+        {
+          "id": "a",
+          "text": "producent"
+        },
+        {
+          "id": "b",
+          "text": "pochwała"
+        },
+        {
+          "id": "c",
+          "text": "opozycja"
+        },
+        {
+          "id": "d",
+          "text": "prażona kukurydza"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„popcorn” (rzeczownik, poziom B1) oznacza po polsku „prażona kukurydza”."
+    },
+    {
+      "id": "b1-rzeczowniki-07-100",
+      "question": "pork",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieprzowina"
+        },
+        {
+          "id": "b",
+          "text": "organizm"
+        },
+        {
+          "id": "c",
+          "text": "pens"
+        },
+        {
+          "id": "d",
+          "text": "więzienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pork” (rzeczownik, poziom B1) oznacza po polsku „wieprzowina”."
+    }
+  ]
+}

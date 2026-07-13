@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-rzeczowniki-02",
+    "name": "B2 — Rzeczowniki 2/9 (B–C)"
+  },
+  "questions": [
+    {
+      "id": "b2-rzeczowniki-02-001",
+      "question": "boxer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "budka telefoniczna, budka"
+        },
+        {
+          "id": "b",
+          "text": "bać się"
+        },
+        {
+          "id": "c",
+          "text": "bokser"
+        },
+        {
+          "id": "d",
+          "text": "odrzucać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„boxer” (rzeczownik, poziom B2) oznacza po polsku „bokser”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-002",
+      "question": "bracket",
+      "answers": [
+        {
+          "id": "a",
+          "text": "środek wybuchowy, materiał wybuchowy"
+        },
+        {
+          "id": "b",
+          "text": "mieć wątpliwości, wątpić"
+        },
+        {
+          "id": "c",
+          "text": "broszura, folder"
+        },
+        {
+          "id": "d",
+          "text": "nawias"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bracket” (rzeczownik, poziom B2) oznacza po polsku „nawias”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-003",
+      "question": "brag",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tytułować"
+        },
+        {
+          "id": "b",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "c",
+          "text": "nieporządny"
+        },
+        {
+          "id": "d",
+          "text": "przechwalać się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„brag” (rzeczownik, poziom B2) oznacza po polsku „przechwalać się”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-004",
+      "question": "bravery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "włóczęga, tramp"
+        },
+        {
+          "id": "b",
+          "text": "odwaga"
+        },
+        {
+          "id": "c",
+          "text": "bombowiec"
+        },
+        {
+          "id": "d",
+          "text": "kierować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bravery” (rzeczownik, poziom B2) oznacza po polsku „odwaga”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-005",
+      "question": "breakdown",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekraczać"
+        },
+        {
+          "id": "b",
+          "text": "rozpad"
+        },
+        {
+          "id": "c",
+          "text": "broszura, folder"
+        },
+        {
+          "id": "d",
+          "text": "budka telefoniczna, budka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„breakdown” (rzeczownik, poziom B2) oznacza po polsku „rozpad”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-006",
+      "question": "breed",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepiękny"
+        },
+        {
+          "id": "b",
+          "text": "etniczny"
+        },
+        {
+          "id": "c",
+          "text": "rasa"
+        },
+        {
+          "id": "d",
+          "text": "ogarniać, pochłaniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„breed” (rzeczownik, poziom B2) oznacza po polsku „rasa”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-007",
+      "question": "brewery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "browar"
+        },
+        {
+          "id": "b",
+          "text": "rozradowany"
+        },
+        {
+          "id": "c",
+          "text": "dyskwalifikować"
+        },
+        {
+          "id": "d",
+          "text": "przekraczać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„brewery” (rzeczownik, poziom B2) oznacza po polsku „browar”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-008",
+      "question": "broadcaster",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziennikarz, dziennikarz radiowy, dziennikarz telewizyjny"
+        },
+        {
+          "id": "b",
+          "text": "popierać"
+        },
+        {
+          "id": "c",
+          "text": "ekwipować się, ekwipować, zaopatrywać się, zaopatrywać"
+        },
+        {
+          "id": "d",
+          "text": "kwiat"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„broadcaster” (rzeczownik, poziom B2) oznacza po polsku „dziennikarz, dziennikarz radiowy, dziennikarz telewizyjny”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-009",
+      "question": "brochure",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bombowiec"
+        },
+        {
+          "id": "b",
+          "text": "dziennikarz, dziennikarz radiowy, dziennikarz telewizyjny"
+        },
+        {
+          "id": "c",
+          "text": "broszura, folder"
+        },
+        {
+          "id": "d",
+          "text": "wieczny, trwały"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„brochure” (rzeczownik, poziom B2) oznacza po polsku „broszura, folder”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-010",
+      "question": "brother-in-law",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kwalifikujący się"
+        },
+        {
+          "id": "b",
+          "text": "bokser"
+        },
+        {
+          "id": "c",
+          "text": "ogarniać, pochłaniać"
+        },
+        {
+          "id": "d",
+          "text": "szwagier"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„brother-in-law” (rzeczownik, poziom B2) oznacza po polsku „szwagier”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-011",
+      "question": "bruise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) wykazywać"
+        },
+        {
+          "id": "b",
+          "text": "elegancki"
+        },
+        {
+          "id": "c",
+          "text": "mieć wątpliwości, wątpić"
+        },
+        {
+          "id": "d",
+          "text": "siniak"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bruise” (rzeczownik, poziom B2) oznacza po polsku „siniak”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-012",
+      "question": "bud",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oceniać"
+        },
+        {
+          "id": "b",
+          "text": "bombowiec"
+        },
+        {
+          "id": "c",
+          "text": "pączek"
+        },
+        {
+          "id": "d",
+          "text": "zakładka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bud” (rzeczownik, poziom B2) oznacza po polsku „pączek”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-013",
+      "question": "bum",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przerywać"
+        },
+        {
+          "id": "b",
+          "text": "włóczęga, tramp"
+        },
+        {
+          "id": "c",
+          "text": "administracja"
+        },
+        {
+          "id": "d",
+          "text": "zbyteczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bum” (rzeczownik, poziom B2) oznacza po polsku „włóczęga, tramp”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-014",
+      "question": "bumper",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożar"
+        },
+        {
+          "id": "b",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "c",
+          "text": "zderzak"
+        },
+        {
+          "id": "d",
+          "text": "przechwalać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bumper” (rzeczownik, poziom B2) oznacza po polsku „zderzak”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-015",
+      "question": "bun",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bombardować"
+        },
+        {
+          "id": "b",
+          "text": "wieczny, trwały"
+        },
+        {
+          "id": "c",
+          "text": "zderzak"
+        },
+        {
+          "id": "d",
+          "text": "bułka słodka, bułka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bun” (rzeczownik, poziom B2) oznacza po polsku „bułka słodka, bułka”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-016",
+      "question": "bureaucracy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "administracja"
+        },
+        {
+          "id": "b",
+          "text": "wyspecjalizowany, specjalistyczny"
+        },
+        {
+          "id": "c",
+          "text": "etniczny"
+        },
+        {
+          "id": "d",
+          "text": "przepiękny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bureaucracy” (rzeczownik, poziom B2) oznacza po polsku „administracja”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-017",
+      "question": "burglary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekstatyczny"
+        },
+        {
+          "id": "b",
+          "text": "bombowiec"
+        },
+        {
+          "id": "c",
+          "text": "włamanie"
+        },
+        {
+          "id": "d",
+          "text": "odrzucać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„burglary” (rzeczownik, poziom B2) oznacza po polsku „włamanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-018",
+      "question": "burial",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochówek, pogrzeb"
+        },
+        {
+          "id": "b",
+          "text": "poddawać egzekucji, tracić"
+        },
+        {
+          "id": "c",
+          "text": "nawias"
+        },
+        {
+          "id": "d",
+          "text": "administracja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„burial” (rzeczownik, poziom B2) oznacza po polsku „pochówek, pogrzeb”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-019",
+      "question": "buzz",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brudny, obrzydliwy"
+        },
+        {
+          "id": "b",
+          "text": "importować"
+        },
+        {
+          "id": "c",
+          "text": "brzęczenie"
+        },
+        {
+          "id": "d",
+          "text": "kampania"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„buzz” (rzeczownik, poziom B2) oznacza po polsku „brzęczenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-020",
+      "question": "cabinet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brzęczenie"
+        },
+        {
+          "id": "b",
+          "text": "mroczny"
+        },
+        {
+          "id": "c",
+          "text": "fundamentalny, podstawowy"
+        },
+        {
+          "id": "d",
+          "text": "szafka, kredens"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cabinet” (rzeczownik, poziom B2) oznacza po polsku „szafka, kredens”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-021",
+      "question": "cable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lina, cuma"
+        },
+        {
+          "id": "b",
+          "text": "piwnica"
+        },
+        {
+          "id": "c",
+          "text": "ewidencjonować, włączać do akt, włączać"
+        },
+        {
+          "id": "d",
+          "text": "ogromny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cable” (rzeczownik, poziom B2) oznacza po polsku „lina, cuma”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-022",
+      "question": "campaign",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kampania"
+        },
+        {
+          "id": "b",
+          "text": "jaskrawy, jarmarczny"
+        },
+        {
+          "id": "c",
+          "text": "punkt kontroli"
+        },
+        {
+          "id": "d",
+          "text": "katastrofa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„campaign” (rzeczownik, poziom B2) oznacza po polsku „kampania”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-023",
+      "question": "candidate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "metaforyczny, przenośny"
+        },
+        {
+          "id": "b",
+          "text": "kandydat"
+        },
+        {
+          "id": "c",
+          "text": "nadchodzący"
+        },
+        {
+          "id": "d",
+          "text": "facet, gość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„candidate” (rzeczownik, poziom B2) oznacza po polsku „kandydat”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-024",
+      "question": "cane",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyjazny"
+        },
+        {
+          "id": "b",
+          "text": "hospitalizować"
+        },
+        {
+          "id": "c",
+          "text": "trzcina"
+        },
+        {
+          "id": "d",
+          "text": "oszczędny, skromny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cane” (rzeczownik, poziom B2) oznacza po polsku „trzcina”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-025",
+      "question": "canon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanonik"
+        },
+        {
+          "id": "b",
+          "text": "(obraz) oprawiać"
+        },
+        {
+          "id": "c",
+          "text": "gimnastyczny"
+        },
+        {
+          "id": "d",
+          "text": "przewidywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„canon” (rzeczownik, poziom B2) oznacza po polsku „kanonik”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-026",
+      "question": "capability",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kandydat"
+        },
+        {
+          "id": "b",
+          "text": "jeniec"
+        },
+        {
+          "id": "c",
+          "text": "zdolności"
+        },
+        {
+          "id": "d",
+          "text": "przyjazny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„capability” (rzeczownik, poziom B2) oznacza po polsku „zdolności”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-027",
+      "question": "caption",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cmentarz"
+        },
+        {
+          "id": "b",
+          "text": "podpis"
+        },
+        {
+          "id": "c",
+          "text": "skala stustopniowa Celsjusza, skala stustopniowa"
+        },
+        {
+          "id": "d",
+          "text": "kandydat"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„caption” (rzeczownik, poziom B2) oznacza po polsku „podpis”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-028",
+      "question": "captive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jeniec"
+        },
+        {
+          "id": "b",
+          "text": "hospitalizować"
+        },
+        {
+          "id": "c",
+          "text": "generalizować, uogólniać"
+        },
+        {
+          "id": "d",
+          "text": "podpis"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„captive” (rzeczownik, poziom B2) oznacza po polsku „jeniec”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-029",
+      "question": "caravan",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zanurzać się, zanurzać"
+        },
+        {
+          "id": "b",
+          "text": "nieskazitelny"
+        },
+        {
+          "id": "c",
+          "text": "przyczepa kempingowa"
+        },
+        {
+          "id": "d",
+          "text": "prawdziwy, autentyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„caravan” (rzeczownik, poziom B2) oznacza po polsku „przyczepa kempingowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-030",
+      "question": "carbon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "węgiel"
+        },
+        {
+          "id": "b",
+          "text": "kandydat"
+        },
+        {
+          "id": "c",
+          "text": "tektura"
+        },
+        {
+          "id": "d",
+          "text": "unosić się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„carbon” (rzeczownik, poziom B2) oznacza po polsku „węgiel”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-031",
+      "question": "cardboard",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karnawał"
+        },
+        {
+          "id": "b",
+          "text": "tektura"
+        },
+        {
+          "id": "c",
+          "text": "ułatwiać"
+        },
+        {
+          "id": "d",
+          "text": "poniżać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cardboard” (rzeczownik, poziom B2) oznacza po polsku „tektura”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-032",
+      "question": "cardigan",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sweter rozpinany, sweter"
+        },
+        {
+          "id": "b",
+          "text": "kanclerz"
+        },
+        {
+          "id": "c",
+          "text": "podpis"
+        },
+        {
+          "id": "d",
+          "text": "fundamentalny, podstawowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cardigan” (rzeczownik, poziom B2) oznacza po polsku „sweter rozpinany, sweter”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-033",
+      "question": "carnival",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziwadło"
+        },
+        {
+          "id": "b",
+          "text": "karnawał"
+        },
+        {
+          "id": "c",
+          "text": "narzucać"
+        },
+        {
+          "id": "d",
+          "text": "węgiel"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„carnival” (rzeczownik, poziom B2) oznacza po polsku „karnawał”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-034",
+      "question": "cascade",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podpis"
+        },
+        {
+          "id": "b",
+          "text": "zaświadczenie"
+        },
+        {
+          "id": "c",
+          "text": "(lit) kaskada"
+        },
+        {
+          "id": "d",
+          "text": "kartkować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cascade” (rzeczownik, poziom B2) oznacza po polsku „(lit) kaskada”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-035",
+      "question": "catalogue",
+      "answers": [
+        {
+          "id": "a",
+          "text": "katalog"
+        },
+        {
+          "id": "b",
+          "text": "opłakiwać, rozpaczać"
+        },
+        {
+          "id": "c",
+          "text": "krztusić się"
+        },
+        {
+          "id": "d",
+          "text": "ułatwiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„catalogue” (rzeczownik, poziom B2) oznacza po polsku „katalog”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-036",
+      "question": "catalyst",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płynny"
+        },
+        {
+          "id": "b",
+          "text": "unosić się"
+        },
+        {
+          "id": "c",
+          "text": "katalizator"
+        },
+        {
+          "id": "d",
+          "text": "fiskalny, podatkowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„catalyst” (rzeczownik, poziom B2) oznacza po polsku „katalizator”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-037",
+      "question": "catastrophe",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(obraz) oprawiać"
+        },
+        {
+          "id": "b",
+          "text": "kampania"
+        },
+        {
+          "id": "c",
+          "text": "katastrofa"
+        },
+        {
+          "id": "d",
+          "text": "dorosły"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„catastrophe” (rzeczownik, poziom B2) oznacza po polsku „katastrofa”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-038",
+      "question": "catering",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostawa żywności"
+        },
+        {
+          "id": "b",
+          "text": "ustalony, stały"
+        },
+        {
+          "id": "c",
+          "text": "sugerować"
+        },
+        {
+          "id": "d",
+          "text": "zdolności"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„catering” (rzeczownik, poziom B2) oznacza po polsku „dostawa żywności”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-039",
+      "question": "cathedral",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(taksówkę) zatrzymywać, przyzywać"
+        },
+        {
+          "id": "b",
+          "text": "uwalniać, zwalniać"
+        },
+        {
+          "id": "c",
+          "text": "katedra"
+        },
+        {
+          "id": "d",
+          "text": "funkcjonalny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cathedral” (rzeczownik, poziom B2) oznacza po polsku „katedra”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-040",
+      "question": "cause",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fikcyjny"
+        },
+        {
+          "id": "b",
+          "text": "uciekać"
+        },
+        {
+          "id": "c",
+          "text": "trzepotać"
+        },
+        {
+          "id": "d",
+          "text": "przyczyna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cause” (rzeczownik, poziom B2) oznacza po polsku „przyczyna”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-041",
+      "question": "ceiling",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sufit"
+        },
+        {
+          "id": "b",
+          "text": "brzęczenie"
+        },
+        {
+          "id": "c",
+          "text": "węgiel"
+        },
+        {
+          "id": "d",
+          "text": "przyczyna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ceiling” (rzeczownik, poziom B2) oznacza po polsku „sufit”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-042",
+      "question": "cellar",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gloryfikować, wysławiać"
+        },
+        {
+          "id": "b",
+          "text": "ogromny"
+        },
+        {
+          "id": "c",
+          "text": "zaznajamiać się, zaznajamiać"
+        },
+        {
+          "id": "d",
+          "text": "piwnica"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cellar” (rzeczownik, poziom B2) oznacza po polsku „piwnica”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-043",
+      "question": "cello",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanonik"
+        },
+        {
+          "id": "b",
+          "text": "(taksówkę) zatrzymywać, przyzywać"
+        },
+        {
+          "id": "c",
+          "text": "brudny, obrzydliwy"
+        },
+        {
+          "id": "d",
+          "text": "wiolonczela"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cello” (rzeczownik, poziom B2) oznacza po polsku „wiolonczela”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-044",
+      "question": "cemetery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tektura"
+        },
+        {
+          "id": "b",
+          "text": "cmentarz"
+        },
+        {
+          "id": "c",
+          "text": "lina, cuma"
+        },
+        {
+          "id": "d",
+          "text": "trzepotać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cemetery” (rzeczownik, poziom B2) oznacza po polsku „cmentarz”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-045",
+      "question": "centigrade",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(obraz) oprawiać"
+        },
+        {
+          "id": "b",
+          "text": "katalog"
+        },
+        {
+          "id": "c",
+          "text": "skala stustopniowa Celsjusza, skala stustopniowa"
+        },
+        {
+          "id": "d",
+          "text": "wadliwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„centigrade” (rzeczownik, poziom B2) oznacza po polsku „skala stustopniowa Celsjusza, skala stustopniowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-046",
+      "question": "certificate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "geograficzny"
+        },
+        {
+          "id": "b",
+          "text": "brzęczenie"
+        },
+        {
+          "id": "c",
+          "text": "zaświadczenie"
+        },
+        {
+          "id": "d",
+          "text": "przyjazny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„certificate” (rzeczownik, poziom B2) oznacza po polsku „zaświadczenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-047",
+      "question": "chancellor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanclerz"
+        },
+        {
+          "id": "b",
+          "text": "(lit) kaskada"
+        },
+        {
+          "id": "c",
+          "text": "ogromny"
+        },
+        {
+          "id": "d",
+          "text": "gloryfikować, wysławiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„chancellor” (rzeczownik, poziom B2) oznacza po polsku „kanclerz”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-048",
+      "question": "checkpoint",
+      "answers": [
+        {
+          "id": "a",
+          "text": "punkt kontroli"
+        },
+        {
+          "id": "b",
+          "text": "federalny"
+        },
+        {
+          "id": "c",
+          "text": "podpis"
+        },
+        {
+          "id": "d",
+          "text": "dorosły"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„checkpoint” (rzeczownik, poziom B2) oznacza po polsku „punkt kontroli”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-049",
+      "question": "cherry",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiśnia, czereśnia"
+        },
+        {
+          "id": "b",
+          "text": "ochraniać"
+        },
+        {
+          "id": "c",
+          "text": "honorować, uznawać"
+        },
+        {
+          "id": "d",
+          "text": "katalizator"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cherry” (rzeczownik, poziom B2) oznacza po polsku „wiśnia, czereśnia”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-050",
+      "question": "chimney",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sweter rozpinany, sweter"
+        },
+        {
+          "id": "b",
+          "text": "komin"
+        },
+        {
+          "id": "c",
+          "text": "mroczny"
+        },
+        {
+          "id": "d",
+          "text": "dorosły"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„chimney” (rzeczownik, poziom B2) oznacza po polsku „komin”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-051",
+      "question": "chip",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cmentarz"
+        },
+        {
+          "id": "b",
+          "text": "zanurzać się, zanurzać"
+        },
+        {
+          "id": "c",
+          "text": "sugerować"
+        },
+        {
+          "id": "d",
+          "text": "(also chips) (BR) frytki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„chip” (rzeczownik, poziom B2) oznacza po polsku „(also chips) (BR) frytki”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-052",
+      "question": "chunk",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdolności"
+        },
+        {
+          "id": "b",
+          "text": "eksplodować, wybuchać"
+        },
+        {
+          "id": "c",
+          "text": "kawał"
+        },
+        {
+          "id": "d",
+          "text": "(lit) kaskada"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„chunk” (rzeczownik, poziom B2) oznacza po polsku „kawał”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-053",
+      "question": "circuit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieodpowiedni"
+        },
+        {
+          "id": "b",
+          "text": "współczucie, litość"
+        },
+        {
+          "id": "c",
+          "text": "obwód"
+        },
+        {
+          "id": "d",
+          "text": "prawy, uczciwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„circuit” (rzeczownik, poziom B2) oznacza po polsku „obwód”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-054",
+      "question": "circumstance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "okoliczności, warunki"
+        },
+        {
+          "id": "b",
+          "text": "uzasadniać, usprawiedliwiać"
+        },
+        {
+          "id": "c",
+          "text": "narażać na niebezpieczeństwo"
+        },
+        {
+          "id": "d",
+          "text": "oddawać się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„circumstance” (rzeczownik, poziom B2) oznacza po polsku „okoliczności, warunki”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-055",
+      "question": "clam",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nadmuchiwać, nadymać się, nadymać"
+        },
+        {
+          "id": "b",
+          "text": "obiektywny"
+        },
+        {
+          "id": "c",
+          "text": "zamieszkiwać"
+        },
+        {
+          "id": "d",
+          "text": "małż"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„clam” (rzeczownik, poziom B2) oznacza po polsku „małż”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-056",
+      "question": "classic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "część składowa, część, komponent"
+        },
+        {
+          "id": "b",
+          "text": "dzieło klasyczne"
+        },
+        {
+          "id": "c",
+          "text": "zaszczepiać, wywoływać"
+        },
+        {
+          "id": "d",
+          "text": "cera"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„classic” (rzeczownik, poziom B2) oznacza po polsku „dzieło klasyczne”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-057",
+      "question": "classification",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klasyfikacja"
+        },
+        {
+          "id": "b",
+          "text": "handel"
+        },
+        {
+          "id": "c",
+          "text": "uwięzić"
+        },
+        {
+          "id": "d",
+          "text": "wysnuć wnioski, wnioskować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„classification” (rzeczownik, poziom B2) oznacza po polsku „klasyfikacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-058",
+      "question": "clause",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mieszany, hybrydowy"
+        },
+        {
+          "id": "b",
+          "text": "klauzula"
+        },
+        {
+          "id": "c",
+          "text": "ubranie, odzież"
+        },
+        {
+          "id": "d",
+          "text": "identyczny, jednakowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„clause” (rzeczownik, poziom B2) oznacza po polsku „klauzula”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-059",
+      "question": "client",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klient"
+        },
+        {
+          "id": "b",
+          "text": "lizać"
+        },
+        {
+          "id": "c",
+          "text": "powoływać się na"
+        },
+        {
+          "id": "d",
+          "text": "nieżywotny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„client” (rzeczownik, poziom B2) oznacza po polsku „klient”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-060",
+      "question": "closure",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niebezpieczny, ryzykowny"
+        },
+        {
+          "id": "b",
+          "text": "wydłużać"
+        },
+        {
+          "id": "c",
+          "text": "zaciskać, sprężać"
+        },
+        {
+          "id": "d",
+          "text": "zamknięcie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„closure” (rzeczownik, poziom B2) oznacza po polsku „zamknięcie”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-061",
+      "question": "clothing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ubranie, odzież"
+        },
+        {
+          "id": "b",
+          "text": "powoływać się na"
+        },
+        {
+          "id": "c",
+          "text": "kompresja, sprężanie"
+        },
+        {
+          "id": "d",
+          "text": "koma, śpiączka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„clothing” (rzeczownik, poziom B2) oznacza po polsku „ubranie, odzież”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-062",
+      "question": "coalition",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzieło klasyczne"
+        },
+        {
+          "id": "b",
+          "text": "dziedziczyć"
+        },
+        {
+          "id": "c",
+          "text": "niedokładny, nieścisły"
+        },
+        {
+          "id": "d",
+          "text": "koalicja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„coalition” (rzeczownik, poziom B2) oznacza po polsku „koalicja”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-063",
+      "question": "coastline",
+      "answers": [
+        {
+          "id": "a",
+          "text": "urzekający, chwytliwy"
+        },
+        {
+          "id": "b",
+          "text": "nieszkodliwy"
+        },
+        {
+          "id": "c",
+          "text": "linia brzegowa"
+        },
+        {
+          "id": "d",
+          "text": "integrować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„coastline” (rzeczownik, poziom B2) oznacza po polsku „linia brzegowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-064",
+      "question": "cocktail",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klient"
+        },
+        {
+          "id": "b",
+          "text": "koktail alkoholowy, koktail"
+        },
+        {
+          "id": "c",
+          "text": "łamać, naruszać"
+        },
+        {
+          "id": "d",
+          "text": "pojmowanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cocktail” (rzeczownik, poziom B2) oznacza po polsku „koktail alkoholowy, koktail”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-065",
+      "question": "cocoa",
+      "answers": [
+        {
+          "id": "a",
+          "text": "integrować"
+        },
+        {
+          "id": "b",
+          "text": "wysnuć wnioski, wnioskować"
+        },
+        {
+          "id": "c",
+          "text": "obijać, robić wgłębienie"
+        },
+        {
+          "id": "d",
+          "text": "kakao"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cocoa” (rzeczownik, poziom B2) oznacza po polsku „kakao”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-066",
+      "question": "coconut",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wrodzony"
+        },
+        {
+          "id": "b",
+          "text": "skromny, pokorny"
+        },
+        {
+          "id": "c",
+          "text": "orzech kokosowy"
+        },
+        {
+          "id": "d",
+          "text": "zobowiązany"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„coconut” (rzeczownik, poziom B2) oznacza po polsku „orzech kokosowy”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-067",
+      "question": "coincidence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "instruować"
+        },
+        {
+          "id": "b",
+          "text": "zbieg okoliczności, przypadek"
+        },
+        {
+          "id": "c",
+          "text": "gościnny"
+        },
+        {
+          "id": "d",
+          "text": "niemoralny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„coincidence” (rzeczownik, poziom B2) oznacza po polsku „zbieg okoliczności, przypadek”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-068",
+      "question": "colleague",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieuleczalny"
+        },
+        {
+          "id": "b",
+          "text": "kolega"
+        },
+        {
+          "id": "c",
+          "text": "powrotny"
+        },
+        {
+          "id": "d",
+          "text": "wpływać, mieć wpływ"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„colleague” (rzeczownik, poziom B2) oznacza po polsku „kolega”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-069",
+      "question": "collector",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kolekcjoner"
+        },
+        {
+          "id": "b",
+          "text": "narażać na niebezpieczeństwo"
+        },
+        {
+          "id": "c",
+          "text": "orzech kokosowy"
+        },
+        {
+          "id": "d",
+          "text": "lodowaty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„collector” (rzeczownik, poziom B2) oznacza po polsku „kolekcjoner”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-070",
+      "question": "colon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wydawać, wydawać"
+        },
+        {
+          "id": "b",
+          "text": "przeprowadzać dochodzenie"
+        },
+        {
+          "id": "c",
+          "text": "oddawać się"
+        },
+        {
+          "id": "d",
+          "text": "dwukropek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„colon” (rzeczownik, poziom B2) oznacza po polsku „dwukropek”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-071",
+      "question": "coma",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezczynny"
+        },
+        {
+          "id": "b",
+          "text": "powoływać się na"
+        },
+        {
+          "id": "c",
+          "text": "koma, śpiączka"
+        },
+        {
+          "id": "d",
+          "text": "nieszkodliwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„coma” (rzeczownik, poziom B2) oznacza po polsku „koma, śpiączka”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-072",
+      "question": "commander",
+      "answers": [
+        {
+          "id": "a",
+          "text": "impulsywny, żywiołowy"
+        },
+        {
+          "id": "b",
+          "text": "wódz"
+        },
+        {
+          "id": "c",
+          "text": "kolekcjoner"
+        },
+        {
+          "id": "d",
+          "text": "niepraktyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„commander” (rzeczownik, poziom B2) oznacza po polsku „wódz”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-073",
+      "question": "commerce",
+      "answers": [
+        {
+          "id": "a",
+          "text": "handel"
+        },
+        {
+          "id": "b",
+          "text": "brak, niedostatek"
+        },
+        {
+          "id": "c",
+          "text": "linia brzegowa"
+        },
+        {
+          "id": "d",
+          "text": "wrodzony"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„commerce” (rzeczownik, poziom B2) oznacza po polsku „handel”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-074",
+      "question": "commission",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozśmieszający"
+        },
+        {
+          "id": "b",
+          "text": "kompresja, sprężanie"
+        },
+        {
+          "id": "c",
+          "text": "łamać, naruszać"
+        },
+        {
+          "id": "d",
+          "text": "zamówienie, zlecenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„commission” (rzeczownik, poziom B2) oznacza po polsku „zamówienie, zlecenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-075",
+      "question": "community",
+      "answers": [
+        {
+          "id": "a",
+          "text": "społeczność"
+        },
+        {
+          "id": "b",
+          "text": "zamknięcie"
+        },
+        {
+          "id": "c",
+          "text": "lizać"
+        },
+        {
+          "id": "d",
+          "text": "obijać, robić wgłębienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„community” (rzeczownik, poziom B2) oznacza po polsku „społeczność”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-076",
+      "question": "compassion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "współczucie, litość"
+        },
+        {
+          "id": "b",
+          "text": "zaciskać, sprężać"
+        },
+        {
+          "id": "c",
+          "text": "posuwać się ostrożnie, posuwać się"
+        },
+        {
+          "id": "d",
+          "text": "zamówienie, zlecenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„compassion” (rzeczownik, poziom B2) oznacza po polsku „współczucie, litość”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-077",
+      "question": "compensation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klient"
+        },
+        {
+          "id": "b",
+          "text": "nieodpowiedni"
+        },
+        {
+          "id": "c",
+          "text": "rekompensata, odszkodowanie"
+        },
+        {
+          "id": "d",
+          "text": "nieświadomy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„compensation” (rzeczownik, poziom B2) oznacza po polsku „rekompensata, odszkodowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-078",
+      "question": "competence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kompetencja, sprawność"
+        },
+        {
+          "id": "b",
+          "text": "współczucie, litość"
+        },
+        {
+          "id": "c",
+          "text": "pojmowanie"
+        },
+        {
+          "id": "d",
+          "text": "wydrążony, pusty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„competence” (rzeczownik, poziom B2) oznacza po polsku „kompetencja, sprawność”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-079",
+      "question": "completion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozjaśniać się, rozjaśniać"
+        },
+        {
+          "id": "b",
+          "text": "ukończenie, zakończenie"
+        },
+        {
+          "id": "c",
+          "text": "nieodpowiedni"
+        },
+        {
+          "id": "d",
+          "text": "zbieg okoliczności, przypadek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„completion” (rzeczownik, poziom B2) oznacza po polsku „ukończenie, zakończenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-080",
+      "question": "complexion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "b",
+          "text": "swędzieć"
+        },
+        {
+          "id": "c",
+          "text": "koma, śpiączka"
+        },
+        {
+          "id": "d",
+          "text": "cera"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„complexion” (rzeczownik, poziom B2) oznacza po polsku „cera”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-081",
+      "question": "complexity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skomplikowanie, złożoność"
+        },
+        {
+          "id": "b",
+          "text": "(wpychać) wtykać"
+        },
+        {
+          "id": "c",
+          "text": "społeczność"
+        },
+        {
+          "id": "d",
+          "text": "ukończenie, zakończenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„complexity” (rzeczownik, poziom B2) oznacza po polsku „skomplikowanie, złożoność”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-082",
+      "question": "component",
+      "answers": [
+        {
+          "id": "a",
+          "text": "handel"
+        },
+        {
+          "id": "b",
+          "text": "klient"
+        },
+        {
+          "id": "c",
+          "text": "część składowa, część, komponent"
+        },
+        {
+          "id": "d",
+          "text": "linia brzegowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„component” (rzeczownik, poziom B2) oznacza po polsku „część składowa, część, komponent”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-083",
+      "question": "comprehension",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pojmowanie"
+        },
+        {
+          "id": "b",
+          "text": "nieszkodliwy"
+        },
+        {
+          "id": "c",
+          "text": "rozjaśniać się, rozjaśniać"
+        },
+        {
+          "id": "d",
+          "text": "klauzula"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„comprehension” (rzeczownik, poziom B2) oznacza po polsku „pojmowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-084",
+      "question": "compress",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obijać, robić wgłębienie"
+        },
+        {
+          "id": "b",
+          "text": "zaciskać, sprężać"
+        },
+        {
+          "id": "c",
+          "text": "klient"
+        },
+        {
+          "id": "d",
+          "text": "rozśmieszający"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„compress” (rzeczownik, poziom B2) oznacza po polsku „zaciskać, sprężać”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-085",
+      "question": "compression",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kolekcjoner"
+        },
+        {
+          "id": "b",
+          "text": "kompresja, sprężanie"
+        },
+        {
+          "id": "c",
+          "text": "skomplikowanie, złożoność"
+        },
+        {
+          "id": "d",
+          "text": "uzasadniać, usprawiedliwiać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„compression” (rzeczownik, poziom B2) oznacza po polsku „kompresja, sprężanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-086",
+      "question": "conceit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zespół"
+        },
+        {
+          "id": "b",
+          "text": "wyrastać"
+        },
+        {
+          "id": "c",
+          "text": "zarozumiałość"
+        },
+        {
+          "id": "d",
+          "text": "konsensus"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„conceit” (rzeczownik, poziom B2) oznacza po polsku „zarozumiałość”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-087",
+      "question": "conception",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wrodzony"
+        },
+        {
+          "id": "b",
+          "text": "uważny"
+        },
+        {
+          "id": "c",
+          "text": "koncepcja, pomysł"
+        },
+        {
+          "id": "d",
+          "text": "dosłowny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„conception” (rzeczownik, poziom B2) oznacza po polsku „koncepcja, pomysł”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-088",
+      "question": "concession",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ustępstwo"
+        },
+        {
+          "id": "b",
+          "text": "obalać, zrzucać"
+        },
+        {
+          "id": "c",
+          "text": "być posłusznym"
+        },
+        {
+          "id": "d",
+          "text": "mechanizować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„concession” (rzeczownik, poziom B2) oznacza po polsku „ustępstwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-089",
+      "question": "conductor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyznanie się"
+        },
+        {
+          "id": "b",
+          "text": "konsensus"
+        },
+        {
+          "id": "c",
+          "text": "długodystansowy"
+        },
+        {
+          "id": "d",
+          "text": "konduktor"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„conductor” (rzeczownik, poziom B2) oznacza po polsku „konduktor”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-090",
+      "question": "cone",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odżywiać"
+        },
+        {
+          "id": "b",
+          "text": "uważny"
+        },
+        {
+          "id": "c",
+          "text": "stożek"
+        },
+        {
+          "id": "d",
+          "text": "liberalny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cone” (rzeczownik, poziom B2) oznacza po polsku „stożek”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-091",
+      "question": "conference",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konferencja"
+        },
+        {
+          "id": "b",
+          "text": "baza danych"
+        },
+        {
+          "id": "c",
+          "text": "intymny"
+        },
+        {
+          "id": "d",
+          "text": "przewracać się, przewracać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„conference” (rzeczownik, poziom B2) oznacza po polsku „konferencja”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-092",
+      "question": "confession",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozmnażać się"
+        },
+        {
+          "id": "b",
+          "text": "przyznanie się"
+        },
+        {
+          "id": "c",
+          "text": "(np. wódki) odrobina, szczypta"
+        },
+        {
+          "id": "d",
+          "text": "piętro, poziom"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„confession” (rzeczownik, poziom B2) oznacza po polsku „przyznanie się”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-093",
+      "question": "conjunction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powiększać"
+        },
+        {
+          "id": "b",
+          "text": "zespół"
+        },
+        {
+          "id": "c",
+          "text": "liberalny"
+        },
+        {
+          "id": "d",
+          "text": "(lit) dumać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„conjunction” (rzeczownik, poziom B2) oznacza po polsku „zespół”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-094",
+      "question": "conquest",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niedoświadczony"
+        },
+        {
+          "id": "b",
+          "text": "podbój"
+        },
+        {
+          "id": "c",
+          "text": "legislacyjny, prawny"
+        },
+        {
+          "id": "d",
+          "text": "dosłowny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„conquest” (rzeczownik, poziom B2) oznacza po polsku „podbój”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-095",
+      "question": "consciousness",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upokarzać"
+        },
+        {
+          "id": "b",
+          "text": "przekształcenie, konwersja"
+        },
+        {
+          "id": "c",
+          "text": "początkowy"
+        },
+        {
+          "id": "d",
+          "text": "przytomność, świadomość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„consciousness” (rzeczownik, poziom B2) oznacza po polsku „przytomność, świadomość”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-096",
+      "question": "consensus",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odżywiać"
+        },
+        {
+          "id": "b",
+          "text": "konferencja"
+        },
+        {
+          "id": "c",
+          "text": "wyprzedzać, zostawiać w tyle"
+        },
+        {
+          "id": "d",
+          "text": "konsensus"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„consensus” (rzeczownik, poziom B2) oznacza po polsku „konsensus”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-097",
+      "question": "consent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wrodzony"
+        },
+        {
+          "id": "b",
+          "text": "zgoda"
+        },
+        {
+          "id": "c",
+          "text": "liberalny"
+        },
+        {
+          "id": "d",
+          "text": "pogarda"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„consent” (rzeczownik, poziom B2) oznacza po polsku „zgoda”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-098",
+      "question": "consolation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pociecha, pocieszenie"
+        },
+        {
+          "id": "b",
+          "text": "zgoda"
+        },
+        {
+          "id": "c",
+          "text": "w ostatniej chwili"
+        },
+        {
+          "id": "d",
+          "text": "nieodzowny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„consolation” (rzeczownik, poziom B2) oznacza po polsku „pociecha, pocieszenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-099",
+      "question": "consultant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekarz specjalista, specjalista"
+        },
+        {
+          "id": "b",
+          "text": "nieodzowny"
+        },
+        {
+          "id": "c",
+          "text": "podbój"
+        },
+        {
+          "id": "d",
+          "text": "intelektualny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„consultant” (rzeczownik, poziom B2) oznacza po polsku „lekarz specjalista, specjalista”."
+    },
+    {
+      "id": "b2-rzeczowniki-02-100",
+      "question": "contempt",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozkład"
+        },
+        {
+          "id": "b",
+          "text": "uważny"
+        },
+        {
+          "id": "c",
+          "text": "niezmienny"
+        },
+        {
+          "id": "d",
+          "text": "pogarda"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„contempt” (rzeczownik, poziom B2) oznacza po polsku „pogarda”."
+    }
+  ]
+}

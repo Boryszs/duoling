@@ -1,0 +1,1112 @@
+{
+  "category": {
+    "id": "b2-przyslowki-i-wyrazenia-01",
+    "name": "B2 — Przysłówki i wyrażenia (A–S)"
+  },
+  "questions": [
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-001",
+      "question": "abnormally",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(przekleństwa) wymysły"
+        },
+        {
+          "id": "b",
+          "text": "uwielbiać"
+        },
+        {
+          "id": "c",
+          "text": "niezwykle"
+        },
+        {
+          "id": "d",
+          "text": "gromadzić"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„abnormally” (przysłówek, poziom B2) oznacza po polsku „niezwykle”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-002",
+      "question": "abruptly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ołtarz"
+        },
+        {
+          "id": "b",
+          "text": "nieśpiesznie"
+        },
+        {
+          "id": "c",
+          "text": "ostry"
+        },
+        {
+          "id": "d",
+          "text": "nagle, raptownie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„abruptly” (przysłówek, poziom B2) oznacza po polsku „nagle, raptownie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-003",
+      "question": "accordingly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przybliżony"
+        },
+        {
+          "id": "b",
+          "text": "odpowiednio, wedle zasługi"
+        },
+        {
+          "id": "c",
+          "text": "kwas"
+        },
+        {
+          "id": "d",
+          "text": "domniemanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„accordingly” (przysłówek, poziom B2) oznacza po polsku „odpowiednio, wedle zasługi”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-004",
+      "question": "admittedly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ambasador"
+        },
+        {
+          "id": "b",
+          "text": "wprawdzie, co prawda"
+        },
+        {
+          "id": "c",
+          "text": "rzeczywisty"
+        },
+        {
+          "id": "d",
+          "text": "przyozdabiać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„admittedly” (przysłówek, poziom B2) oznacza po polsku „wprawdzie, co prawda”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-005",
+      "question": "alongside",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obok"
+        },
+        {
+          "id": "b",
+          "text": "oceniać"
+        },
+        {
+          "id": "c",
+          "text": "podwójnie"
+        },
+        {
+          "id": "d",
+          "text": "arogancki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„alongside” (wyrażenie, poziom B2) oznacza po polsku „obok”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-006",
+      "question": "backward",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podobnie"
+        },
+        {
+          "id": "b",
+          "text": "oceniać"
+        },
+        {
+          "id": "c",
+          "text": "w tył, do tyłu"
+        },
+        {
+          "id": "d",
+          "text": "administracyjny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„backward” (przysłówek, poziom B2) oznacza po polsku „w tył, do tyłu”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-007",
+      "question": "blindly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ambasador"
+        },
+        {
+          "id": "b",
+          "text": "aliant"
+        },
+        {
+          "id": "c",
+          "text": "zadziwiać"
+        },
+        {
+          "id": "d",
+          "text": "na oślep"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„blindly” (przysłówek, poziom B2) oznacza po polsku „na oślep”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-008",
+      "question": "broadly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "na wschód"
+        },
+        {
+          "id": "b",
+          "text": "aliant"
+        },
+        {
+          "id": "c",
+          "text": "niezwykle"
+        },
+        {
+          "id": "d",
+          "text": "w zasadzie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„broadly” (przysłówek, poziom B2) oznacza po polsku „w zasadzie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-009",
+      "question": "casually",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oczekiwać"
+        },
+        {
+          "id": "b",
+          "text": "osiągalny, do osiągnięcia"
+        },
+        {
+          "id": "c",
+          "text": "na odwrót"
+        },
+        {
+          "id": "d",
+          "text": "swobodnie, naturalnie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„casually” (przysłówek, poziom B2) oznacza po polsku „swobodnie, naturalnie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-010",
+      "question": "concerning",
+      "answers": [
+        {
+          "id": "a",
+          "text": "na odwrót"
+        },
+        {
+          "id": "b",
+          "text": "z całego serca"
+        },
+        {
+          "id": "c",
+          "text": "odnoszący się, tyczący się, co się tyczy"
+        },
+        {
+          "id": "d",
+          "text": "regulacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„concerning” (wyrażenie, poziom B2) oznacza po polsku „odnoszący się, tyczący się, co się tyczy”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-011",
+      "question": "confidently",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zatwierdzać"
+        },
+        {
+          "id": "b",
+          "text": "przyozdabiać"
+        },
+        {
+          "id": "c",
+          "text": "z przekonaniem"
+        },
+        {
+          "id": "d",
+          "text": "uwielbiać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„confidently” (przysłówek, poziom B2) oznacza po polsku „z przekonaniem”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-012",
+      "question": "considering",
+      "answers": [
+        {
+          "id": "a",
+          "text": "anonimowy"
+        },
+        {
+          "id": "b",
+          "text": "uzależniony"
+        },
+        {
+          "id": "c",
+          "text": "biorąc pod uwagę"
+        },
+        {
+          "id": "d",
+          "text": "zapewniać, upewniać się, upewniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„considering” (wyrażenie, poziom B2) oznacza po polsku „biorąc pod uwagę”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-013",
+      "question": "conversely",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wprawdzie, co prawda"
+        },
+        {
+          "id": "b",
+          "text": "na odwrót"
+        },
+        {
+          "id": "c",
+          "text": "utwierdzać się"
+        },
+        {
+          "id": "d",
+          "text": "adopcja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„conversely” (przysłówek, poziom B2) oznacza po polsku „na odwrót”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-014",
+      "question": "dearly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oskarżenie"
+        },
+        {
+          "id": "b",
+          "text": "rzeczywisty"
+        },
+        {
+          "id": "c",
+          "text": "samolot"
+        },
+        {
+          "id": "d",
+          "text": "z całego serca"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dearly” (przysłówek, poziom B2) oznacza po polsku „z całego serca”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-015",
+      "question": "doubly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gromadzić"
+        },
+        {
+          "id": "b",
+          "text": "podwójnie"
+        },
+        {
+          "id": "c",
+          "text": "adopcja"
+        },
+        {
+          "id": "d",
+          "text": "administracyjny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„doubly” (przysłówek, poziom B2) oznacza po polsku „podwójnie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-016",
+      "question": "eastward",
+      "answers": [
+        {
+          "id": "a",
+          "text": "na wschód"
+        },
+        {
+          "id": "b",
+          "text": "ożywiać"
+        },
+        {
+          "id": "c",
+          "text": "następny"
+        },
+        {
+          "id": "d",
+          "text": "w zasadzie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„eastward” (przysłówek, poziom B2) oznacza po polsku „na wschód”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-017",
+      "question": "essentially",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w zasadzie"
+        },
+        {
+          "id": "b",
+          "text": "ożywiać"
+        },
+        {
+          "id": "c",
+          "text": "jak na ironię"
+        },
+        {
+          "id": "d",
+          "text": "przerzucać się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„essentially” (przysłówek, poziom B2) oznacza po polsku „w zasadzie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-018",
+      "question": "firstly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podwójnie"
+        },
+        {
+          "id": "b",
+          "text": "nadejście"
+        },
+        {
+          "id": "c",
+          "text": "po pierwsze"
+        },
+        {
+          "id": "d",
+          "text": "na końcu"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„firstly” (przysłówek, poziom B2) oznacza po polsku „po pierwsze”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-019",
+      "question": "following",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samolot"
+        },
+        {
+          "id": "b",
+          "text": "(wypłata) zaliczka, pożyczka"
+        },
+        {
+          "id": "c",
+          "text": "adopcja"
+        },
+        {
+          "id": "d",
+          "text": "następny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„following” (wyrażenie, poziom B2) oznacza po polsku „następny”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-020",
+      "question": "formerly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadręczać się, przemyśliwać"
+        },
+        {
+          "id": "b",
+          "text": "dążyć"
+        },
+        {
+          "id": "c",
+          "text": "poprzednio"
+        },
+        {
+          "id": "d",
+          "text": "ożywiać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„formerly” (przysłówek, poziom B2) oznacza po polsku „poprzednio”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-021",
+      "question": "frankly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przerzucać się"
+        },
+        {
+          "id": "b",
+          "text": "szczerze"
+        },
+        {
+          "id": "c",
+          "text": "kwas"
+        },
+        {
+          "id": "d",
+          "text": "awans"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„frankly” (przysłówek, poziom B2) oznacza po polsku „szczerze”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-022",
+      "question": "ideally",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w ideale"
+        },
+        {
+          "id": "b",
+          "text": "(wypłata) zaliczka, pożyczka"
+        },
+        {
+          "id": "c",
+          "text": "ożywiać"
+        },
+        {
+          "id": "d",
+          "text": "ambasador"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ideally” (przysłówek, poziom B2) oznacza po polsku „w ideale”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-023",
+      "question": "ironically",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozbawiać"
+        },
+        {
+          "id": "b",
+          "text": "szczerze"
+        },
+        {
+          "id": "c",
+          "text": "jak na ironię"
+        },
+        {
+          "id": "d",
+          "text": "po pierwsze"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ironically” (przysłówek, poziom B2) oznacza po polsku „jak na ironię”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-024",
+      "question": "knowingly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oskarżenie"
+        },
+        {
+          "id": "b",
+          "text": "jak na ironię"
+        },
+        {
+          "id": "c",
+          "text": "z premedytacją"
+        },
+        {
+          "id": "d",
+          "text": "arogancki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„knowingly” (przysłówek, poziom B2) oznacza po polsku „z premedytacją”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-025",
+      "question": "lastly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odnoszący się, tyczący się, co się tyczy"
+        },
+        {
+          "id": "b",
+          "text": "podwójnie"
+        },
+        {
+          "id": "c",
+          "text": "na końcu"
+        },
+        {
+          "id": "d",
+          "text": "ołtarz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lastly” (przysłówek, poziom B2) oznacza po polsku „na końcu”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-026",
+      "question": "leisurely",
+      "answers": [
+        {
+          "id": "a",
+          "text": "anonimowy"
+        },
+        {
+          "id": "b",
+          "text": "nieśpiesznie"
+        },
+        {
+          "id": "c",
+          "text": "osoba nieobecna, ktoś nieobecny, nieobecny"
+        },
+        {
+          "id": "d",
+          "text": "nagle, raptownie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„leisurely” (przysłówek, poziom B2) oznacza po polsku „nieśpiesznie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-027",
+      "question": "lest",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aby nie"
+        },
+        {
+          "id": "b",
+          "text": "dwuznaczny, niejednoznaczny"
+        },
+        {
+          "id": "c",
+          "text": "uzależnienie"
+        },
+        {
+          "id": "d",
+          "text": "przybliżony"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lest” (wyrażenie, poziom B2) oznacza po polsku „aby nie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-028",
+      "question": "likewise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biorąc pod uwagę"
+        },
+        {
+          "id": "b",
+          "text": "aliant"
+        },
+        {
+          "id": "c",
+          "text": "wzmacniać"
+        },
+        {
+          "id": "d",
+          "text": "podobnie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„likewise” (przysłówek, poziom B2) oznacza po polsku „podobnie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-029",
+      "question": "morally",
+      "answers": [
+        {
+          "id": "a",
+          "text": "za burtę"
+        },
+        {
+          "id": "b",
+          "text": "tyranizować"
+        },
+        {
+          "id": "c",
+          "text": "moralnie"
+        },
+        {
+          "id": "d",
+          "text": "hamować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„morally” (przysłówek, poziom B2) oznacza po polsku „moralnie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-030",
+      "question": "necessarily",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kotwica"
+        },
+        {
+          "id": "b",
+          "text": "wyjaśniać"
+        },
+        {
+          "id": "c",
+          "text": "zdumienie"
+        },
+        {
+          "id": "d",
+          "text": "nieod, -zownie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„necessarily” (przysłówek, poziom B2) oznacza po polsku „nieod, -zownie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-031",
+      "question": "neither",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezależnie"
+        },
+        {
+          "id": "b",
+          "text": "też nie"
+        },
+        {
+          "id": "c",
+          "text": "hamować"
+        },
+        {
+          "id": "d",
+          "text": "popiół"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„neither” (przysłówek, poziom B2) oznacza po polsku „też nie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-032",
+      "question": "nicely",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klaskać"
+        },
+        {
+          "id": "b",
+          "text": "przeglądać"
+        },
+        {
+          "id": "c",
+          "text": "dobrze"
+        },
+        {
+          "id": "d",
+          "text": "poszerzać się, poszerzać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nicely” (przysłówek, poziom B2) oznacza po polsku „dobrze”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-033",
+      "question": "northward",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moralnie"
+        },
+        {
+          "id": "b",
+          "text": "na północ"
+        },
+        {
+          "id": "c",
+          "text": "założenie"
+        },
+        {
+          "id": "d",
+          "text": "upamiętniać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„northward” (przysłówek, poziom B2) oznacza po polsku „na północ”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-034",
+      "question": "once",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oczekiwać"
+        },
+        {
+          "id": "b",
+          "text": "anonimowy"
+        },
+        {
+          "id": "c",
+          "text": "raz"
+        },
+        {
+          "id": "d",
+          "text": "oceniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„once” (wyrażenie, poziom B2) oznacza po polsku „raz”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-035",
+      "question": "openly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żuć, przeżuwać"
+        },
+        {
+          "id": "b",
+          "text": "gruby, szorstki"
+        },
+        {
+          "id": "c",
+          "text": "otwarcie"
+        },
+        {
+          "id": "d",
+          "text": "troskliwy, czuły"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„openly” (przysłówek, poziom B2) oznacza po polsku „otwarcie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-036",
+      "question": "overboard",
+      "answers": [
+        {
+          "id": "a",
+          "text": "katastroficzny"
+        },
+        {
+          "id": "b",
+          "text": "nieod, -zownie"
+        },
+        {
+          "id": "c",
+          "text": "upamiętniać"
+        },
+        {
+          "id": "d",
+          "text": "za burtę"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„overboard” (przysłówek, poziom B2) oznacza po polsku „za burtę”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-037",
+      "question": "overtime",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oszukiwać"
+        },
+        {
+          "id": "b",
+          "text": "nadliczbowo"
+        },
+        {
+          "id": "c",
+          "text": "dobroczynny"
+        },
+        {
+          "id": "d",
+          "text": "rąbać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„overtime” (przysłówek, poziom B2) oznacza po polsku „nadliczbowo”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-038",
+      "question": "owing to",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nabytek, zdobycz"
+        },
+        {
+          "id": "b",
+          "text": "dzięki, z powodu"
+        },
+        {
+          "id": "c",
+          "text": "aliant"
+        },
+        {
+          "id": "d",
+          "text": "domniemanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„owing to” (wyrażenie, poziom B2) oznacza po polsku „dzięki, z powodu”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-039",
+      "question": "precisely",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieod, -zownie"
+        },
+        {
+          "id": "b",
+          "text": "beztroski"
+        },
+        {
+          "id": "c",
+          "text": "dokładnie, precyzyjnie"
+        },
+        {
+          "id": "d",
+          "text": "sztuka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„precisely” (przysłówek, poziom B2) oznacza po polsku „dokładnie, precyzyjnie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-040",
+      "question": "presumably",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cecha, atrybut"
+        },
+        {
+          "id": "b",
+          "text": "natarcie"
+        },
+        {
+          "id": "c",
+          "text": "sztuka"
+        },
+        {
+          "id": "d",
+          "text": "przypuszczalnie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„presumably” (przysłówek, poziom B2) oznacza po polsku „przypuszczalnie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-041",
+      "question": "previously",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeglądać"
+        },
+        {
+          "id": "b",
+          "text": "cierpienie"
+        },
+        {
+          "id": "c",
+          "text": "poprzednio"
+        },
+        {
+          "id": "d",
+          "text": "osiągnięcie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„previously” (przysłówek, poziom B2) oznacza po polsku „poprzednio”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-042",
+      "question": "promptly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "natychmiast"
+        },
+        {
+          "id": "b",
+          "text": "dziwaczny"
+        },
+        {
+          "id": "c",
+          "text": "cierpienie"
+        },
+        {
+          "id": "d",
+          "text": "naręcze"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„promptly” (przysłówek, poziom B2) oznacza po polsku „natychmiast”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-043",
+      "question": "readily",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewidywanie"
+        },
+        {
+          "id": "b",
+          "text": "ryczeć"
+        },
+        {
+          "id": "c",
+          "text": "klaskać"
+        },
+        {
+          "id": "d",
+          "text": "ochoczo, skwapliwie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„readily” (przysłówek, poziom B2) oznacza po polsku „ochoczo, skwapliwie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-044",
+      "question": "reasonably",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kruchy"
+        },
+        {
+          "id": "b",
+          "text": "dość, całkiem"
+        },
+        {
+          "id": "c",
+          "text": "autorytatywny"
+        },
+        {
+          "id": "d",
+          "text": "sztuka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reasonably” (przysłówek, poziom B2) oznacza po polsku „dość, całkiem”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-045",
+      "question": "regardless",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezależnie"
+        },
+        {
+          "id": "b",
+          "text": "krzątać się"
+        },
+        {
+          "id": "c",
+          "text": "ocena"
+        },
+        {
+          "id": "d",
+          "text": "uczestnictwo, obecność"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„regardless” (przysłówek, poziom B2) oznacza po polsku „niezależnie”."
+    },
+    {
+      "id": "b2-przyslowki-i-wyrazenia-01-046",
+      "question": "scarcely",
+      "answers": [
+        {
+          "id": "a",
+          "text": "osiągnięcie"
+        },
+        {
+          "id": "b",
+          "text": "nieod, -zownie"
+        },
+        {
+          "id": "c",
+          "text": "zdumienie"
+        },
+        {
+          "id": "d",
+          "text": "ledwie, z ledwością"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„scarcely” (przysłówek, poziom B2) oznacza po polsku „ledwie, z ledwością”."
+    }
+  ]
+}

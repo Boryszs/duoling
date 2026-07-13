@@ -1,0 +1,1760 @@
+{
+  "category": {
+    "id": "b2-czasowniki-03",
+    "name": "B2 — Czasowniki 3/3 (O–S)"
+  },
+  "questions": [
+    {
+      "id": "b2-czasowniki-03-001",
+      "question": "offend",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obrażać"
+        },
+        {
+          "id": "b",
+          "text": "bez życia"
+        },
+        {
+          "id": "c",
+          "text": "przeżyć, przetrwać"
+        },
+        {
+          "id": "d",
+          "text": "baza danych"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„offend” (czasownik, poziom B2) oznacza po polsku „obrażać”."
+    },
+    {
+      "id": "b2-czasowniki-03-002",
+      "question": "originate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozkład"
+        },
+        {
+          "id": "b",
+          "text": "brać początek"
+        },
+        {
+          "id": "c",
+          "text": "zgoda"
+        },
+        {
+          "id": "d",
+          "text": "mechanizować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„originate” (czasownik, poziom B2) oznacza po polsku „brać początek”."
+    },
+    {
+      "id": "b2-czasowniki-03-003",
+      "question": "outdo",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kontrakt, umowa"
+        },
+        {
+          "id": "b",
+          "text": "ozdoba"
+        },
+        {
+          "id": "c",
+          "text": "pokonywać, przewyższać"
+        },
+        {
+          "id": "d",
+          "text": "piętro, poziom"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„outdo” (czasownik, poziom B2) oznacza po polsku „pokonywać, przewyższać”."
+    },
+    {
+      "id": "b2-czasowniki-03-004",
+      "question": "outgrow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyrastać"
+        },
+        {
+          "id": "b",
+          "text": "interakcyjny, wzajemny"
+        },
+        {
+          "id": "c",
+          "text": "scalać się, scalać, stapiać się, stapiać"
+        },
+        {
+          "id": "d",
+          "text": "ustępstwo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„outgrow” (czasownik, poziom B2) oznacza po polsku „wyrastać”."
+    },
+    {
+      "id": "b2-czasowniki-03-005",
+      "question": "outlive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zespół"
+        },
+        {
+          "id": "b",
+          "text": "dekada"
+        },
+        {
+          "id": "c",
+          "text": "niewystarczający"
+        },
+        {
+          "id": "d",
+          "text": "przeżyć, przetrwać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„outlive” (czasownik, poziom B2) oznacza po polsku „przeżyć, przetrwać”."
+    },
+    {
+      "id": "b2-czasowniki-03-006",
+      "question": "overestimate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeceniać"
+        },
+        {
+          "id": "b",
+          "text": "początkowy"
+        },
+        {
+          "id": "c",
+          "text": "siusiać"
+        },
+        {
+          "id": "d",
+          "text": "(lit) dumać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„overestimate” (czasownik, poziom B2) oznacza po polsku „przeceniać”."
+    },
+    {
+      "id": "b2-czasowniki-03-007",
+      "question": "overhear",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utwardzać, wykładać kamieniami, wykładać"
+        },
+        {
+          "id": "b",
+          "text": "podsłuchiwać"
+        },
+        {
+          "id": "c",
+          "text": "uważny"
+        },
+        {
+          "id": "d",
+          "text": "nie dawać spokoju"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„overhear” (czasownik, poziom B2) oznacza po polsku „podsłuchiwać”."
+    },
+    {
+      "id": "b2-czasowniki-03-008",
+      "question": "overlook",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piętro, poziom"
+        },
+        {
+          "id": "b",
+          "text": "przyznanie się"
+        },
+        {
+          "id": "c",
+          "text": "wychodzić"
+        },
+        {
+          "id": "d",
+          "text": "liberalny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„overlook” (czasownik, poziom B2) oznacza po polsku „wychodzić”."
+    },
+    {
+      "id": "b2-czasowniki-03-009",
+      "question": "overshadow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "górować"
+        },
+        {
+          "id": "b",
+          "text": "przekształcenie, konwersja"
+        },
+        {
+          "id": "c",
+          "text": "utwardzać, wykładać kamieniami, wykładać"
+        },
+        {
+          "id": "d",
+          "text": "nieodpowiedzialny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„overshadow” (czasownik, poziom B2) oznacza po polsku „górować”."
+    },
+    {
+      "id": "b2-czasowniki-03-010",
+      "question": "overtake",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dekada"
+        },
+        {
+          "id": "b",
+          "text": "niedoświadczony"
+        },
+        {
+          "id": "c",
+          "text": "wyprzedzać, zostawiać w tyle"
+        },
+        {
+          "id": "d",
+          "text": "kontrowersja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„overtake” (czasownik, poziom B2) oznacza po polsku „wyprzedzać, zostawiać w tyle”."
+    },
+    {
+      "id": "b2-czasowniki-03-011",
+      "question": "overthrow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obalać, zrzucać"
+        },
+        {
+          "id": "b",
+          "text": "modernizować"
+        },
+        {
+          "id": "c",
+          "text": "niezmienny"
+        },
+        {
+          "id": "d",
+          "text": "sprzeczność"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„overthrow” (czasownik, poziom B2) oznacza po polsku „obalać, zrzucać”."
+    },
+    {
+      "id": "b2-czasowniki-03-012",
+      "question": "overturn",
+      "answers": [
+        {
+          "id": "a",
+          "text": "docierać, przenikać"
+        },
+        {
+          "id": "b",
+          "text": "ozdoba"
+        },
+        {
+          "id": "c",
+          "text": "przewracać się, przewracać"
+        },
+        {
+          "id": "d",
+          "text": "zarozumiałość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„overturn” (czasownik, poziom B2) oznacza po polsku „przewracać się, przewracać”."
+    },
+    {
+      "id": "b2-czasowniki-03-013",
+      "question": "panic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przytomność, świadomość"
+        },
+        {
+          "id": "b",
+          "text": "długodystansowy"
+        },
+        {
+          "id": "c",
+          "text": "panikować"
+        },
+        {
+          "id": "d",
+          "text": "uważny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„panic” (czasownik, poziom B2) oznacza po polsku „panikować”."
+    },
+    {
+      "id": "b2-czasowniki-03-014",
+      "question": "pave",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mlecz, mniszek"
+        },
+        {
+          "id": "b",
+          "text": "odżywiać"
+        },
+        {
+          "id": "c",
+          "text": "utwardzać, wykładać kamieniami, wykładać"
+        },
+        {
+          "id": "d",
+          "text": "baza danych"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pave” (czasownik, poziom B2) oznacza po polsku „utwardzać, wykładać kamieniami, wykładać”."
+    },
+    {
+      "id": "b2-czasowniki-03-015",
+      "question": "pee",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siusiać"
+        },
+        {
+          "id": "b",
+          "text": "uważny"
+        },
+        {
+          "id": "c",
+          "text": "wpływowy"
+        },
+        {
+          "id": "d",
+          "text": "wprowadzać w błąd, zaskakiwać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pee” (czasownik, poziom B2) oznacza po polsku „siusiać”."
+    },
+    {
+      "id": "b2-czasowniki-03-016",
+      "question": "penalize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "panikować"
+        },
+        {
+          "id": "b",
+          "text": "debet"
+        },
+        {
+          "id": "c",
+          "text": "rozkład"
+        },
+        {
+          "id": "d",
+          "text": "karać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„penalize” (czasownik, poziom B2) oznacza po polsku „karać”."
+    },
+    {
+      "id": "b2-czasowniki-03-017",
+      "question": "penetrate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "docierać, przenikać"
+        },
+        {
+          "id": "b",
+          "text": "wychodzić"
+        },
+        {
+          "id": "c",
+          "text": "legendarny"
+        },
+        {
+          "id": "d",
+          "text": "powiększać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„penetrate” (czasownik, poziom B2) oznacza po polsku „docierać, przenikać”."
+    },
+    {
+      "id": "b2-czasowniki-03-018",
+      "question": "perceive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarozumiałość"
+        },
+        {
+          "id": "b",
+          "text": "dostrzegać, postrzegać"
+        },
+        {
+          "id": "c",
+          "text": "interakcyjny, wzajemny"
+        },
+        {
+          "id": "d",
+          "text": "ustępstwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„perceive” (czasownik, poziom B2) oznacza po polsku „dostrzegać, postrzegać”."
+    },
+    {
+      "id": "b2-czasowniki-03-019",
+      "question": "permeate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "luksusowy"
+        },
+        {
+          "id": "b",
+          "text": "przenikać"
+        },
+        {
+          "id": "c",
+          "text": "(o oczach) wyłazić na wierzch, wyłazić"
+        },
+        {
+          "id": "d",
+          "text": "przemyśleć, zastanowić się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„permeate” (czasownik, poziom B2) oznacza po polsku „przenikać”."
+    },
+    {
+      "id": "b2-czasowniki-03-020",
+      "question": "persist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "udawany, pseudo-"
+        },
+        {
+          "id": "b",
+          "text": "luksusowy"
+        },
+        {
+          "id": "c",
+          "text": "utrzymywać się"
+        },
+        {
+          "id": "d",
+          "text": "desperacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„persist” (czasownik, poziom B2) oznacza po polsku „utrzymywać się”."
+    },
+    {
+      "id": "b2-czasowniki-03-021",
+      "question": "personify",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bałagan"
+        },
+        {
+          "id": "b",
+          "text": "skromny"
+        },
+        {
+          "id": "c",
+          "text": "personifikować, uosabiać"
+        },
+        {
+          "id": "d",
+          "text": "ofiarność, poświęcenie się, poświęcenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„personify” (czasownik, poziom B2) oznacza po polsku „personifikować, uosabiać”."
+    },
+    {
+      "id": "b2-czasowniki-03-022",
+      "question": "photograph",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fotografować"
+        },
+        {
+          "id": "b",
+          "text": "ręczny"
+        },
+        {
+          "id": "c",
+          "text": "kapryśny, mający humory"
+        },
+        {
+          "id": "d",
+          "text": "miniaturowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„photograph” (czasownik, poziom B2) oznacza po polsku „fotografować”."
+    },
+    {
+      "id": "b2-czasowniki-03-023",
+      "question": "picture",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozmyślać, rozpatrywać"
+        },
+        {
+          "id": "b",
+          "text": "(na zdjęciu) pokazywać"
+        },
+        {
+          "id": "c",
+          "text": "(lit) potężny"
+        },
+        {
+          "id": "d",
+          "text": "metryczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„picture” (czasownik, poziom B2) oznacza po polsku „(na zdjęciu) pokazywać”."
+    },
+    {
+      "id": "b2-czasowniki-03-024",
+      "question": "plead",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błagać"
+        },
+        {
+          "id": "b",
+          "text": "sądzić"
+        },
+        {
+          "id": "c",
+          "text": "ofiarność, poświęcenie się, poświęcenie"
+        },
+        {
+          "id": "d",
+          "text": "dyplom"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„plead” (czasownik, poziom B2) oznacza po polsku „błagać”."
+    },
+    {
+      "id": "b2-czasowniki-03-025",
+      "question": "pluck",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jeleń"
+        },
+        {
+          "id": "b",
+          "text": "śmiertelny"
+        },
+        {
+          "id": "c",
+          "text": "chwilowy"
+        },
+        {
+          "id": "d",
+          "text": "(lit) zrywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pluck” (czasownik, poziom B2) oznacza po polsku „(lit) zrywać”."
+    },
+    {
+      "id": "b2-czasowniki-03-026",
+      "question": "ponder",
+      "answers": [
+        {
+          "id": "a",
+          "text": "matematyczny"
+        },
+        {
+          "id": "b",
+          "text": "popularyzować"
+        },
+        {
+          "id": "c",
+          "text": "rozmyślać, rozpatrywać"
+        },
+        {
+          "id": "d",
+          "text": "fotografować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ponder” (czasownik, poziom B2) oznacza po polsku „rozmyślać, rozpatrywać”."
+    },
+    {
+      "id": "b2-czasowniki-03-027",
+      "question": "pop",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(komputer) stołowy, biurkowy"
+        },
+        {
+          "id": "b",
+          "text": "(o oczach) wyłazić na wierzch, wyłazić"
+        },
+        {
+          "id": "c",
+          "text": "mikroskopowy"
+        },
+        {
+          "id": "d",
+          "text": "przenikać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pop” (czasownik, poziom B2) oznacza po polsku „(o oczach) wyłazić na wierzch, wyłazić”."
+    },
+    {
+      "id": "b2-czasowniki-03-028",
+      "question": "popularize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "popularyzować"
+        },
+        {
+          "id": "b",
+          "text": "ofiarność, poświęcenie się, poświęcenie"
+        },
+        {
+          "id": "c",
+          "text": "potrzebujący"
+        },
+        {
+          "id": "d",
+          "text": "wzmacniać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„popularize” (czasownik, poziom B2) oznacza po polsku „popularyzować”."
+    },
+    {
+      "id": "b2-czasowniki-03-029",
+      "question": "postpone",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odkładać, odraczać"
+        },
+        {
+          "id": "b",
+          "text": "niepotrzebny"
+        },
+        {
+          "id": "c",
+          "text": "klęska"
+        },
+        {
+          "id": "d",
+          "text": "przypominać sobie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„postpone” (czasownik, poziom B2) oznacza po polsku „odkładać, odraczać”."
+    },
+    {
+      "id": "b2-czasowniki-03-030",
+      "question": "precede",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ścigać sądownie, oskarżać"
+        },
+        {
+          "id": "b",
+          "text": "poprzedzać"
+        },
+        {
+          "id": "c",
+          "text": "panować"
+        },
+        {
+          "id": "d",
+          "text": "(lit) zrywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„precede” (czasownik, poziom B2) oznacza po polsku „poprzedzać”."
+    },
+    {
+      "id": "b2-czasowniki-03-031",
+      "question": "predicate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ścigać sądownie, oskarżać"
+        },
+        {
+          "id": "b",
+          "text": "mieć opinię, oceniać"
+        },
+        {
+          "id": "c",
+          "text": "orzeczenie"
+        },
+        {
+          "id": "d",
+          "text": "wzmacniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„predicate” (czasownik, poziom B2) oznacza po polsku „orzeczenie”."
+    },
+    {
+      "id": "b2-czasowniki-03-032",
+      "question": "prejudge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeznaczenie"
+        },
+        {
+          "id": "b",
+          "text": "oceniać z góry"
+        },
+        {
+          "id": "c",
+          "text": "lukratywny"
+        },
+        {
+          "id": "d",
+          "text": "klęska"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„prejudge” (czasownik, poziom B2) oznacza po polsku „oceniać z góry”."
+    },
+    {
+      "id": "b2-czasowniki-03-033",
+      "question": "prescribe",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapisywać"
+        },
+        {
+          "id": "b",
+          "text": "poprzedzać"
+        },
+        {
+          "id": "c",
+          "text": "klęska"
+        },
+        {
+          "id": "d",
+          "text": "oceniać z góry"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prescribe” (czasownik, poziom B2) oznacza po polsku „zapisywać”."
+    },
+    {
+      "id": "b2-czasowniki-03-034",
+      "question": "prevail",
+      "answers": [
+        {
+          "id": "a",
+          "text": "udawany, pseudo-"
+        },
+        {
+          "id": "b",
+          "text": "panować"
+        },
+        {
+          "id": "c",
+          "text": "przeznaczenie"
+        },
+        {
+          "id": "d",
+          "text": "hańba"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„prevail” (czasownik, poziom B2) oznacza po polsku „panować”."
+    },
+    {
+      "id": "b2-czasowniki-03-035",
+      "question": "price",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skromny"
+        },
+        {
+          "id": "b",
+          "text": "wyceniać"
+        },
+        {
+          "id": "c",
+          "text": "deficyt"
+        },
+        {
+          "id": "d",
+          "text": "bujny, wybujały"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„price” (czasownik, poziom B2) oznacza po polsku „wyceniać”."
+    },
+    {
+      "id": "b2-czasowniki-03-036",
+      "question": "prohibit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pośledni, mierny"
+        },
+        {
+          "id": "b",
+          "text": "zabraniać"
+        },
+        {
+          "id": "c",
+          "text": "panować"
+        },
+        {
+          "id": "d",
+          "text": "(o oczach) wyłazić na wierzch, wyłazić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„prohibit” (czasownik, poziom B2) oznacza po polsku „zabraniać”."
+    },
+    {
+      "id": "b2-czasowniki-03-037",
+      "question": "prosecute",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dojrzały"
+        },
+        {
+          "id": "b",
+          "text": "uczeń"
+        },
+        {
+          "id": "c",
+          "text": "dyplom"
+        },
+        {
+          "id": "d",
+          "text": "ścigać sądownie, oskarżać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„prosecute” (czasownik, poziom B2) oznacza po polsku „ścigać sądownie, oskarżać”."
+    },
+    {
+      "id": "b2-czasowniki-03-038",
+      "question": "prosper",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chwilowy"
+        },
+        {
+          "id": "b",
+          "text": "metryczny"
+        },
+        {
+          "id": "c",
+          "text": "ofiarność, poświęcenie się, poświęcenie"
+        },
+        {
+          "id": "d",
+          "text": "prosperować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„prosper” (czasownik, poziom B2) oznacza po polsku „prosperować”."
+    },
+    {
+      "id": "b2-czasowniki-03-039",
+      "question": "publicise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozreklamowywać"
+        },
+        {
+          "id": "b",
+          "text": "przypominać sobie"
+        },
+        {
+          "id": "c",
+          "text": "dyplomata"
+        },
+        {
+          "id": "d",
+          "text": "(na zdjęciu) pokazywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„publicise” (czasownik, poziom B2) oznacza po polsku „rozreklamowywać”."
+    },
+    {
+      "id": "b2-czasowniki-03-040",
+      "question": "question",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pytać"
+        },
+        {
+          "id": "b",
+          "text": "desperacja"
+        },
+        {
+          "id": "c",
+          "text": "przypominać sobie"
+        },
+        {
+          "id": "d",
+          "text": "personifikować, uosabiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„question” (czasownik, poziom B2) oznacza po polsku „pytać”."
+    },
+    {
+      "id": "b2-czasowniki-03-041",
+      "question": "radiate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozchodzić się promieniście"
+        },
+        {
+          "id": "b",
+          "text": "chwilowy"
+        },
+        {
+          "id": "c",
+          "text": "wzmacniać"
+        },
+        {
+          "id": "d",
+          "text": "przerabiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„radiate” (czasownik, poziom B2) oznacza po polsku „rozchodzić się promieniście”."
+    },
+    {
+      "id": "b2-czasowniki-03-042",
+      "question": "rate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ofiarność, poświęcenie się, poświęcenie"
+        },
+        {
+          "id": "b",
+          "text": "niezależność, obojętność"
+        },
+        {
+          "id": "c",
+          "text": "udawany, pseudo-"
+        },
+        {
+          "id": "d",
+          "text": "mieć opinię, oceniać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rate” (czasownik, poziom B2) oznacza po polsku „mieć opinię, oceniać”."
+    },
+    {
+      "id": "b2-czasowniki-03-043",
+      "question": "reckon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przemyśleć, zastanowić się"
+        },
+        {
+          "id": "b",
+          "text": "zmniejszyć, ulżyć"
+        },
+        {
+          "id": "c",
+          "text": "dżins"
+        },
+        {
+          "id": "d",
+          "text": "sądzić"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„reckon” (czasownik, poziom B2) oznacza po polsku „sądzić”."
+    },
+    {
+      "id": "b2-czasowniki-03-044",
+      "question": "recollect",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostojeństwo"
+        },
+        {
+          "id": "b",
+          "text": "przypominać sobie"
+        },
+        {
+          "id": "c",
+          "text": "poruszający"
+        },
+        {
+          "id": "d",
+          "text": "skromny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„recollect” (czasownik, poziom B2) oznacza po polsku „przypominać sobie”."
+    },
+    {
+      "id": "b2-czasowniki-03-045",
+      "question": "reconsider",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostojeństwo"
+        },
+        {
+          "id": "b",
+          "text": "przemyśleć, zastanowić się"
+        },
+        {
+          "id": "c",
+          "text": "niezadowolenie, oburzenie"
+        },
+        {
+          "id": "d",
+          "text": "przebranie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reconsider” (czasownik, poziom B2) oznacza po polsku „przemyśleć, zastanowić się”."
+    },
+    {
+      "id": "b2-czasowniki-03-046",
+      "question": "recruit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elegancki"
+        },
+        {
+          "id": "b",
+          "text": "metryczny"
+        },
+        {
+          "id": "c",
+          "text": "rozmyślać, rozpatrywać"
+        },
+        {
+          "id": "d",
+          "text": "rekrutować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„recruit” (czasownik, poziom B2) oznacza po polsku „rekrutować”."
+    },
+    {
+      "id": "b2-czasowniki-03-047",
+      "question": "redo",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bałagan"
+        },
+        {
+          "id": "b",
+          "text": "przypominać sobie"
+        },
+        {
+          "id": "c",
+          "text": "ogólnokrajowy"
+        },
+        {
+          "id": "d",
+          "text": "przerabiać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„redo” (czasownik, poziom B2) oznacza po polsku „przerabiać”."
+    },
+    {
+      "id": "b2-czasowniki-03-048",
+      "question": "refute",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obalać"
+        },
+        {
+          "id": "b",
+          "text": "rozchodzić się promieniście"
+        },
+        {
+          "id": "c",
+          "text": "bałagan"
+        },
+        {
+          "id": "d",
+          "text": "potrzebujący"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„refute” (czasownik, poziom B2) oznacza po polsku „obalać”."
+    },
+    {
+      "id": "b2-czasowniki-03-049",
+      "question": "regulate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "regulować"
+        },
+        {
+          "id": "b",
+          "text": "przegląd"
+        },
+        {
+          "id": "c",
+          "text": "panować"
+        },
+        {
+          "id": "d",
+          "text": "przypominać sobie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„regulate” (czasownik, poziom B2) oznacza po polsku „regulować”."
+    },
+    {
+      "id": "b2-czasowniki-03-050",
+      "question": "reinforce",
+      "answers": [
+        {
+          "id": "a",
+          "text": "delegat, reprezentant"
+        },
+        {
+          "id": "b",
+          "text": "wzmacniać"
+        },
+        {
+          "id": "c",
+          "text": "utrzymywać się"
+        },
+        {
+          "id": "d",
+          "text": "poruszający"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reinforce” (czasownik, poziom B2) oznacza po polsku „wzmacniać”."
+    },
+    {
+      "id": "b2-czasowniki-03-051",
+      "question": "relieve",
+      "answers": [
+        {
+          "id": "a",
+          "text": "panować"
+        },
+        {
+          "id": "b",
+          "text": "wzmacniać"
+        },
+        {
+          "id": "c",
+          "text": "rozchodzić się promieniście"
+        },
+        {
+          "id": "d",
+          "text": "zmniejszyć, ulżyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„relieve” (czasownik, poziom B2) oznacza po polsku „zmniejszyć, ulżyć”."
+    },
+    {
+      "id": "b2-czasowniki-03-052",
+      "question": "reorganize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obracać się, kręcić się"
+        },
+        {
+          "id": "b",
+          "text": "zatłoczony"
+        },
+        {
+          "id": "c",
+          "text": "reorganizować"
+        },
+        {
+          "id": "d",
+          "text": "zapobiegawczy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reorganize” (czasownik, poziom B2) oznacza po polsku „reorganizować”."
+    },
+    {
+      "id": "b2-czasowniki-03-053",
+      "question": "repress",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieporozumienie"
+        },
+        {
+          "id": "b",
+          "text": "elegancki, modny"
+        },
+        {
+          "id": "c",
+          "text": "tłumić, zduszać"
+        },
+        {
+          "id": "d",
+          "text": "skamieniały"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„repress” (czasownik, poziom B2) oznacza po polsku „tłumić, zduszać”."
+    },
+    {
+      "id": "b2-czasowniki-03-054",
+      "question": "reprove",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ganić, strofować"
+        },
+        {
+          "id": "b",
+          "text": "liczbowy"
+        },
+        {
+          "id": "c",
+          "text": "ekolog"
+        },
+        {
+          "id": "d",
+          "text": "przejście, drzwi"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„reprove” (czasownik, poziom B2) oznacza po polsku „ganić, strofować”."
+    },
+    {
+      "id": "b2-czasowniki-03-055",
+      "question": "research",
+      "answers": [
+        {
+          "id": "a",
+          "text": "donacja, dar"
+        },
+        {
+          "id": "b",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "c",
+          "text": "owalny"
+        },
+        {
+          "id": "d",
+          "text": "badać, prowadzić badania naukowe, prowadzić badania"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„research” (czasownik, poziom B2) oznacza po polsku „badać, prowadzić badania naukowe, prowadzić badania”."
+    },
+    {
+      "id": "b2-czasowniki-03-056",
+      "question": "resign",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezygnować"
+        },
+        {
+          "id": "b",
+          "text": "odbrzegowy"
+        },
+        {
+          "id": "c",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "d",
+          "text": "draperie, udrapowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„resign” (czasownik, poziom B2) oznacza po polsku „rezygnować”."
+    },
+    {
+      "id": "b2-czasowniki-03-057",
+      "question": "resume",
+      "answers": [
+        {
+          "id": "a",
+          "text": "donacja, dar"
+        },
+        {
+          "id": "b",
+          "text": "karzeł"
+        },
+        {
+          "id": "c",
+          "text": "szokujący, wzburzający"
+        },
+        {
+          "id": "d",
+          "text": "wznawiać, kontynuować się, kontynuować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„resume” (czasownik, poziom B2) oznacza po polsku „wznawiać, kontynuować się, kontynuować”."
+    },
+    {
+      "id": "b2-czasowniki-03-058",
+      "question": "retrieve",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "b",
+          "text": "(BR nieform) wyrzucać z pracy, wyrzucać"
+        },
+        {
+          "id": "c",
+          "text": "pedantyczny"
+        },
+        {
+          "id": "d",
+          "text": "prestiżowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„retrieve” (czasownik, poziom B2) oznacza po polsku „odzyskiwać”."
+    },
+    {
+      "id": "b2-czasowniki-03-059",
+      "question": "reverse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "redagować"
+        },
+        {
+          "id": "b",
+          "text": "susza"
+        },
+        {
+          "id": "c",
+          "text": "odwracać"
+        },
+        {
+          "id": "d",
+          "text": "bezcenny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reverse” (czasownik, poziom B2) oznacza po polsku „odwracać”."
+    },
+    {
+      "id": "b2-czasowniki-03-060",
+      "question": "review",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarobki"
+        },
+        {
+          "id": "b",
+          "text": "pozbywanie się, usuwanie"
+        },
+        {
+          "id": "c",
+          "text": "opcjonalny, do wyboru"
+        },
+        {
+          "id": "d",
+          "text": "dokonywać przeglądu"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„review” (czasownik, poziom B2) oznacza po polsku „dokonywać przeglądu”."
+    },
+    {
+      "id": "b2-czasowniki-03-061",
+      "question": "revive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywiać się, ożywiać"
+        },
+        {
+          "id": "b",
+          "text": "duszpasterski"
+        },
+        {
+          "id": "c",
+          "text": "szkic, wstępna wersja"
+        },
+        {
+          "id": "d",
+          "text": "bezsensowny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„revive” (czasownik, poziom B2) oznacza po polsku „ożywiać się, ożywiać”."
+    },
+    {
+      "id": "b2-czasowniki-03-062",
+      "question": "revolutionize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rewolucjonizować"
+        },
+        {
+          "id": "b",
+          "text": "nieporozumienie"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) kłócić się"
+        },
+        {
+          "id": "d",
+          "text": "panować, rządzić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„revolutionize” (czasownik, poziom B2) oznacza po polsku „rewolucjonizować”."
+    },
+    {
+      "id": "b2-czasowniki-03-063",
+      "question": "revolve",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szokujący, wzburzający"
+        },
+        {
+          "id": "b",
+          "text": "obracać się, kręcić się"
+        },
+        {
+          "id": "c",
+          "text": "rozrywka, atrakcja"
+        },
+        {
+          "id": "d",
+          "text": "pojedynek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„revolve” (czasownik, poziom B2) oznacza po polsku „obracać się, kręcić się”."
+    },
+    {
+      "id": "b2-czasowniki-03-064",
+      "question": "rhyme",
+      "answers": [
+        {
+          "id": "a",
+          "text": "udawać"
+        },
+        {
+          "id": "b",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "c",
+          "text": "barwnik"
+        },
+        {
+          "id": "d",
+          "text": "panować, rządzić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rhyme” (czasownik, poziom B2) oznacza po polsku „rymować się, rymować”."
+    },
+    {
+      "id": "b2-czasowniki-03-065",
+      "question": "rip",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elegancki, modny"
+        },
+        {
+          "id": "b",
+          "text": "łatwość"
+        },
+        {
+          "id": "c",
+          "text": "rozdzierać, oddzierać"
+        },
+        {
+          "id": "d",
+          "text": "potężny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rip” (czasownik, poziom B2) oznacza po polsku „rozdzierać, oddzierać”."
+    },
+    {
+      "id": "b2-czasowniki-03-066",
+      "question": "roar",
+      "answers": [
+        {
+          "id": "a",
+          "text": "owalny"
+        },
+        {
+          "id": "b",
+          "text": "ożywiać się, ożywiać"
+        },
+        {
+          "id": "c",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "d",
+          "text": "ryczeć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„roar” (czasownik, poziom B2) oznacza po polsku „ryczeć”."
+    },
+    {
+      "id": "b2-czasowniki-03-067",
+      "question": "roll",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obracać się, kręcić się"
+        },
+        {
+          "id": "b",
+          "text": "zwisać, obwisać"
+        },
+        {
+          "id": "c",
+          "text": "zarobki"
+        },
+        {
+          "id": "d",
+          "text": "toczyć się, toczyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„roll” (czasownik, poziom B2) oznacza po polsku „toczyć się, toczyć”."
+    },
+    {
+      "id": "b2-czasowniki-03-068",
+      "question": "row",
+      "answers": [
+        {
+          "id": "a",
+          "text": "roztargnienie, rozproszenie uwagi"
+        },
+        {
+          "id": "b",
+          "text": "(nieform) kłócić się"
+        },
+        {
+          "id": "c",
+          "text": "duplikat, kopia"
+        },
+        {
+          "id": "d",
+          "text": "rewolucjonizować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„row” (czasownik, poziom B2) oznacza po polsku „(nieform) kłócić się”."
+    },
+    {
+      "id": "b2-czasowniki-03-069",
+      "question": "rub",
+      "answers": [
+        {
+          "id": "a",
+          "text": "barwnik"
+        },
+        {
+          "id": "b",
+          "text": "trzeć"
+        },
+        {
+          "id": "c",
+          "text": "ustny, oralny"
+        },
+        {
+          "id": "d",
+          "text": "roztargnienie, rozproszenie uwagi"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rub” (czasownik, poziom B2) oznacza po polsku „trzeć”."
+    },
+    {
+      "id": "b2-czasowniki-03-070",
+      "question": "rule",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekonomista"
+        },
+        {
+          "id": "b",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "c",
+          "text": "reorganizować"
+        },
+        {
+          "id": "d",
+          "text": "rozrywka, atrakcja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rule” (czasownik, poziom B2) oznacza po polsku „panować, rządzić”."
+    },
+    {
+      "id": "b2-czasowniki-03-071",
+      "question": "sack",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badać, prowadzić badania naukowe, prowadzić badania"
+        },
+        {
+          "id": "b",
+          "text": "dok, basen portowy"
+        },
+        {
+          "id": "c",
+          "text": "(BR nieform) wyrzucać z pracy, wyrzucać"
+        },
+        {
+          "id": "d",
+          "text": "dziwny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sack” (czasownik, poziom B2) oznacza po polsku „(BR nieform) wyrzucać z pracy, wyrzucać”."
+    },
+    {
+      "id": "b2-czasowniki-03-072",
+      "question": "sail",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pedantyczny"
+        },
+        {
+          "id": "b",
+          "text": "płynąć"
+        },
+        {
+          "id": "c",
+          "text": "pozbywanie się, usuwanie"
+        },
+        {
+          "id": "d",
+          "text": "dok, basen portowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sail” (czasownik, poziom B2) oznacza po polsku „płynąć”."
+    },
+    {
+      "id": "b2-czasowniki-03-073",
+      "question": "schedule",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepowiadalny"
+        },
+        {
+          "id": "b",
+          "text": "planować, przeznaczać"
+        },
+        {
+          "id": "c",
+          "text": "rozdzierać, oddzierać"
+        },
+        {
+          "id": "d",
+          "text": "nieważny, drobny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„schedule” (czasownik, poziom B2) oznacza po polsku „planować, przeznaczać”."
+    }
+  ]
+}

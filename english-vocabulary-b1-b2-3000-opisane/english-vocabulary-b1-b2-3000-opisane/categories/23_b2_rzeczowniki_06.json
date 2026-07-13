@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-rzeczowniki-06",
+    "name": "B2 — Rzeczowniki 6/9 (L–N)"
+  },
+  "questions": [
+    {
+      "id": "b2-rzeczowniki-06-001",
+      "question": "lawn",
+      "answers": [
+        {
+          "id": "a",
+          "text": "etykieta"
+        },
+        {
+          "id": "b",
+          "text": "pracownik fizyczny, pracownik"
+        },
+        {
+          "id": "c",
+          "text": "trawnik"
+        },
+        {
+          "id": "d",
+          "text": "przeciek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lawn” (rzeczownik, poziom B2) oznacza po polsku „trawnik”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-002",
+      "question": "lawsuit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeciek"
+        },
+        {
+          "id": "b",
+          "text": "ulotka"
+        },
+        {
+          "id": "c",
+          "text": "śmieci"
+        },
+        {
+          "id": "d",
+          "text": "proces sądowy, postępowanie sądowe"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lawsuit” (rzeczownik, poziom B2) oznacza po polsku „proces sądowy, postępowanie sądowe”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-003",
+      "question": "layabout",
+      "answers": [
+        {
+          "id": "a",
+          "text": "producent"
+        },
+        {
+          "id": "b",
+          "text": "nicpoń"
+        },
+        {
+          "id": "c",
+          "text": "trawnik"
+        },
+        {
+          "id": "d",
+          "text": "etykieta"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„layabout” (rzeczownik, poziom B2) oznacza po polsku „nicpoń”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-004",
+      "question": "leaflet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ulotka"
+        },
+        {
+          "id": "b",
+          "text": "smycz"
+        },
+        {
+          "id": "c",
+          "text": "posłaniec"
+        },
+        {
+          "id": "d",
+          "text": "masaż"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„leaflet” (rzeczownik, poziom B2) oznacza po polsku „ulotka”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-005",
+      "question": "leak",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zastrzyk"
+        },
+        {
+          "id": "b",
+          "text": "nicpoń"
+        },
+        {
+          "id": "c",
+          "text": "przeciek"
+        },
+        {
+          "id": "d",
+          "text": "legislatura"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„leak” (rzeczownik, poziom B2) oznacza po polsku „przeciek”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-006",
+      "question": "leap",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynalazca"
+        },
+        {
+          "id": "b",
+          "text": "instytucja"
+        },
+        {
+          "id": "c",
+          "text": "najście"
+        },
+        {
+          "id": "d",
+          "text": "skok"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„leap” (rzeczownik, poziom B2) oznacza po polsku „skok”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-007",
+      "question": "learning",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "b",
+          "text": "głęboka wiedza, wiedza"
+        },
+        {
+          "id": "c",
+          "text": "choroba"
+        },
+        {
+          "id": "d",
+          "text": "por"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„learning” (rzeczownik, poziom B2) oznacza po polsku „głęboka wiedza, wiedza”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-008",
+      "question": "lease",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lampart"
+        },
+        {
+          "id": "b",
+          "text": "dzierżawa, najem"
+        },
+        {
+          "id": "c",
+          "text": "biegłość"
+        },
+        {
+          "id": "d",
+          "text": "dziennikarstwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lease” (rzeczownik, poziom B2) oznacza po polsku „dzierżawa, najem”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-009",
+      "question": "leash",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "b",
+          "text": "intruz, natręt"
+        },
+        {
+          "id": "c",
+          "text": "smycz"
+        },
+        {
+          "id": "d",
+          "text": "zastrzyk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„leash” (rzeczownik, poziom B2) oznacza po polsku „smycz”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-010",
+      "question": "lecturer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ulotka"
+        },
+        {
+          "id": "b",
+          "text": "masaż"
+        },
+        {
+          "id": "c",
+          "text": "kangur"
+        },
+        {
+          "id": "d",
+          "text": "wykładowca, docent"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lecturer” (rzeczownik, poziom B2) oznacza po polsku „wykładowca, docent”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-011",
+      "question": "leek",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słowa pieśni, słowa"
+        },
+        {
+          "id": "b",
+          "text": "por"
+        },
+        {
+          "id": "c",
+          "text": "melodia"
+        },
+        {
+          "id": "d",
+          "text": "instynkt"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„leek” (rzeczownik, poziom B2) oznacza po polsku „por”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-012",
+      "question": "legend",
+      "answers": [
+        {
+          "id": "a",
+          "text": "całe życie, życie"
+        },
+        {
+          "id": "b",
+          "text": "len"
+        },
+        {
+          "id": "c",
+          "text": "legenda"
+        },
+        {
+          "id": "d",
+          "text": "cudzysłów"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„legend” (rzeczownik, poziom B2) oznacza po polsku „legenda”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-013",
+      "question": "legislation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziennikarstwo"
+        },
+        {
+          "id": "b",
+          "text": "sąd przysięgłych"
+        },
+        {
+          "id": "c",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "d",
+          "text": "ustawodawstwo, prawodawstwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„legislation” (rzeczownik, poziom B2) oznacza po polsku „ustawodawstwo, prawodawstwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-014",
+      "question": "legislature",
+      "answers": [
+        {
+          "id": "a",
+          "text": "legislatura"
+        },
+        {
+          "id": "b",
+          "text": "producent"
+        },
+        {
+          "id": "c",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "d",
+          "text": "smycz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„legislature” (rzeczownik, poziom B2) oznacza po polsku „legislatura”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-015",
+      "question": "leopard",
+      "answers": [
+        {
+          "id": "a",
+          "text": "litość, miłosierdzie"
+        },
+        {
+          "id": "b",
+          "text": "tłumacz ustny, tłumacz"
+        },
+        {
+          "id": "c",
+          "text": "lampart"
+        },
+        {
+          "id": "d",
+          "text": "melodia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„leopard” (rzeczownik, poziom B2) oznacza po polsku „lampart”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-016",
+      "question": "lid",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mentor"
+        },
+        {
+          "id": "b",
+          "text": "cudzysłów"
+        },
+        {
+          "id": "c",
+          "text": "zaangażowanie"
+        },
+        {
+          "id": "d",
+          "text": "pokrywka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lid” (rzeczownik, poziom B2) oznacza po polsku „pokrywka”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-017",
+      "question": "lifetime",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezydencja"
+        },
+        {
+          "id": "b",
+          "text": "prowadzący dochodzenie"
+        },
+        {
+          "id": "c",
+          "text": "tłumacz ustny, tłumacz"
+        },
+        {
+          "id": "d",
+          "text": "całe życie, życie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lifetime” (rzeczownik, poziom B2) oznacza po polsku „całe życie, życie”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-018",
+      "question": "lighting",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczęka, żuchwa"
+        },
+        {
+          "id": "b",
+          "text": "instytucja"
+        },
+        {
+          "id": "c",
+          "text": "towary, towar"
+        },
+        {
+          "id": "d",
+          "text": "oświetlenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lighting” (rzeczownik, poziom B2) oznacza po polsku „oświetlenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-019",
+      "question": "limb",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nicpoń"
+        },
+        {
+          "id": "b",
+          "text": "proces sądowy, postępowanie sądowe"
+        },
+        {
+          "id": "c",
+          "text": "kończyna, odnóże"
+        },
+        {
+          "id": "d",
+          "text": "szaleństwo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„limb” (rzeczownik, poziom B2) oznacza po polsku „kończyna, odnóże”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-020",
+      "question": "linen",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obraza"
+        },
+        {
+          "id": "b",
+          "text": "len"
+        },
+        {
+          "id": "c",
+          "text": "skok"
+        },
+        {
+          "id": "d",
+          "text": "por"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„linen” (rzeczownik, poziom B2) oznacza po polsku „len”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-021",
+      "question": "liner",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hall, westybul"
+        },
+        {
+          "id": "b",
+          "text": "liniowiec, statek transatlantycki"
+        },
+        {
+          "id": "c",
+          "text": "irytacja"
+        },
+        {
+          "id": "d",
+          "text": "rezydencja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„liner” (rzeczownik, poziom B2) oznacza po polsku „liniowiec, statek transatlantycki”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-022",
+      "question": "listener",
+      "answers": [
+        {
+          "id": "a",
+          "text": "legislatura"
+        },
+        {
+          "id": "b",
+          "text": "gospodyni"
+        },
+        {
+          "id": "c",
+          "text": "słuchacz"
+        },
+        {
+          "id": "d",
+          "text": "wynalazca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„listener” (rzeczownik, poziom B2) oznacza po polsku „słuchacz”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-023",
+      "question": "litter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pralnia"
+        },
+        {
+          "id": "b",
+          "text": "wnętrze"
+        },
+        {
+          "id": "c",
+          "text": "śmieci"
+        },
+        {
+          "id": "d",
+          "text": "utrzymanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„litter” (rzeczownik, poziom B2) oznacza po polsku „śmieci”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-024",
+      "question": "living",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzierżawa, najem"
+        },
+        {
+          "id": "b",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "c",
+          "text": "wykładowca, docent"
+        },
+        {
+          "id": "d",
+          "text": "smycz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„living” (rzeczownik, poziom B2) oznacza po polsku „utrzymanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-025",
+      "question": "loan",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykładowca, docent"
+        },
+        {
+          "id": "b",
+          "text": "mauzoleum"
+        },
+        {
+          "id": "c",
+          "text": "pożyczka, kredyt bankowy, kredyt"
+        },
+        {
+          "id": "d",
+          "text": "prowadzący dochodzenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„loan” (rzeczownik, poziom B2) oznacza po polsku „pożyczka, kredyt bankowy, kredyt”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-026",
+      "question": "lobby",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lawa"
+        },
+        {
+          "id": "b",
+          "text": "hall, westybul"
+        },
+        {
+          "id": "c",
+          "text": "podest"
+        },
+        {
+          "id": "d",
+          "text": "litość, miłosierdzie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lobby” (rzeczownik, poziom B2) oznacza po polsku „hall, westybul”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-027",
+      "question": "lyrics",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożyczka, kredyt bankowy, kredyt"
+        },
+        {
+          "id": "b",
+          "text": "pokrywka"
+        },
+        {
+          "id": "c",
+          "text": "malaria"
+        },
+        {
+          "id": "d",
+          "text": "słowa pieśni, słowa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lyrics” (rzeczownik, poziom B2) oznacza po polsku „słowa pieśni, słowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-028",
+      "question": "madness",
+      "answers": [
+        {
+          "id": "a",
+          "text": "smycz"
+        },
+        {
+          "id": "b",
+          "text": "skok"
+        },
+        {
+          "id": "c",
+          "text": "jubiler"
+        },
+        {
+          "id": "d",
+          "text": "szaleństwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„madness” (rzeczownik, poziom B2) oznacza po polsku „szaleństwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-029",
+      "question": "major",
+      "answers": [
+        {
+          "id": "a",
+          "text": "posłaniec"
+        },
+        {
+          "id": "b",
+          "text": "dozorca"
+        },
+        {
+          "id": "c",
+          "text": "(wojsk) major"
+        },
+        {
+          "id": "d",
+          "text": "melodia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„major” (rzeczownik, poziom B2) oznacza po polsku „(wojsk) major”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-030",
+      "question": "malady",
+      "answers": [
+        {
+          "id": "a",
+          "text": "margines"
+        },
+        {
+          "id": "b",
+          "text": "laser"
+        },
+        {
+          "id": "c",
+          "text": "skowronek"
+        },
+        {
+          "id": "d",
+          "text": "choroba"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„malady” (rzeczownik, poziom B2) oznacza po polsku „choroba”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-031",
+      "question": "malaria",
+      "answers": [
+        {
+          "id": "a",
+          "text": "litość, miłosierdzie"
+        },
+        {
+          "id": "b",
+          "text": "malaria"
+        },
+        {
+          "id": "c",
+          "text": "słuchacz"
+        },
+        {
+          "id": "d",
+          "text": "komputer przenośny, przenośny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„malaria” (rzeczownik, poziom B2) oznacza po polsku „malaria”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-032",
+      "question": "mango",
+      "answers": [
+        {
+          "id": "a",
+          "text": "śmieci"
+        },
+        {
+          "id": "b",
+          "text": "mango"
+        },
+        {
+          "id": "c",
+          "text": "biegłość"
+        },
+        {
+          "id": "d",
+          "text": "rezydencja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mango” (rzeczownik, poziom B2) oznacza po polsku „mango”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-033",
+      "question": "mansion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezydencja"
+        },
+        {
+          "id": "b",
+          "text": "szczęka, żuchwa"
+        },
+        {
+          "id": "c",
+          "text": "lampart"
+        },
+        {
+          "id": "d",
+          "text": "inwestowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mansion” (rzeczownik, poziom B2) oznacza po polsku „rezydencja”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-034",
+      "question": "manufacture",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynalazca"
+        },
+        {
+          "id": "b",
+          "text": "produkcja"
+        },
+        {
+          "id": "c",
+          "text": "wyspiarz"
+        },
+        {
+          "id": "d",
+          "text": "przeciek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„manufacture” (rzeczownik, poziom B2) oznacza po polsku „produkcja”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-035",
+      "question": "manufacturer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komputer przenośny, przenośny"
+        },
+        {
+          "id": "b",
+          "text": "pomnik"
+        },
+        {
+          "id": "c",
+          "text": "fuzja"
+        },
+        {
+          "id": "d",
+          "text": "producent"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„manufacturer” (rzeczownik, poziom B2) oznacza po polsku „producent”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-036",
+      "question": "marathon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezydencja"
+        },
+        {
+          "id": "b",
+          "text": "nicpoń"
+        },
+        {
+          "id": "c",
+          "text": "maraton"
+        },
+        {
+          "id": "d",
+          "text": "biegłość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„marathon” (rzeczownik, poziom B2) oznacza po polsku „maraton”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-037",
+      "question": "margin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(miejsce) kolana"
+        },
+        {
+          "id": "b",
+          "text": "środki masowego przekazu"
+        },
+        {
+          "id": "c",
+          "text": "margines"
+        },
+        {
+          "id": "d",
+          "text": "zastrzyk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„margin” (rzeczownik, poziom B2) oznacza po polsku „margines”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-038",
+      "question": "marketing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marketing"
+        },
+        {
+          "id": "b",
+          "text": "masakra"
+        },
+        {
+          "id": "c",
+          "text": "proces sądowy, postępowanie sądowe"
+        },
+        {
+          "id": "d",
+          "text": "dziennikarstwo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„marketing” (rzeczownik, poziom B2) oznacza po polsku „marketing”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-039",
+      "question": "mask",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sposób"
+        },
+        {
+          "id": "b",
+          "text": "głęboka wiedza, wiedza"
+        },
+        {
+          "id": "c",
+          "text": "prowadzący dochodzenie"
+        },
+        {
+          "id": "d",
+          "text": "maska"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mask” (rzeczownik, poziom B2) oznacza po polsku „maska”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-040",
+      "question": "massacre",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gospodyni"
+        },
+        {
+          "id": "b",
+          "text": "masakra"
+        },
+        {
+          "id": "c",
+          "text": "instytucja"
+        },
+        {
+          "id": "d",
+          "text": "szczęka, żuchwa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„massacre” (rzeczownik, poziom B2) oznacza po polsku „masakra”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-041",
+      "question": "massage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marketing"
+        },
+        {
+          "id": "b",
+          "text": "masaż"
+        },
+        {
+          "id": "c",
+          "text": "pracownik fizyczny, pracownik"
+        },
+        {
+          "id": "d",
+          "text": "inwestor"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„massage” (rzeczownik, poziom B2) oznacza po polsku „masaż”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-042",
+      "question": "master",
+      "answers": [
+        {
+          "id": "a",
+          "text": "irytacja"
+        },
+        {
+          "id": "b",
+          "text": "intruz, natręt"
+        },
+        {
+          "id": "c",
+          "text": "pokrywka"
+        },
+        {
+          "id": "d",
+          "text": "pan"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„master” (rzeczownik, poziom B2) oznacza po polsku „pan”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-043",
+      "question": "masterpiece",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oświetlenie"
+        },
+        {
+          "id": "b",
+          "text": "arcydzieło"
+        },
+        {
+          "id": "c",
+          "text": "gospodyni"
+        },
+        {
+          "id": "d",
+          "text": "maraton"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„masterpiece” (rzeczownik, poziom B2) oznacza po polsku „arcydzieło”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-044",
+      "question": "mastery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "legenda"
+        },
+        {
+          "id": "b",
+          "text": "masaż"
+        },
+        {
+          "id": "c",
+          "text": "biegłość"
+        },
+        {
+          "id": "d",
+          "text": "zastrzyk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mastery” (rzeczownik, poziom B2) oznacza po polsku „biegłość”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-045",
+      "question": "mate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeciek"
+        },
+        {
+          "id": "b",
+          "text": "posłaniec"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) kumpel"
+        },
+        {
+          "id": "d",
+          "text": "przerwanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mate” (rzeczownik, poziom B2) oznacza po polsku „(nieform) kumpel”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-046",
+      "question": "mausoleum",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mauzoleum"
+        },
+        {
+          "id": "b",
+          "text": "kangur"
+        },
+        {
+          "id": "c",
+          "text": "wyspiarz"
+        },
+        {
+          "id": "d",
+          "text": "środki masowego przekazu"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mausoleum” (rzeczownik, poziom B2) oznacza po polsku „mauzoleum”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-047",
+      "question": "mean",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trawnik"
+        },
+        {
+          "id": "b",
+          "text": "umiar, powściągliwość"
+        },
+        {
+          "id": "c",
+          "text": "produkcja"
+        },
+        {
+          "id": "d",
+          "text": "jubiler"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mean” (rzeczownik, poziom B2) oznacza po polsku „umiar, powściągliwość”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-048",
+      "question": "means",
+      "answers": [
+        {
+          "id": "a",
+          "text": "intruz, natręt"
+        },
+        {
+          "id": "b",
+          "text": "ulotka"
+        },
+        {
+          "id": "c",
+          "text": "wynalazca"
+        },
+        {
+          "id": "d",
+          "text": "sposób"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„means” (rzeczownik, poziom B2) oznacza po polsku „sposób”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-049",
+      "question": "media",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przerwanie"
+        },
+        {
+          "id": "b",
+          "text": "środki masowego przekazu"
+        },
+        {
+          "id": "c",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "d",
+          "text": "pralnia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„media” (rzeczownik, poziom B2) oznacza po polsku „środki masowego przekazu”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-050",
+      "question": "medication",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekarstwo"
+        },
+        {
+          "id": "b",
+          "text": "legislatura"
+        },
+        {
+          "id": "c",
+          "text": "skowronek"
+        },
+        {
+          "id": "d",
+          "text": "laser"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„medication” (rzeczownik, poziom B2) oznacza po polsku „lekarstwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-051",
+      "question": "melody",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lampart"
+        },
+        {
+          "id": "b",
+          "text": "obraza"
+        },
+        {
+          "id": "c",
+          "text": "melodia"
+        },
+        {
+          "id": "d",
+          "text": "pożyczka, kredyt bankowy, kredyt"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„melody” (rzeczownik, poziom B2) oznacza po polsku „melodia”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-052",
+      "question": "memorial",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomnik"
+        },
+        {
+          "id": "b",
+          "text": "obraza"
+        },
+        {
+          "id": "c",
+          "text": "smycz"
+        },
+        {
+          "id": "d",
+          "text": "mango"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„memorial” (rzeczownik, poziom B2) oznacza po polsku „pomnik”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-053",
+      "question": "mentor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "masakra"
+        },
+        {
+          "id": "b",
+          "text": "mentor"
+        },
+        {
+          "id": "c",
+          "text": "wykładowca, docent"
+        },
+        {
+          "id": "d",
+          "text": "najście"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mentor” (rzeczownik, poziom B2) oznacza po polsku „mentor”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-054",
+      "question": "merchandise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wprowadzanie"
+        },
+        {
+          "id": "b",
+          "text": "towary, towar"
+        },
+        {
+          "id": "c",
+          "text": "trucht"
+        },
+        {
+          "id": "d",
+          "text": "ulotka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„merchandise” (rzeczownik, poziom B2) oznacza po polsku „towary, towar”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-055",
+      "question": "mercy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "litość, miłosierdzie"
+        },
+        {
+          "id": "b",
+          "text": "por"
+        },
+        {
+          "id": "c",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "d",
+          "text": "choroba"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mercy” (rzeczownik, poziom B2) oznacza po polsku „litość, miłosierdzie”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-056",
+      "question": "merger",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pan"
+        },
+        {
+          "id": "b",
+          "text": "fuzja"
+        },
+        {
+          "id": "c",
+          "text": "mentor"
+        },
+        {
+          "id": "d",
+          "text": "słuchacz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„merger” (rzeczownik, poziom B2) oznacza po polsku „fuzja”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-057",
+      "question": "messenger",
+      "answers": [
+        {
+          "id": "a",
+          "text": "posłaniec"
+        },
+        {
+          "id": "b",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "c",
+          "text": "smycz"
+        },
+        {
+          "id": "d",
+          "text": "ulotka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„messenger” (rzeczownik, poziom B2) oznacza po polsku „posłaniec”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-058",
+      "question": "metaphor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "teściowa"
+        },
+        {
+          "id": "b",
+          "text": "metafora, przenośnia"
+        },
+        {
+          "id": "c",
+          "text": "migracja, wędrówka"
+        },
+        {
+          "id": "d",
+          "text": "wąsy, wąs"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„metaphor” (rzeczownik, poziom B2) oznacza po polsku „metafora, przenośnia”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-059",
+      "question": "microbe",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nominacja"
+        },
+        {
+          "id": "b",
+          "text": "orchidea"
+        },
+        {
+          "id": "c",
+          "text": "zero"
+        },
+        {
+          "id": "d",
+          "text": "mikrob, drobnoustrój"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„microbe” (rzeczownik, poziom B2) oznacza po polsku „mikrob, drobnoustrój”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-060",
+      "question": "microphone",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mieszanka"
+        },
+        {
+          "id": "b",
+          "text": "mgła"
+        },
+        {
+          "id": "c",
+          "text": "mikrob, drobnoustrój"
+        },
+        {
+          "id": "d",
+          "text": "mikrofon"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„microphone” (rzeczownik, poziom B2) oznacza po polsku „mikrofon”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-061",
+      "question": "microscope",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynik"
+        },
+        {
+          "id": "b",
+          "text": "rakieta, pocisk rakietowy"
+        },
+        {
+          "id": "c",
+          "text": "utrapienie, coś nieznośnego"
+        },
+        {
+          "id": "d",
+          "text": "mikroskop"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„microscope” (rzeczownik, poziom B2) oznacza po polsku „mikroskop”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-062",
+      "question": "microwave",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kuchenka mikrofalowa"
+        },
+        {
+          "id": "b",
+          "text": "mgła"
+        },
+        {
+          "id": "c",
+          "text": "nomad"
+        },
+        {
+          "id": "d",
+          "text": "poglądy, światopogląd"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„microwave” (rzeczownik, poziom B2) oznacza po polsku „kuchenka mikrofalowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-063",
+      "question": "midst",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utrapienie, coś nieznośnego"
+        },
+        {
+          "id": "b",
+          "text": "mruczenie"
+        },
+        {
+          "id": "c",
+          "text": "w środku, w trakcie"
+        },
+        {
+          "id": "d",
+          "text": "w kilku słowach"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„midst” (rzeczownik, poziom B2) oznacza po polsku „w środku, w trakcie”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-064",
+      "question": "migration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "migracja, wędrówka"
+        },
+        {
+          "id": "b",
+          "text": "obsesja"
+        },
+        {
+          "id": "c",
+          "text": "nomad"
+        },
+        {
+          "id": "d",
+          "text": "moździerz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„migration” (rzeczownik, poziom B2) oznacza po polsku „migracja, wędrówka”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-065",
+      "question": "mill",
+      "answers": [
+        {
+          "id": "a",
+          "text": "młyn"
+        },
+        {
+          "id": "b",
+          "text": "prezenter"
+        },
+        {
+          "id": "c",
+          "text": "przedszkole"
+        },
+        {
+          "id": "d",
+          "text": "wyższy urzędnik, urzędnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mill” (rzeczownik, poziom B2) oznacza po polsku „młyn”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-066",
+      "question": "millimetre",
+      "answers": [
+        {
+          "id": "a",
+          "text": "milimetr"
+        },
+        {
+          "id": "b",
+          "text": "zachodzenie, część wspólna"
+        },
+        {
+          "id": "c",
+          "text": "zobowiązanie, obowiązek"
+        },
+        {
+          "id": "d",
+          "text": "obserwator"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„millimetre” (rzeczownik, poziom B2) oznacza po polsku „milimetr”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-067",
+      "question": "millionaire",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moralność"
+        },
+        {
+          "id": "b",
+          "text": "zaniedbanie, niedopatrzenie"
+        },
+        {
+          "id": "c",
+          "text": "samochodziarz, automobilista"
+        },
+        {
+          "id": "d",
+          "text": "milioner"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„millionaire” (rzeczownik, poziom B2) oznacza po polsku „milioner”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-068",
+      "question": "mimic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mimik"
+        },
+        {
+          "id": "b",
+          "text": "nieszczęście"
+        },
+        {
+          "id": "c",
+          "text": "rakieta, pocisk rakietowy"
+        },
+        {
+          "id": "d",
+          "text": "mikrob, drobnoustrój"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mimic” (rzeczownik, poziom B2) oznacza po polsku „mimik”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-069",
+      "question": "mine",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedszkole"
+        },
+        {
+          "id": "b",
+          "text": "kopalnia"
+        },
+        {
+          "id": "c",
+          "text": "operator"
+        },
+        {
+          "id": "d",
+          "text": "ruch"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mine” (rzeczownik, poziom B2) oznacza po polsku „kopalnia”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-070",
+      "question": "minister",
+      "answers": [
+        {
+          "id": "a",
+          "text": "minister"
+        },
+        {
+          "id": "b",
+          "text": "wyściółka"
+        },
+        {
+          "id": "c",
+          "text": "poglądy, światopogląd"
+        },
+        {
+          "id": "d",
+          "text": "motor, motocykl"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„minister” (rzeczownik, poziom B2) oznacza po polsku „minister”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-071",
+      "question": "mint",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(w Australii) głusza, pustkowie"
+        },
+        {
+          "id": "b",
+          "text": "operator"
+        },
+        {
+          "id": "c",
+          "text": "mięta"
+        },
+        {
+          "id": "d",
+          "text": "wybuch"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mint” (rzeczownik, poziom B2) oznacza po polsku „mięta”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-072",
+      "question": "misconception",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsesja"
+        },
+        {
+          "id": "b",
+          "text": "marynarka wojenna, marynarka"
+        },
+        {
+          "id": "c",
+          "text": "nieporozumienie, błędne zrozumienie"
+        },
+        {
+          "id": "d",
+          "text": "wykroczenie, przestępstwo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„misconception” (rzeczownik, poziom B2) oznacza po polsku „nieporozumienie, błędne zrozumienie”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-073",
+      "question": "misfortune",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kuchenka mikrofalowa"
+        },
+        {
+          "id": "b",
+          "text": "rakieta, pocisk rakietowy"
+        },
+        {
+          "id": "c",
+          "text": "nieszczęście"
+        },
+        {
+          "id": "d",
+          "text": "wąsy, wąs"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„misfortune” (rzeczownik, poziom B2) oznacza po polsku „nieszczęście”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-074",
+      "question": "missile",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybuch"
+        },
+        {
+          "id": "b",
+          "text": "mięta"
+        },
+        {
+          "id": "c",
+          "text": "rakieta, pocisk rakietowy"
+        },
+        {
+          "id": "d",
+          "text": "kuchenka mikrofalowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„missile” (rzeczownik, poziom B2) oznacza po polsku „rakieta, pocisk rakietowy”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-075",
+      "question": "mist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samochodziarz, automobilista"
+        },
+        {
+          "id": "b",
+          "text": "gruby płaszcz, płaszcz"
+        },
+        {
+          "id": "c",
+          "text": "moździerz"
+        },
+        {
+          "id": "d",
+          "text": "mgła"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mist” (rzeczownik, poziom B2) oznacza po polsku „mgła”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-076",
+      "question": "mix",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyściółka"
+        },
+        {
+          "id": "b",
+          "text": "wyższy urzędnik, urzędnik"
+        },
+        {
+          "id": "c",
+          "text": "(na ciasto) mieszanka, proszek"
+        },
+        {
+          "id": "d",
+          "text": "uncja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mix” (rzeczownik, poziom B2) oznacza po polsku „(na ciasto) mieszanka, proszek”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-077",
+      "question": "mixture",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poglądy, światopogląd"
+        },
+        {
+          "id": "b",
+          "text": "mieszanka"
+        },
+        {
+          "id": "c",
+          "text": "wykroczenie, przestępstwo"
+        },
+        {
+          "id": "d",
+          "text": "teściowa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mixture” (rzeczownik, poziom B2) oznacza po polsku „mieszanka”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-078",
+      "question": "mobility",
+      "answers": [
+        {
+          "id": "a",
+          "text": "operator"
+        },
+        {
+          "id": "b",
+          "text": "wycieczka, wyprawa"
+        },
+        {
+          "id": "c",
+          "text": "mobilność"
+        },
+        {
+          "id": "d",
+          "text": "żegluga"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mobility” (rzeczownik, poziom B2) oznacza po polsku „mobilność”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-079",
+      "question": "modification",
+      "answers": [
+        {
+          "id": "a",
+          "text": "maść, krem"
+        },
+        {
+          "id": "b",
+          "text": "wycieczka, wyprawa"
+        },
+        {
+          "id": "c",
+          "text": "potrzeba"
+        },
+        {
+          "id": "d",
+          "text": "modyfikacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„modification” (rzeczownik, poziom B2) oznacza po polsku „modyfikacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-080",
+      "question": "monastery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "forma"
+        },
+        {
+          "id": "b",
+          "text": "gruby płaszcz, płaszcz"
+        },
+        {
+          "id": "c",
+          "text": "w kilku słowach"
+        },
+        {
+          "id": "d",
+          "text": "klasztor"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„monastery” (rzeczownik, poziom B2) oznacza po polsku „klasztor”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-081",
+      "question": "moonlight",
+      "answers": [
+        {
+          "id": "a",
+          "text": "teściowa"
+        },
+        {
+          "id": "b",
+          "text": "światło księżyca"
+        },
+        {
+          "id": "c",
+          "text": "przestępca, sprawca wykroczenia"
+        },
+        {
+          "id": "d",
+          "text": "strój"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„moonlight” (rzeczownik, poziom B2) oznacza po polsku „światło księżyca”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-082",
+      "question": "morality",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przysięga"
+        },
+        {
+          "id": "b",
+          "text": "moralność"
+        },
+        {
+          "id": "c",
+          "text": "zobowiązanie, obowiązek"
+        },
+        {
+          "id": "d",
+          "text": "paczka, opakowanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„morality” (rzeczownik, poziom B2) oznacza po polsku „moralność”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-083",
+      "question": "mortar",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moździerz"
+        },
+        {
+          "id": "b",
+          "text": "ruch"
+        },
+        {
+          "id": "c",
+          "text": "nerw"
+        },
+        {
+          "id": "d",
+          "text": "w środku, w trakcie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mortar” (rzeczownik, poziom B2) oznacza po polsku „moździerz”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-084",
+      "question": "mortgage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożyczka, dług hipoteczny"
+        },
+        {
+          "id": "b",
+          "text": "zarys, szkic"
+        },
+        {
+          "id": "c",
+          "text": "światło księżyca"
+        },
+        {
+          "id": "d",
+          "text": "(na ciasto) mieszanka, proszek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mortgage” (rzeczownik, poziom B2) oznacza po polsku „pożyczka, dług hipoteczny”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-085",
+      "question": "mother-in-law",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mobilność"
+        },
+        {
+          "id": "b",
+          "text": "mikrob, drobnoustrój"
+        },
+        {
+          "id": "c",
+          "text": "maść, krem"
+        },
+        {
+          "id": "d",
+          "text": "teściowa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mother-in-law” (rzeczownik, poziom B2) oznacza po polsku „teściowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-086",
+      "question": "motion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mieszanka"
+        },
+        {
+          "id": "b",
+          "text": "ozdoba"
+        },
+        {
+          "id": "c",
+          "text": "(na ciasto) mieszanka, proszek"
+        },
+        {
+          "id": "d",
+          "text": "ruch"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„motion” (rzeczownik, poziom B2) oznacza po polsku „ruch”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-087",
+      "question": "motorbike",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nozdrza"
+        },
+        {
+          "id": "b",
+          "text": "nerwica"
+        },
+        {
+          "id": "c",
+          "text": "motor, motocykl"
+        },
+        {
+          "id": "d",
+          "text": "klasztor"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„motorbike” (rzeczownik, poziom B2) oznacza po polsku „motor, motocykl”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-088",
+      "question": "motorist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samochodziarz, automobilista"
+        },
+        {
+          "id": "b",
+          "text": "praca papierkowa"
+        },
+        {
+          "id": "c",
+          "text": "strój"
+        },
+        {
+          "id": "d",
+          "text": "mikrob, drobnoustrój"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„motorist” (rzeczownik, poziom B2) oznacza po polsku „samochodziarz, automobilista”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-089",
+      "question": "mould",
+      "answers": [
+        {
+          "id": "a",
+          "text": "forma"
+        },
+        {
+          "id": "b",
+          "text": "prezenter"
+        },
+        {
+          "id": "c",
+          "text": "nerw"
+        },
+        {
+          "id": "d",
+          "text": "teściowa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mould” (rzeczownik, poziom B2) oznacza po polsku „forma”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-090",
+      "question": "moustache",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zero"
+        },
+        {
+          "id": "b",
+          "text": "wąsy, wąs"
+        },
+        {
+          "id": "c",
+          "text": "przestępca, sprawca wykroczenia"
+        },
+        {
+          "id": "d",
+          "text": "wycieczka, wyprawa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„moustache” (rzeczownik, poziom B2) oznacza po polsku „wąsy, wąs”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-091",
+      "question": "mumble",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w środku, w trakcie"
+        },
+        {
+          "id": "b",
+          "text": "mamrotać"
+        },
+        {
+          "id": "c",
+          "text": "kuchenka mikrofalowa"
+        },
+        {
+          "id": "d",
+          "text": "przedmieścia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mumble” (rzeczownik, poziom B2) oznacza po polsku „mamrotać”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-092",
+      "question": "murmur",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przestępca, sprawca wykroczenia"
+        },
+        {
+          "id": "b",
+          "text": "migracja, wędrówka"
+        },
+        {
+          "id": "c",
+          "text": "pomruk"
+        },
+        {
+          "id": "d",
+          "text": "nomad"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„murmur” (rzeczownik, poziom B2) oznacza po polsku „pomruk”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-093",
+      "question": "musical",
+      "answers": [
+        {
+          "id": "a",
+          "text": "musical"
+        },
+        {
+          "id": "b",
+          "text": "nerwica"
+        },
+        {
+          "id": "c",
+          "text": "rakieta, pocisk rakietowy"
+        },
+        {
+          "id": "d",
+          "text": "moralność"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„musical” (rzeczownik, poziom B2) oznacza po polsku „musical”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-094",
+      "question": "mutter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyściółka"
+        },
+        {
+          "id": "b",
+          "text": "samochodziarz, automobilista"
+        },
+        {
+          "id": "c",
+          "text": "mruczenie"
+        },
+        {
+          "id": "d",
+          "text": "uncja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mutter” (rzeczownik, poziom B2) oznacza po polsku „mruczenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-095",
+      "question": "mutton",
+      "answers": [
+        {
+          "id": "a",
+          "text": "baranina"
+        },
+        {
+          "id": "b",
+          "text": "człowiek niezależny, człowiek nie związany z grupą"
+        },
+        {
+          "id": "c",
+          "text": "nerwica"
+        },
+        {
+          "id": "d",
+          "text": "wycieczka, wyprawa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mutton” (rzeczownik, poziom B2) oznacza po polsku „baranina”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-096",
+      "question": "navigation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żegluga"
+        },
+        {
+          "id": "b",
+          "text": "mamrotać"
+        },
+        {
+          "id": "c",
+          "text": "milimetr"
+        },
+        {
+          "id": "d",
+          "text": "młyn"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„navigation” (rzeczownik, poziom B2) oznacza po polsku „żegluga”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-097",
+      "question": "navy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "motor, motocykl"
+        },
+        {
+          "id": "b",
+          "text": "konieczność"
+        },
+        {
+          "id": "c",
+          "text": "utrapienie, coś nieznośnego"
+        },
+        {
+          "id": "d",
+          "text": "marynarka wojenna, marynarka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„navy” (rzeczownik, poziom B2) oznacza po polsku „marynarka wojenna, marynarka”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-098",
+      "question": "necessity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klasztor"
+        },
+        {
+          "id": "b",
+          "text": "w środku, w trakcie"
+        },
+        {
+          "id": "c",
+          "text": "mimik"
+        },
+        {
+          "id": "d",
+          "text": "konieczność"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„necessity” (rzeczownik, poziom B2) oznacza po polsku „konieczność”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-099",
+      "question": "need",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ujście"
+        },
+        {
+          "id": "b",
+          "text": "potrzeba"
+        },
+        {
+          "id": "c",
+          "text": "au"
+        },
+        {
+          "id": "d",
+          "text": "minister"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„need” (rzeczownik, poziom B2) oznacza po polsku „potrzeba”."
+    },
+    {
+      "id": "b2-rzeczowniki-06-100",
+      "question": "neglect",
+      "answers": [
+        {
+          "id": "a",
+          "text": "praca papierkowa"
+        },
+        {
+          "id": "b",
+          "text": "mikroskop"
+        },
+        {
+          "id": "c",
+          "text": "zaniedbanie, niedopatrzenie"
+        },
+        {
+          "id": "d",
+          "text": "mikrofon"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„neglect” (rzeczownik, poziom B2) oznacza po polsku „zaniedbanie, niedopatrzenie”."
+    }
+  ]
+}

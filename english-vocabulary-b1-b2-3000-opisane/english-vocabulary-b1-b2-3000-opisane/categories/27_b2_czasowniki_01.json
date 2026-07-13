@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-czasowniki-01",
+    "name": "B2 — Czasowniki 1/3 (A–E)"
+  },
+  "questions": [
+    {
+      "id": "b2-czasowniki-01-001",
+      "question": "abolish",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewidywać"
+        },
+        {
+          "id": "b",
+          "text": "osiągalny, do osiągnięcia"
+        },
+        {
+          "id": "c",
+          "text": "obalić"
+        },
+        {
+          "id": "d",
+          "text": "arogancki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„abolish” (czasownik, poziom B2) oznacza po polsku „obalić”."
+    },
+    {
+      "id": "b2-czasowniki-01-002",
+      "question": "accumulate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dążyć"
+        },
+        {
+          "id": "b",
+          "text": "gromadzić"
+        },
+        {
+          "id": "c",
+          "text": "wysokość"
+        },
+        {
+          "id": "d",
+          "text": "ołtarz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„accumulate” (czasownik, poziom B2) oznacza po polsku „gromadzić”."
+    },
+    {
+      "id": "b2-czasowniki-01-003",
+      "question": "adore",
+      "answers": [
+        {
+          "id": "a",
+          "text": "anonimowy"
+        },
+        {
+          "id": "b",
+          "text": "uwielbiać"
+        },
+        {
+          "id": "c",
+          "text": "nabytek, zdobycz"
+        },
+        {
+          "id": "d",
+          "text": "(form) artykułować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„adore” (czasownik, poziom B2) oznacza po polsku „uwielbiać”."
+    },
+    {
+      "id": "b2-czasowniki-01-004",
+      "question": "adorn",
+      "answers": [
+        {
+          "id": "a",
+          "text": "po pierwsze"
+        },
+        {
+          "id": "b",
+          "text": "uzależnienie"
+        },
+        {
+          "id": "c",
+          "text": "biorąc pod uwagę"
+        },
+        {
+          "id": "d",
+          "text": "przyozdabiać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„adorn” (czasownik, poziom B2) oznacza po polsku „przyozdabiać”."
+    },
+    {
+      "id": "b2-czasowniki-01-005",
+      "question": "agonize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kwas"
+        },
+        {
+          "id": "b",
+          "text": "gromadzić"
+        },
+        {
+          "id": "c",
+          "text": "zadręczać się, przemyśliwać"
+        },
+        {
+          "id": "d",
+          "text": "na końcu"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„agonize” (czasownik, poziom B2) oznacza po polsku „zadręczać się, przemyśliwać”."
+    },
+    {
+      "id": "b2-czasowniki-01-006",
+      "question": "alert",
+      "answers": [
+        {
+          "id": "a",
+          "text": "z przekonaniem"
+        },
+        {
+          "id": "b",
+          "text": "zatwierdzać"
+        },
+        {
+          "id": "c",
+          "text": "ostrzegać"
+        },
+        {
+          "id": "d",
+          "text": "przymierze, współpraca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„alert” (czasownik, poziom B2) oznacza po polsku „ostrzegać”."
+    },
+    {
+      "id": "b2-czasowniki-01-007",
+      "question": "alter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywiać"
+        },
+        {
+          "id": "b",
+          "text": "przymierze, współpraca"
+        },
+        {
+          "id": "c",
+          "text": "zmieniać się, zmieniać"
+        },
+        {
+          "id": "d",
+          "text": "znakomity, godny podziwu"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„alter” (czasownik, poziom B2) oznacza po polsku „zmieniać się, zmieniać”."
+    },
+    {
+      "id": "b2-czasowniki-01-008",
+      "question": "alternate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oskarżenie"
+        },
+        {
+          "id": "b",
+          "text": "przybliżony"
+        },
+        {
+          "id": "c",
+          "text": "pobudzać, poruszać"
+        },
+        {
+          "id": "d",
+          "text": "przerzucać się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„alternate” (czasownik, poziom B2) oznacza po polsku „przerzucać się”."
+    },
+    {
+      "id": "b2-czasowniki-01-009",
+      "question": "amaze",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uzależnienie"
+        },
+        {
+          "id": "b",
+          "text": "arogancki"
+        },
+        {
+          "id": "c",
+          "text": "w zasadzie"
+        },
+        {
+          "id": "d",
+          "text": "zadziwiać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„amaze” (czasownik, poziom B2) oznacza po polsku „zadziwiać”."
+    },
+    {
+      "id": "b2-czasowniki-01-010",
+      "question": "amplify",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podwójnie"
+        },
+        {
+          "id": "b",
+          "text": "(wypłata) zaliczka, pożyczka"
+        },
+        {
+          "id": "c",
+          "text": "wzmacniać"
+        },
+        {
+          "id": "d",
+          "text": "awans"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„amplify” (czasownik, poziom B2) oznacza po polsku „wzmacniać”."
+    },
+    {
+      "id": "b2-czasowniki-01-011",
+      "question": "amuse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "na wschód"
+        },
+        {
+          "id": "b",
+          "text": "rozbawiać"
+        },
+        {
+          "id": "c",
+          "text": "odnoszący się, tyczący się, co się tyczy"
+        },
+        {
+          "id": "d",
+          "text": "ostry"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„amuse” (czasownik, poziom B2) oznacza po polsku „rozbawiać”."
+    },
+    {
+      "id": "b2-czasowniki-01-012",
+      "question": "animate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samolot"
+        },
+        {
+          "id": "b",
+          "text": "ożywiać"
+        },
+        {
+          "id": "c",
+          "text": "gromadzić"
+        },
+        {
+          "id": "d",
+          "text": "ołtarz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„animate” (czasownik, poziom B2) oznacza po polsku „ożywiać”."
+    },
+    {
+      "id": "b2-czasowniki-01-013",
+      "question": "anticipate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewidywać"
+        },
+        {
+          "id": "b",
+          "text": "antyk, zabytek"
+        },
+        {
+          "id": "c",
+          "text": "podwójnie"
+        },
+        {
+          "id": "d",
+          "text": "przyozdabiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„anticipate” (czasownik, poziom B2) oznacza po polsku „przewidywać”."
+    },
+    {
+      "id": "b2-czasowniki-01-014",
+      "question": "arouse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oskarżenie"
+        },
+        {
+          "id": "b",
+          "text": "alfabetyczny"
+        },
+        {
+          "id": "c",
+          "text": "uwielbiać"
+        },
+        {
+          "id": "d",
+          "text": "pobudzać, poruszać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„arouse” (czasownik, poziom B2) oznacza po polsku „pobudzać, poruszać”."
+    },
+    {
+      "id": "b2-czasowniki-01-015",
+      "question": "articulate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "na odwrót"
+        },
+        {
+          "id": "b",
+          "text": "na wschód"
+        },
+        {
+          "id": "c",
+          "text": "(form) artykułować"
+        },
+        {
+          "id": "d",
+          "text": "gromadzić się, gromadzić"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„articulate” (czasownik, poziom B2) oznacza po polsku „(form) artykułować”."
+    },
+    {
+      "id": "b2-czasowniki-01-016",
+      "question": "aspire",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagle, raptownie"
+        },
+        {
+          "id": "b",
+          "text": "arktyczny"
+        },
+        {
+          "id": "c",
+          "text": "groteskowy, absurdalny"
+        },
+        {
+          "id": "d",
+          "text": "dążyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„aspire” (czasownik, poziom B2) oznacza po polsku „dążyć”."
+    },
+    {
+      "id": "b2-czasowniki-01-017",
+      "question": "assemble",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aliant"
+        },
+        {
+          "id": "b",
+          "text": "utwierdzać się"
+        },
+        {
+          "id": "c",
+          "text": "gromadzić się, gromadzić"
+        },
+        {
+          "id": "d",
+          "text": "zatwierdzać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„assemble” (czasownik, poziom B2) oznacza po polsku „gromadzić się, gromadzić”."
+    },
+    {
+      "id": "b2-czasowniki-01-018",
+      "question": "assert",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utwierdzać się"
+        },
+        {
+          "id": "b",
+          "text": "nadejście"
+        },
+        {
+          "id": "c",
+          "text": "administracyjny"
+        },
+        {
+          "id": "d",
+          "text": "kwas"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„assert” (czasownik, poziom B2) oznacza po polsku „utwierdzać się”."
+    },
+    {
+      "id": "b2-czasowniki-01-019",
+      "question": "assess",
+      "answers": [
+        {
+          "id": "a",
+          "text": "na końcu"
+        },
+        {
+          "id": "b",
+          "text": "duży"
+        },
+        {
+          "id": "c",
+          "text": "regulacja"
+        },
+        {
+          "id": "d",
+          "text": "oceniać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„assess” (czasownik, poziom B2) oznacza po polsku „oceniać”."
+    },
+    {
+      "id": "b2-czasowniki-01-020",
+      "question": "assure",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znakomity, godny podziwu"
+        },
+        {
+          "id": "b",
+          "text": "zapewniać, upewniać się, upewniać"
+        },
+        {
+          "id": "c",
+          "text": "w zasadzie"
+        },
+        {
+          "id": "d",
+          "text": "alfabetyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„assure” (czasownik, poziom B2) oznacza po polsku „zapewniać, upewniać się, upewniać”."
+    },
+    {
+      "id": "b2-czasowniki-01-021",
+      "question": "astonish",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapewniać, upewniać się, upewniać"
+        },
+        {
+          "id": "b",
+          "text": "zadziwiać"
+        },
+        {
+          "id": "c",
+          "text": "gromadzić"
+        },
+        {
+          "id": "d",
+          "text": "regulacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„astonish” (czasownik, poziom B2) oznacza po polsku „zadziwiać”."
+    },
+    {
+      "id": "b2-czasowniki-01-022",
+      "question": "authorize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w zasadzie"
+        },
+        {
+          "id": "b",
+          "text": "zatwierdzać"
+        },
+        {
+          "id": "c",
+          "text": "odpowiednio, wedle zasługi"
+        },
+        {
+          "id": "d",
+          "text": "przymierze, współpraca"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„authorize” (czasownik, poziom B2) oznacza po polsku „zatwierdzać”."
+    },
+    {
+      "id": "b2-czasowniki-01-023",
+      "question": "await",
+      "answers": [
+        {
+          "id": "a",
+          "text": "na odwrót"
+        },
+        {
+          "id": "b",
+          "text": "(wypłata) zaliczka, pożyczka"
+        },
+        {
+          "id": "c",
+          "text": "poprzednio"
+        },
+        {
+          "id": "d",
+          "text": "oczekiwać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„await” (czasownik, poziom B2) oznacza po polsku „oczekiwać”."
+    },
+    {
+      "id": "b2-czasowniki-01-024",
+      "question": "bankrupt",
+      "answers": [
+        {
+          "id": "a",
+          "text": "doprowadzić do bankructwa"
+        },
+        {
+          "id": "b",
+          "text": "moralnie"
+        },
+        {
+          "id": "c",
+          "text": "ledwie, z ledwością"
+        },
+        {
+          "id": "d",
+          "text": "niezręczny, niezgrabny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bankrupt” (czasownik, poziom B2) oznacza po polsku „doprowadzić do bankructwa”."
+    },
+    {
+      "id": "b2-czasowniki-01-025",
+      "question": "beautify",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spójny, koherentny"
+        },
+        {
+          "id": "b",
+          "text": "upiększać"
+        },
+        {
+          "id": "c",
+          "text": "naręcze"
+        },
+        {
+          "id": "d",
+          "text": "doprowadzić do bankructwa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„beautify” (czasownik, poziom B2) oznacza po polsku „upiększać”."
+    },
+    {
+      "id": "b2-czasowniki-01-026",
+      "question": "bellow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ryczeć"
+        },
+        {
+          "id": "b",
+          "text": "hamować"
+        },
+        {
+          "id": "c",
+          "text": "ocena"
+        },
+        {
+          "id": "d",
+          "text": "gruby, szorstki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bellow” (czasownik, poziom B2) oznacza po polsku „ryczeć”."
+    },
+    {
+      "id": "b2-czasowniki-01-027",
+      "question": "bestow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dokładnie, precyzyjnie"
+        },
+        {
+          "id": "b",
+          "text": "oszczędny, tani"
+        },
+        {
+          "id": "c",
+          "text": "obdarzyć"
+        },
+        {
+          "id": "d",
+          "text": "poszerzać się, poszerzać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bestow” (czasownik, poziom B2) oznacza po polsku „obdarzyć”."
+    },
+    {
+      "id": "b2-czasowniki-01-028",
+      "question": "betray",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdumienie"
+        },
+        {
+          "id": "b",
+          "text": "zdradzać"
+        },
+        {
+          "id": "c",
+          "text": "popiół"
+        },
+        {
+          "id": "d",
+          "text": "nieod, -zownie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„betray” (czasownik, poziom B2) oznacza po polsku „zdradzać”."
+    },
+    {
+      "id": "b2-czasowniki-01-029",
+      "question": "bind",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzmacniacz"
+        },
+        {
+          "id": "b",
+          "text": "założenie"
+        },
+        {
+          "id": "c",
+          "text": "wiązać"
+        },
+        {
+          "id": "d",
+          "text": "czarujący"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bind” (czasownik, poziom B2) oznacza po polsku „wiązać”."
+    },
+    {
+      "id": "b2-czasowniki-01-030",
+      "question": "blink",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łagodny, wyrozumiały"
+        },
+        {
+          "id": "b",
+          "text": "bakłażan"
+        },
+        {
+          "id": "c",
+          "text": "mrugać"
+        },
+        {
+          "id": "d",
+          "text": "niezręczny, niezgrabny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blink” (czasownik, poziom B2) oznacza po polsku „mrugać”."
+    },
+    {
+      "id": "b2-czasowniki-01-031",
+      "question": "blur",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łagodny, wyrozumiały"
+        },
+        {
+          "id": "b",
+          "text": "rąbać"
+        },
+        {
+          "id": "c",
+          "text": "zamazywać się, zamazywać"
+        },
+        {
+          "id": "d",
+          "text": "zdradzać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blur” (czasownik, poziom B2) oznacza po polsku „zamazywać się, zamazywać”."
+    },
+    {
+      "id": "b2-czasowniki-01-032",
+      "question": "bottle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewidywanie"
+        },
+        {
+          "id": "b",
+          "text": "dziecinny"
+        },
+        {
+          "id": "c",
+          "text": "butelkować"
+        },
+        {
+          "id": "d",
+          "text": "arena"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bottle” (czasownik, poziom B2) oznacza po polsku „butelkować”."
+    },
+    {
+      "id": "b2-czasowniki-01-033",
+      "question": "brake",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hamować"
+        },
+        {
+          "id": "b",
+          "text": "cierpienie"
+        },
+        {
+          "id": "c",
+          "text": "przewidywanie"
+        },
+        {
+          "id": "d",
+          "text": "doprowadzić do bankructwa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„brake” (czasownik, poziom B2) oznacza po polsku „hamować”."
+    },
+    {
+      "id": "b2-czasowniki-01-034",
+      "question": "broaden",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ledwie, z ledwością"
+        },
+        {
+          "id": "b",
+          "text": "cecha, atrybut"
+        },
+        {
+          "id": "c",
+          "text": "poszerzać się, poszerzać"
+        },
+        {
+          "id": "d",
+          "text": "kotwica"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„broaden” (czasownik, poziom B2) oznacza po polsku „poszerzać się, poszerzać”."
+    },
+    {
+      "id": "b2-czasowniki-01-035",
+      "question": "browse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "natychmiast"
+        },
+        {
+          "id": "b",
+          "text": "przeglądać"
+        },
+        {
+          "id": "c",
+          "text": "klaskać"
+        },
+        {
+          "id": "d",
+          "text": "beztroski"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„browse” (czasownik, poziom B2) oznacza po polsku „przeglądać”."
+    },
+    {
+      "id": "b2-czasowniki-01-036",
+      "question": "bully",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tyranizować"
+        },
+        {
+          "id": "b",
+          "text": "sztuka"
+        },
+        {
+          "id": "c",
+          "text": "cierpienie"
+        },
+        {
+          "id": "d",
+          "text": "dziwaczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bully” (czasownik, poziom B2) oznacza po polsku „tyranizować”."
+    },
+    {
+      "id": "b2-czasowniki-01-037",
+      "question": "burgle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekka atletyka"
+        },
+        {
+          "id": "b",
+          "text": "dokładnie, precyzyjnie"
+        },
+        {
+          "id": "c",
+          "text": "włamywać się"
+        },
+        {
+          "id": "d",
+          "text": "zdumienie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„burgle” (czasownik, poziom B2) oznacza po polsku „włamywać się”."
+    },
+    {
+      "id": "b2-czasowniki-01-038",
+      "question": "bustle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziecinny"
+        },
+        {
+          "id": "b",
+          "text": "krzątać się"
+        },
+        {
+          "id": "c",
+          "text": "troskliwy, czuły"
+        },
+        {
+          "id": "d",
+          "text": "tętnica"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bustle” (czasownik, poziom B2) oznacza po polsku „krzątać się”."
+    },
+    {
+      "id": "b2-czasowniki-01-039",
+      "question": "carve",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzmacniacz"
+        },
+        {
+          "id": "b",
+          "text": "rzeźbić"
+        },
+        {
+          "id": "c",
+          "text": "rąbać"
+        },
+        {
+          "id": "d",
+          "text": "troskliwy, czuły"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„carve” (czasownik, poziom B2) oznacza po polsku „rzeźbić”."
+    },
+    {
+      "id": "b2-czasowniki-01-040",
+      "question": "cease",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cecha, atrybut"
+        },
+        {
+          "id": "b",
+          "text": "na północ"
+        },
+        {
+          "id": "c",
+          "text": "kończyć się, ustawać"
+        },
+        {
+          "id": "d",
+          "text": "wzmacniacz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cease” (czasownik, poziom B2) oznacza po polsku „kończyć się, ustawać”."
+    },
+    {
+      "id": "b2-czasowniki-01-041",
+      "question": "challenge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "osiągnięcie"
+        },
+        {
+          "id": "b",
+          "text": "wyzywać"
+        },
+        {
+          "id": "c",
+          "text": "dobroczynny"
+        },
+        {
+          "id": "d",
+          "text": "chaotyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„challenge” (czasownik, poziom B2) oznacza po polsku „wyzywać”."
+    },
+    {
+      "id": "b2-czasowniki-01-042",
+      "question": "cheat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mrugać"
+        },
+        {
+          "id": "b",
+          "text": "oszukiwać"
+        },
+        {
+          "id": "c",
+          "text": "czarujący"
+        },
+        {
+          "id": "d",
+          "text": "ochoczo, skwapliwie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cheat” (czasownik, poziom B2) oznacza po polsku „oszukiwać”."
+    },
+    {
+      "id": "b2-czasowniki-01-043",
+      "question": "chew",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żuć, przeżuwać"
+        },
+        {
+          "id": "b",
+          "text": "zapierający dech"
+        },
+        {
+          "id": "c",
+          "text": "gruby, szorstki"
+        },
+        {
+          "id": "d",
+          "text": "na północ"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„chew” (czasownik, poziom B2) oznacza po polsku „żuć, przeżuwać”."
+    },
+    {
+      "id": "b2-czasowniki-01-044",
+      "question": "chop",
+      "answers": [
+        {
+          "id": "a",
+          "text": "arystokracja"
+        },
+        {
+          "id": "b",
+          "text": "rąbać"
+        },
+        {
+          "id": "c",
+          "text": "zdumienie"
+        },
+        {
+          "id": "d",
+          "text": "kruchy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„chop” (czasownik, poziom B2) oznacza po polsku „rąbać”."
+    },
+    {
+      "id": "b2-czasowniki-01-045",
+      "question": "clap",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klaskać"
+        },
+        {
+          "id": "b",
+          "text": "lekka atletyka"
+        },
+        {
+          "id": "c",
+          "text": "przypuszczalnie"
+        },
+        {
+          "id": "d",
+          "text": "popiół"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„clap” (czasownik, poziom B2) oznacza po polsku „klaskać”."
+    },
+    {
+      "id": "b2-czasowniki-01-046",
+      "question": "clarify",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moralnie"
+        },
+        {
+          "id": "b",
+          "text": "wyjaśniać"
+        },
+        {
+          "id": "c",
+          "text": "tętnica"
+        },
+        {
+          "id": "d",
+          "text": "na północ"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„clarify” (czasownik, poziom B2) oznacza po polsku „wyjaśniać”."
+    },
+    {
+      "id": "b2-czasowniki-01-047",
+      "question": "clog",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krwawy"
+        },
+        {
+          "id": "b",
+          "text": "oszukiwać"
+        },
+        {
+          "id": "c",
+          "text": "zatykać, blokować"
+        },
+        {
+          "id": "d",
+          "text": "dobroczynny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„clog” (czasownik, poziom B2) oznacza po polsku „zatykać, blokować”."
+    },
+    {
+      "id": "b2-czasowniki-01-048",
+      "question": "coach",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trenować"
+        },
+        {
+          "id": "b",
+          "text": "ryczeć"
+        },
+        {
+          "id": "c",
+          "text": "oszukiwać"
+        },
+        {
+          "id": "d",
+          "text": "żuć, przeżuwać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„coach” (czasownik, poziom B2) oznacza po polsku „trenować”."
+    },
+    {
+      "id": "b2-czasowniki-01-049",
+      "question": "coincide",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krwawy"
+        },
+        {
+          "id": "b",
+          "text": "arena"
+        },
+        {
+          "id": "c",
+          "text": "oszukiwać"
+        },
+        {
+          "id": "d",
+          "text": "zbiegać się w czasie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„coincide” (czasownik, poziom B2) oznacza po polsku „zbiegać się w czasie”."
+    },
+    {
+      "id": "b2-czasowniki-01-050",
+      "question": "comb",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czesać"
+        },
+        {
+          "id": "b",
+          "text": "biurowy, urzędniczy"
+        },
+        {
+          "id": "c",
+          "text": "ocena"
+        },
+        {
+          "id": "d",
+          "text": "archeolog"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„comb” (czasownik, poziom B2) oznacza po polsku „czesać”."
+    },
+    {
+      "id": "b2-czasowniki-01-051",
+      "question": "commemorate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łagodny, wyrozumiały"
+        },
+        {
+          "id": "b",
+          "text": "osiągnięcie"
+        },
+        {
+          "id": "c",
+          "text": "upamiętniać"
+        },
+        {
+          "id": "d",
+          "text": "tętnica"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„commemorate” (czasownik, poziom B2) oznacza po polsku „upamiętniać”."
+    },
+    {
+      "id": "b2-czasowniki-01-052",
+      "question": "commute",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zakręt, zgięcie"
+        },
+        {
+          "id": "b",
+          "text": "ukochany"
+        },
+        {
+          "id": "c",
+          "text": "dojeżdżać do pracy, dojeżdżać"
+        },
+        {
+          "id": "d",
+          "text": "dedukować, wyciągać wnioski"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„commute” (czasownik, poziom B2) oznacza po polsku „dojeżdżać do pracy, dojeżdżać”."
+    },
+    {
+      "id": "b2-czasowniki-01-053",
+      "question": "compensate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rekompensować"
+        },
+        {
+          "id": "b",
+          "text": "chłodzić się, chłodzić"
+        },
+        {
+          "id": "c",
+          "text": "miliard"
+        },
+        {
+          "id": "d",
+          "text": "dedukować, wyciągać wnioski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„compensate” (czasownik, poziom B2) oznacza po polsku „rekompensować”."
+    },
+    {
+      "id": "b2-czasowniki-01-054",
+      "question": "compile",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kompilować, zestawiać"
+        },
+        {
+          "id": "b",
+          "text": "badanie bilansu"
+        },
+        {
+          "id": "c",
+          "text": "przekształcać"
+        },
+        {
+          "id": "d",
+          "text": "ograniczać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„compile” (czasownik, poziom B2) oznacza po polsku „kompilować, zestawiać”."
+    },
+    {
+      "id": "b2-czasowniki-01-055",
+      "question": "compute",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obliczać, wyliczać"
+        },
+        {
+          "id": "b",
+          "text": "stały"
+        },
+        {
+          "id": "c",
+          "text": "pogardzać"
+        },
+        {
+          "id": "d",
+          "text": "konwencjonalny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„compute” (czasownik, poziom B2) oznacza po polsku „obliczać, wyliczać”."
+    },
+    {
+      "id": "b2-czasowniki-01-056",
+      "question": "conceal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ukrywać"
+        },
+        {
+          "id": "b",
+          "text": "rozmyślny, świadomy"
+        },
+        {
+          "id": "c",
+          "text": "kompilować, zestawiać"
+        },
+        {
+          "id": "d",
+          "text": "obliczać, wyliczać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„conceal” (czasownik, poziom B2) oznacza po polsku „ukrywać”."
+    },
+    {
+      "id": "b2-czasowniki-01-057",
+      "question": "concede",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klatka na ptaki, klatka"
+        },
+        {
+          "id": "b",
+          "text": "komunikatywny, rozmowny"
+        },
+        {
+          "id": "c",
+          "text": "dojeżdżać do pracy, dojeżdżać"
+        },
+        {
+          "id": "d",
+          "text": "przyznawać, przyznawać słuszność"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„concede” (czasownik, poziom B2) oznacza po polsku „przyznawać, przyznawać słuszność”."
+    },
+    {
+      "id": "b2-czasowniki-01-058",
+      "question": "conceive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badanie bilansu"
+        },
+        {
+          "id": "b",
+          "text": "kompilować, zestawiać"
+        },
+        {
+          "id": "c",
+          "text": "zaprzeczać"
+        },
+        {
+          "id": "d",
+          "text": "wyobrażać sobie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„conceive” (czasownik, poziom B2) oznacza po polsku „wyobrażać sobie”."
+    },
+    {
+      "id": "b2-czasowniki-01-059",
+      "question": "condemn",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przestarzały"
+        },
+        {
+          "id": "b",
+          "text": "dojeżdżać do pracy, dojeżdżać"
+        },
+        {
+          "id": "c",
+          "text": "współczesny"
+        },
+        {
+          "id": "d",
+          "text": "potępiać, ganić"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„condemn” (czasownik, poziom B2) oznacza po polsku „potępiać, ganić”."
+    },
+    {
+      "id": "b2-czasowniki-01-060",
+      "question": "confess",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gnić"
+        },
+        {
+          "id": "b",
+          "text": "zdecydowany"
+        },
+        {
+          "id": "c",
+          "text": "przyznawać się"
+        },
+        {
+          "id": "d",
+          "text": "durny, przygłupiasty"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„confess” (czasownik, poziom B2) oznacza po polsku „przyznawać się”."
+    },
+    {
+      "id": "b2-czasowniki-01-061",
+      "question": "confine",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ograniczać"
+        },
+        {
+          "id": "b",
+          "text": "wyczuwać"
+        },
+        {
+          "id": "c",
+          "text": "zniżać się"
+        },
+        {
+          "id": "d",
+          "text": "miliard"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„confine” (czasownik, poziom B2) oznacza po polsku „ograniczać”."
+    },
+    {
+      "id": "b2-czasowniki-01-062",
+      "question": "confront",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stawać"
+        },
+        {
+          "id": "b",
+          "text": "bankowiec, bankier"
+        },
+        {
+          "id": "c",
+          "text": "radzić sobie, dawać radę"
+        },
+        {
+          "id": "d",
+          "text": "rekompensować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„confront” (czasownik, poziom B2) oznacza po polsku „stawać”."
+    },
+    {
+      "id": "b2-czasowniki-01-063",
+      "question": "console",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pocieszać"
+        },
+        {
+          "id": "b",
+          "text": "miliard"
+        },
+        {
+          "id": "c",
+          "text": "projektant"
+        },
+        {
+          "id": "d",
+          "text": "rozmyślny, świadomy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„console” (czasownik, poziom B2) oznacza po polsku „pocieszać”."
+    },
+    {
+      "id": "b2-czasowniki-01-064",
+      "question": "consult",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzeczny"
+        },
+        {
+          "id": "b",
+          "text": "opisowy"
+        },
+        {
+          "id": "c",
+          "text": "radzić się"
+        },
+        {
+          "id": "d",
+          "text": "jęczmień"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„consult” (czasownik, poziom B2) oznacza po polsku „radzić się”."
+    },
+    {
+      "id": "b2-czasowniki-01-065",
+      "question": "contaminate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klatka na ptaki, klatka"
+        },
+        {
+          "id": "b",
+          "text": "zakażać, zanieczyszczać"
+        },
+        {
+          "id": "c",
+          "text": "przyjmować z dezaprobatą"
+        },
+        {
+          "id": "d",
+          "text": "burzyć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„contaminate” (czasownik, poziom B2) oznacza po polsku „zakażać, zanieczyszczać”."
+    },
+    {
+      "id": "b2-czasowniki-01-066",
+      "question": "contradict",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaprzeczać"
+        },
+        {
+          "id": "b",
+          "text": "gnić"
+        },
+        {
+          "id": "c",
+          "text": "przyznawać się"
+        },
+        {
+          "id": "d",
+          "text": "ukochany"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„contradict” (czasownik, poziom B2) oznacza po polsku „zaprzeczać”."
+    },
+    {
+      "id": "b2-czasowniki-01-067",
+      "question": "convert",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sądzić, domniemywać"
+        },
+        {
+          "id": "b",
+          "text": "bankowiec, bankier"
+        },
+        {
+          "id": "c",
+          "text": "przekształcać"
+        },
+        {
+          "id": "d",
+          "text": "dziób"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„convert” (czasownik, poziom B2) oznacza po polsku „przekształcać”."
+    },
+    {
+      "id": "b2-czasowniki-01-068",
+      "question": "cool",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pocieszać"
+        },
+        {
+          "id": "b",
+          "text": "chłodzić się, chłodzić"
+        },
+        {
+          "id": "c",
+          "text": "ciemny, mroczny"
+        },
+        {
+          "id": "d",
+          "text": "bankructwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cool” (czasownik, poziom B2) oznacza po polsku „chłodzić się, chłodzić”."
+    },
+    {
+      "id": "b2-czasowniki-01-069",
+      "question": "cope",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chętny"
+        },
+        {
+          "id": "b",
+          "text": "ukochany"
+        },
+        {
+          "id": "c",
+          "text": "konkretny"
+        },
+        {
+          "id": "d",
+          "text": "radzić sobie, dawać radę"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cope” (czasownik, poziom B2) oznacza po polsku „radzić sobie, dawać radę”."
+    },
+    {
+      "id": "b2-czasowniki-01-070",
+      "question": "decay",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gnić"
+        },
+        {
+          "id": "b",
+          "text": "znaczek, odznaka"
+        },
+        {
+          "id": "c",
+          "text": "przyznawać, przyznawać słuszność"
+        },
+        {
+          "id": "d",
+          "text": "radzić sobie, dawać radę"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„decay” (czasownik, poziom B2) oznacza po polsku „gnić”."
+    },
+    {
+      "id": "b2-czasowniki-01-071",
+      "question": "deceive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "burzyć"
+        },
+        {
+          "id": "b",
+          "text": "topór"
+        },
+        {
+          "id": "c",
+          "text": "oszukiwać"
+        },
+        {
+          "id": "d",
+          "text": "radzić sobie, dawać radę"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„deceive” (czasownik, poziom B2) oznacza po polsku „oszukiwać”."
+    },
+    {
+      "id": "b2-czasowniki-01-072",
+      "question": "decorate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ozdabiać"
+        },
+        {
+          "id": "b",
+          "text": "rozmyślny, świadomy"
+        },
+        {
+          "id": "c",
+          "text": "wyobrażalny, do wyobrażenia"
+        },
+        {
+          "id": "d",
+          "text": "tajne głosowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„decorate” (czasownik, poziom B2) oznacza po polsku „ozdabiać”."
+    },
+    {
+      "id": "b2-czasowniki-01-073",
+      "question": "deduce",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dedukować, wyciągać wnioski"
+        },
+        {
+          "id": "b",
+          "text": "komunikatywny, rozmowny"
+        },
+        {
+          "id": "c",
+          "text": "ozdabiać"
+        },
+        {
+          "id": "d",
+          "text": "rozmyślny, świadomy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„deduce” (czasownik, poziom B2) oznacza po polsku „dedukować, wyciągać wnioski”."
+    },
+    {
+      "id": "b2-czasowniki-01-074",
+      "question": "deem",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyznawać się"
+        },
+        {
+          "id": "b",
+          "text": "sądzić, domniemywać"
+        },
+        {
+          "id": "c",
+          "text": "kompetentny, sprawny"
+        },
+        {
+          "id": "d",
+          "text": "oszukiwać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„deem” (czasownik, poziom B2) oznacza po polsku „sądzić, domniemywać”."
+    },
+    {
+      "id": "b2-czasowniki-01-075",
+      "question": "demolish",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(serca, skrzydeł) uderzenie"
+        },
+        {
+          "id": "b",
+          "text": "podstępny"
+        },
+        {
+          "id": "c",
+          "text": "burzyć"
+        },
+        {
+          "id": "d",
+          "text": "litościwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„demolish” (czasownik, poziom B2) oznacza po polsku „burzyć”."
+    },
+    {
+      "id": "b2-czasowniki-01-076",
+      "question": "descend",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stodoła"
+        },
+        {
+          "id": "b",
+          "text": "opisowy"
+        },
+        {
+          "id": "c",
+          "text": "kompetentny, sprawny"
+        },
+        {
+          "id": "d",
+          "text": "zniżać się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„descend” (czasownik, poziom B2) oznacza po polsku „zniżać się”."
+    },
+    {
+      "id": "b2-czasowniki-01-077",
+      "question": "despise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyrozumiałość"
+        },
+        {
+          "id": "b",
+          "text": "jagoda"
+        },
+        {
+          "id": "c",
+          "text": "odczepiać, odłączać"
+        },
+        {
+          "id": "d",
+          "text": "pogardzać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„despise” (czasownik, poziom B2) oznacza po polsku „pogardzać”."
+    },
+    {
+      "id": "b2-czasowniki-01-078",
+      "question": "detach",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radzić sobie, dawać radę"
+        },
+        {
+          "id": "b",
+          "text": "ukochany"
+        },
+        {
+          "id": "c",
+          "text": "odczepiać, odłączać"
+        },
+        {
+          "id": "d",
+          "text": "dyskredytować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„detach” (czasownik, poziom B2) oznacza po polsku „odczepiać, odłączać”."
+    },
+    {
+      "id": "b2-czasowniki-01-079",
+      "question": "detect",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kompetentny, sprawny"
+        },
+        {
+          "id": "b",
+          "text": "wyczuwać"
+        },
+        {
+          "id": "c",
+          "text": "chłodzić się, chłodzić"
+        },
+        {
+          "id": "d",
+          "text": "konkretny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„detect” (czasownik, poziom B2) oznacza po polsku „wyczuwać”."
+    },
+    {
+      "id": "b2-czasowniki-01-080",
+      "question": "devote",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyskredytować"
+        },
+        {
+          "id": "b",
+          "text": "poświęcać"
+        },
+        {
+          "id": "c",
+          "text": "rekompensować"
+        },
+        {
+          "id": "d",
+          "text": "trwoga, przestrach, bojaźń, respekt"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„devote” (czasownik, poziom B2) oznacza po polsku „poświęcać”."
+    },
+    {
+      "id": "b2-czasowniki-01-081",
+      "question": "dignify",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rekompensować"
+        },
+        {
+          "id": "b",
+          "text": "przydawać godności"
+        },
+        {
+          "id": "c",
+          "text": "sądzić, domniemywać"
+        },
+        {
+          "id": "d",
+          "text": "przekształcać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dignify” (czasownik, poziom B2) oznacza po polsku „przydawać godności”."
+    },
+    {
+      "id": "b2-czasowniki-01-082",
+      "question": "dip",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tajne głosowanie"
+        },
+        {
+          "id": "b",
+          "text": "zanurzać, moczyć"
+        },
+        {
+          "id": "c",
+          "text": "gnić"
+        },
+        {
+          "id": "d",
+          "text": "bariera, barierka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dip” (czasownik, poziom B2) oznacza po polsku „zanurzać, moczyć”."
+    },
+    {
+      "id": "b2-czasowniki-01-083",
+      "question": "disapprove",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zębny, zębowy"
+        },
+        {
+          "id": "b",
+          "text": "przyjmować z dezaprobatą"
+        },
+        {
+          "id": "c",
+          "text": "odczepiać, odłączać"
+        },
+        {
+          "id": "d",
+          "text": "sądzić, domniemywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„disapprove” (czasownik, poziom B2) oznacza po polsku „przyjmować z dezaprobatą”."
+    },
+    {
+      "id": "b2-czasowniki-01-084",
+      "question": "disconnect",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wskazany"
+        },
+        {
+          "id": "b",
+          "text": "podstępny"
+        },
+        {
+          "id": "c",
+          "text": "rozłączać"
+        },
+        {
+          "id": "d",
+          "text": "zakręt, zgięcie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disconnect” (czasownik, poziom B2) oznacza po polsku „rozłączać”."
+    },
+    {
+      "id": "b2-czasowniki-01-085",
+      "question": "discredit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozpromieniony uśmiech"
+        },
+        {
+          "id": "b",
+          "text": "tajne głosowanie"
+        },
+        {
+          "id": "c",
+          "text": "konsekwentny, wytrwały"
+        },
+        {
+          "id": "d",
+          "text": "dyskredytować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„discredit” (czasownik, poziom B2) oznacza po polsku „dyskredytować”."
+    },
+    {
+      "id": "b2-czasowniki-01-086",
+      "question": "discriminate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rasa"
+        },
+        {
+          "id": "b",
+          "text": "okropny"
+        },
+        {
+          "id": "c",
+          "text": "kierować"
+        },
+        {
+          "id": "d",
+          "text": "rozróżniać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„discriminate” (czasownik, poziom B2) oznacza po polsku „rozróżniać”."
+    },
+    {
+      "id": "b2-czasowniki-01-087",
+      "question": "disillusion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekraczać"
+        },
+        {
+          "id": "b",
+          "text": "wyrazisty"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "d",
+          "text": "ewoluować, przekształcać się, przekształcać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disillusion” (czasownik, poziom B2) oznacza po polsku „rozczarowywać”."
+    },
+    {
+      "id": "b2-czasowniki-01-088",
+      "question": "dismiss",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bokser"
+        },
+        {
+          "id": "b",
+          "text": "odrzucać"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "d",
+          "text": "wyprostowany"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dismiss” (czasownik, poziom B2) oznacza po polsku „odrzucać”."
+    },
+    {
+      "id": "b2-czasowniki-01-089",
+      "question": "displace",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wypierać"
+        },
+        {
+          "id": "b",
+          "text": "odwaga"
+        },
+        {
+          "id": "c",
+          "text": "ekstatyczny"
+        },
+        {
+          "id": "d",
+          "text": "oszczędny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„displace” (czasownik, poziom B2) oznacza po polsku „wypierać”."
+    },
+    {
+      "id": "b2-czasowniki-01-090",
+      "question": "disqualify",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyskwalifikować"
+        },
+        {
+          "id": "b",
+          "text": "popierać"
+        },
+        {
+          "id": "c",
+          "text": "rozległy"
+        },
+        {
+          "id": "d",
+          "text": "ogarniać, pochłaniać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disqualify” (czasownik, poziom B2) oznacza po polsku „dyskwalifikować”."
+    },
+    {
+      "id": "b2-czasowniki-01-091",
+      "question": "disrupt",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przechwalać się"
+        },
+        {
+          "id": "b",
+          "text": "pomijać, nie włączać"
+        },
+        {
+          "id": "c",
+          "text": "popierać"
+        },
+        {
+          "id": "d",
+          "text": "przerywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„disrupt” (czasownik, poziom B2) oznacza po polsku „przerywać”."
+    },
+    {
+      "id": "b2-czasowniki-01-092",
+      "question": "distract",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przechwalać się"
+        },
+        {
+          "id": "b",
+          "text": "odciągać"
+        },
+        {
+          "id": "c",
+          "text": "zły"
+        },
+        {
+          "id": "d",
+          "text": "rozradowany"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distract” (czasownik, poziom B2) oznacza po polsku „odciągać”."
+    },
+    {
+      "id": "b2-czasowniki-01-093",
+      "question": "divert",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bułka słodka, bułka"
+        },
+        {
+          "id": "b",
+          "text": "wyrazisty"
+        },
+        {
+          "id": "c",
+          "text": "kierować"
+        },
+        {
+          "id": "d",
+          "text": "ekwipować się, ekwipować, zaopatrywać się, zaopatrywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„divert” (czasownik, poziom B2) oznacza po polsku „kierować”."
+    },
+    {
+      "id": "b2-czasowniki-01-094",
+      "question": "dominate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bać się"
+        },
+        {
+          "id": "b",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "c",
+          "text": "zdominowywać, dominować nad"
+        },
+        {
+          "id": "d",
+          "text": "bombardować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dominate” (czasownik, poziom B2) oznacza po polsku „zdominowywać, dominować nad”."
+    },
+    {
+      "id": "b2-czasowniki-01-095",
+      "question": "donate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapisywać się, zapisywać"
+        },
+        {
+          "id": "b",
+          "text": "dyskwalifikować"
+        },
+        {
+          "id": "c",
+          "text": "przekazywać, ofiarowywać"
+        },
+        {
+          "id": "d",
+          "text": "bać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„donate” (czasownik, poziom B2) oznacza po polsku „przekazywać, ofiarowywać”."
+    },
+    {
+      "id": "b2-czasowniki-01-096",
+      "question": "doubt",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczny, trwały"
+        },
+        {
+          "id": "b",
+          "text": "mieć wątpliwości, wątpić"
+        },
+        {
+          "id": "c",
+          "text": "przekraczać"
+        },
+        {
+          "id": "d",
+          "text": "podnosić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„doubt” (czasownik, poziom B2) oznacza po polsku „mieć wątpliwości, wątpić”."
+    },
+    {
+      "id": "b2-czasowniki-01-097",
+      "question": "dread",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "b",
+          "text": "bać się"
+        },
+        {
+          "id": "c",
+          "text": "zarządzający, wykonawczy"
+        },
+        {
+          "id": "d",
+          "text": "etniczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dread” (czasownik, poziom B2) oznacza po polsku „bać się”."
+    },
+    {
+      "id": "b2-czasowniki-01-098",
+      "question": "elect",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oszczędny"
+        },
+        {
+          "id": "b",
+          "text": "wybierać"
+        },
+        {
+          "id": "c",
+          "text": "przepiękny"
+        },
+        {
+          "id": "d",
+          "text": "wypierać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„elect” (czasownik, poziom B2) oznacza po polsku „wybierać”."
+    },
+    {
+      "id": "b2-czasowniki-01-099",
+      "question": "employ",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "b",
+          "text": "odbicie się, odbicie, podskok"
+        },
+        {
+          "id": "c",
+          "text": "kwiat"
+        },
+        {
+          "id": "d",
+          "text": "popierać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„employ” (czasownik, poziom B2) oznacza po polsku „zatrudniać”."
+    },
+    {
+      "id": "b2-czasowniki-01-100",
+      "question": "endorse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "popierać"
+        },
+        {
+          "id": "b",
+          "text": "fatalny"
+        },
+        {
+          "id": "c",
+          "text": "przechwalać się"
+        },
+        {
+          "id": "d",
+          "text": "zapisywać się, zapisywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„endorse” (czasownik, poziom B2) oznacza po polsku „popierać”."
+    }
+  ]
+}

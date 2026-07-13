@@ -1,0 +1,776 @@
+{
+  "category": {
+    "id": "b1-rzeczowniki-09",
+    "name": "B1 — Rzeczowniki 9/9 (R–S)"
+  },
+  "questions": [
+    {
+      "id": "b1-rzeczowniki-09-001",
+      "question": "responsibility",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pulower"
+        },
+        {
+          "id": "b",
+          "text": "nagranie"
+        },
+        {
+          "id": "c",
+          "text": "odpowiedzialność"
+        },
+        {
+          "id": "d",
+          "text": "pab, bar"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„responsibility” (rzeczownik, poziom B1) oznacza po polsku „odpowiedzialność”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-002",
+      "question": "retail",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powodzenie, koniunktura"
+        },
+        {
+          "id": "b",
+          "text": "smutek"
+        },
+        {
+          "id": "c",
+          "text": "kolej"
+        },
+        {
+          "id": "d",
+          "text": "detal, detaliczna sprzedaż"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„retail” (rzeczownik, poziom B1) oznacza po polsku „detal, detaliczna sprzedaż”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-003",
+      "question": "retrospect",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zastrzeżenie"
+        },
+        {
+          "id": "b",
+          "text": "kara"
+        },
+        {
+          "id": "c",
+          "text": "w retrospekcji, po zastanowieniu się"
+        },
+        {
+          "id": "d",
+          "text": "(sport) wynik, rezultat"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„retrospect” (rzeczownik, poziom B1) oznacza po polsku „w retrospekcji, po zastanowieniu się”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-004",
+      "question": "revision",
+      "answers": [
+        {
+          "id": "a",
+          "text": "profesor"
+        },
+        {
+          "id": "b",
+          "text": "poprawa, poprawienie, rewizja"
+        },
+        {
+          "id": "c",
+          "text": "awans"
+        },
+        {
+          "id": "d",
+          "text": "układanka, łamigłówka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„revision” (rzeczownik, poziom B1) oznacza po polsku „poprawa, poprawienie, rewizja”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-005",
+      "question": "reward",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odmowa"
+        },
+        {
+          "id": "b",
+          "text": "nagroda"
+        },
+        {
+          "id": "c",
+          "text": "uczeń"
+        },
+        {
+          "id": "d",
+          "text": "kwestionariusz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reward” (rzeczownik, poziom B1) oznacza po polsku „nagroda”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-006",
+      "question": "risk",
+      "answers": [
+        {
+          "id": "a",
+          "text": "smutek"
+        },
+        {
+          "id": "b",
+          "text": "ryzyko"
+        },
+        {
+          "id": "c",
+          "text": "odpadki, śmiecie"
+        },
+        {
+          "id": "d",
+          "text": "region"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„risk” (rzeczownik, poziom B1) oznacza po polsku „ryzyko”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-007",
+      "question": "roadside",
+      "answers": [
+        {
+          "id": "a",
+          "text": "satelita"
+        },
+        {
+          "id": "b",
+          "text": "odpadki, śmiecie"
+        },
+        {
+          "id": "c",
+          "text": "bok drogi"
+        },
+        {
+          "id": "d",
+          "text": "zabezpieczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„roadside” (rzeczownik, poziom B1) oznacza po polsku „bok drogi”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-008",
+      "question": "robot",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(sport) wynik, rezultat"
+        },
+        {
+          "id": "b",
+          "text": "możliwość"
+        },
+        {
+          "id": "c",
+          "text": "robot"
+        },
+        {
+          "id": "d",
+          "text": "(BR) portmonetka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„robot” (rzeczownik, poziom B1) oznacza po polsku „robot”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-009",
+      "question": "routine",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rutyna"
+        },
+        {
+          "id": "b",
+          "text": "ruina"
+        },
+        {
+          "id": "c",
+          "text": "detal, detaliczna sprzedaż"
+        },
+        {
+          "id": "d",
+          "text": "bezpieczeństwo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„routine” (rzeczownik, poziom B1) oznacza po polsku „rutyna”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-010",
+      "question": "rubber",
+      "answers": [
+        {
+          "id": "a",
+          "text": "guma, kauczuk"
+        },
+        {
+          "id": "b",
+          "text": "wymaganie"
+        },
+        {
+          "id": "c",
+          "text": "układanka, łamigłówka"
+        },
+        {
+          "id": "d",
+          "text": "zasoby"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rubber” (rzeczownik, poziom B1) oznacza po polsku „guma, kauczuk”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-011",
+      "question": "rubbish",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpadki, śmiecie"
+        },
+        {
+          "id": "b",
+          "text": "powodzenie, koniunktura"
+        },
+        {
+          "id": "c",
+          "text": "awans"
+        },
+        {
+          "id": "d",
+          "text": "pulower"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rubbish” (rzeczownik, poziom B1) oznacza po polsku „odpadki, śmiecie”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-012",
+      "question": "ruin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ruina"
+        },
+        {
+          "id": "b",
+          "text": "przydział, racja"
+        },
+        {
+          "id": "c",
+          "text": "poręcz"
+        },
+        {
+          "id": "d",
+          "text": "republika"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ruin” (rzeczownik, poziom B1) oznacza po polsku „ruina”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-013",
+      "question": "runaway",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odmowa"
+        },
+        {
+          "id": "b",
+          "text": "promieniowanie, radiacja"
+        },
+        {
+          "id": "c",
+          "text": "uciekinier, zbieg"
+        },
+        {
+          "id": "d",
+          "text": "(BR) portmonetka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„runaway” (rzeczownik, poziom B1) oznacza po polsku „uciekinier, zbieg”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-014",
+      "question": "runway",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pas startowy"
+        },
+        {
+          "id": "b",
+          "text": "pamięć"
+        },
+        {
+          "id": "c",
+          "text": "promieniowanie, radiacja"
+        },
+        {
+          "id": "d",
+          "text": "pompa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„runway” (rzeczownik, poziom B1) oznacza po polsku „pas startowy”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-015",
+      "question": "sadness",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczeń"
+        },
+        {
+          "id": "b",
+          "text": "pompa"
+        },
+        {
+          "id": "c",
+          "text": "rasa"
+        },
+        {
+          "id": "d",
+          "text": "smutek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„sadness” (rzeczownik, poziom B1) oznacza po polsku „smutek”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-016",
+      "question": "safari",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeglądać"
+        },
+        {
+          "id": "b",
+          "text": "uciekinier, zbieg"
+        },
+        {
+          "id": "c",
+          "text": "(sport) wynik, rezultat"
+        },
+        {
+          "id": "d",
+          "text": "safari"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„safari” (rzeczownik, poziom B1) oznacza po polsku „safari”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-017",
+      "question": "safeguard",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zabezpieczenie"
+        },
+        {
+          "id": "b",
+          "text": "sprzedawca, pośrednik handlowy"
+        },
+        {
+          "id": "c",
+          "text": "opady, poziom opadów"
+        },
+        {
+          "id": "d",
+          "text": "pulower"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„safeguard” (rzeczownik, poziom B1) oznacza po polsku „zabezpieczenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-018",
+      "question": "safety",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezpieczeństwo"
+        },
+        {
+          "id": "b",
+          "text": "pab, bar"
+        },
+        {
+          "id": "c",
+          "text": "pompa"
+        },
+        {
+          "id": "d",
+          "text": "protest"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„safety” (rzeczownik, poziom B1) oznacza po polsku „bezpieczeństwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-019",
+      "question": "salesman",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagroda"
+        },
+        {
+          "id": "b",
+          "text": "sprzedawca, pośrednik handlowy"
+        },
+        {
+          "id": "c",
+          "text": "środek, lekarstwo"
+        },
+        {
+          "id": "d",
+          "text": "szczenię"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„salesman” (rzeczownik, poziom B1) oznacza po polsku „sprzedawca, pośrednik handlowy”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-020",
+      "question": "salmon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ilość"
+        },
+        {
+          "id": "b",
+          "text": "uczeń"
+        },
+        {
+          "id": "c",
+          "text": "religia"
+        },
+        {
+          "id": "d",
+          "text": "łosoś"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„salmon” (rzeczownik, poziom B1) oznacza po polsku „łosoś”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-021",
+      "question": "sand",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piasek"
+        },
+        {
+          "id": "b",
+          "text": "poręcz"
+        },
+        {
+          "id": "c",
+          "text": "guma, kauczuk"
+        },
+        {
+          "id": "d",
+          "text": "satysfakcja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sand” (rzeczownik, poziom B1) oznacza po polsku „piasek”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-022",
+      "question": "sandal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagranie"
+        },
+        {
+          "id": "b",
+          "text": "region"
+        },
+        {
+          "id": "c",
+          "text": "sandał"
+        },
+        {
+          "id": "d",
+          "text": "wymaganie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sandal” (rzeczownik, poziom B1) oznacza po polsku „sandał”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-023",
+      "question": "satellite",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stypendium"
+        },
+        {
+          "id": "b",
+          "text": "powodzenie, koniunktura"
+        },
+        {
+          "id": "c",
+          "text": "zastrzeżenie"
+        },
+        {
+          "id": "d",
+          "text": "satelita"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„satellite” (rzeczownik, poziom B1) oznacza po polsku „satelita”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-024",
+      "question": "satisfaction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "satelita"
+        },
+        {
+          "id": "b",
+          "text": "satysfakcja"
+        },
+        {
+          "id": "c",
+          "text": "odbicie"
+        },
+        {
+          "id": "d",
+          "text": "rzeczywistość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„satisfaction” (rzeczownik, poziom B1) oznacza po polsku „satysfakcja”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-025",
+      "question": "saucepan",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sosjerka"
+        },
+        {
+          "id": "b",
+          "text": "kara"
+        },
+        {
+          "id": "c",
+          "text": "przepis, regulamin"
+        },
+        {
+          "id": "d",
+          "text": "przedstawiciel, reprezentant"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„saucepan” (rzeczownik, poziom B1) oznacza po polsku „sosjerka”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-026",
+      "question": "saucer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(sport) wynik, rezultat"
+        },
+        {
+          "id": "b",
+          "text": "spodek"
+        },
+        {
+          "id": "c",
+          "text": "smutek"
+        },
+        {
+          "id": "d",
+          "text": "poprawa, poprawienie, rewizja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„saucer” (rzeczownik, poziom B1) oznacza po polsku „spodek”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-027",
+      "question": "scan",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeglądać"
+        },
+        {
+          "id": "b",
+          "text": "recepcja"
+        },
+        {
+          "id": "c",
+          "text": "szczenię"
+        },
+        {
+          "id": "d",
+          "text": "rafa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„scan” (rzeczownik, poziom B1) oznacza po polsku „przeglądać”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-028",
+      "question": "scholar",
+      "answers": [
+        {
+          "id": "a",
+          "text": "guma, kauczuk"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedzialność"
+        },
+        {
+          "id": "c",
+          "text": "przysłowie"
+        },
+        {
+          "id": "d",
+          "text": "uczony"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„scholar” (rzeczownik, poziom B1) oznacza po polsku „uczony”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-029",
+      "question": "scholarship",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ilość"
+        },
+        {
+          "id": "b",
+          "text": "stypendium"
+        },
+        {
+          "id": "c",
+          "text": "(form) odpadki"
+        },
+        {
+          "id": "d",
+          "text": "spodek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„scholarship” (rzeczownik, poziom B1) oznacza po polsku „stypendium”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-030",
+      "question": "scope",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stypendium"
+        },
+        {
+          "id": "b",
+          "text": "przydział, racja"
+        },
+        {
+          "id": "c",
+          "text": "zwrot pieniędzy, zwrot"
+        },
+        {
+          "id": "d",
+          "text": "możliwość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„scope” (rzeczownik, poziom B1) oznacza po polsku „możliwość”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-031",
+      "question": "score",
+      "answers": [
+        {
+          "id": "a",
+          "text": "postępy, postęp"
+        },
+        {
+          "id": "b",
+          "text": "odniesienie"
+        },
+        {
+          "id": "c",
+          "text": "uciekinier, zbieg"
+        },
+        {
+          "id": "d",
+          "text": "(sport) wynik, rezultat"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„score” (rzeczownik, poziom B1) oznacza po polsku „(sport) wynik, rezultat”."
+    },
+    {
+      "id": "b1-rzeczowniki-09-032",
+      "question": "scratch",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rafa"
+        },
+        {
+          "id": "b",
+          "text": "zasoby"
+        },
+        {
+          "id": "c",
+          "text": "zadrapanie"
+        },
+        {
+          "id": "d",
+          "text": "rzeczywistość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„scratch” (rzeczownik, poziom B1) oznacza po polsku „zadrapanie”."
+    }
+  ]
+}

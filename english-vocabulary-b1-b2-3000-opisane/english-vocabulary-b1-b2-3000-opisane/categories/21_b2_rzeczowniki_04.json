@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-rzeczowniki-04",
+    "name": "B2 — Rzeczowniki 4/9 (E–G)"
+  },
+  "questions": [
+    {
+      "id": "b2-rzeczowniki-04-001",
+      "question": "energy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "otoczenie, środowisko"
+        },
+        {
+          "id": "b",
+          "text": "wytrzymałość"
+        },
+        {
+          "id": "c",
+          "text": "energia"
+        },
+        {
+          "id": "d",
+          "text": "oczekiwanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„energy” (rzeczownik, poziom B2) oznacza po polsku „energia”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-002",
+      "question": "engagement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spotkanie"
+        },
+        {
+          "id": "b",
+          "text": "wiejski"
+        },
+        {
+          "id": "c",
+          "text": "rujnujący"
+        },
+        {
+          "id": "d",
+          "text": "(also exhaust pipe) rura wydechowa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„engagement” (rzeczownik, poziom B2) oznacza po polsku „spotkanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-003",
+      "question": "enterprise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprawiedliwość, słuszność"
+        },
+        {
+          "id": "b",
+          "text": "oczekiwanie"
+        },
+        {
+          "id": "c",
+          "text": "firma, przedsiębiorstwo, interes"
+        },
+        {
+          "id": "d",
+          "text": "pracodawca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„enterprise” (rzeczownik, poziom B2) oznacza po polsku „firma, przedsiębiorstwo, interes”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-004",
+      "question": "entrepreneur",
+      "answers": [
+        {
+          "id": "a",
+          "text": "punktualny"
+        },
+        {
+          "id": "b",
+          "text": "tyczący się"
+        },
+        {
+          "id": "c",
+          "text": "rzęsa"
+        },
+        {
+          "id": "d",
+          "text": "przedsiębiorca"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„entrepreneur” (rzeczownik, poziom B2) oznacza po polsku „przedsiębiorca”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-005",
+      "question": "environment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "główny, zasadniczy"
+        },
+        {
+          "id": "b",
+          "text": "energia"
+        },
+        {
+          "id": "c",
+          "text": "wiejski"
+        },
+        {
+          "id": "d",
+          "text": "otoczenie, środowisko"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„environment” (rzeczownik, poziom B2) oznacza po polsku „otoczenie, środowisko”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-006",
+      "question": "equation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zardzewiały"
+        },
+        {
+          "id": "b",
+          "text": "równanie"
+        },
+        {
+          "id": "c",
+          "text": "rujnujący"
+        },
+        {
+          "id": "d",
+          "text": "teść"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„equation” (rzeczownik, poziom B2) oznacza po polsku „równanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-007",
+      "question": "equity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kamienisty"
+        },
+        {
+          "id": "b",
+          "text": "oczekiwanie"
+        },
+        {
+          "id": "c",
+          "text": "sprawiedliwość, słuszność"
+        },
+        {
+          "id": "d",
+          "text": "wygnanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„equity” (rzeczownik, poziom B2) oznacza po polsku „sprawiedliwość, słuszność”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-008",
+      "question": "eruption",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) usiłowanie, wysiłek, próba"
+        },
+        {
+          "id": "b",
+          "text": "wyczerpanie"
+        },
+        {
+          "id": "c",
+          "text": "wybuch"
+        },
+        {
+          "id": "d",
+          "text": "ewolucja, rozwój"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„eruption” (rzeczownik, poziom B2) oznacza po polsku „wybuch”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-009",
+      "question": "essayist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapalczywy, pochopny"
+        },
+        {
+          "id": "b",
+          "text": "eseista"
+        },
+        {
+          "id": "c",
+          "text": "wybuch"
+        },
+        {
+          "id": "d",
+          "text": "elektronika"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„essayist” (rzeczownik, poziom B2) oznacza po polsku „eseista”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-010",
+      "question": "estimate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tłuszcz"
+        },
+        {
+          "id": "b",
+          "text": "płomień"
+        },
+        {
+          "id": "c",
+          "text": "bezzwłoczny"
+        },
+        {
+          "id": "d",
+          "text": "szacunek, ocena"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„estimate” (rzeczownik, poziom B2) oznacza po polsku „szacunek, ocena”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-011",
+      "question": "ethic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błąd, niedopatrzenie"
+        },
+        {
+          "id": "b",
+          "text": "etos"
+        },
+        {
+          "id": "c",
+          "text": "wiejski"
+        },
+        {
+          "id": "d",
+          "text": "wiara"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ethic” (rzeczownik, poziom B2) oznacza po polsku „etos”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-012",
+      "question": "evaluation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "egzekucja"
+        },
+        {
+          "id": "b",
+          "text": "rewolucyjny"
+        },
+        {
+          "id": "c",
+          "text": "ocena, oszacowanie"
+        },
+        {
+          "id": "d",
+          "text": "tłuszcz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„evaluation” (rzeczownik, poziom B2) oznacza po polsku „ocena, oszacowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-013",
+      "question": "evolution",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odzew"
+        },
+        {
+          "id": "b",
+          "text": "rozrost, ekspansja"
+        },
+        {
+          "id": "c",
+          "text": "etos"
+        },
+        {
+          "id": "d",
+          "text": "ewolucja, rozwój"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„evolution” (rzeczownik, poziom B2) oznacza po polsku „ewolucja, rozwój”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-014",
+      "question": "exaggerate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przesadzać"
+        },
+        {
+          "id": "b",
+          "text": "wygnanie"
+        },
+        {
+          "id": "c",
+          "text": "samica"
+        },
+        {
+          "id": "d",
+          "text": "egzekucja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„exaggerate” (rzeczownik, poziom B2) oznacza po polsku „przesadzać”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-015",
+      "question": "exception",
+      "answers": [
+        {
+          "id": "a",
+          "text": "refleksyjny, pełen zadumy"
+        },
+        {
+          "id": "b",
+          "text": "dochodowy"
+        },
+        {
+          "id": "c",
+          "text": "wyczerpanie"
+        },
+        {
+          "id": "d",
+          "text": "wyjątek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„exception” (rzeczownik, poziom B2) oznacza po polsku „wyjątek”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-016",
+      "question": "exclusion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wydalenie, niedopuszczanie"
+        },
+        {
+          "id": "b",
+          "text": "rujnujący"
+        },
+        {
+          "id": "c",
+          "text": "fascynacja"
+        },
+        {
+          "id": "d",
+          "text": "ocena, oszacowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„exclusion” (rzeczownik, poziom B2) oznacza po polsku „wydalenie, niedopuszczanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-017",
+      "question": "excursion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prostokątny"
+        },
+        {
+          "id": "b",
+          "text": "wyprawa"
+        },
+        {
+          "id": "c",
+          "text": "dziwaczny"
+        },
+        {
+          "id": "d",
+          "text": "eksport"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„excursion” (rzeczownik, poziom B2) oznacza po polsku „wyprawa”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-018",
+      "question": "execution",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dobudówka, powiększenie"
+        },
+        {
+          "id": "b",
+          "text": "paznokieć"
+        },
+        {
+          "id": "c",
+          "text": "elita"
+        },
+        {
+          "id": "d",
+          "text": "egzekucja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„execution” (rzeczownik, poziom B2) oznacza po polsku „egzekucja”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-019",
+      "question": "exhaust",
+      "answers": [
+        {
+          "id": "a",
+          "text": "eksport"
+        },
+        {
+          "id": "b",
+          "text": "tyczący się"
+        },
+        {
+          "id": "c",
+          "text": "(also exhaust pipe) rura wydechowa"
+        },
+        {
+          "id": "d",
+          "text": "oddechowy, płucny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„exhaust” (rzeczownik, poziom B2) oznacza po polsku „(also exhaust pipe) rura wydechowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-020",
+      "question": "exhaustion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyczerpanie"
+        },
+        {
+          "id": "b",
+          "text": "ciało, mięso"
+        },
+        {
+          "id": "c",
+          "text": "zapalczywy, pochopny"
+        },
+        {
+          "id": "d",
+          "text": "bezzwłoczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„exhaustion” (rzeczownik, poziom B2) oznacza po polsku „wyczerpanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-021",
+      "question": "exile",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błąd, niedopatrzenie"
+        },
+        {
+          "id": "b",
+          "text": "wygnanie"
+        },
+        {
+          "id": "c",
+          "text": "wycinek, wyimek"
+        },
+        {
+          "id": "d",
+          "text": "wydalenie, niedopuszczanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„exile” (rzeczownik, poziom B2) oznacza po polsku „wygnanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-022",
+      "question": "expansion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samica"
+        },
+        {
+          "id": "b",
+          "text": "rozrost, ekspansja"
+        },
+        {
+          "id": "c",
+          "text": "dochodowy"
+        },
+        {
+          "id": "d",
+          "text": "czynnik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„expansion” (rzeczownik, poziom B2) oznacza po polsku „rozrost, ekspansja”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-023",
+      "question": "expectation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "firma, przedsiębiorstwo, interes"
+        },
+        {
+          "id": "b",
+          "text": "tyczący się"
+        },
+        {
+          "id": "c",
+          "text": "oczekiwanie"
+        },
+        {
+          "id": "d",
+          "text": "władze umysłowe i cielesne"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„expectation” (rzeczownik, poziom B2) oznacza po polsku „oczekiwanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-024",
+      "question": "expedition",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oczekiwanie"
+        },
+        {
+          "id": "b",
+          "text": "uprzedni"
+        },
+        {
+          "id": "c",
+          "text": "przestawać, rzucać"
+        },
+        {
+          "id": "d",
+          "text": "ekspedycja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„expedition” (rzeczownik, poziom B2) oznacza po polsku „ekspedycja”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-025",
+      "question": "explorer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oddechowy, płucny"
+        },
+        {
+          "id": "b",
+          "text": "badacz, eksplorator"
+        },
+        {
+          "id": "c",
+          "text": "ciało, mięso"
+        },
+        {
+          "id": "d",
+          "text": "eksport"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„explorer” (rzeczownik, poziom B2) oznacza po polsku „badacz, eksplorator”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-026",
+      "question": "export",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjątek"
+        },
+        {
+          "id": "b",
+          "text": "szacunek, ocena"
+        },
+        {
+          "id": "c",
+          "text": "eksport"
+        },
+        {
+          "id": "d",
+          "text": "oczekiwanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„export” (rzeczownik, poziom B2) oznacza po polsku „eksport”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-027",
+      "question": "extension",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dobudówka, powiększenie"
+        },
+        {
+          "id": "b",
+          "text": "szacunek, ocena"
+        },
+        {
+          "id": "c",
+          "text": "atak choroby, atak, napad szału, napad"
+        },
+        {
+          "id": "d",
+          "text": "sfinansowanie, dofinansowanie, pieniądze"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„extension” (rzeczownik, poziom B2) oznacza po polsku „dobudówka, powiększenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-028",
+      "question": "extract",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wycinek, wyimek"
+        },
+        {
+          "id": "b",
+          "text": "elektryk"
+        },
+        {
+          "id": "c",
+          "text": "bezzwłoczny"
+        },
+        {
+          "id": "d",
+          "text": "kłótliwy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„extract” (rzeczownik, poziom B2) oznacza po polsku „wycinek, wyimek”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-029",
+      "question": "eyebrow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also exhaust pipe) rura wydechowa"
+        },
+        {
+          "id": "b",
+          "text": "rozrost, ekspansja"
+        },
+        {
+          "id": "c",
+          "text": "brew"
+        },
+        {
+          "id": "d",
+          "text": "sława"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„eyebrow” (rzeczownik, poziom B2) oznacza po polsku „brew”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-030",
+      "question": "eyelash",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ambasada"
+        },
+        {
+          "id": "b",
+          "text": "zbyteczny, zbędny"
+        },
+        {
+          "id": "c",
+          "text": "elita"
+        },
+        {
+          "id": "d",
+          "text": "rzęsa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„eyelash” (rzeczownik, poziom B2) oznacza po polsku „rzęsa”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-031",
+      "question": "eyelid",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozrost, ekspansja"
+        },
+        {
+          "id": "b",
+          "text": "powieka"
+        },
+        {
+          "id": "c",
+          "text": "energia"
+        },
+        {
+          "id": "d",
+          "text": "spotkanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„eyelid” (rzeczownik, poziom B2) oznacza po polsku „powieka”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-032",
+      "question": "fabric",
+      "answers": [
+        {
+          "id": "a",
+          "text": "włókno"
+        },
+        {
+          "id": "b",
+          "text": "sława"
+        },
+        {
+          "id": "c",
+          "text": "materiał, płótno"
+        },
+        {
+          "id": "d",
+          "text": "słony"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„fabric” (rzeczownik, poziom B2) oznacza po polsku „materiał, płótno”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-033",
+      "question": "factor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brew"
+        },
+        {
+          "id": "b",
+          "text": "czynnik"
+        },
+        {
+          "id": "c",
+          "text": "punktualny"
+        },
+        {
+          "id": "d",
+          "text": "sława"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„factor” (rzeczownik, poziom B2) oznacza po polsku „czynnik”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-034",
+      "question": "faculty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapalczywy, pochopny"
+        },
+        {
+          "id": "b",
+          "text": "władze umysłowe i cielesne"
+        },
+        {
+          "id": "c",
+          "text": "pracownik"
+        },
+        {
+          "id": "d",
+          "text": "trzepot"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„faculty” (rzeczownik, poziom B2) oznacza po polsku „władze umysłowe i cielesne”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-035",
+      "question": "faith",
+      "answers": [
+        {
+          "id": "a",
+          "text": "eksport"
+        },
+        {
+          "id": "b",
+          "text": "zardzewiały"
+        },
+        {
+          "id": "c",
+          "text": "wiara"
+        },
+        {
+          "id": "d",
+          "text": "różowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„faith” (rzeczownik, poziom B2) oznacza po polsku „wiara”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-036",
+      "question": "fame",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiejski"
+        },
+        {
+          "id": "b",
+          "text": "sława"
+        },
+        {
+          "id": "c",
+          "text": "atak choroby, atak, napad szału, napad"
+        },
+        {
+          "id": "d",
+          "text": "ryzykowny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fame” (rzeczownik, poziom B2) oznacza po polsku „sława”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-037",
+      "question": "fascination",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sfinansowanie, dofinansowanie, pieniądze"
+        },
+        {
+          "id": "b",
+          "text": "(fiz) ognisko"
+        },
+        {
+          "id": "c",
+          "text": "dochodowy"
+        },
+        {
+          "id": "d",
+          "text": "fascynacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fascination” (rzeczownik, poziom B2) oznacza po polsku „fascynacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-038",
+      "question": "fat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezzwłoczny"
+        },
+        {
+          "id": "b",
+          "text": "energia"
+        },
+        {
+          "id": "c",
+          "text": "zbyteczny, zbędny"
+        },
+        {
+          "id": "d",
+          "text": "tłuszcz"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fat” (rzeczownik, poziom B2) oznacza po polsku „tłuszcz”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-039",
+      "question": "fate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rzęsa"
+        },
+        {
+          "id": "b",
+          "text": "ciało, mięso"
+        },
+        {
+          "id": "c",
+          "text": "uszczęśliwiony, pełen ulgi"
+        },
+        {
+          "id": "d",
+          "text": "los, przeznaczenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fate” (rzeczownik, poziom B2) oznacza po polsku „los, przeznaczenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-040",
+      "question": "father-in-law",
+      "answers": [
+        {
+          "id": "a",
+          "text": "teść"
+        },
+        {
+          "id": "b",
+          "text": "głęboki"
+        },
+        {
+          "id": "c",
+          "text": "(fiz) ognisko"
+        },
+        {
+          "id": "d",
+          "text": "zapalczywy, pochopny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„father-in-law” (rzeczownik, poziom B2) oznacza po polsku „teść”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-041",
+      "question": "feat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zardzewiały"
+        },
+        {
+          "id": "b",
+          "text": "broń palna, broń"
+        },
+        {
+          "id": "c",
+          "text": "wyjątek"
+        },
+        {
+          "id": "d",
+          "text": "wyczyn, popis"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„feat” (rzeczownik, poziom B2) oznacza po polsku „wyczyn, popis”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-042",
+      "question": "feedback",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odzew"
+        },
+        {
+          "id": "b",
+          "text": "trzepot"
+        },
+        {
+          "id": "c",
+          "text": "szacunek, ocena"
+        },
+        {
+          "id": "d",
+          "text": "kominek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„feedback” (rzeczownik, poziom B2) oznacza po polsku „odzew”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-043",
+      "question": "female",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uprzedni"
+        },
+        {
+          "id": "b",
+          "text": "władze umysłowe i cielesne"
+        },
+        {
+          "id": "c",
+          "text": "głęboki"
+        },
+        {
+          "id": "d",
+          "text": "samica"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„female” (rzeczownik, poziom B2) oznacza po polsku „samica”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-044",
+      "question": "fibre",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uszczęśliwiony, pełen ulgi"
+        },
+        {
+          "id": "b",
+          "text": "szacunek, ocena"
+        },
+        {
+          "id": "c",
+          "text": "wygnanie"
+        },
+        {
+          "id": "d",
+          "text": "włókno"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fibre” (rzeczownik, poziom B2) oznacza po polsku „włókno”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-045",
+      "question": "finance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "celowy"
+        },
+        {
+          "id": "b",
+          "text": "sfinansowanie, dofinansowanie, pieniądze"
+        },
+        {
+          "id": "c",
+          "text": "ambasada"
+        },
+        {
+          "id": "d",
+          "text": "różowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„finance” (rzeczownik, poziom B2) oznacza po polsku „sfinansowanie, dofinansowanie, pieniądze”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-046",
+      "question": "fingernail",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawdopodobny, możliwy"
+        },
+        {
+          "id": "b",
+          "text": "wydalenie, niedopuszczanie"
+        },
+        {
+          "id": "c",
+          "text": "ryzykowny"
+        },
+        {
+          "id": "d",
+          "text": "paznokieć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fingernail” (rzeczownik, poziom B2) oznacza po polsku „paznokieć”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-047",
+      "question": "firearm",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezzwłoczny"
+        },
+        {
+          "id": "b",
+          "text": "broń palna, broń"
+        },
+        {
+          "id": "c",
+          "text": "ewolucja, rozwój"
+        },
+        {
+          "id": "d",
+          "text": "słony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„firearm” (rzeczownik, poziom B2) oznacza po polsku „broń palna, broń”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-048",
+      "question": "fireplace",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kominek"
+        },
+        {
+          "id": "b",
+          "text": "teść"
+        },
+        {
+          "id": "c",
+          "text": "włókno"
+        },
+        {
+          "id": "d",
+          "text": "czynnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fireplace” (rzeczownik, poziom B2) oznacza po polsku „kominek”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-049",
+      "question": "fit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "len"
+        },
+        {
+          "id": "b",
+          "text": "atak choroby, atak, napad szału, napad"
+        },
+        {
+          "id": "c",
+          "text": "celowy"
+        },
+        {
+          "id": "d",
+          "text": "elektryk"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fit” (rzeczownik, poziom B2) oznacza po polsku „atak choroby, atak, napad szału, napad”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-050",
+      "question": "flame",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sława"
+        },
+        {
+          "id": "b",
+          "text": "powieka"
+        },
+        {
+          "id": "c",
+          "text": "czysty"
+        },
+        {
+          "id": "d",
+          "text": "płomień"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„flame” (rzeczownik, poziom B2) oznacza po polsku „płomień”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-051",
+      "question": "flaw",
+      "answers": [
+        {
+          "id": "a",
+          "text": "teść"
+        },
+        {
+          "id": "b",
+          "text": "rytmiczny"
+        },
+        {
+          "id": "c",
+          "text": "len"
+        },
+        {
+          "id": "d",
+          "text": "błąd, niedopatrzenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„flaw” (rzeczownik, poziom B2) oznacza po polsku „błąd, niedopatrzenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-052",
+      "question": "flax",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szacunek, ocena"
+        },
+        {
+          "id": "b",
+          "text": "tyczący się"
+        },
+        {
+          "id": "c",
+          "text": "len"
+        },
+        {
+          "id": "d",
+          "text": "buntowniczy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„flax” (rzeczownik, poziom B2) oznacza po polsku „len”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-053",
+      "question": "fleet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przesadzać"
+        },
+        {
+          "id": "b",
+          "text": "przestawać, rzucać"
+        },
+        {
+          "id": "c",
+          "text": "sprawiedliwość, słuszność"
+        },
+        {
+          "id": "d",
+          "text": "flota"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fleet” (rzeczownik, poziom B2) oznacza po polsku „flota”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-054",
+      "question": "flesh",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapalczywy, pochopny"
+        },
+        {
+          "id": "b",
+          "text": "pracownik"
+        },
+        {
+          "id": "c",
+          "text": "ciało, mięso"
+        },
+        {
+          "id": "d",
+          "text": "szacunek, ocena"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„flesh” (rzeczownik, poziom B2) oznacza po polsku „ciało, mięso”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-055",
+      "question": "fluency",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(fiz) ognisko"
+        },
+        {
+          "id": "b",
+          "text": "włókno"
+        },
+        {
+          "id": "c",
+          "text": "(also exhaust pipe) rura wydechowa"
+        },
+        {
+          "id": "d",
+          "text": "płynność, biegłość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fluency” (rzeczownik, poziom B2) oznacza po polsku „płynność, biegłość”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-056",
+      "question": "flutter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odzew"
+        },
+        {
+          "id": "b",
+          "text": "trzepot"
+        },
+        {
+          "id": "c",
+          "text": "płynność, biegłość"
+        },
+        {
+          "id": "d",
+          "text": "elektronika"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„flutter” (rzeczownik, poziom B2) oznacza po polsku „trzepot”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-057",
+      "question": "focus",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozrost, ekspansja"
+        },
+        {
+          "id": "b",
+          "text": "fascynacja"
+        },
+        {
+          "id": "c",
+          "text": "badacz, eksplorator"
+        },
+        {
+          "id": "d",
+          "text": "(fiz) ognisko"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„focus” (rzeczownik, poziom B2) oznacza po polsku „(fiz) ognisko”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-058",
+      "question": "follower",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwolennik, uczeń"
+        },
+        {
+          "id": "b",
+          "text": "obrazowanie"
+        },
+        {
+          "id": "c",
+          "text": "miętus, miętówka"
+        },
+        {
+          "id": "d",
+          "text": "kadzidło"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„follower” (rzeczownik, poziom B2) oznacza po polsku „zwolennik, uczeń”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-059",
+      "question": "folly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwolennik, uczeń"
+        },
+        {
+          "id": "b",
+          "text": "opakowanie"
+        },
+        {
+          "id": "c",
+          "text": "kwatera główna"
+        },
+        {
+          "id": "d",
+          "text": "szaleństwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„folly” (rzeczownik, poziom B2) oznacza po polsku „szaleństwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-060",
+      "question": "footnote",
+      "answers": [
+        {
+          "id": "a",
+          "text": "najważniejszy punkt, kulminacja"
+        },
+        {
+          "id": "b",
+          "text": "żałość, zgryzota"
+        },
+        {
+          "id": "c",
+          "text": "uśmiech"
+        },
+        {
+          "id": "d",
+          "text": "przypis"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„footnote” (rzeczownik, poziom B2) oznacza po polsku „przypis”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-061",
+      "question": "foreman",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upośledzenie"
+        },
+        {
+          "id": "b",
+          "text": "majster"
+        },
+        {
+          "id": "c",
+          "text": "uścisk"
+        },
+        {
+          "id": "d",
+          "text": "identyfikacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„foreman” (rzeczownik, poziom B2) oznacza po polsku „majster”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-062",
+      "question": "forestry",
+      "answers": [
+        {
+          "id": "a",
+          "text": "leśnictwo, gospodarka leśna"
+        },
+        {
+          "id": "b",
+          "text": "imitacja"
+        },
+        {
+          "id": "c",
+          "text": "pomocnik"
+        },
+        {
+          "id": "d",
+          "text": "lis"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„forestry” (rzeczownik, poziom B2) oznacza po polsku „leśnictwo, gospodarka leśna”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-063",
+      "question": "formation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomocnik"
+        },
+        {
+          "id": "b",
+          "text": "miętus, miętówka"
+        },
+        {
+          "id": "c",
+          "text": "uścisk"
+        },
+        {
+          "id": "d",
+          "text": "tworzenie się, tworzenie, formowanie się, formowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„formation” (rzeczownik, poziom B2) oznacza po polsku „tworzenie się, tworzenie, formowanie się, formowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-064",
+      "question": "fox",
+      "answers": [
+        {
+          "id": "a",
+          "text": "majster"
+        },
+        {
+          "id": "b",
+          "text": "ucieczka, zbiegnięcie"
+        },
+        {
+          "id": "c",
+          "text": "lis"
+        },
+        {
+          "id": "d",
+          "text": "ziele, zioło"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„fox” (rzeczownik, poziom B2) oznacza po polsku „lis”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-065",
+      "question": "fragrance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "leśnictwo, gospodarka leśna"
+        },
+        {
+          "id": "b",
+          "text": "aromat"
+        },
+        {
+          "id": "c",
+          "text": "ziele, zioło"
+        },
+        {
+          "id": "d",
+          "text": "spojrzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fragrance” (rzeczownik, poziom B2) oznacza po polsku „aromat”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-066",
+      "question": "fraud",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hojność, szczodrość"
+        },
+        {
+          "id": "b",
+          "text": "defraudacja"
+        },
+        {
+          "id": "c",
+          "text": "zarazek"
+        },
+        {
+          "id": "d",
+          "text": "zadowolenie, radość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fraud” (rzeczownik, poziom B2) oznacza po polsku „defraudacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-067",
+      "question": "frigate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hojność, szczodrość"
+        },
+        {
+          "id": "b",
+          "text": "inflacja"
+        },
+        {
+          "id": "c",
+          "text": "fregata"
+        },
+        {
+          "id": "d",
+          "text": "opakowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„frigate” (rzeczownik, poziom B2) oznacza po polsku „fregata”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-068",
+      "question": "frontier",
+      "answers": [
+        {
+          "id": "a",
+          "text": "defraudacja"
+        },
+        {
+          "id": "b",
+          "text": "ilustracja"
+        },
+        {
+          "id": "c",
+          "text": "pośpiech"
+        },
+        {
+          "id": "d",
+          "text": "granica"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„frontier” (rzeczownik, poziom B2) oznacza po polsku „granica”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-069",
+      "question": "fume",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wesołość"
+        },
+        {
+          "id": "b",
+          "text": "połysk, blask, przebłysk"
+        },
+        {
+          "id": "c",
+          "text": "(also fumes) (zwł.) wyziewy, opary"
+        },
+        {
+          "id": "d",
+          "text": "wściekłe spojrzenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„fume” (rzeczownik, poziom B2) oznacza po polsku „(also fumes) (zwł.) wyziewy, opary”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-070",
+      "question": "furore",
+      "answers": [
+        {
+          "id": "a",
+          "text": "idiota"
+        },
+        {
+          "id": "b",
+          "text": "furora, poruszenie"
+        },
+        {
+          "id": "c",
+          "text": "miętus, miętówka"
+        },
+        {
+          "id": "d",
+          "text": "aromat"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„furore” (rzeczownik, poziom B2) oznacza po polsku „furora, poruszenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-071",
+      "question": "gaiety",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wesołość"
+        },
+        {
+          "id": "b",
+          "text": "getto"
+        },
+        {
+          "id": "c",
+          "text": "tworzenie się, tworzenie, formowanie się, formowanie"
+        },
+        {
+          "id": "d",
+          "text": "ikona"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gaiety” (rzeczownik, poziom B2) oznacza po polsku „wesołość”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-072",
+      "question": "gambling",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hazardowy"
+        },
+        {
+          "id": "b",
+          "text": "geniusz"
+        },
+        {
+          "id": "c",
+          "text": "gang"
+        },
+        {
+          "id": "d",
+          "text": "datek, wsparcie, zapomoga"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gambling” (rzeczownik, poziom B2) oznacza po polsku „hazardowy”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-073",
+      "question": "gang",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapalenie"
+        },
+        {
+          "id": "b",
+          "text": "dziedzictwo"
+        },
+        {
+          "id": "c",
+          "text": "gang"
+        },
+        {
+          "id": "d",
+          "text": "wytyczna, dyrektywa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gang” (rzeczownik, poziom B2) oznacza po polsku „gang”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-074",
+      "question": "gangster",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grawitacja"
+        },
+        {
+          "id": "b",
+          "text": "przekładnia zębata, przekładnia"
+        },
+        {
+          "id": "c",
+          "text": "gangster"
+        },
+        {
+          "id": "d",
+          "text": "hazardowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gangster” (rzeczownik, poziom B2) oznacza po polsku „gangster”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-075",
+      "question": "gardener",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ostrzyć"
+        },
+        {
+          "id": "b",
+          "text": "wytyczna, dyrektywa"
+        },
+        {
+          "id": "c",
+          "text": "ogrodnik"
+        },
+        {
+          "id": "d",
+          "text": "higiena"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gardener” (rzeczownik, poziom B2) oznacza po polsku „ogrodnik”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-076",
+      "question": "gasp",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siano"
+        },
+        {
+          "id": "b",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "c",
+          "text": "dyszenie"
+        },
+        {
+          "id": "d",
+          "text": "rzemiosło, rękodzieło"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gasp” (rzeczownik, poziom B2) oznacza po polsku „dyszenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-077",
+      "question": "gateway",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siano"
+        },
+        {
+          "id": "b",
+          "text": "wejście, brama"
+        },
+        {
+          "id": "c",
+          "text": "ziele, zioło"
+        },
+        {
+          "id": "d",
+          "text": "kaptur"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„gateway” (rzeczownik, poziom B2) oznacza po polsku „wejście, brama”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-078",
+      "question": "gaze",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "b",
+          "text": "uwięzienie, więzienie"
+        },
+        {
+          "id": "c",
+          "text": "identyfikacja"
+        },
+        {
+          "id": "d",
+          "text": "opakowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gaze” (rzeczownik, poziom B2) oznacza po polsku „spojrzenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-079",
+      "question": "gear",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekładnia zębata, przekładnia"
+        },
+        {
+          "id": "b",
+          "text": "furora, poruszenie"
+        },
+        {
+          "id": "c",
+          "text": "higiena"
+        },
+        {
+          "id": "d",
+          "text": "zadowolenie, radość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gear” (rzeczownik, poziom B2) oznacza po polsku „przekładnia zębata, przekładnia”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-080",
+      "question": "generosity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tworzenie się, tworzenie, formowanie się, formowanie"
+        },
+        {
+          "id": "b",
+          "text": "hojność, szczodrość"
+        },
+        {
+          "id": "c",
+          "text": "datek, wsparcie, zapomoga"
+        },
+        {
+          "id": "d",
+          "text": "siano"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„generosity” (rzeczownik, poziom B2) oznacza po polsku „hojność, szczodrość”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-081",
+      "question": "genius",
+      "answers": [
+        {
+          "id": "a",
+          "text": "najważniejszy punkt, kulminacja"
+        },
+        {
+          "id": "b",
+          "text": "grawitacja"
+        },
+        {
+          "id": "c",
+          "text": "inflacja"
+        },
+        {
+          "id": "d",
+          "text": "geniusz"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„genius” (rzeczownik, poziom B2) oznacza po polsku „geniusz”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-082",
+      "question": "germ",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarazek"
+        },
+        {
+          "id": "b",
+          "text": "narzędzia metalowe"
+        },
+        {
+          "id": "c",
+          "text": "dziedzictwo"
+        },
+        {
+          "id": "d",
+          "text": "hojność, szczodrość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„germ” (rzeczownik, poziom B2) oznacza po polsku „zarazek”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-083",
+      "question": "getaway",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwolennik, uczeń"
+        },
+        {
+          "id": "b",
+          "text": "ucieczka, zbiegnięcie"
+        },
+        {
+          "id": "c",
+          "text": "chwyt, uścisk"
+        },
+        {
+          "id": "d",
+          "text": "nieświadomość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„getaway” (rzeczownik, poziom B2) oznacza po polsku „ucieczka, zbiegnięcie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-084",
+      "question": "ghetto",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kadzidło"
+        },
+        {
+          "id": "b",
+          "text": "zawahanie się, zawahanie"
+        },
+        {
+          "id": "c",
+          "text": "getto"
+        },
+        {
+          "id": "d",
+          "text": "tworzenie się, tworzenie, formowanie się, formowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ghetto” (rzeczownik, poziom B2) oznacza po polsku „getto”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-085",
+      "question": "glare",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wściekłe spojrzenie"
+        },
+        {
+          "id": "b",
+          "text": "ostrzyć"
+        },
+        {
+          "id": "c",
+          "text": "granica"
+        },
+        {
+          "id": "d",
+          "text": "gang"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„glare” (rzeczownik, poziom B2) oznacza po polsku „wściekłe spojrzenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-086",
+      "question": "gleam",
+      "answers": [
+        {
+          "id": "a",
+          "text": "idiota"
+        },
+        {
+          "id": "b",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "c",
+          "text": "imitacja"
+        },
+        {
+          "id": "d",
+          "text": "połysk, blask, przebłysk"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gleam” (rzeczownik, poziom B2) oznacza po polsku „połysk, blask, przebłysk”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-087",
+      "question": "glee",
+      "answers": [
+        {
+          "id": "a",
+          "text": "indeks"
+        },
+        {
+          "id": "b",
+          "text": "zadowolenie, radość"
+        },
+        {
+          "id": "c",
+          "text": "sterta, kupa"
+        },
+        {
+          "id": "d",
+          "text": "piekło"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„glee” (rzeczownik, poziom B2) oznacza po polsku „zadowolenie, radość”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-088",
+      "question": "glow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "guma do żucia, guma"
+        },
+        {
+          "id": "b",
+          "text": "połysk, blask, przebłysk"
+        },
+        {
+          "id": "c",
+          "text": "obrazowanie"
+        },
+        {
+          "id": "d",
+          "text": "żar, blask"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„glow” (rzeczownik, poziom B2) oznacza po polsku „żar, blask”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-089",
+      "question": "goat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "połysk, blask, przebłysk"
+        },
+        {
+          "id": "b",
+          "text": "gang"
+        },
+        {
+          "id": "c",
+          "text": "rzemiosło, rękodzieło"
+        },
+        {
+          "id": "d",
+          "text": "koza, kozioł"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„goat” (rzeczownik, poziom B2) oznacza po polsku „koza, kozioł”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-090",
+      "question": "good",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(zjawisko) dobro"
+        },
+        {
+          "id": "b",
+          "text": "rzemiosło, rękodzieło"
+        },
+        {
+          "id": "c",
+          "text": "wesołość"
+        },
+        {
+          "id": "d",
+          "text": "krzywda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„good” (rzeczownik, poziom B2) oznacza po polsku „(zjawisko) dobro”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-091",
+      "question": "goodwill",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ziarno"
+        },
+        {
+          "id": "b",
+          "text": "imigrant"
+        },
+        {
+          "id": "c",
+          "text": "życzliwość"
+        },
+        {
+          "id": "d",
+          "text": "lis"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„goodwill” (rzeczownik, poziom B2) oznacza po polsku „życzliwość”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-092",
+      "question": "grain",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ilustracja"
+        },
+        {
+          "id": "b",
+          "text": "kadzidło"
+        },
+        {
+          "id": "c",
+          "text": "zawahanie się, zawahanie"
+        },
+        {
+          "id": "d",
+          "text": "ziarno"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„grain” (rzeczownik, poziom B2) oznacza po polsku „ziarno”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-093",
+      "question": "grasp",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miętus, miętówka"
+        },
+        {
+          "id": "b",
+          "text": "datek, wsparcie, zapomoga"
+        },
+        {
+          "id": "c",
+          "text": "gosposia, pomoc domowa"
+        },
+        {
+          "id": "d",
+          "text": "chwyt, uścisk"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„grasp” (rzeczownik, poziom B2) oznacza po polsku „chwyt, uścisk”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-094",
+      "question": "gravestone",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ikona"
+        },
+        {
+          "id": "b",
+          "text": "inflacja"
+        },
+        {
+          "id": "c",
+          "text": "żałość, zgryzota"
+        },
+        {
+          "id": "d",
+          "text": "nagrobek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gravestone” (rzeczownik, poziom B2) oznacza po polsku „nagrobek”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-095",
+      "question": "gravitation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grawitacja"
+        },
+        {
+          "id": "b",
+          "text": "chwyt, uścisk"
+        },
+        {
+          "id": "c",
+          "text": "guma do żucia, guma"
+        },
+        {
+          "id": "d",
+          "text": "zapalenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gravitation” (rzeczownik, poziom B2) oznacza po polsku „grawitacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-096",
+      "question": "grief",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piekło"
+        },
+        {
+          "id": "b",
+          "text": "imigrant"
+        },
+        {
+          "id": "c",
+          "text": "kwatera główna"
+        },
+        {
+          "id": "d",
+          "text": "żałość, zgryzota"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„grief” (rzeczownik, poziom B2) oznacza po polsku „żałość, zgryzota”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-097",
+      "question": "grin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uśmiech"
+        },
+        {
+          "id": "b",
+          "text": "piekło"
+        },
+        {
+          "id": "c",
+          "text": "wesołość"
+        },
+        {
+          "id": "d",
+          "text": "rzemiosło, rękodzieło"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„grin” (rzeczownik, poziom B2) oznacza po polsku „uśmiech”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-098",
+      "question": "grip",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uścisk"
+        },
+        {
+          "id": "b",
+          "text": "idiota"
+        },
+        {
+          "id": "c",
+          "text": "(torby) uchwyt"
+        },
+        {
+          "id": "d",
+          "text": "sterta, kupa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„grip” (rzeczownik, poziom B2) oznacza po polsku „(torby) uchwyt”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-099",
+      "question": "guideline",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krzywda"
+        },
+        {
+          "id": "b",
+          "text": "zapalenie"
+        },
+        {
+          "id": "c",
+          "text": "upośledzenie"
+        },
+        {
+          "id": "d",
+          "text": "wytyczna, dyrektywa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„guideline” (rzeczownik, poziom B2) oznacza po polsku „wytyczna, dyrektywa”."
+    },
+    {
+      "id": "b2-rzeczowniki-04-100",
+      "question": "gulp",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obrazowanie"
+        },
+        {
+          "id": "b",
+          "text": "majster"
+        },
+        {
+          "id": "c",
+          "text": "łyk"
+        },
+        {
+          "id": "d",
+          "text": "krzywda"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gulp” (rzeczownik, poziom B2) oznacza po polsku „łyk”."
+    }
+  ]
+}

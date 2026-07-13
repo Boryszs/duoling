@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-rzeczowniki-03",
+    "name": "B1 — Rzeczowniki 3/9 (C–E)"
+  },
+  "questions": [
+    {
+      "id": "b1-rzeczowniki-03-001",
+      "question": "concentration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "legalny"
+        },
+        {
+          "id": "b",
+          "text": "koncentracja, skupienie się, skupienie"
+        },
+        {
+          "id": "c",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "d",
+          "text": "natychmiastowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„concentration” (rzeczownik, poziom B1) oznacza po polsku „koncentracja, skupienie się, skupienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-002",
+      "question": "concept",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uzupełnienie, uwydatnienie"
+        },
+        {
+          "id": "b",
+          "text": "pojęcie"
+        },
+        {
+          "id": "c",
+          "text": "konflikt, sprzeczność"
+        },
+        {
+          "id": "d",
+          "text": "zaufanie, wiara"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„concept” (rzeczownik, poziom B1) oznacza po polsku „pojęcie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-003",
+      "question": "conclusion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapalać"
+        },
+        {
+          "id": "b",
+          "text": "przecinek"
+        },
+        {
+          "id": "c",
+          "text": "wniosek"
+        },
+        {
+          "id": "d",
+          "text": "węgiel"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„conclusion” (rzeczownik, poziom B1) oznacza po polsku „wniosek”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-004",
+      "question": "conduct",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kompromis"
+        },
+        {
+          "id": "b",
+          "text": "prowadzenie, przeprowadzanie"
+        },
+        {
+          "id": "c",
+          "text": "zauważać"
+        },
+        {
+          "id": "d",
+          "text": "nieuchronny, nie do uniknięcia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„conduct” (rzeczownik, poziom B1) oznacza po polsku „prowadzenie, przeprowadzanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-005",
+      "question": "confidence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaufanie, wiara"
+        },
+        {
+          "id": "b",
+          "text": "wspólny"
+        },
+        {
+          "id": "c",
+          "text": "indywidualny, osobisty"
+        },
+        {
+          "id": "d",
+          "text": "nieuchronny, nie do uniknięcia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„confidence” (rzeczownik, poziom B1) oznacza po polsku „zaufanie, wiara”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-006",
+      "question": "confirmation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "b",
+          "text": "potwierdzenie"
+        },
+        {
+          "id": "c",
+          "text": "minimalizować"
+        },
+        {
+          "id": "d",
+          "text": "przemyślenie, rozważenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„confirmation” (rzeczownik, poziom B1) oznacza po polsku „potwierdzenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-007",
+      "question": "conflict",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ochrona przyrody, ochrona"
+        },
+        {
+          "id": "b",
+          "text": "(myśli) odpowiadać"
+        },
+        {
+          "id": "c",
+          "text": "konflikt, sprzeczność"
+        },
+        {
+          "id": "d",
+          "text": "pojęcie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„conflict” (rzeczownik, poziom B1) oznacza po polsku „konflikt, sprzeczność”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-008",
+      "question": "confusion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "robiący wrażenie"
+        },
+        {
+          "id": "b",
+          "text": "pomyłka"
+        },
+        {
+          "id": "c",
+          "text": "uwaga, komentarz"
+        },
+        {
+          "id": "d",
+          "text": "zraniony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„confusion” (rzeczownik, poziom B1) oznacza po polsku „pomyłka”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-009",
+      "question": "conservation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wniosek"
+        },
+        {
+          "id": "b",
+          "text": "wyimaginowany"
+        },
+        {
+          "id": "c",
+          "text": "ochrona przyrody, ochrona"
+        },
+        {
+          "id": "d",
+          "text": "porównanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„conservation” (rzeczownik, poziom B1) oznacza po polsku „ochrona przyrody, ochrona”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-010",
+      "question": "consideration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przemyślenie, rozważenie"
+        },
+        {
+          "id": "b",
+          "text": "wniosek"
+        },
+        {
+          "id": "c",
+          "text": "zraniony"
+        },
+        {
+          "id": "d",
+          "text": "legalny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„consideration” (rzeczownik, poziom B1) oznacza po polsku „przemyślenie, rozważenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-011",
+      "question": "consonant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "robiący wrażenie"
+        },
+        {
+          "id": "b",
+          "text": "negocjować"
+        },
+        {
+          "id": "c",
+          "text": "spółgłoska"
+        },
+        {
+          "id": "d",
+          "text": "niewinny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„consonant” (rzeczownik, poziom B1) oznacza po polsku „spółgłoska”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-012",
+      "question": "constitution",
+      "answers": [
+        {
+          "id": "a",
+          "text": "termin ostateczny, termin"
+        },
+        {
+          "id": "b",
+          "text": "narracyjny"
+        },
+        {
+          "id": "c",
+          "text": "obiecywać"
+        },
+        {
+          "id": "d",
+          "text": "konstytucja, statut"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„constitution” (rzeczownik, poziom B1) oznacza po polsku „konstytucja, statut”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-013",
+      "question": "construction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieruchomy"
+        },
+        {
+          "id": "b",
+          "text": "przekonywać"
+        },
+        {
+          "id": "c",
+          "text": "umiarkowany"
+        },
+        {
+          "id": "d",
+          "text": "budowa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„construction” (rzeczownik, poziom B1) oznacza po polsku „budowa”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-014",
+      "question": "consumer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przytłaczać, miażdżyć"
+        },
+        {
+          "id": "b",
+          "text": "ciekły, płynny"
+        },
+        {
+          "id": "c",
+          "text": "konsument"
+        },
+        {
+          "id": "d",
+          "text": "zabierać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„consumer” (rzeczownik, poziom B1) oznacza po polsku „konsument”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-015",
+      "question": "consumption",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zużycie"
+        },
+        {
+          "id": "b",
+          "text": "konstytucja, statut"
+        },
+        {
+          "id": "c",
+          "text": "odłamki, szczątki"
+        },
+        {
+          "id": "d",
+          "text": "znaczący, posiadający znaczenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„consumption” (rzeczownik, poziom B1) oznacza po polsku „zużycie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-016",
+      "question": "contribution",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieruchomy"
+        },
+        {
+          "id": "b",
+          "text": "wkład"
+        },
+        {
+          "id": "c",
+          "text": "stukać"
+        },
+        {
+          "id": "d",
+          "text": "zmniejszenie się, zmniejszenie, pogorszenie się, pogorszenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„contribution” (rzeczownik, poziom B1) oznacza po polsku „wkład”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-017",
+      "question": "copyright",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawo autorskie, copyright"
+        },
+        {
+          "id": "b",
+          "text": "wzajemny"
+        },
+        {
+          "id": "c",
+          "text": "zezwolenie"
+        },
+        {
+          "id": "d",
+          "text": "oszałamiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„copyright” (rzeczownik, poziom B1) oznacza po polsku „prawo autorskie, copyright”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-018",
+      "question": "damage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przypominać sobie"
+        },
+        {
+          "id": "b",
+          "text": "zadowalać"
+        },
+        {
+          "id": "c",
+          "text": "w średnim wieku"
+        },
+        {
+          "id": "d",
+          "text": "uszkodzenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„damage” (rzeczownik, poziom B1) oznacza po polsku „uszkodzenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-019",
+      "question": "darkness",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciemność"
+        },
+        {
+          "id": "b",
+          "text": "średni"
+        },
+        {
+          "id": "c",
+          "text": "uszkodzenie"
+        },
+        {
+          "id": "d",
+          "text": "recytować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„darkness” (rzeczownik, poziom B1) oznacza po polsku „ciemność”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-020",
+      "question": "daze",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciemność"
+        },
+        {
+          "id": "b",
+          "text": "zachowywać"
+        },
+        {
+          "id": "c",
+          "text": "oszałamiać"
+        },
+        {
+          "id": "d",
+          "text": "uszkodzenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„daze” (rzeczownik, poziom B1) oznacza po polsku „oszałamiać”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-021",
+      "question": "dazzle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "termin ostateczny, termin"
+        },
+        {
+          "id": "b",
+          "text": "blask"
+        },
+        {
+          "id": "c",
+          "text": "decyzja"
+        },
+        {
+          "id": "d",
+          "text": "morski"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dazzle” (rzeczownik, poziom B1) oznacza po polsku „blask”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-022",
+      "question": "deadline",
+      "answers": [
+        {
+          "id": "a",
+          "text": "termin ostateczny, termin"
+        },
+        {
+          "id": "b",
+          "text": "umysłowy"
+        },
+        {
+          "id": "c",
+          "text": "mechaniczny"
+        },
+        {
+          "id": "d",
+          "text": "chronić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„deadline” (rzeczownik, poziom B1) oznacza po polsku „termin ostateczny, termin”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-023",
+      "question": "dealer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieszczęśliwy"
+        },
+        {
+          "id": "b",
+          "text": "kupiec, makler"
+        },
+        {
+          "id": "c",
+          "text": "(mąż) wzorowy"
+        },
+        {
+          "id": "d",
+          "text": "ochota"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dealer” (rzeczownik, poziom B1) oznacza po polsku „kupiec, makler”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-024",
+      "question": "debris",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odłamki, szczątki"
+        },
+        {
+          "id": "b",
+          "text": "zużycie"
+        },
+        {
+          "id": "c",
+          "text": "nieruchomy"
+        },
+        {
+          "id": "d",
+          "text": "uczestniczyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„debris” (rzeczownik, poziom B1) oznacza po polsku „odłamki, szczątki”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-025",
+      "question": "debt",
+      "answers": [
+        {
+          "id": "a",
+          "text": "planować, planować"
+        },
+        {
+          "id": "b",
+          "text": "przekonywać"
+        },
+        {
+          "id": "c",
+          "text": "dług"
+        },
+        {
+          "id": "d",
+          "text": "otrzymywać dyplom"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„debt” (rzeczownik, poziom B1) oznacza po polsku „dług”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-026",
+      "question": "decision",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozpacz"
+        },
+        {
+          "id": "b",
+          "text": "ograniczony"
+        },
+        {
+          "id": "c",
+          "text": "demokracja"
+        },
+        {
+          "id": "d",
+          "text": "decyzja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„decision” (rzeczownik, poziom B1) oznacza po polsku „decyzja”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-027",
+      "question": "declaration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyznanie, deklaracja"
+        },
+        {
+          "id": "b",
+          "text": "minimalny"
+        },
+        {
+          "id": "c",
+          "text": "demokracja"
+        },
+        {
+          "id": "d",
+          "text": "odzyskiwać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„declaration” (rzeczownik, poziom B1) oznacza po polsku „wyznanie, deklaracja”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-028",
+      "question": "decline",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mechaniczny"
+        },
+        {
+          "id": "b",
+          "text": "rozpacz"
+        },
+        {
+          "id": "c",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "d",
+          "text": "zmniejszenie się, zmniejszenie, pogorszenie się, pogorszenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„decline” (rzeczownik, poziom B1) oznacza po polsku „zmniejszenie się, zmniejszenie, pogorszenie się, pogorszenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-029",
+      "question": "decrease",
+      "answers": [
+        {
+          "id": "a",
+          "text": "posiadać"
+        },
+        {
+          "id": "b",
+          "text": "zmniejszenie, spadek"
+        },
+        {
+          "id": "c",
+          "text": "propagować"
+        },
+        {
+          "id": "d",
+          "text": "termin ostateczny, termin"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„decrease” (rzeczownik, poziom B1) oznacza po polsku „zmniejszenie, spadek”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-030",
+      "question": "deed",
+      "answers": [
+        {
+          "id": "a",
+          "text": "propagować"
+        },
+        {
+          "id": "b",
+          "text": "zachowywać"
+        },
+        {
+          "id": "c",
+          "text": "czyn, wyczyn"
+        },
+        {
+          "id": "d",
+          "text": "udowadniać, wykazywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„deed” (rzeczownik, poziom B1) oznacza po polsku „czyn, wyczyn”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-031",
+      "question": "defence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "decyzja"
+        },
+        {
+          "id": "b",
+          "text": "obrona"
+        },
+        {
+          "id": "c",
+          "text": "(mąż) wzorowy"
+        },
+        {
+          "id": "d",
+          "text": "zamglony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„defence” (rzeczownik, poziom B1) oznacza po polsku „obrona”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-032",
+      "question": "deficiency",
+      "answers": [
+        {
+          "id": "a",
+          "text": "instytut"
+        },
+        {
+          "id": "b",
+          "text": "nieruchomy"
+        },
+        {
+          "id": "c",
+          "text": "niedostatek"
+        },
+        {
+          "id": "d",
+          "text": "chronić"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„deficiency” (rzeczownik, poziom B1) oznacza po polsku „niedostatek”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-033",
+      "question": "definition",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mechaniczny"
+        },
+        {
+          "id": "b",
+          "text": "brudny, zapaskudzony"
+        },
+        {
+          "id": "c",
+          "text": "głębokość"
+        },
+        {
+          "id": "d",
+          "text": "definicja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„definition” (rzeczownik, poziom B1) oznacza po polsku „definicja”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-034",
+      "question": "delight",
+      "answers": [
+        {
+          "id": "a",
+          "text": "literacki"
+        },
+        {
+          "id": "b",
+          "text": "zachwyt"
+        },
+        {
+          "id": "c",
+          "text": "chronić"
+        },
+        {
+          "id": "d",
+          "text": "udowadniać, wykazywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„delight” (rzeczownik, poziom B1) oznacza po polsku „zachwyt”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-035",
+      "question": "delivery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "b",
+          "text": "nieruchomy"
+        },
+        {
+          "id": "c",
+          "text": "doręczanie poczty, doręczanie"
+        },
+        {
+          "id": "d",
+          "text": "zezwolenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„delivery” (rzeczownik, poziom B1) oznacza po polsku „doręczanie poczty, doręczanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-036",
+      "question": "demand",
+      "answers": [
+        {
+          "id": "a",
+          "text": "umysłowy"
+        },
+        {
+          "id": "b",
+          "text": "ochota"
+        },
+        {
+          "id": "c",
+          "text": "zezwolenie"
+        },
+        {
+          "id": "d",
+          "text": "żądanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„demand” (rzeczownik, poziom B1) oznacza po polsku „żądanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-037",
+      "question": "democracy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lojalny"
+        },
+        {
+          "id": "b",
+          "text": "demokracja"
+        },
+        {
+          "id": "c",
+          "text": "odjazd"
+        },
+        {
+          "id": "d",
+          "text": "ciekły, płynny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„democracy” (rzeczownik, poziom B1) oznacza po polsku „demokracja”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-038",
+      "question": "demonstration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "depresja, przygnębienie"
+        },
+        {
+          "id": "b",
+          "text": "konstytucja, statut"
+        },
+        {
+          "id": "c",
+          "text": "demonstracja"
+        },
+        {
+          "id": "d",
+          "text": "chronić"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„demonstration” (rzeczownik, poziom B1) oznacza po polsku „demonstracja”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-039",
+      "question": "department",
+      "answers": [
+        {
+          "id": "a",
+          "text": "minimalny"
+        },
+        {
+          "id": "b",
+          "text": "zezwolenie"
+        },
+        {
+          "id": "c",
+          "text": "instytut"
+        },
+        {
+          "id": "d",
+          "text": "rozpacz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„department” (rzeczownik, poziom B1) oznacza po polsku „instytut”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-040",
+      "question": "departure",
+      "answers": [
+        {
+          "id": "a",
+          "text": "program"
+        },
+        {
+          "id": "b",
+          "text": "przestawiać, reorganizować"
+        },
+        {
+          "id": "c",
+          "text": "odjazd"
+        },
+        {
+          "id": "d",
+          "text": "średni"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„departure” (rzeczownik, poziom B1) oznacza po polsku „odjazd”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-041",
+      "question": "deposit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tylko"
+        },
+        {
+          "id": "b",
+          "text": "(meble, ogłoszenie) umieszczać"
+        },
+        {
+          "id": "c",
+          "text": "(minerałów) złoże, osad"
+        },
+        {
+          "id": "d",
+          "text": "umysłowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„deposit” (rzeczownik, poziom B1) oznacza po polsku „(minerałów) złoże, osad”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-042",
+      "question": "depression",
+      "answers": [
+        {
+          "id": "a",
+          "text": "minimalny"
+        },
+        {
+          "id": "b",
+          "text": "zużycie"
+        },
+        {
+          "id": "c",
+          "text": "pomniejszy"
+        },
+        {
+          "id": "d",
+          "text": "depresja, przygnębienie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„depression” (rzeczownik, poziom B1) oznacza po polsku „depresja, przygnębienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-043",
+      "question": "depth",
+      "answers": [
+        {
+          "id": "a",
+          "text": "głębokość"
+        },
+        {
+          "id": "b",
+          "text": "decyzja"
+        },
+        {
+          "id": "c",
+          "text": "czarodziejski, magiczny"
+        },
+        {
+          "id": "d",
+          "text": "(rośliny) żywy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„depth” (rzeczownik, poziom B1) oznacza po polsku „głębokość”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-044",
+      "question": "desire",
+      "answers": [
+        {
+          "id": "a",
+          "text": "definicja"
+        },
+        {
+          "id": "b",
+          "text": "planować, planować"
+        },
+        {
+          "id": "c",
+          "text": "ciemność"
+        },
+        {
+          "id": "d",
+          "text": "ochota"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„desire” (rzeczownik, poziom B1) oznacza po polsku „ochota”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-045",
+      "question": "despair",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czarodziejski, magiczny"
+        },
+        {
+          "id": "b",
+          "text": "rozpacz"
+        },
+        {
+          "id": "c",
+          "text": "zachwyt"
+        },
+        {
+          "id": "d",
+          "text": "oczyszczać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„despair” (rzeczownik, poziom B1) oznacza po polsku „rozpacz”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-046",
+      "question": "destination",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miejsce przeznaczenia"
+        },
+        {
+          "id": "b",
+          "text": "obraźliwy"
+        },
+        {
+          "id": "c",
+          "text": "zwracać"
+        },
+        {
+          "id": "d",
+          "text": "wybitny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„destination” (rzeczownik, poziom B1) oznacza po polsku „miejsce przeznaczenia”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-047",
+      "question": "destruction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paskudny, nieprzyjemny"
+        },
+        {
+          "id": "b",
+          "text": "inwalidztwo, ułomność"
+        },
+        {
+          "id": "c",
+          "text": "rozłam"
+        },
+        {
+          "id": "d",
+          "text": "zniszczenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„destruction” (rzeczownik, poziom B1) oznacza po polsku „zniszczenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-048",
+      "question": "detective",
+      "answers": [
+        {
+          "id": "a",
+          "text": "liczny"
+        },
+        {
+          "id": "b",
+          "text": "zachwycony"
+        },
+        {
+          "id": "c",
+          "text": "detektyw"
+        },
+        {
+          "id": "d",
+          "text": "rozłam"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„detective” (rzeczownik, poziom B1) oznacza po polsku „detektyw”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-049",
+      "question": "determination",
+      "answers": [
+        {
+          "id": "a",
+          "text": "organiczny"
+        },
+        {
+          "id": "b",
+          "text": "determinacja, zdecydowanie"
+        },
+        {
+          "id": "c",
+          "text": "północny"
+        },
+        {
+          "id": "d",
+          "text": "neutralny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„determination” (rzeczownik, poziom B1) oznacza po polsku „determinacja, zdecydowanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-050",
+      "question": "development",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozwój"
+        },
+        {
+          "id": "b",
+          "text": "północny"
+        },
+        {
+          "id": "c",
+          "text": "obolały, bolący"
+        },
+        {
+          "id": "d",
+          "text": "średnica"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„development” (rzeczownik, poziom B1) oznacza po polsku „rozwój”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-051",
+      "question": "device",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płatny"
+        },
+        {
+          "id": "b",
+          "text": "pobliski"
+        },
+        {
+          "id": "c",
+          "text": "urządzenie"
+        },
+        {
+          "id": "d",
+          "text": "rozkład, dystrybucja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„device” (rzeczownik, poziom B1) oznacza po polsku „urządzenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-052",
+      "question": "devotion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oddanie"
+        },
+        {
+          "id": "b",
+          "text": "oczywisty"
+        },
+        {
+          "id": "c",
+          "text": "postanawiać"
+        },
+        {
+          "id": "d",
+          "text": "tarcza"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„devotion” (rzeczownik, poziom B1) oznacza po polsku „oddanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-053",
+      "question": "diagram",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozczarowanie"
+        },
+        {
+          "id": "b",
+          "text": "bliski"
+        },
+        {
+          "id": "c",
+          "text": "zabierać"
+        },
+        {
+          "id": "d",
+          "text": "wykres"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„diagram” (rzeczownik, poziom B1) oznacza po polsku „wykres”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-054",
+      "question": "dial",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uprzedni, przeszły"
+        },
+        {
+          "id": "b",
+          "text": "notoryczny"
+        },
+        {
+          "id": "c",
+          "text": "tarcza"
+        },
+        {
+          "id": "d",
+          "text": "zwracać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dial” (rzeczownik, poziom B1) oznacza po polsku „tarcza”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-055",
+      "question": "dialogue",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dialog, porozumienie"
+        },
+        {
+          "id": "b",
+          "text": "niepełnoetatowy"
+        },
+        {
+          "id": "c",
+          "text": "zamieszki"
+        },
+        {
+          "id": "d",
+          "text": "oddanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dialogue” (rzeczownik, poziom B1) oznacza po polsku „dialog, porozumienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-056",
+      "question": "diameter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nowonarodzony"
+        },
+        {
+          "id": "b",
+          "text": "zwykły"
+        },
+        {
+          "id": "c",
+          "text": "rozrzucać"
+        },
+        {
+          "id": "d",
+          "text": "średnica"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„diameter” (rzeczownik, poziom B1) oznacza po polsku „średnica”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-057",
+      "question": "diaper",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nurek"
+        },
+        {
+          "id": "b",
+          "text": "pielucha"
+        },
+        {
+          "id": "c",
+          "text": "wznawiać"
+        },
+        {
+          "id": "d",
+          "text": "dzielnica, dystrykt"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„diaper” (rzeczownik, poziom B1) oznacza po polsku „pielucha”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-058",
+      "question": "dirt",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brud, kurz"
+        },
+        {
+          "id": "b",
+          "text": "liczny"
+        },
+        {
+          "id": "c",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "d",
+          "text": "na zewnątrz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dirt” (rzeczownik, poziom B1) oznacza po polsku „brud, kurz”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-059",
+      "question": "disability",
+      "answers": [
+        {
+          "id": "a",
+          "text": "delfin"
+        },
+        {
+          "id": "b",
+          "text": "paskudny, nieprzyjemny"
+        },
+        {
+          "id": "c",
+          "text": "inwalidztwo, ułomność"
+        },
+        {
+          "id": "d",
+          "text": "zanurzenie się, nurek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disability” (rzeczownik, poziom B1) oznacza po polsku „inwalidztwo, ułomność”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-060",
+      "question": "disagreement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezgoda, rozbieżność opinii"
+        },
+        {
+          "id": "b",
+          "text": "redukować, zmniejszać"
+        },
+        {
+          "id": "c",
+          "text": "reprodukować, naśladować"
+        },
+        {
+          "id": "d",
+          "text": "dialog, porozumienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disagreement” (rzeczownik, poziom B1) oznacza po polsku „niezgoda, rozbieżność opinii”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-061",
+      "question": "disappointment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "polegać"
+        },
+        {
+          "id": "b",
+          "text": "notoryczny"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowanie"
+        },
+        {
+          "id": "d",
+          "text": "niepełnoetatowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disappointment” (rzeczownik, poziom B1) oznacza po polsku „rozczarowanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-062",
+      "question": "disaster",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwracać"
+        },
+        {
+          "id": "b",
+          "text": "delfin"
+        },
+        {
+          "id": "c",
+          "text": "klęska"
+        },
+        {
+          "id": "d",
+          "text": "pielucha"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disaster” (rzeczownik, poziom B1) oznacza po polsku „klęska”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-063",
+      "question": "disc",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wąski"
+        },
+        {
+          "id": "b",
+          "text": "postanawiać"
+        },
+        {
+          "id": "c",
+          "text": "krążek, tarcza"
+        },
+        {
+          "id": "d",
+          "text": "nurek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disc” (rzeczownik, poziom B1) oznacza po polsku „krążek, tarcza”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-064",
+      "question": "discomfort",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dolegliwość"
+        },
+        {
+          "id": "b",
+          "text": "obraźliwy"
+        },
+        {
+          "id": "c",
+          "text": "polecać, rekomendować"
+        },
+        {
+          "id": "d",
+          "text": "rozrzucać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„discomfort” (rzeczownik, poziom B1) oznacza po polsku „dolegliwość”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-065",
+      "question": "discount",
+      "answers": [
+        {
+          "id": "a",
+          "text": "porządny"
+        },
+        {
+          "id": "b",
+          "text": "bliski"
+        },
+        {
+          "id": "c",
+          "text": "wykres"
+        },
+        {
+          "id": "d",
+          "text": "obniżka, rabat"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„discount” (rzeczownik, poziom B1) oznacza po polsku „obniżka, rabat”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-066",
+      "question": "discovery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiadać"
+        },
+        {
+          "id": "b",
+          "text": "reprodukować, naśladować"
+        },
+        {
+          "id": "c",
+          "text": "notoryczny"
+        },
+        {
+          "id": "d",
+          "text": "odkrycie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„discovery” (rzeczownik, poziom B1) oznacza po polsku „odkrycie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-067",
+      "question": "discrimination",
+      "answers": [
+        {
+          "id": "a",
+          "text": "redukować, zmniejszać"
+        },
+        {
+          "id": "b",
+          "text": "postanawiać"
+        },
+        {
+          "id": "c",
+          "text": "polegać"
+        },
+        {
+          "id": "d",
+          "text": "dyskryminacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„discrimination” (rzeczownik, poziom B1) oznacza po polsku „dyskryminacja”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-068",
+      "question": "disease",
+      "answers": [
+        {
+          "id": "a",
+          "text": "choroba, schorzenie"
+        },
+        {
+          "id": "b",
+          "text": "zanurzenie się, nurek"
+        },
+        {
+          "id": "c",
+          "text": "bliski"
+        },
+        {
+          "id": "d",
+          "text": "pobliski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disease” (rzeczownik, poziom B1) oznacza po polsku „choroba, schorzenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-069",
+      "question": "dishwasher",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zmywarka do naczyń"
+        },
+        {
+          "id": "b",
+          "text": "program dokumentalny"
+        },
+        {
+          "id": "c",
+          "text": "porządny"
+        },
+        {
+          "id": "d",
+          "text": "północny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dishwasher” (rzeczownik, poziom B1) oznacza po polsku „zmywarka do naczyń”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-070",
+      "question": "distance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "staromodny"
+        },
+        {
+          "id": "b",
+          "text": "odległość"
+        },
+        {
+          "id": "c",
+          "text": "zabierać"
+        },
+        {
+          "id": "d",
+          "text": "notoryczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distance” (rzeczownik, poziom B1) oznacza po polsku „odległość”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-071",
+      "question": "distinction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepisywać, ulepszać"
+        },
+        {
+          "id": "b",
+          "text": "rozróżnienie"
+        },
+        {
+          "id": "c",
+          "text": "potrzebować"
+        },
+        {
+          "id": "d",
+          "text": "rozwój"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distinction” (rzeczownik, poziom B1) oznacza po polsku „rozróżnienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-072",
+      "question": "distribution",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozkład, dystrybucja"
+        },
+        {
+          "id": "b",
+          "text": "dawać w wyniku"
+        },
+        {
+          "id": "c",
+          "text": "brud, kurz"
+        },
+        {
+          "id": "d",
+          "text": "obniżka, rabat"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„distribution” (rzeczownik, poziom B1) oznacza po polsku „rozkład, dystrybucja”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-073",
+      "question": "district",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poprawiać, rewidować"
+        },
+        {
+          "id": "b",
+          "text": "nowonarodzony"
+        },
+        {
+          "id": "c",
+          "text": "dzielnica, dystrykt"
+        },
+        {
+          "id": "d",
+          "text": "częściowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„district” (rzeczownik, poziom B1) oznacza po polsku „dzielnica, dystrykt”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-074",
+      "question": "disturbance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamieszki"
+        },
+        {
+          "id": "b",
+          "text": "redukować, zmniejszać"
+        },
+        {
+          "id": "c",
+          "text": "pielucha"
+        },
+        {
+          "id": "d",
+          "text": "pomieszczenie, pokój"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disturbance” (rzeczownik, poziom B1) oznacza po polsku „zamieszki”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-075",
+      "question": "dive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zanurzenie się, nurek"
+        },
+        {
+          "id": "b",
+          "text": "nowonarodzony"
+        },
+        {
+          "id": "c",
+          "text": "północny"
+        },
+        {
+          "id": "d",
+          "text": "odpowiadać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dive” (rzeczownik, poziom B1) oznacza po polsku „zanurzenie się, nurek”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-076",
+      "question": "diver",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nurek"
+        },
+        {
+          "id": "b",
+          "text": "wybitny"
+        },
+        {
+          "id": "c",
+          "text": "zwracać"
+        },
+        {
+          "id": "d",
+          "text": "odkrycie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„diver” (rzeczownik, poziom B1) oznacza po polsku „nurek”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-077",
+      "question": "divide",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odrzucać"
+        },
+        {
+          "id": "b",
+          "text": "przygniatający"
+        },
+        {
+          "id": "c",
+          "text": "rozłam"
+        },
+        {
+          "id": "d",
+          "text": "krzyczeć przenikliwie, krzyczeć, wykrzykiwać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„divide” (rzeczownik, poziom B1) oznacza po polsku „rozłam”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-078",
+      "question": "document",
+      "answers": [
+        {
+          "id": "a",
+          "text": "notoryczny"
+        },
+        {
+          "id": "b",
+          "text": "oddanie"
+        },
+        {
+          "id": "c",
+          "text": "dokument"
+        },
+        {
+          "id": "d",
+          "text": "dialog, porozumienie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„document” (rzeczownik, poziom B1) oznacza po polsku „dokument”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-079",
+      "question": "documentary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "program dokumentalny"
+        },
+        {
+          "id": "b",
+          "text": "polecać, rekomendować"
+        },
+        {
+          "id": "c",
+          "text": "cierpliwy"
+        },
+        {
+          "id": "d",
+          "text": "na zewnątrz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„documentary” (rzeczownik, poziom B1) oznacza po polsku „program dokumentalny”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-080",
+      "question": "dolphin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "delfin"
+        },
+        {
+          "id": "b",
+          "text": "zabierać"
+        },
+        {
+          "id": "c",
+          "text": "inwalidztwo, ułomność"
+        },
+        {
+          "id": "d",
+          "text": "wybitny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dolphin” (rzeczownik, poziom B1) oznacza po polsku „delfin”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-081",
+      "question": "dot",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        },
+        {
+          "id": "b",
+          "text": "prymitywny"
+        },
+        {
+          "id": "c",
+          "text": "kropka, plamka"
+        },
+        {
+          "id": "d",
+          "text": "ekstaza, zachwyt"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dot” (rzeczownik, poziom B1) oznacza po polsku „kropka, plamka”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-082",
+      "question": "doze",
+      "answers": [
+        {
+          "id": "a",
+          "text": "równość"
+        },
+        {
+          "id": "b",
+          "text": "przygotowany"
+        },
+        {
+          "id": "c",
+          "text": "drzemka"
+        },
+        {
+          "id": "d",
+          "text": "sceniczny, widowiskowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„doze” (rzeczownik, poziom B1) oznacza po polsku „drzemka”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-083",
+      "question": "dump",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Anglik"
+        },
+        {
+          "id": "b",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        },
+        {
+          "id": "c",
+          "text": "rasowy"
+        },
+        {
+          "id": "d",
+          "text": "elektron"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dump” (rzeczownik, poziom B1) oznacza po polsku „(nieform) wysypisko śmieci, wysypisko”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-084",
+      "question": "dustbin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dojrzały"
+        },
+        {
+          "id": "b",
+          "text": "kosz na śmieci"
+        },
+        {
+          "id": "c",
+          "text": "egzamin"
+        },
+        {
+          "id": "d",
+          "text": "spotkanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dustbin” (rzeczownik, poziom B1) oznacza po polsku „kosz na śmieci”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-085",
+      "question": "duty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obowiązek"
+        },
+        {
+          "id": "b",
+          "text": "nadmiar"
+        },
+        {
+          "id": "c",
+          "text": "rasowy"
+        },
+        {
+          "id": "d",
+          "text": "zadowolony"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„duty” (rzeczownik, poziom B1) oznacza po polsku „obowiązek”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-086",
+      "question": "duvet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pierzyna"
+        },
+        {
+          "id": "b",
+          "text": "nierówny"
+        },
+        {
+          "id": "c",
+          "text": "gospodarka, ekonomia"
+        },
+        {
+          "id": "d",
+          "text": "obowiązek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„duvet” (rzeczownik, poziom B1) oznacza po polsku „pierzyna”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-087",
+      "question": "dynasty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dynastia"
+        },
+        {
+          "id": "b",
+          "text": "łokieć"
+        },
+        {
+          "id": "c",
+          "text": "ekologia"
+        },
+        {
+          "id": "d",
+          "text": "kropka, plamka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dynasty” (rzeczownik, poziom B1) oznacza po polsku „dynastia”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-088",
+      "question": "ecology",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyposażenie, ekwipunek, sprzęt"
+        },
+        {
+          "id": "b",
+          "text": "ekologia"
+        },
+        {
+          "id": "c",
+          "text": "dobrze prosperujący"
+        },
+        {
+          "id": "d",
+          "text": "nakłady, wydatki"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ecology” (rzeczownik, poziom B1) oznacza po polsku „ekologia”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-089",
+      "question": "economy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trujący"
+        },
+        {
+          "id": "b",
+          "text": "cesarz, imperator"
+        },
+        {
+          "id": "c",
+          "text": "czysty"
+        },
+        {
+          "id": "d",
+          "text": "gospodarka, ekonomia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„economy” (rzeczownik, poziom B1) oznacza po polsku „gospodarka, ekonomia”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-090",
+      "question": "ecstasy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wróg"
+        },
+        {
+          "id": "b",
+          "text": "pozorny, złudny"
+        },
+        {
+          "id": "c",
+          "text": "ekstaza, zachwyt"
+        },
+        {
+          "id": "d",
+          "text": "nadmiar"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ecstasy” (rzeczownik, poziom B1) oznacza po polsku „ekstaza, zachwyt”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-091",
+      "question": "edge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krawędź, brzeg"
+        },
+        {
+          "id": "b",
+          "text": "elektryczność"
+        },
+        {
+          "id": "c",
+          "text": "mieszkalny, mieszkaniowy"
+        },
+        {
+          "id": "d",
+          "text": "element, składnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„edge” (rzeczownik, poziom B1) oznacza po polsku „krawędź, brzeg”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-092",
+      "question": "edition",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "wyjście, wyjazd"
+        },
+        {
+          "id": "c",
+          "text": "wydanie"
+        },
+        {
+          "id": "d",
+          "text": "sceniczny, widowiskowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„edition” (rzeczownik, poziom B1) oznacza po polsku „wydanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-093",
+      "question": "elbow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łokieć"
+        },
+        {
+          "id": "b",
+          "text": "dobrze prosperujący"
+        },
+        {
+          "id": "c",
+          "text": "trwały"
+        },
+        {
+          "id": "d",
+          "text": "groteskowy, śmieszny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„elbow” (rzeczownik, poziom B1) oznacza po polsku „łokieć”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-094",
+      "question": "election",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadowolony"
+        },
+        {
+          "id": "b",
+          "text": "wykwalifikowany, dyplomowany"
+        },
+        {
+          "id": "c",
+          "text": "era, okres"
+        },
+        {
+          "id": "d",
+          "text": "wybory"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„election” (rzeczownik, poziom B1) oznacza po polsku „wybory”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-095",
+      "question": "electricity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektryczność"
+        },
+        {
+          "id": "b",
+          "text": "ważny"
+        },
+        {
+          "id": "c",
+          "text": "realistyczny"
+        },
+        {
+          "id": "d",
+          "text": "encyklopedia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„electricity” (rzeczownik, poziom B1) oznacza po polsku „elektryczność”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-096",
+      "question": "electron",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektron"
+        },
+        {
+          "id": "b",
+          "text": "ważny"
+        },
+        {
+          "id": "c",
+          "text": "bez grosza"
+        },
+        {
+          "id": "d",
+          "text": "szacowny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„electron” (rzeczownik, poziom B1) oznacza po polsku „elektron”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-097",
+      "question": "element",
+      "answers": [
+        {
+          "id": "a",
+          "text": "element, składnik"
+        },
+        {
+          "id": "b",
+          "text": "radość"
+        },
+        {
+          "id": "c",
+          "text": "absolutnie pewny"
+        },
+        {
+          "id": "d",
+          "text": "religijny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„element” (rzeczownik, poziom B1) oznacza po polsku „element, składnik”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-098",
+      "question": "embarrassment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pofałdowany"
+        },
+        {
+          "id": "b",
+          "text": "jakość"
+        },
+        {
+          "id": "c",
+          "text": "prędki"
+        },
+        {
+          "id": "d",
+          "text": "zakłopotanie, skrępowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„embarrassment” (rzeczownik, poziom B1) oznacza po polsku „zakłopotanie, skrępowanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-099",
+      "question": "emotion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "emocja, uczucie"
+        },
+        {
+          "id": "c",
+          "text": "święty"
+        },
+        {
+          "id": "d",
+          "text": "praktyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„emotion” (rzeczownik, poziom B1) oznacza po polsku „emocja, uczucie”."
+    },
+    {
+      "id": "b1-rzeczowniki-03-100",
+      "question": "emperor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cesarz, imperator"
+        },
+        {
+          "id": "b",
+          "text": "ekologia"
+        },
+        {
+          "id": "c",
+          "text": "elektryczność"
+        },
+        {
+          "id": "d",
+          "text": "zgłoszenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„emperor” (rzeczownik, poziom B1) oznacza po polsku „cesarz, imperator”."
+    }
+  ]
+}

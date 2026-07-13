@@ -1,0 +1,1376 @@
+{
+  "category": {
+    "id": "b2-rzeczowniki-09",
+    "name": "B2 — Rzeczowniki 9/9 (R–S)"
+  },
+  "questions": [
+    {
+      "id": "b2-rzeczowniki-09-001",
+      "question": "relaxation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uwaga"
+        },
+        {
+          "id": "b",
+          "text": "rezydencja"
+        },
+        {
+          "id": "c",
+          "text": "rafineria"
+        },
+        {
+          "id": "d",
+          "text": "relaks, odprężenie się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„relaxation” (rzeczownik, poziom B2) oznacza po polsku „relaks, odprężenie się”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-002",
+      "question": "relic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opłata za wynajęcie, czynsz"
+        },
+        {
+          "id": "b",
+          "text": "relikt"
+        },
+        {
+          "id": "c",
+          "text": "reforma, reformowanie"
+        },
+        {
+          "id": "d",
+          "text": "żebro"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„relic” (rzeczownik, poziom B2) oznacza po polsku „relikt”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-003",
+      "question": "relief",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzmocnienie"
+        },
+        {
+          "id": "b",
+          "text": "uwaga"
+        },
+        {
+          "id": "c",
+          "text": "ulga"
+        },
+        {
+          "id": "d",
+          "text": "(autora) przytoczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„relief” (rzeczownik, poziom B2) oznacza po polsku „ulga”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-004",
+      "question": "remark",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uwaga"
+        },
+        {
+          "id": "b",
+          "text": "relikt"
+        },
+        {
+          "id": "c",
+          "text": "replika, kopia"
+        },
+        {
+          "id": "d",
+          "text": "nosorożec"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„remark” (rzeczownik, poziom B2) oznacza po polsku „uwaga”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-005",
+      "question": "reminder",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reakcja"
+        },
+        {
+          "id": "b",
+          "text": "rekreacja"
+        },
+        {
+          "id": "c",
+          "text": "przypomnienie"
+        },
+        {
+          "id": "d",
+          "text": "(autora) przytoczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reminder” (rzeczownik, poziom B2) oznacza po polsku „przypomnienie”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-006",
+      "question": "rental",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywienie"
+        },
+        {
+          "id": "b",
+          "text": "opłata za wynajęcie, czynsz"
+        },
+        {
+          "id": "c",
+          "text": "szmata"
+        },
+        {
+          "id": "d",
+          "text": "dochód"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rental” (rzeczownik, poziom B2) oznacza po polsku „opłata za wynajęcie, czynsz”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-007",
+      "question": "repertoire",
+      "answers": [
+        {
+          "id": "a",
+          "text": "repertuar"
+        },
+        {
+          "id": "b",
+          "text": "zastąpienie"
+        },
+        {
+          "id": "c",
+          "text": "ceremoniał, obrzęd"
+        },
+        {
+          "id": "d",
+          "text": "oszczędnośći, oszczędność"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„repertoire” (rzeczownik, poziom B2) oznacza po polsku „repertuar”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-008",
+      "question": "repetition",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rampa, podjazd"
+        },
+        {
+          "id": "b",
+          "text": "opłata za wynajęcie, czynsz"
+        },
+        {
+          "id": "c",
+          "text": "powtórzenie"
+        },
+        {
+          "id": "d",
+          "text": "rewelacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„repetition” (rzeczownik, poziom B2) oznacza po polsku „powtórzenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-009",
+      "question": "replacement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rasizm"
+        },
+        {
+          "id": "b",
+          "text": "żal, ubolewanie"
+        },
+        {
+          "id": "c",
+          "text": "zastąpienie"
+        },
+        {
+          "id": "d",
+          "text": "krokiew"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„replacement” (rzeczownik, poziom B2) oznacza po polsku „zastąpienie”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-010",
+      "question": "replica",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykształcenie"
+        },
+        {
+          "id": "b",
+          "text": "replika, kopia"
+        },
+        {
+          "id": "c",
+          "text": "recesja"
+        },
+        {
+          "id": "d",
+          "text": "trasa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„replica” (rzeczownik, poziom B2) oznacza po polsku „replika, kopia”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-011",
+      "question": "repression",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzedawczyni, pośredniczka handlowa"
+        },
+        {
+          "id": "b",
+          "text": "kwarantanna"
+        },
+        {
+          "id": "c",
+          "text": "represja"
+        },
+        {
+          "id": "d",
+          "text": "rekreacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„repression” (rzeczownik, poziom B2) oznacza po polsku „represja”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-012",
+      "question": "reprint",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brzeg, krawędź"
+        },
+        {
+          "id": "b",
+          "text": "pobory, pensja"
+        },
+        {
+          "id": "c",
+          "text": "dodruk, wydanie niezmienione, wydanie"
+        },
+        {
+          "id": "d",
+          "text": "instalacja sanitarna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reprint” (rzeczownik, poziom B2) oznacza po polsku „dodruk, wydanie niezmienione, wydanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-013",
+      "question": "residence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rytuał"
+        },
+        {
+          "id": "b",
+          "text": "odwrót"
+        },
+        {
+          "id": "c",
+          "text": "rezydencja"
+        },
+        {
+          "id": "d",
+          "text": "strażnik leśny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„residence” (rzeczownik, poziom B2) oznacza po polsku „rezydencja”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-014",
+      "question": "resident",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powtórzenie"
+        },
+        {
+          "id": "b",
+          "text": "rodzina królewska"
+        },
+        {
+          "id": "c",
+          "text": "stały mieszkaniec, mieszkaniec"
+        },
+        {
+          "id": "d",
+          "text": "zastąpienie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„resident” (rzeczownik, poziom B2) oznacza po polsku „stały mieszkaniec, mieszkaniec”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-015",
+      "question": "resignation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) odniesienie, aluzja"
+        },
+        {
+          "id": "b",
+          "text": "uwaga"
+        },
+        {
+          "id": "c",
+          "text": "wiec"
+        },
+        {
+          "id": "d",
+          "text": "wypowiedzenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„resignation” (rzeczownik, poziom B2) oznacza po polsku „wypowiedzenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-016",
+      "question": "resistance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezolucja"
+        },
+        {
+          "id": "b",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "c",
+          "text": "wspomnienie"
+        },
+        {
+          "id": "d",
+          "text": "opór"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„resistance” (rzeczownik, poziom B2) oznacza po polsku „opór”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-017",
+      "question": "resolution",
+      "answers": [
+        {
+          "id": "a",
+          "text": "schronienie"
+        },
+        {
+          "id": "b",
+          "text": "ulga"
+        },
+        {
+          "id": "c",
+          "text": "rezolucja"
+        },
+        {
+          "id": "d",
+          "text": "cytat"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„resolution” (rzeczownik, poziom B2) oznacza po polsku „rezolucja”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-018",
+      "question": "respiration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rewolucja"
+        },
+        {
+          "id": "b",
+          "text": "powtórzenie"
+        },
+        {
+          "id": "c",
+          "text": "oddychanie"
+        },
+        {
+          "id": "d",
+          "text": "ograniczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„respiration” (rzeczownik, poziom B2) oznacza po polsku „oddychanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-019",
+      "question": "restriction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reżym"
+        },
+        {
+          "id": "b",
+          "text": "ograniczenie"
+        },
+        {
+          "id": "c",
+          "text": "rafineria"
+        },
+        {
+          "id": "d",
+          "text": "zastąpienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„restriction” (rzeczownik, poziom B2) oznacza po polsku „ograniczenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-020",
+      "question": "retailer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strażnik leśny"
+        },
+        {
+          "id": "b",
+          "text": "tęcza"
+        },
+        {
+          "id": "c",
+          "text": "detalista"
+        },
+        {
+          "id": "d",
+          "text": "rozpoznanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„retailer” (rzeczownik, poziom B2) oznacza po polsku „detalista”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-021",
+      "question": "retina",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywienie"
+        },
+        {
+          "id": "b",
+          "text": "rakieta"
+        },
+        {
+          "id": "c",
+          "text": "siatkówka"
+        },
+        {
+          "id": "d",
+          "text": "ulga"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„retina” (rzeczownik, poziom B2) oznacza po polsku „siatkówka”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-022",
+      "question": "retirement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "emerytura"
+        },
+        {
+          "id": "b",
+          "text": "żal, ubolewanie"
+        },
+        {
+          "id": "c",
+          "text": "(also ravages) spustoszenia"
+        },
+        {
+          "id": "d",
+          "text": "stały mieszkaniec, mieszkaniec"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„retirement” (rzeczownik, poziom B2) oznacza po polsku „emerytura”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-023",
+      "question": "retreat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odwrót"
+        },
+        {
+          "id": "b",
+          "text": "tryk, baran"
+        },
+        {
+          "id": "c",
+          "text": "wiec"
+        },
+        {
+          "id": "d",
+          "text": "żebro"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„retreat” (rzeczownik, poziom B2) oznacza po polsku „odwrót”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-024",
+      "question": "revelation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rewelacja"
+        },
+        {
+          "id": "b",
+          "text": "rekomendacja"
+        },
+        {
+          "id": "c",
+          "text": "rekreacja"
+        },
+        {
+          "id": "d",
+          "text": "rodzina królewska"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„revelation” (rzeczownik, poziom B2) oznacza po polsku „rewelacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-025",
+      "question": "revenge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "relikt"
+        },
+        {
+          "id": "b",
+          "text": "cisza, spokój"
+        },
+        {
+          "id": "c",
+          "text": "zemsta"
+        },
+        {
+          "id": "d",
+          "text": "prawo głosu, coś do powiedzenia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„revenge” (rzeczownik, poziom B2) oznacza po polsku „zemsta”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-026",
+      "question": "revenue",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trasa"
+        },
+        {
+          "id": "b",
+          "text": "siatkówka"
+        },
+        {
+          "id": "c",
+          "text": "dochód"
+        },
+        {
+          "id": "d",
+          "text": "reforma, reformowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„revenue” (rzeczownik, poziom B2) oznacza po polsku „dochód”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-027",
+      "question": "reverence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(autora) przytoczenie"
+        },
+        {
+          "id": "b",
+          "text": "cytat"
+        },
+        {
+          "id": "c",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "d",
+          "text": "trzcina"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reverence” (rzeczownik, poziom B2) oznacza po polsku „cześć, czczenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-028",
+      "question": "revival",
+      "answers": [
+        {
+          "id": "a",
+          "text": "recesja"
+        },
+        {
+          "id": "b",
+          "text": "ożywienie"
+        },
+        {
+          "id": "c",
+          "text": "trzcina"
+        },
+        {
+          "id": "d",
+          "text": "prawo głosu, coś do powiedzenia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„revival” (rzeczownik, poziom B2) oznacza po polsku „ożywienie”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-029",
+      "question": "revolution",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skandal"
+        },
+        {
+          "id": "b",
+          "text": "rewolucja"
+        },
+        {
+          "id": "c",
+          "text": "refren"
+        },
+        {
+          "id": "d",
+          "text": "nosorożec"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„revolution” (rzeczownik, poziom B2) oznacza po polsku „rewolucja”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-030",
+      "question": "rhinoceros",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rekreacja"
+        },
+        {
+          "id": "b",
+          "text": "stały mieszkaniec, mieszkaniec"
+        },
+        {
+          "id": "c",
+          "text": "nosorożec"
+        },
+        {
+          "id": "d",
+          "text": "(lit) mędrzec"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rhinoceros” (rzeczownik, poziom B2) oznacza po polsku „nosorożec”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-031",
+      "question": "rib",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rampa, podjazd"
+        },
+        {
+          "id": "b",
+          "text": "żebro"
+        },
+        {
+          "id": "c",
+          "text": "odświeżać"
+        },
+        {
+          "id": "d",
+          "text": "odwrót"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rib” (rzeczownik, poziom B2) oznacza po polsku „żebro”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-032",
+      "question": "riddle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zagadka"
+        },
+        {
+          "id": "b",
+          "text": "rakieta"
+        },
+        {
+          "id": "c",
+          "text": "żal, ubolewanie"
+        },
+        {
+          "id": "d",
+          "text": "rywal, konkurent"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„riddle” (rzeczownik, poziom B2) oznacza po polsku „zagadka”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-033",
+      "question": "rider",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przypomnienie"
+        },
+        {
+          "id": "b",
+          "text": "jeździec"
+        },
+        {
+          "id": "c",
+          "text": "zapytanie, zakwestionowanie"
+        },
+        {
+          "id": "d",
+          "text": "półka na bagaże, półka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rider” (rzeczownik, poziom B2) oznacza po polsku „jeździec”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-034",
+      "question": "ridge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "blizna, szrama"
+        },
+        {
+          "id": "b",
+          "text": "nosorożec"
+        },
+        {
+          "id": "c",
+          "text": "rekreacja"
+        },
+        {
+          "id": "d",
+          "text": "grzbiet, krawędź"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ridge” (rzeczownik, poziom B2) oznacza po polsku „grzbiet, krawędź”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-035",
+      "question": "rim",
+      "answers": [
+        {
+          "id": "a",
+          "text": "detalista"
+        },
+        {
+          "id": "b",
+          "text": "jeździec"
+        },
+        {
+          "id": "c",
+          "text": "brzeg, krawędź"
+        },
+        {
+          "id": "d",
+          "text": "uwaga"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rim” (rzeczownik, poziom B2) oznacza po polsku „brzeg, krawędź”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-036",
+      "question": "rite",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezydencja"
+        },
+        {
+          "id": "b",
+          "text": "brzeg, krawędź"
+        },
+        {
+          "id": "c",
+          "text": "wzmocnienie"
+        },
+        {
+          "id": "d",
+          "text": "ceremoniał, obrzęd"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rite” (rzeczownik, poziom B2) oznacza po polsku „ceremoniał, obrzęd”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-037",
+      "question": "ritual",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rytuał"
+        },
+        {
+          "id": "b",
+          "text": "sprzeczka"
+        },
+        {
+          "id": "c",
+          "text": "rewelacja"
+        },
+        {
+          "id": "d",
+          "text": "siatkówka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ritual” (rzeczownik, poziom B2) oznacza po polsku „rytuał”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-038",
+      "question": "rival",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(lit) mędrzec"
+        },
+        {
+          "id": "b",
+          "text": "uwaga"
+        },
+        {
+          "id": "c",
+          "text": "sprzeczka"
+        },
+        {
+          "id": "d",
+          "text": "rywal, konkurent"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rival” (rzeczownik, poziom B2) oznacza po polsku „rywal, konkurent”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-039",
+      "question": "roam",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywienie"
+        },
+        {
+          "id": "b",
+          "text": "włóczyć się, wędrować"
+        },
+        {
+          "id": "c",
+          "text": "refren"
+        },
+        {
+          "id": "d",
+          "text": "próba"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„roam” (rzeczownik, poziom B2) oznacza po polsku „włóczyć się, wędrować”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-040",
+      "question": "rocket",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "b",
+          "text": "trasa"
+        },
+        {
+          "id": "c",
+          "text": "stukot, stukanie"
+        },
+        {
+          "id": "d",
+          "text": "rakieta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rocket” (rzeczownik, poziom B2) oznacza po polsku „rakieta”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-041",
+      "question": "roommate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "współlokator"
+        },
+        {
+          "id": "b",
+          "text": "reżym"
+        },
+        {
+          "id": "c",
+          "text": "rodzina królewska"
+        },
+        {
+          "id": "d",
+          "text": "rezydencja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„roommate” (rzeczownik, poziom B2) oznacza po polsku „współlokator”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-042",
+      "question": "route",
+      "answers": [
+        {
+          "id": "a",
+          "text": "recesja"
+        },
+        {
+          "id": "b",
+          "text": "gruz"
+        },
+        {
+          "id": "c",
+          "text": "szmata"
+        },
+        {
+          "id": "d",
+          "text": "trasa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„route” (rzeczownik, poziom B2) oznacza po polsku „trasa”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-043",
+      "question": "royalty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rampa, podjazd"
+        },
+        {
+          "id": "b",
+          "text": "rodzina królewska"
+        },
+        {
+          "id": "c",
+          "text": "uwaga"
+        },
+        {
+          "id": "d",
+          "text": "(form) odniesienie, aluzja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„royalty” (rzeczownik, poziom B2) oznacza po polsku „rodzina królewska”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-044",
+      "question": "rubble",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezolucja"
+        },
+        {
+          "id": "b",
+          "text": "gruz"
+        },
+        {
+          "id": "c",
+          "text": "zastąpienie"
+        },
+        {
+          "id": "d",
+          "text": "wspomnienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rubble” (rzeczownik, poziom B2) oznacza po polsku „gruz”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-045",
+      "question": "rug",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rywal, konkurent"
+        },
+        {
+          "id": "b",
+          "text": "cisza, spokój"
+        },
+        {
+          "id": "c",
+          "text": "dywanik"
+        },
+        {
+          "id": "d",
+          "text": "sprzedawczyni, pośredniczka handlowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rug” (rzeczownik, poziom B2) oznacza po polsku „dywanik”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-046",
+      "question": "sag",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwisać, obwisać"
+        },
+        {
+          "id": "b",
+          "text": "oberwanie chmury"
+        },
+        {
+          "id": "c",
+          "text": "szmata"
+        },
+        {
+          "id": "d",
+          "text": "relikt"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sag” (rzeczownik, poziom B2) oznacza po polsku „zwisać, obwisać”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-047",
+      "question": "sage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siatkówka"
+        },
+        {
+          "id": "b",
+          "text": "półka na bagaże, półka"
+        },
+        {
+          "id": "c",
+          "text": "(lit) mędrzec"
+        },
+        {
+          "id": "d",
+          "text": "kwarantanna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sage” (rzeczownik, poziom B2) oznacza po polsku „(lit) mędrzec”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-048",
+      "question": "salary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(lit) mędrzec"
+        },
+        {
+          "id": "b",
+          "text": "dochód"
+        },
+        {
+          "id": "c",
+          "text": "grzbiet, krawędź"
+        },
+        {
+          "id": "d",
+          "text": "pobory, pensja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„salary” (rzeczownik, poziom B2) oznacza po polsku „pobory, pensja”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-049",
+      "question": "saleswoman",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dywanik"
+        },
+        {
+          "id": "b",
+          "text": "sprzedawczyni, pośredniczka handlowa"
+        },
+        {
+          "id": "c",
+          "text": "kwarantanna"
+        },
+        {
+          "id": "d",
+          "text": "szmata"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„saleswoman” (rzeczownik, poziom B2) oznacza po polsku „sprzedawczyni, pośredniczka handlowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-050",
+      "question": "sandstone",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piaskowiec"
+        },
+        {
+          "id": "b",
+          "text": "reforma, reformowanie"
+        },
+        {
+          "id": "c",
+          "text": "brzeg, krawędź"
+        },
+        {
+          "id": "d",
+          "text": "refren"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sandstone” (rzeczownik, poziom B2) oznacza po polsku „piaskowiec”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-051",
+      "question": "sanitation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pobory, pensja"
+        },
+        {
+          "id": "b",
+          "text": "zwisać, obwisać"
+        },
+        {
+          "id": "c",
+          "text": "instalacja sanitarna"
+        },
+        {
+          "id": "d",
+          "text": "rozpoznanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sanitation” (rzeczownik, poziom B2) oznacza po polsku „instalacja sanitarna”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-052",
+      "question": "savings",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pobory, pensja"
+        },
+        {
+          "id": "b",
+          "text": "rezydencja"
+        },
+        {
+          "id": "c",
+          "text": "oszczędnośći, oszczędność"
+        },
+        {
+          "id": "d",
+          "text": "rewelacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„savings” (rzeczownik, poziom B2) oznacza po polsku „oszczędnośći, oszczędność”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-053",
+      "question": "say",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozpoznanie"
+        },
+        {
+          "id": "b",
+          "text": "tryk, baran"
+        },
+        {
+          "id": "c",
+          "text": "prawo głosu, coś do powiedzenia"
+        },
+        {
+          "id": "d",
+          "text": "detalista"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„say” (rzeczownik, poziom B2) oznacza po polsku „prawo głosu, coś do powiedzenia”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-054",
+      "question": "scandal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodruk, wydanie niezmienione, wydanie"
+        },
+        {
+          "id": "b",
+          "text": "strażnik leśny"
+        },
+        {
+          "id": "c",
+          "text": "skandal"
+        },
+        {
+          "id": "d",
+          "text": "sprzedawczyni, pośredniczka handlowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„scandal” (rzeczownik, poziom B2) oznacza po polsku „skandal”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-055",
+      "question": "scar",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepis kulinarny, przepis"
+        },
+        {
+          "id": "b",
+          "text": "blizna, szrama"
+        },
+        {
+          "id": "c",
+          "text": "ceremoniał, obrzęd"
+        },
+        {
+          "id": "d",
+          "text": "ulga"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„scar” (rzeczownik, poziom B2) oznacza po polsku „blizna, szrama”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-056",
+      "question": "scarlet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oberwanie chmury"
+        },
+        {
+          "id": "b",
+          "text": "detalista"
+        },
+        {
+          "id": "c",
+          "text": "uwaga"
+        },
+        {
+          "id": "d",
+          "text": "szkarłat"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„scarlet” (rzeczownik, poziom B2) oznacza po polsku „szkarłat”."
+    },
+    {
+      "id": "b2-rzeczowniki-09-057",
+      "question": "scent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapach, aromat"
+        },
+        {
+          "id": "b",
+          "text": "prawo głosu, coś do powiedzenia"
+        },
+        {
+          "id": "c",
+          "text": "uwaga"
+        },
+        {
+          "id": "d",
+          "text": "wspomnienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„scent” (rzeczownik, poziom B2) oznacza po polsku „zapach, aromat”."
+    }
+  ]
+}

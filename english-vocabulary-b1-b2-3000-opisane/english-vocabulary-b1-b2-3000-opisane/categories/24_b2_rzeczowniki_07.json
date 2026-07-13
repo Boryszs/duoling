@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-rzeczowniki-07",
+    "name": "B2 — Rzeczowniki 7/9 (N–P)"
+  },
+  "questions": [
+    {
+      "id": "b2-rzeczowniki-07-001",
+      "question": "nerve",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieszczęście"
+        },
+        {
+          "id": "b",
+          "text": "gruby płaszcz, płaszcz"
+        },
+        {
+          "id": "c",
+          "text": "nerw"
+        },
+        {
+          "id": "d",
+          "text": "forma"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nerve” (rzeczownik, poziom B2) oznacza po polsku „nerw”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-002",
+      "question": "neurosis",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gruby płaszcz, płaszcz"
+        },
+        {
+          "id": "b",
+          "text": "nerwica"
+        },
+        {
+          "id": "c",
+          "text": "mobilność"
+        },
+        {
+          "id": "d",
+          "text": "w środku, w trakcie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„neurosis” (rzeczownik, poziom B2) oznacza po polsku „nerwica”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-003",
+      "question": "newscaster",
+      "answers": [
+        {
+          "id": "a",
+          "text": "milimetr"
+        },
+        {
+          "id": "b",
+          "text": "mgła"
+        },
+        {
+          "id": "c",
+          "text": "przestępca, sprawca wykroczenia"
+        },
+        {
+          "id": "d",
+          "text": "prezenter"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„newscaster” (rzeczownik, poziom B2) oznacza po polsku „prezenter”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-004",
+      "question": "nightmare",
+      "answers": [
+        {
+          "id": "a",
+          "text": "optymizm"
+        },
+        {
+          "id": "b",
+          "text": "przeciwnik, oponent"
+        },
+        {
+          "id": "c",
+          "text": "zły sen"
+        },
+        {
+          "id": "d",
+          "text": "w kilku słowach"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nightmare” (rzeczownik, poziom B2) oznacza po polsku „zły sen”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-005",
+      "question": "nobility",
+      "answers": [
+        {
+          "id": "a",
+          "text": "produkcja"
+        },
+        {
+          "id": "b",
+          "text": "maść, krem"
+        },
+        {
+          "id": "c",
+          "text": "szlachetność"
+        },
+        {
+          "id": "d",
+          "text": "mikrofon"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nobility” (rzeczownik, poziom B2) oznacza po polsku „szlachetność”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-006",
+      "question": "nobleman",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zero"
+        },
+        {
+          "id": "b",
+          "text": "mieszanka"
+        },
+        {
+          "id": "c",
+          "text": "szlachcic"
+        },
+        {
+          "id": "d",
+          "text": "wycieczka, wyprawa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nobleman” (rzeczownik, poziom B2) oznacza po polsku „szlachcic”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-007",
+      "question": "nomad",
+      "answers": [
+        {
+          "id": "a",
+          "text": "światło księżyca"
+        },
+        {
+          "id": "b",
+          "text": "przestępca, sprawca wykroczenia"
+        },
+        {
+          "id": "c",
+          "text": "moździerz"
+        },
+        {
+          "id": "d",
+          "text": "nomad"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nomad” (rzeczownik, poziom B2) oznacza po polsku „nomad”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-008",
+      "question": "nomination",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedmieścia"
+        },
+        {
+          "id": "b",
+          "text": "nieszczęście"
+        },
+        {
+          "id": "c",
+          "text": "zarys, szkic"
+        },
+        {
+          "id": "d",
+          "text": "nominacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nomination” (rzeczownik, poziom B2) oznacza po polsku „nominacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-009",
+      "question": "nominee",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynik"
+        },
+        {
+          "id": "b",
+          "text": "mikroskop"
+        },
+        {
+          "id": "c",
+          "text": "nominat, elekt"
+        },
+        {
+          "id": "d",
+          "text": "zarys, szkic"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nominee” (rzeczownik, poziom B2) oznacza po polsku „nominat, elekt”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-010",
+      "question": "nostril",
+      "answers": [
+        {
+          "id": "a",
+          "text": "milioner"
+        },
+        {
+          "id": "b",
+          "text": "nozdrza"
+        },
+        {
+          "id": "c",
+          "text": "operator"
+        },
+        {
+          "id": "d",
+          "text": "nowość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„nostril” (rzeczownik, poziom B2) oznacza po polsku „nozdrza”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-011",
+      "question": "nought",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przestępca, sprawca wykroczenia"
+        },
+        {
+          "id": "b",
+          "text": "zero"
+        },
+        {
+          "id": "c",
+          "text": "klasztor"
+        },
+        {
+          "id": "d",
+          "text": "obsesja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„nought” (rzeczownik, poziom B2) oznacza po polsku „zero”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-012",
+      "question": "nourishment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kuchenka mikrofalowa"
+        },
+        {
+          "id": "b",
+          "text": "zobowiązanie, obowiązek"
+        },
+        {
+          "id": "c",
+          "text": "pożywienie"
+        },
+        {
+          "id": "d",
+          "text": "metafora, przenośnia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nourishment” (rzeczownik, poziom B2) oznacza po polsku „pożywienie”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-013",
+      "question": "novelty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "orchidea"
+        },
+        {
+          "id": "b",
+          "text": "nowość"
+        },
+        {
+          "id": "c",
+          "text": "modyfikacja"
+        },
+        {
+          "id": "d",
+          "text": "nieporozumienie, błędne zrozumienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„novelty” (rzeczownik, poziom B2) oznacza po polsku „nowość”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-014",
+      "question": "nuisance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(na ciasto) mieszanka, proszek"
+        },
+        {
+          "id": "b",
+          "text": "utrapienie, coś nieznośnego"
+        },
+        {
+          "id": "c",
+          "text": "metafora, przenośnia"
+        },
+        {
+          "id": "d",
+          "text": "nominat, elekt"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„nuisance” (rzeczownik, poziom B2) oznacza po polsku „utrapienie, coś nieznośnego”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-015",
+      "question": "nursery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nekrolog"
+        },
+        {
+          "id": "b",
+          "text": "przedszkole"
+        },
+        {
+          "id": "c",
+          "text": "obsesja"
+        },
+        {
+          "id": "d",
+          "text": "strój"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„nursery” (rzeczownik, poziom B2) oznacza po polsku „przedszkole”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-016",
+      "question": "nut",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szlachcic"
+        },
+        {
+          "id": "b",
+          "text": "nerw"
+        },
+        {
+          "id": "c",
+          "text": "wół"
+        },
+        {
+          "id": "d",
+          "text": "orzech"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nut” (rzeczownik, poziom B2) oznacza po polsku „orzech”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-017",
+      "question": "nutshell",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w kilku słowach"
+        },
+        {
+          "id": "b",
+          "text": "szlachetność"
+        },
+        {
+          "id": "c",
+          "text": "klasztor"
+        },
+        {
+          "id": "d",
+          "text": "forma"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„nutshell” (rzeczownik, poziom B2) oznacza po polsku „w kilku słowach”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-018",
+      "question": "oath",
+      "answers": [
+        {
+          "id": "a",
+          "text": "człowiek niezależny, człowiek nie związany z grupą"
+        },
+        {
+          "id": "b",
+          "text": "przysięga"
+        },
+        {
+          "id": "c",
+          "text": "gruby płaszcz, płaszcz"
+        },
+        {
+          "id": "d",
+          "text": "oryginał"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„oath” (rzeczownik, poziom B2) oznacza po polsku „przysięga”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-019",
+      "question": "obituary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nerw"
+        },
+        {
+          "id": "b",
+          "text": "obserwator"
+        },
+        {
+          "id": "c",
+          "text": "nekrolog"
+        },
+        {
+          "id": "d",
+          "text": "wół"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„obituary” (rzeczownik, poziom B2) oznacza po polsku „nekrolog”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-020",
+      "question": "obligation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obserwator"
+        },
+        {
+          "id": "b",
+          "text": "zobowiązanie, obowiązek"
+        },
+        {
+          "id": "c",
+          "text": "ujście"
+        },
+        {
+          "id": "d",
+          "text": "wykroczenie, przestępstwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„obligation” (rzeczownik, poziom B2) oznacza po polsku „zobowiązanie, obowiązek”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-021",
+      "question": "observer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obserwator"
+        },
+        {
+          "id": "b",
+          "text": "oliwka"
+        },
+        {
+          "id": "c",
+          "text": "wynik"
+        },
+        {
+          "id": "d",
+          "text": "wycieczka, wyprawa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„observer” (rzeczownik, poziom B2) oznacza po polsku „obserwator”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-022",
+      "question": "obsession",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przestępca, sprawca wykroczenia"
+        },
+        {
+          "id": "b",
+          "text": "obsesja"
+        },
+        {
+          "id": "c",
+          "text": "wynik"
+        },
+        {
+          "id": "d",
+          "text": "pomruk"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„obsession” (rzeczownik, poziom B2) oznacza po polsku „obsesja”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-023",
+      "question": "offence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wół"
+        },
+        {
+          "id": "b",
+          "text": "wykroczenie, przestępstwo"
+        },
+        {
+          "id": "c",
+          "text": "w kilku słowach"
+        },
+        {
+          "id": "d",
+          "text": "prezenter"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„offence” (rzeczownik, poziom B2) oznacza po polsku „wykroczenie, przestępstwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-024",
+      "question": "offender",
+      "answers": [
+        {
+          "id": "a",
+          "text": "migracja, wędrówka"
+        },
+        {
+          "id": "b",
+          "text": "przestępca, sprawca wykroczenia"
+        },
+        {
+          "id": "c",
+          "text": "oliwka"
+        },
+        {
+          "id": "d",
+          "text": "zero"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„offender” (rzeczownik, poziom B2) oznacza po polsku „przestępca, sprawca wykroczenia”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-025",
+      "question": "official",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wąsy, wąs"
+        },
+        {
+          "id": "b",
+          "text": "poglądy, światopogląd"
+        },
+        {
+          "id": "c",
+          "text": "nowość"
+        },
+        {
+          "id": "d",
+          "text": "wyższy urzędnik, urzędnik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„official” (rzeczownik, poziom B2) oznacza po polsku „wyższy urzędnik, urzędnik”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-026",
+      "question": "ointment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sowa"
+        },
+        {
+          "id": "b",
+          "text": "motor, motocykl"
+        },
+        {
+          "id": "c",
+          "text": "wąsy, wąs"
+        },
+        {
+          "id": "d",
+          "text": "maść, krem"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ointment” (rzeczownik, poziom B2) oznacza po polsku „maść, krem”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-027",
+      "question": "olive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oliwka"
+        },
+        {
+          "id": "b",
+          "text": "nominat, elekt"
+        },
+        {
+          "id": "c",
+          "text": "moździerz"
+        },
+        {
+          "id": "d",
+          "text": "naleśnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„olive” (rzeczownik, poziom B2) oznacza po polsku „oliwka”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-028",
+      "question": "operator",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kopalnia"
+        },
+        {
+          "id": "b",
+          "text": "operator"
+        },
+        {
+          "id": "c",
+          "text": "mikroskop"
+        },
+        {
+          "id": "d",
+          "text": "nieszczęście"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„operator” (rzeczownik, poziom B2) oznacza po polsku „operator”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-029",
+      "question": "opponent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeciwnik, oponent"
+        },
+        {
+          "id": "b",
+          "text": "strój"
+        },
+        {
+          "id": "c",
+          "text": "maść, krem"
+        },
+        {
+          "id": "d",
+          "text": "przedmieścia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„opponent” (rzeczownik, poziom B2) oznacza po polsku „przeciwnik, oponent”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-030",
+      "question": "optimism",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomruk"
+        },
+        {
+          "id": "b",
+          "text": "zobowiązanie, obowiązek"
+        },
+        {
+          "id": "c",
+          "text": "prezenter"
+        },
+        {
+          "id": "d",
+          "text": "optymizm"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„optimism” (rzeczownik, poziom B2) oznacza po polsku „optymizm”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-031",
+      "question": "orchid",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szlachcic"
+        },
+        {
+          "id": "b",
+          "text": "modyfikacja"
+        },
+        {
+          "id": "c",
+          "text": "ruch"
+        },
+        {
+          "id": "d",
+          "text": "orchidea"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„orchid” (rzeczownik, poziom B2) oznacza po polsku „orchidea”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-032",
+      "question": "original",
+      "answers": [
+        {
+          "id": "a",
+          "text": "minister"
+        },
+        {
+          "id": "b",
+          "text": "oryginał"
+        },
+        {
+          "id": "c",
+          "text": "kuchenka mikrofalowa"
+        },
+        {
+          "id": "d",
+          "text": "człowiek niezależny, człowiek nie związany z grupą"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„original” (rzeczownik, poziom B2) oznacza po polsku „oryginał”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-033",
+      "question": "ornament",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomruk"
+        },
+        {
+          "id": "b",
+          "text": "mruczenie"
+        },
+        {
+          "id": "c",
+          "text": "poglądy, światopogląd"
+        },
+        {
+          "id": "d",
+          "text": "ozdoba"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ornament” (rzeczownik, poziom B2) oznacza po polsku „ozdoba”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-034",
+      "question": "ounce",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uncja"
+        },
+        {
+          "id": "b",
+          "text": "baranina"
+        },
+        {
+          "id": "c",
+          "text": "nerwica"
+        },
+        {
+          "id": "d",
+          "text": "żegluga"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ounce” (rzeczownik, poziom B2) oznacza po polsku „uncja”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-035",
+      "question": "outback",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oryginał"
+        },
+        {
+          "id": "b",
+          "text": "pomruk"
+        },
+        {
+          "id": "c",
+          "text": "(w Australii) głusza, pustkowie"
+        },
+        {
+          "id": "d",
+          "text": "forma"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„outback” (rzeczownik, poziom B2) oznacza po polsku „(w Australii) głusza, pustkowie”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-036",
+      "question": "outbreak",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybuch"
+        },
+        {
+          "id": "b",
+          "text": "nominat, elekt"
+        },
+        {
+          "id": "c",
+          "text": "samochodziarz, automobilista"
+        },
+        {
+          "id": "d",
+          "text": "musical"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„outbreak” (rzeczownik, poziom B2) oznacza po polsku „wybuch”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-037",
+      "question": "outcome",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynik"
+        },
+        {
+          "id": "b",
+          "text": "mamrotać"
+        },
+        {
+          "id": "c",
+          "text": "mięta"
+        },
+        {
+          "id": "d",
+          "text": "moździerz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„outcome” (rzeczownik, poziom B2) oznacza po polsku „wynik”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-038",
+      "question": "outfit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "au"
+        },
+        {
+          "id": "b",
+          "text": "nozdrza"
+        },
+        {
+          "id": "c",
+          "text": "strój"
+        },
+        {
+          "id": "d",
+          "text": "milimetr"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„outfit” (rzeczownik, poziom B2) oznacza po polsku „strój”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-039",
+      "question": "outing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oliwka"
+        },
+        {
+          "id": "b",
+          "text": "wycieczka, wyprawa"
+        },
+        {
+          "id": "c",
+          "text": "paczka, opakowanie"
+        },
+        {
+          "id": "d",
+          "text": "maść, krem"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„outing” (rzeczownik, poziom B2) oznacza po polsku „wycieczka, wyprawa”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-040",
+      "question": "outlet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nomad"
+        },
+        {
+          "id": "b",
+          "text": "mikroskop"
+        },
+        {
+          "id": "c",
+          "text": "ujście"
+        },
+        {
+          "id": "d",
+          "text": "wykroczenie, przestępstwo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„outlet” (rzeczownik, poziom B2) oznacza po polsku „ujście”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-041",
+      "question": "outline",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nominacja"
+        },
+        {
+          "id": "b",
+          "text": "wynik"
+        },
+        {
+          "id": "c",
+          "text": "zarys, szkic"
+        },
+        {
+          "id": "d",
+          "text": "strój"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„outline” (rzeczownik, poziom B2) oznacza po polsku „zarys, szkic”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-042",
+      "question": "outlook",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynik"
+        },
+        {
+          "id": "b",
+          "text": "poglądy, światopogląd"
+        },
+        {
+          "id": "c",
+          "text": "operator"
+        },
+        {
+          "id": "d",
+          "text": "wybuch"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„outlook” (rzeczownik, poziom B2) oznacza po polsku „poglądy, światopogląd”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-043",
+      "question": "output",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uncja"
+        },
+        {
+          "id": "b",
+          "text": "nerwica"
+        },
+        {
+          "id": "c",
+          "text": "forma"
+        },
+        {
+          "id": "d",
+          "text": "produkcja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„output” (rzeczownik, poziom B2) oznacza po polsku „produkcja”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-044",
+      "question": "outrage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zły sen"
+        },
+        {
+          "id": "b",
+          "text": "zero"
+        },
+        {
+          "id": "c",
+          "text": "ujście"
+        },
+        {
+          "id": "d",
+          "text": "rozgniewanie, szok"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„outrage” (rzeczownik, poziom B2) oznacza po polsku „rozgniewanie, szok”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-045",
+      "question": "outsider",
+      "answers": [
+        {
+          "id": "a",
+          "text": "człowiek niezależny, człowiek nie związany z grupą"
+        },
+        {
+          "id": "b",
+          "text": "potrzeba"
+        },
+        {
+          "id": "c",
+          "text": "orchidea"
+        },
+        {
+          "id": "d",
+          "text": "musical"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„outsider” (rzeczownik, poziom B2) oznacza po polsku „człowiek niezależny, człowiek nie związany z grupą”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-046",
+      "question": "outskirts",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedmieścia"
+        },
+        {
+          "id": "b",
+          "text": "forma"
+        },
+        {
+          "id": "c",
+          "text": "minister"
+        },
+        {
+          "id": "d",
+          "text": "zły sen"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„outskirts” (rzeczownik, poziom B2) oznacza po polsku „przedmieścia”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-047",
+      "question": "overcoat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przestępca, sprawca wykroczenia"
+        },
+        {
+          "id": "b",
+          "text": "nerw"
+        },
+        {
+          "id": "c",
+          "text": "gruby płaszcz, płaszcz"
+        },
+        {
+          "id": "d",
+          "text": "przeciwnik, oponent"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„overcoat” (rzeczownik, poziom B2) oznacza po polsku „gruby płaszcz, płaszcz”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-048",
+      "question": "overlap",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nowość"
+        },
+        {
+          "id": "b",
+          "text": "wyściółka"
+        },
+        {
+          "id": "c",
+          "text": "zachodzenie, część wspólna"
+        },
+        {
+          "id": "d",
+          "text": "ozdoba"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„overlap” (rzeczownik, poziom B2) oznacza po polsku „zachodzenie, część wspólna”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-049",
+      "question": "ow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "baranina"
+        },
+        {
+          "id": "b",
+          "text": "au"
+        },
+        {
+          "id": "c",
+          "text": "motor, motocykl"
+        },
+        {
+          "id": "d",
+          "text": "nominacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ow” (rzeczownik, poziom B2) oznacza po polsku „au”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-050",
+      "question": "owl",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sowa"
+        },
+        {
+          "id": "b",
+          "text": "klasztor"
+        },
+        {
+          "id": "c",
+          "text": "metafora, przenośnia"
+        },
+        {
+          "id": "d",
+          "text": "utrapienie, coś nieznośnego"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„owl” (rzeczownik, poziom B2) oznacza po polsku „sowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-051",
+      "question": "ox",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moralność"
+        },
+        {
+          "id": "b",
+          "text": "człowiek niezależny, człowiek nie związany z grupą"
+        },
+        {
+          "id": "c",
+          "text": "wół"
+        },
+        {
+          "id": "d",
+          "text": "pożywienie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ox” (rzeczownik, poziom B2) oznacza po polsku „wół”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-052",
+      "question": "packet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tafla, płyta"
+        },
+        {
+          "id": "b",
+          "text": "przysięga"
+        },
+        {
+          "id": "c",
+          "text": "paczka, opakowanie"
+        },
+        {
+          "id": "d",
+          "text": "światło księżyca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„packet” (rzeczownik, poziom B2) oznacza po polsku „paczka, opakowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-053",
+      "question": "pad",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uncja"
+        },
+        {
+          "id": "b",
+          "text": "klasztor"
+        },
+        {
+          "id": "c",
+          "text": "wyższy urzędnik, urzędnik"
+        },
+        {
+          "id": "d",
+          "text": "wyściółka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pad” (rzeczownik, poziom B2) oznacza po polsku „wyściółka”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-054",
+      "question": "paintbrush",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomruk"
+        },
+        {
+          "id": "b",
+          "text": "mamrotać"
+        },
+        {
+          "id": "c",
+          "text": "pędzel do malowania, pędzel"
+        },
+        {
+          "id": "d",
+          "text": "baranina"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„paintbrush” (rzeczownik, poziom B2) oznacza po polsku „pędzel do malowania, pędzel”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-055",
+      "question": "pancake",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moralność"
+        },
+        {
+          "id": "b",
+          "text": "przedszkole"
+        },
+        {
+          "id": "c",
+          "text": "pożywienie"
+        },
+        {
+          "id": "d",
+          "text": "naleśnik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pancake” (rzeczownik, poziom B2) oznacza po polsku „naleśnik”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-056",
+      "question": "panel",
+      "answers": [
+        {
+          "id": "a",
+          "text": "praca papierkowa"
+        },
+        {
+          "id": "b",
+          "text": "tafla, płyta"
+        },
+        {
+          "id": "c",
+          "text": "w kilku słowach"
+        },
+        {
+          "id": "d",
+          "text": "wyższy urzędnik, urzędnik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„panel” (rzeczownik, poziom B2) oznacza po polsku „tafla, płyta”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-057",
+      "question": "paperwork",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konieczność"
+        },
+        {
+          "id": "b",
+          "text": "mamrotać"
+        },
+        {
+          "id": "c",
+          "text": "oryginał"
+        },
+        {
+          "id": "d",
+          "text": "praca papierkowa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„paperwork” (rzeczownik, poziom B2) oznacza po polsku „praca papierkowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-058",
+      "question": "parade",
+      "answers": [
+        {
+          "id": "a",
+          "text": "parada"
+        },
+        {
+          "id": "b",
+          "text": "wybadywanie, sondowanie"
+        },
+        {
+          "id": "c",
+          "text": "dostarczanie, udzielanie"
+        },
+        {
+          "id": "d",
+          "text": "dramaturg"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„parade” (rzeczownik, poziom B2) oznacza po polsku „parada”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-059",
+      "question": "paradox",
+      "answers": [
+        {
+          "id": "a",
+          "text": "część"
+        },
+        {
+          "id": "b",
+          "text": "chodnik"
+        },
+        {
+          "id": "c",
+          "text": "zapłata, wypłata"
+        },
+        {
+          "id": "d",
+          "text": "paradoks"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„paradox” (rzeczownik, poziom B2) oznacza po polsku „paradoks”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-060",
+      "question": "paralysis",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paraliż"
+        },
+        {
+          "id": "b",
+          "text": "ukłucie"
+        },
+        {
+          "id": "c",
+          "text": "prestiż"
+        },
+        {
+          "id": "d",
+          "text": "pogoń"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„paralysis” (rzeczownik, poziom B2) oznacza po polsku „paraliż”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-061",
+      "question": "paratrooper",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spadochroniarz"
+        },
+        {
+          "id": "b",
+          "text": "prestiż"
+        },
+        {
+          "id": "c",
+          "text": "penicylina"
+        },
+        {
+          "id": "d",
+          "text": "właściciel lombardu"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„paratrooper” (rzeczownik, poziom B2) oznacza po polsku „spadochroniarz”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-062",
+      "question": "parliament",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(arystokrata) par"
+        },
+        {
+          "id": "b",
+          "text": "polio, paraliż dziecięcy"
+        },
+        {
+          "id": "c",
+          "text": "parlament"
+        },
+        {
+          "id": "d",
+          "text": "profesjonalista, fachowiec"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„parliament” (rzeczownik, poziom B2) oznacza po polsku „parlament”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-063",
+      "question": "participation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przechodzień"
+        },
+        {
+          "id": "b",
+          "text": "uczestnictwo"
+        },
+        {
+          "id": "c",
+          "text": "paradować"
+        },
+        {
+          "id": "d",
+          "text": "zapalenie płuc"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„participation” (rzeczownik, poziom B2) oznacza po polsku „uczestnictwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-064",
+      "question": "particle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cząstka"
+        },
+        {
+          "id": "b",
+          "text": "śliwka"
+        },
+        {
+          "id": "c",
+          "text": "patron, mecenas"
+        },
+        {
+          "id": "d",
+          "text": "pot"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„particle” (rzeczownik, poziom B2) oznacza po polsku „cząstka”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-065",
+      "question": "partisan",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ocena"
+        },
+        {
+          "id": "b",
+          "text": "duszpasterz"
+        },
+        {
+          "id": "c",
+          "text": "stronnik"
+        },
+        {
+          "id": "d",
+          "text": "parlament"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„partisan” (rzeczownik, poziom B2) oznacza po polsku „stronnik”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-066",
+      "question": "partnership",
+      "answers": [
+        {
+          "id": "a",
+          "text": "partnerstwo"
+        },
+        {
+          "id": "b",
+          "text": "chodnik"
+        },
+        {
+          "id": "c",
+          "text": "prefekt, dyżurny klasowy, dyżurny"
+        },
+        {
+          "id": "d",
+          "text": "punkt szczytowy możliwości, punkt szczytowy, maksimum"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„partnership” (rzeczownik, poziom B2) oznacza po polsku „partnerstwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-067",
+      "question": "pastor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "emerytura"
+        },
+        {
+          "id": "b",
+          "text": "duszpasterz"
+        },
+        {
+          "id": "c",
+          "text": "właściciel lombardu"
+        },
+        {
+          "id": "d",
+          "text": "farmaceuta"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pastor” (rzeczownik, poziom B2) oznacza po polsku „duszpasterz”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-068",
+      "question": "patch",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prezydentura"
+        },
+        {
+          "id": "b",
+          "text": "puls, tętno"
+        },
+        {
+          "id": "c",
+          "text": "łata"
+        },
+        {
+          "id": "d",
+          "text": "poszewka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„patch” (rzeczownik, poziom B2) oznacza po polsku „łata”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-069",
+      "question": "patriot",
+      "answers": [
+        {
+          "id": "a",
+          "text": "patriota"
+        },
+        {
+          "id": "b",
+          "text": "weranda"
+        },
+        {
+          "id": "c",
+          "text": "kara"
+        },
+        {
+          "id": "d",
+          "text": "prefekt, dyżurny klasowy, dyżurny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„patriot” (rzeczownik, poziom B2) oznacza po polsku „patriota”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-070",
+      "question": "patriotism",
+      "answers": [
+        {
+          "id": "a",
+          "text": "patriotyzm"
+        },
+        {
+          "id": "b",
+          "text": "pingwin"
+        },
+        {
+          "id": "c",
+          "text": "parada"
+        },
+        {
+          "id": "d",
+          "text": "uderzenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„patriotism” (rzeczownik, poziom B2) oznacza po polsku „patriotyzm”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-071",
+      "question": "patron",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spisek"
+        },
+        {
+          "id": "b",
+          "text": "pingwin"
+        },
+        {
+          "id": "c",
+          "text": "poza"
+        },
+        {
+          "id": "d",
+          "text": "patron, mecenas"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„patron” (rzeczownik, poziom B2) oznacza po polsku „patron, mecenas”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-072",
+      "question": "pavement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chodnik"
+        },
+        {
+          "id": "b",
+          "text": "nabycie"
+        },
+        {
+          "id": "c",
+          "text": "prowincja, region"
+        },
+        {
+          "id": "d",
+          "text": "łapa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pavement” (rzeczownik, poziom B2) oznacza po polsku „chodnik”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-073",
+      "question": "paw",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łapa"
+        },
+        {
+          "id": "b",
+          "text": "patron, mecenas"
+        },
+        {
+          "id": "c",
+          "text": "dramaturg"
+        },
+        {
+          "id": "d",
+          "text": "hydraulik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„paw” (rzeczownik, poziom B2) oznacza po polsku „łapa”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-074",
+      "question": "pawnbroker",
+      "answers": [
+        {
+          "id": "a",
+          "text": "publikacja"
+        },
+        {
+          "id": "b",
+          "text": "paradować"
+        },
+        {
+          "id": "c",
+          "text": "reklama"
+        },
+        {
+          "id": "d",
+          "text": "właściciel lombardu"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pawnbroker” (rzeczownik, poziom B2) oznacza po polsku „właściciel lombardu”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-075",
+      "question": "pawnshop",
+      "answers": [
+        {
+          "id": "a",
+          "text": "perswazja"
+        },
+        {
+          "id": "b",
+          "text": "rzecz priorytetowa"
+        },
+        {
+          "id": "c",
+          "text": "lombard"
+        },
+        {
+          "id": "d",
+          "text": "pogoń"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pawnshop” (rzeczownik, poziom B2) oznacza po polsku „lombard”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-076",
+      "question": "payment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łata"
+        },
+        {
+          "id": "b",
+          "text": "perswazja"
+        },
+        {
+          "id": "c",
+          "text": "zapłata, wypłata"
+        },
+        {
+          "id": "d",
+          "text": "puls, tętno"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„payment” (rzeczownik, poziom B2) oznacza po polsku „zapłata, wypłata”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-077",
+      "question": "peach",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pirat"
+        },
+        {
+          "id": "b",
+          "text": "brzoskwinia"
+        },
+        {
+          "id": "c",
+          "text": "pingwin"
+        },
+        {
+          "id": "d",
+          "text": "przechodzień"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„peach” (rzeczownik, poziom B2) oznacza po polsku „brzoskwinia”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-078",
+      "question": "peak",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rzecz priorytetowa"
+        },
+        {
+          "id": "b",
+          "text": "dramaturg"
+        },
+        {
+          "id": "c",
+          "text": "puls, tętno"
+        },
+        {
+          "id": "d",
+          "text": "punkt szczytowy możliwości, punkt szczytowy, maksimum"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„peak” (rzeczownik, poziom B2) oznacza po polsku „punkt szczytowy możliwości, punkt szczytowy, maksimum”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-079",
+      "question": "pearl",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybadywanie, sondowanie"
+        },
+        {
+          "id": "b",
+          "text": "spadochroniarz"
+        },
+        {
+          "id": "c",
+          "text": "perła"
+        },
+        {
+          "id": "d",
+          "text": "penicylina"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pearl” (rzeczownik, poziom B2) oznacza po polsku „perła”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-080",
+      "question": "pebble",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pogoń"
+        },
+        {
+          "id": "b",
+          "text": "kamyk, otoczak"
+        },
+        {
+          "id": "c",
+          "text": "parada"
+        },
+        {
+          "id": "d",
+          "text": "zapobieganie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pebble” (rzeczownik, poziom B2) oznacza po polsku „kamyk, otoczak”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-081",
+      "question": "pedal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(nieform) zerknięcie, spojrzenie"
+        },
+        {
+          "id": "b",
+          "text": "poza"
+        },
+        {
+          "id": "c",
+          "text": "pedał"
+        },
+        {
+          "id": "d",
+          "text": "farmaceuta"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pedal” (rzeczownik, poziom B2) oznacza po polsku „pedał”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-082",
+      "question": "pedestrian",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybadywanie, sondowanie"
+        },
+        {
+          "id": "b",
+          "text": "lombard"
+        },
+        {
+          "id": "c",
+          "text": "przechodzień"
+        },
+        {
+          "id": "d",
+          "text": "prefekt, dyżurny klasowy, dyżurny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pedestrian” (rzeczownik, poziom B2) oznacza po polsku „przechodzień”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-083",
+      "question": "peel",
+      "answers": [
+        {
+          "id": "a",
+          "text": "parlament"
+        },
+        {
+          "id": "b",
+          "text": "procent, udział procentowy"
+        },
+        {
+          "id": "c",
+          "text": "skórka"
+        },
+        {
+          "id": "d",
+          "text": "zapobieganie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„peel” (rzeczownik, poziom B2) oznacza po polsku „skórka”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-084",
+      "question": "peep",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sosna"
+        },
+        {
+          "id": "b",
+          "text": "(nieform) zerknięcie, spojrzenie"
+        },
+        {
+          "id": "c",
+          "text": "(arystokrata) par"
+        },
+        {
+          "id": "d",
+          "text": "hydraulik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„peep” (rzeczownik, poziom B2) oznacza po polsku „(nieform) zerknięcie, spojrzenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-085",
+      "question": "peer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pingwin"
+        },
+        {
+          "id": "b",
+          "text": "penicylina"
+        },
+        {
+          "id": "c",
+          "text": "(arystokrata) par"
+        },
+        {
+          "id": "d",
+          "text": "patriota"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„peer” (rzeczownik, poziom B2) oznacza po polsku „(arystokrata) par”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-086",
+      "question": "peg",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pedał"
+        },
+        {
+          "id": "b",
+          "text": "kamyk, otoczak"
+        },
+        {
+          "id": "c",
+          "text": "krewetka"
+        },
+        {
+          "id": "d",
+          "text": "wieszak"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„peg” (rzeczownik, poziom B2) oznacza po polsku „wieszak”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-087",
+      "question": "penalty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "personel, obsługa"
+        },
+        {
+          "id": "b",
+          "text": "poszewka"
+        },
+        {
+          "id": "c",
+          "text": "skórka"
+        },
+        {
+          "id": "d",
+          "text": "kara"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„penalty” (rzeczownik, poziom B2) oznacza po polsku „kara”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-088",
+      "question": "penguin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kamyk, otoczak"
+        },
+        {
+          "id": "b",
+          "text": "procedura"
+        },
+        {
+          "id": "c",
+          "text": "polo"
+        },
+        {
+          "id": "d",
+          "text": "pingwin"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„penguin” (rzeczownik, poziom B2) oznacza po polsku „pingwin”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-089",
+      "question": "penicillin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieszak"
+        },
+        {
+          "id": "b",
+          "text": "brzoskwinia"
+        },
+        {
+          "id": "c",
+          "text": "zapobieganie"
+        },
+        {
+          "id": "d",
+          "text": "penicylina"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„penicillin” (rzeczownik, poziom B2) oznacza po polsku „penicylina”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-090",
+      "question": "pension",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skórka"
+        },
+        {
+          "id": "b",
+          "text": "duszpasterz"
+        },
+        {
+          "id": "c",
+          "text": "pięciokąt"
+        },
+        {
+          "id": "d",
+          "text": "emerytura"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pension” (rzeczownik, poziom B2) oznacza po polsku „emerytura”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-091",
+      "question": "pentagon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brzoskwinia"
+        },
+        {
+          "id": "b",
+          "text": "krewetka"
+        },
+        {
+          "id": "c",
+          "text": "pięciokąt"
+        },
+        {
+          "id": "d",
+          "text": "marynata"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pentagon” (rzeczownik, poziom B2) oznacza po polsku „pięciokąt”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-092",
+      "question": "percentage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łata"
+        },
+        {
+          "id": "b",
+          "text": "prezenter"
+        },
+        {
+          "id": "c",
+          "text": "procent, udział procentowy"
+        },
+        {
+          "id": "d",
+          "text": "pudding, budyń"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„percentage” (rzeczownik, poziom B2) oznacza po polsku „procent, udział procentowy”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-093",
+      "question": "perception",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekarz, internista"
+        },
+        {
+          "id": "b",
+          "text": "wnikliwość"
+        },
+        {
+          "id": "c",
+          "text": "penicylina"
+        },
+        {
+          "id": "d",
+          "text": "pirat"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„perception” (rzeczownik, poziom B2) oznacza po polsku „wnikliwość”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-094",
+      "question": "perseverance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przechodzień"
+        },
+        {
+          "id": "b",
+          "text": "emerytura"
+        },
+        {
+          "id": "c",
+          "text": "wytrwałość"
+        },
+        {
+          "id": "d",
+          "text": "skórka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„perseverance” (rzeczownik, poziom B2) oznacza po polsku „wytrwałość”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-095",
+      "question": "personnel",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chodnik"
+        },
+        {
+          "id": "b",
+          "text": "kara"
+        },
+        {
+          "id": "c",
+          "text": "personel, obsługa"
+        },
+        {
+          "id": "d",
+          "text": "paradować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„personnel” (rzeczownik, poziom B2) oznacza po polsku „personel, obsługa”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-096",
+      "question": "perspective",
+      "answers": [
+        {
+          "id": "a",
+          "text": "planowanie"
+        },
+        {
+          "id": "b",
+          "text": "perspektywa"
+        },
+        {
+          "id": "c",
+          "text": "perswazja"
+        },
+        {
+          "id": "d",
+          "text": "prowincja, region"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„perspective” (rzeczownik, poziom B2) oznacza po polsku „perspektywa”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-097",
+      "question": "perspiration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piractwo"
+        },
+        {
+          "id": "b",
+          "text": "pot"
+        },
+        {
+          "id": "c",
+          "text": "wytrwałość"
+        },
+        {
+          "id": "d",
+          "text": "paradoks"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„perspiration” (rzeczownik, poziom B2) oznacza po polsku „pot”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-098",
+      "question": "persuasion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pirat"
+        },
+        {
+          "id": "b",
+          "text": "rzecz priorytetowa"
+        },
+        {
+          "id": "c",
+          "text": "perła"
+        },
+        {
+          "id": "d",
+          "text": "perswazja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„persuasion” (rzeczownik, poziom B2) oznacza po polsku „perswazja”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-099",
+      "question": "pharmacist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieszak"
+        },
+        {
+          "id": "b",
+          "text": "farmaceuta"
+        },
+        {
+          "id": "c",
+          "text": "stronnik"
+        },
+        {
+          "id": "d",
+          "text": "perła"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pharmacist” (rzeczownik, poziom B2) oznacza po polsku „farmaceuta”."
+    },
+    {
+      "id": "b2-rzeczowniki-07-100",
+      "question": "phase",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piżama"
+        },
+        {
+          "id": "b",
+          "text": "pot"
+        },
+        {
+          "id": "c",
+          "text": "prefekt, dyżurny klasowy, dyżurny"
+        },
+        {
+          "id": "d",
+          "text": "faza"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„phase” (rzeczownik, poziom B2) oznacza po polsku „faza”."
+    }
+  ]
+}

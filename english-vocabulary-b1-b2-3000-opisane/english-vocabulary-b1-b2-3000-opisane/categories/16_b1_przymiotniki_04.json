@@ -1,0 +1,656 @@
+{
+  "category": {
+    "id": "b1-przymiotniki-04",
+    "name": "B1 — Przymiotniki 4/4 (P–S)"
+  },
+  "questions": [
+    {
+      "id": "b1-przymiotniki-04-001",
+      "question": "public",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zgłoszenie"
+        },
+        {
+          "id": "b",
+          "text": "(poparcie, opinia) powszechny"
+        },
+        {
+          "id": "c",
+          "text": "pofałdowany"
+        },
+        {
+          "id": "d",
+          "text": "zaborczy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„public” (przymiotnik, poziom B1) oznacza po polsku „(poparcie, opinia) powszechny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-002",
+      "question": "pure",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "czysty"
+        },
+        {
+          "id": "c",
+          "text": "egzaminator"
+        },
+        {
+          "id": "d",
+          "text": "krawędź, brzeg"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pure” (przymiotnik, poziom B1) oznacza po polsku „czysty”."
+    },
+    {
+      "id": "b1-przymiotniki-04-003",
+      "question": "qualified",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "wykwalifikowany, dyplomowany"
+        },
+        {
+          "id": "c",
+          "text": "drogocenny"
+        },
+        {
+          "id": "d",
+          "text": "dumny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„qualified” (przymiotnik, poziom B1) oznacza po polsku „wykwalifikowany, dyplomowany”."
+    },
+    {
+      "id": "b1-przymiotniki-04-004",
+      "question": "quality",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jakość"
+        },
+        {
+          "id": "b",
+          "text": "radość"
+        },
+        {
+          "id": "c",
+          "text": "krawędź, brzeg"
+        },
+        {
+          "id": "d",
+          "text": "entuzjasta"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„quality” (przymiotnik, poziom B1) oznacza po polsku „jakość”."
+    },
+    {
+      "id": "b1-przymiotniki-04-005",
+      "question": "racial",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szacowny"
+        },
+        {
+          "id": "b",
+          "text": "elektron"
+        },
+        {
+          "id": "c",
+          "text": "rzadki"
+        },
+        {
+          "id": "d",
+          "text": "rasowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„racial” (przymiotnik, poziom B1) oznacza po polsku „rasowy”."
+    },
+    {
+      "id": "b1-przymiotniki-04-006",
+      "question": "rapid",
+      "answers": [
+        {
+          "id": "a",
+          "text": "imperium, cesarstwo"
+        },
+        {
+          "id": "b",
+          "text": "ekstaza, zachwyt"
+        },
+        {
+          "id": "c",
+          "text": "prędki"
+        },
+        {
+          "id": "d",
+          "text": "entuzjasta"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rapid” (przymiotnik, poziom B1) oznacza po polsku „prędki”."
+    },
+    {
+      "id": "b1-przymiotniki-04-007",
+      "question": "rare",
+      "answers": [
+        {
+          "id": "a",
+          "text": "egzamin"
+        },
+        {
+          "id": "b",
+          "text": "założenie"
+        },
+        {
+          "id": "c",
+          "text": "szacowny"
+        },
+        {
+          "id": "d",
+          "text": "rzadki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rare” (przymiotnik, poziom B1) oznacza po polsku „rzadki”."
+    },
+    {
+      "id": "b1-przymiotniki-04-008",
+      "question": "rational",
+      "answers": [
+        {
+          "id": "a",
+          "text": "racjonalny"
+        },
+        {
+          "id": "b",
+          "text": "rozmiar"
+        },
+        {
+          "id": "c",
+          "text": "entuzjazm"
+        },
+        {
+          "id": "d",
+          "text": "religijny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rational” (przymiotnik, poziom B1) oznacza po polsku „racjonalny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-009",
+      "question": "realistic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "regionalny, rejonowy"
+        },
+        {
+          "id": "b",
+          "text": "(poparcie, opinia) powszechny"
+        },
+        {
+          "id": "c",
+          "text": "znaczenie, nacisk"
+        },
+        {
+          "id": "d",
+          "text": "realistyczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„realistic” (przymiotnik, poziom B1) oznacza po polsku „realistyczny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-010",
+      "question": "reasonable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Anglik"
+        },
+        {
+          "id": "b",
+          "text": "zatrudnienie, praca"
+        },
+        {
+          "id": "c",
+          "text": "rozsądny"
+        },
+        {
+          "id": "d",
+          "text": "realistyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reasonable” (przymiotnik, poziom B1) oznacza po polsku „rozsądny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-011",
+      "question": "regional",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znaczenie, nacisk"
+        },
+        {
+          "id": "b",
+          "text": "regionalny, rejonowy"
+        },
+        {
+          "id": "c",
+          "text": "element, składnik"
+        },
+        {
+          "id": "d",
+          "text": "zakłopotanie, skrępowanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„regional” (przymiotnik, poziom B1) oznacza po polsku „regionalny, rejonowy”."
+    },
+    {
+      "id": "b1-przymiotniki-04-012",
+      "question": "relative",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stosunkowy, relatywny"
+        },
+        {
+          "id": "b",
+          "text": "Anglik"
+        },
+        {
+          "id": "c",
+          "text": "święty"
+        },
+        {
+          "id": "d",
+          "text": "(przedmiot) nieozdobny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„relative” (przymiotnik, poziom B1) oznacza po polsku „stosunkowy, relatywny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-013",
+      "question": "reliable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "psychologiczny"
+        },
+        {
+          "id": "b",
+          "text": "pewny, niezawodny"
+        },
+        {
+          "id": "c",
+          "text": "(poparcie, opinia) powszechny"
+        },
+        {
+          "id": "d",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reliable” (przymiotnik, poziom B1) oznacza po polsku „pewny, niezawodny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-014",
+      "question": "religious",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rzadki"
+        },
+        {
+          "id": "b",
+          "text": "zakłopotanie, skrępowanie"
+        },
+        {
+          "id": "c",
+          "text": "religijny"
+        },
+        {
+          "id": "d",
+          "text": "zgłoszenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„religious” (przymiotnik, poziom B1) oznacza po polsku „religijny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-015",
+      "question": "remarkable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "racjonalny"
+        },
+        {
+          "id": "c",
+          "text": "zakłopotanie, skrępowanie"
+        },
+        {
+          "id": "d",
+          "text": "godny uwagi, zadziwiający"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„remarkable” (przymiotnik, poziom B1) oznacza po polsku „godny uwagi, zadziwiający”."
+    },
+    {
+      "id": "b1-przymiotniki-04-016",
+      "question": "residential",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wydanie"
+        },
+        {
+          "id": "b",
+          "text": "mieszkalny, mieszkaniowy"
+        },
+        {
+          "id": "c",
+          "text": "istota, podstawa"
+        },
+        {
+          "id": "d",
+          "text": "egzamin"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„residential” (przymiotnik, poziom B1) oznacza po polsku „mieszkalny, mieszkaniowy”."
+    },
+    {
+      "id": "b1-przymiotniki-04-017",
+      "question": "respectable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szacowny"
+        },
+        {
+          "id": "b",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        },
+        {
+          "id": "c",
+          "text": "drogocenny"
+        },
+        {
+          "id": "d",
+          "text": "gospodarka, ekonomia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„respectable” (przymiotnik, poziom B1) oznacza po polsku „szacowny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-018",
+      "question": "responsible",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiedzialny"
+        },
+        {
+          "id": "b",
+          "text": "wróg"
+        },
+        {
+          "id": "c",
+          "text": "podniecenie, ekscytacja"
+        },
+        {
+          "id": "d",
+          "text": "groteskowy, śmieszny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„responsible” (przymiotnik, poziom B1) oznacza po polsku „odpowiedzialny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-019",
+      "question": "ridiculous",
+      "answers": [
+        {
+          "id": "a",
+          "text": "doskonałość, przodowanie"
+        },
+        {
+          "id": "b",
+          "text": "zepsuty, zgniły"
+        },
+        {
+          "id": "c",
+          "text": "prymitywny"
+        },
+        {
+          "id": "d",
+          "text": "groteskowy, śmieszny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ridiculous” (przymiotnik, poziom B1) oznacza po polsku „groteskowy, śmieszny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-020",
+      "question": "ripe",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dojrzały"
+        },
+        {
+          "id": "b",
+          "text": "era, okres"
+        },
+        {
+          "id": "c",
+          "text": "istota, podstawa"
+        },
+        {
+          "id": "d",
+          "text": "silnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ripe” (przymiotnik, poziom B1) oznacza po polsku „dojrzały”."
+    },
+    {
+      "id": "b1-przymiotniki-04-021",
+      "question": "rolling",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kosz na śmieci"
+        },
+        {
+          "id": "b",
+          "text": "(przedmiot) nieozdobny"
+        },
+        {
+          "id": "c",
+          "text": "pofałdowany"
+        },
+        {
+          "id": "d",
+          "text": "zatrudnienie, praca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rolling” (przymiotnik, poziom B1) oznacza po polsku „pofałdowany”."
+    },
+    {
+      "id": "b1-przymiotniki-04-022",
+      "question": "rotten",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zepsuty, zgniły"
+        },
+        {
+          "id": "b",
+          "text": "jakość"
+        },
+        {
+          "id": "c",
+          "text": "silnik"
+        },
+        {
+          "id": "d",
+          "text": "wybory"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rotten” (przymiotnik, poziom B1) oznacza po polsku „zepsuty, zgniły”."
+    },
+    {
+      "id": "b1-przymiotniki-04-023",
+      "question": "rough",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(przedmiot) nieozdobny"
+        },
+        {
+          "id": "b",
+          "text": "nierówny"
+        },
+        {
+          "id": "c",
+          "text": "wystraszony, bojący się"
+        },
+        {
+          "id": "d",
+          "text": "osobliwy, szczególny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rough” (przymiotnik, poziom B1) oznacza po polsku „nierówny”."
+    },
+    {
+      "id": "b1-przymiotniki-04-024",
+      "question": "sacred",
+      "answers": [
+        {
+          "id": "a",
+          "text": "święty"
+        },
+        {
+          "id": "b",
+          "text": "obowiązek"
+        },
+        {
+          "id": "c",
+          "text": "wystraszony, bojący się"
+        },
+        {
+          "id": "d",
+          "text": "zaborczy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sacred” (przymiotnik, poziom B1) oznacza po polsku „święty”."
+    },
+    {
+      "id": "b1-przymiotniki-04-025",
+      "question": "satisfied",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadowolony"
+        },
+        {
+          "id": "b",
+          "text": "element, składnik"
+        },
+        {
+          "id": "c",
+          "text": "zakłopotanie, skrępowanie"
+        },
+        {
+          "id": "d",
+          "text": "łokieć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„satisfied” (przymiotnik, poziom B1) oznacza po polsku „zadowolony”."
+    },
+    {
+      "id": "b1-przymiotniki-04-026",
+      "question": "scared",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wystraszony, bojący się"
+        },
+        {
+          "id": "b",
+          "text": "rozsądny"
+        },
+        {
+          "id": "c",
+          "text": "praktyczny"
+        },
+        {
+          "id": "d",
+          "text": "wybory"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„scared” (przymiotnik, poziom B1) oznacza po polsku „wystraszony, bojący się”."
+    },
+    {
+      "id": "b1-przymiotniki-04-027",
+      "question": "scenic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sceniczny, widowiskowy"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedzialny"
+        },
+        {
+          "id": "c",
+          "text": "groteskowy, śmieszny"
+        },
+        {
+          "id": "d",
+          "text": "szacowny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„scenic” (przymiotnik, poziom B1) oznacza po polsku „sceniczny, widowiskowy”."
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "category": {
+    "id": "b2-przymiotniki-04",
+    "name": "B2 — Przymiotniki 4/4 (Q–S)"
+  },
+  "questions": [
+    {
+      "id": "b2-przymiotniki-04-001",
+      "question": "quit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oczekiwanie"
+        },
+        {
+          "id": "b",
+          "text": "przestawać, rzucać"
+        },
+        {
+          "id": "c",
+          "text": "niechętnie coś robić"
+        },
+        {
+          "id": "d",
+          "text": "(form) usiłowanie, wysiłek, próba"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„quit” (przymiotnik, poziom B2) oznacza po polsku „przestawać, rzucać”."
+    },
+    {
+      "id": "b2-przymiotniki-04-002",
+      "question": "rash",
+      "answers": [
+        {
+          "id": "a",
+          "text": "firma, przedsiębiorstwo, interes"
+        },
+        {
+          "id": "b",
+          "text": "zapalczywy, pochopny"
+        },
+        {
+          "id": "c",
+          "text": "ocena, oszacowanie"
+        },
+        {
+          "id": "d",
+          "text": "energia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rash” (przymiotnik, poziom B2) oznacza po polsku „zapalczywy, pochopny”."
+    },
+    {
+      "id": "b2-przymiotniki-04-003",
+      "question": "rebellious",
+      "answers": [
+        {
+          "id": "a",
+          "text": "los, przeznaczenie"
+        },
+        {
+          "id": "b",
+          "text": "buntowniczy"
+        },
+        {
+          "id": "c",
+          "text": "kamienisty"
+        },
+        {
+          "id": "d",
+          "text": "kominek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rebellious” (przymiotnik, poziom B2) oznacza po polsku „buntowniczy”."
+    },
+    {
+      "id": "b2-przymiotniki-04-004",
+      "question": "rectangular",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kłótliwy"
+        },
+        {
+          "id": "b",
+          "text": "płynność, biegłość"
+        },
+        {
+          "id": "c",
+          "text": "prostokątny"
+        },
+        {
+          "id": "d",
+          "text": "pracodawca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rectangular” (przymiotnik, poziom B2) oznacza po polsku „prostokątny”."
+    },
+    {
+      "id": "b2-przymiotniki-04-005",
+      "question": "redundant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zbyteczny, zbędny"
+        },
+        {
+          "id": "b",
+          "text": "wycinek, wyimek"
+        },
+        {
+          "id": "c",
+          "text": "(form) usiłowanie, wysiłek, próba"
+        },
+        {
+          "id": "d",
+          "text": "(also exhaust pipe) rura wydechowa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„redundant” (przymiotnik, poziom B2) oznacza po polsku „zbyteczny, zbędny”."
+    },
+    {
+      "id": "b2-przymiotniki-04-006",
+      "question": "reflective",
+      "answers": [
+        {
+          "id": "a",
+          "text": "władze umysłowe i cielesne"
+        },
+        {
+          "id": "b",
+          "text": "wygnanie"
+        },
+        {
+          "id": "c",
+          "text": "refleksyjny, pełen zadumy"
+        },
+        {
+          "id": "d",
+          "text": "pracownik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reflective” (przymiotnik, poziom B2) oznacza po polsku „refleksyjny, pełen zadumy”."
+    },
+    {
+      "id": "b2-przymiotniki-04-007",
+      "question": "related",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powieka"
+        },
+        {
+          "id": "b",
+          "text": "flota"
+        },
+        {
+          "id": "c",
+          "text": "spokrewniony"
+        },
+        {
+          "id": "d",
+          "text": "różowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„related” (przymiotnik, poziom B2) oznacza po polsku „spokrewniony”."
+    },
+    {
+      "id": "b2-przymiotniki-04-008",
+      "question": "relevant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "energia"
+        },
+        {
+          "id": "b",
+          "text": "tyczący się"
+        },
+        {
+          "id": "c",
+          "text": "buntowniczy"
+        },
+        {
+          "id": "d",
+          "text": "fascynacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„relevant” (przymiotnik, poziom B2) oznacza po polsku „tyczący się”."
+    },
+    {
+      "id": "b2-przymiotniki-04-009",
+      "question": "relieved",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prostokątny"
+        },
+        {
+          "id": "b",
+          "text": "trzepot"
+        },
+        {
+          "id": "c",
+          "text": "uszczęśliwiony, pełen ulgi"
+        },
+        {
+          "id": "d",
+          "text": "teść"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„relieved” (przymiotnik, poziom B2) oznacza po polsku „uszczęśliwiony, pełen ulgi”."
+    },
+    {
+      "id": "b2-przymiotniki-04-010",
+      "question": "reluctant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciało, mięso"
+        },
+        {
+          "id": "b",
+          "text": "dziwaczny"
+        },
+        {
+          "id": "c",
+          "text": "niechętnie coś robić"
+        },
+        {
+          "id": "d",
+          "text": "główny, zasadniczy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reluctant” (przymiotnik, poziom B2) oznacza po polsku „niechętnie coś robić”."
+    },
+    {
+      "id": "b2-przymiotniki-04-011",
+      "question": "resonant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odzew"
+        },
+        {
+          "id": "b",
+          "text": "eseista"
+        },
+        {
+          "id": "c",
+          "text": "błąd, niedopatrzenie"
+        },
+        {
+          "id": "d",
+          "text": "głęboki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„resonant” (przymiotnik, poziom B2) oznacza po polsku „głęboki”."
+    },
+    {
+      "id": "b2-przymiotniki-04-012",
+      "question": "respiratory",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tłuszcz"
+        },
+        {
+          "id": "b",
+          "text": "przestawać, rzucać"
+        },
+        {
+          "id": "c",
+          "text": "oddechowy, płucny"
+        },
+        {
+          "id": "d",
+          "text": "spotkanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„respiratory” (przymiotnik, poziom B2) oznacza po polsku „oddechowy, płucny”."
+    },
+    {
+      "id": "b2-przymiotniki-04-013",
+      "question": "revolutionary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rewolucyjny"
+        },
+        {
+          "id": "b",
+          "text": "wygnanie"
+        },
+        {
+          "id": "c",
+          "text": "błąd, niedopatrzenie"
+        },
+        {
+          "id": "d",
+          "text": "(form) usiłowanie, wysiłek, próba"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„revolutionary” (przymiotnik, poziom B2) oznacza po polsku „rewolucyjny”."
+    },
+    {
+      "id": "b2-przymiotniki-04-014",
+      "question": "rhythmic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dochodowy"
+        },
+        {
+          "id": "b",
+          "text": "kominek"
+        },
+        {
+          "id": "c",
+          "text": "odzew"
+        },
+        {
+          "id": "d",
+          "text": "rytmiczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rhythmic” (przymiotnik, poziom B2) oznacza po polsku „rytmiczny”."
+    },
+    {
+      "id": "b2-przymiotniki-04-015",
+      "question": "risky",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ryzykowny"
+        },
+        {
+          "id": "b",
+          "text": "przesadzać"
+        },
+        {
+          "id": "c",
+          "text": "ocena, oszacowanie"
+        },
+        {
+          "id": "d",
+          "text": "egzekucja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„risky” (przymiotnik, poziom B2) oznacza po polsku „ryzykowny”."
+    },
+    {
+      "id": "b2-przymiotniki-04-016",
+      "question": "roast",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dochodowy"
+        },
+        {
+          "id": "b",
+          "text": "brew"
+        },
+        {
+          "id": "c",
+          "text": "sprawiedliwość, słuszność"
+        },
+        {
+          "id": "d",
+          "text": "pieczony"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„roast” (przymiotnik, poziom B2) oznacza po polsku „pieczony”."
+    },
+    {
+      "id": "b2-przymiotniki-04-017",
+      "question": "rocky",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kamienisty"
+        },
+        {
+          "id": "b",
+          "text": "uszczęśliwiony, pełen ulgi"
+        },
+        {
+          "id": "c",
+          "text": "kominek"
+        },
+        {
+          "id": "d",
+          "text": "los, przeznaczenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rocky” (przymiotnik, poziom B2) oznacza po polsku „kamienisty”."
+    },
+    {
+      "id": "b2-przymiotniki-04-018",
+      "question": "rosy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dochodowy"
+        },
+        {
+          "id": "b",
+          "text": "różowy"
+        },
+        {
+          "id": "c",
+          "text": "rzęsa"
+        },
+        {
+          "id": "d",
+          "text": "egzekucja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rosy” (przymiotnik, poziom B2) oznacza po polsku „różowy”."
+    },
+    {
+      "id": "b2-przymiotniki-04-019",
+      "question": "ruinous",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rujnujący"
+        },
+        {
+          "id": "b",
+          "text": "len"
+        },
+        {
+          "id": "c",
+          "text": "spokrewniony"
+        },
+        {
+          "id": "d",
+          "text": "(also exhaust pipe) rura wydechowa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ruinous” (przymiotnik, poziom B2) oznacza po polsku „rujnujący”."
+    },
+    {
+      "id": "b2-przymiotniki-04-020",
+      "question": "rural",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozrost, ekspansja"
+        },
+        {
+          "id": "b",
+          "text": "wiejski"
+        },
+        {
+          "id": "c",
+          "text": "energia"
+        },
+        {
+          "id": "d",
+          "text": "zardzewiały"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rural” (przymiotnik, poziom B2) oznacza po polsku „wiejski”."
+    },
+    {
+      "id": "b2-przymiotniki-04-021",
+      "question": "rusty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zardzewiały"
+        },
+        {
+          "id": "b",
+          "text": "(fiz) ognisko"
+        },
+        {
+          "id": "c",
+          "text": "zadowalający"
+        },
+        {
+          "id": "d",
+          "text": "tłuszcz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rusty” (przymiotnik, poziom B2) oznacza po polsku „zardzewiały”."
+    },
+    {
+      "id": "b2-przymiotniki-04-022",
+      "question": "salty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjątek"
+        },
+        {
+          "id": "b",
+          "text": "flota"
+        },
+        {
+          "id": "c",
+          "text": "słony"
+        },
+        {
+          "id": "d",
+          "text": "wybuch"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„salty” (przymiotnik, poziom B2) oznacza po polsku „słony”."
+    },
+    {
+      "id": "b2-przymiotniki-04-023",
+      "question": "sanitary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) usiłowanie, wysiłek, próba"
+        },
+        {
+          "id": "b",
+          "text": "czysty"
+        },
+        {
+          "id": "c",
+          "text": "ryzykowny"
+        },
+        {
+          "id": "d",
+          "text": "przedsiębiorca"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sanitary” (przymiotnik, poziom B2) oznacza po polsku „czysty”."
+    },
+    {
+      "id": "b2-przymiotniki-04-024",
+      "question": "satisfactory",
+      "answers": [
+        {
+          "id": "a",
+          "text": "różowy"
+        },
+        {
+          "id": "b",
+          "text": "kamienisty"
+        },
+        {
+          "id": "c",
+          "text": "elektronika"
+        },
+        {
+          "id": "d",
+          "text": "zadowalający"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„satisfactory” (przymiotnik, poziom B2) oznacza po polsku „zadowalający”."
+    }
+  ]
+}

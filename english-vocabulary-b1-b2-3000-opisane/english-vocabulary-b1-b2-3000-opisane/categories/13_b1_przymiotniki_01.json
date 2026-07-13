@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-przymiotniki-01",
+    "name": "B1 — Przymiotniki 1/4 (A–D)"
+  },
+  "questions": [
+    {
+      "id": "b1-przymiotniki-01-001",
+      "question": "able",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjaśniać; stanowić"
+        },
+        {
+          "id": "b",
+          "text": "zdolny"
+        },
+        {
+          "id": "c",
+          "text": "akcesoria, wyposażenie"
+        },
+        {
+          "id": "d",
+          "text": "wystraszyć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„able” (przymiotnik, poziom B1) oznacza po polsku „zdolny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-002",
+      "question": "abnormal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nienormalny"
+        },
+        {
+          "id": "b",
+          "text": "osiągnięcie, wyczyn"
+        },
+        {
+          "id": "c",
+          "text": "dialekt, akcent"
+        },
+        {
+          "id": "d",
+          "text": "naukowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„abnormal” (przymiotnik, poziom B1) oznacza po polsku „nienormalny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-003",
+      "question": "above",
+      "answers": [
+        {
+          "id": "a",
+          "text": "też nie"
+        },
+        {
+          "id": "b",
+          "text": "reklama, ogłoszenie"
+        },
+        {
+          "id": "c",
+          "text": "ponad"
+        },
+        {
+          "id": "d",
+          "text": "obfitość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„above” (przymiotnik, poziom B1) oznacza po polsku „ponad”."
+    },
+    {
+      "id": "b1-przymiotniki-01-004",
+      "question": "absent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "działać"
+        },
+        {
+          "id": "b",
+          "text": "nieobecny"
+        },
+        {
+          "id": "c",
+          "text": "mieć wpływ"
+        },
+        {
+          "id": "d",
+          "text": "(ugotowany, zagłodzony) na wpół"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„absent” (przymiotnik, poziom B1) oznacza po polsku „nieobecny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-005",
+      "question": "absolute",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podziw"
+        },
+        {
+          "id": "b",
+          "text": "wystraszyć"
+        },
+        {
+          "id": "c",
+          "text": "dużo"
+        },
+        {
+          "id": "d",
+          "text": "całkowity"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„absolute” (przymiotnik, poziom B1) oznacza po polsku „całkowity”."
+    },
+    {
+      "id": "b1-przymiotniki-01-006",
+      "question": "abstract",
+      "answers": [
+        {
+          "id": "a",
+          "text": "też nie"
+        },
+        {
+          "id": "b",
+          "text": "często"
+        },
+        {
+          "id": "c",
+          "text": "przyznanie się"
+        },
+        {
+          "id": "d",
+          "text": "abstrakcyjny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„abstract” (przymiotnik, poziom B1) oznacza po polsku „abstrakcyjny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-007",
+      "question": "abundant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obfity"
+        },
+        {
+          "id": "b",
+          "text": "równo"
+        },
+        {
+          "id": "c",
+          "text": "pozwolić sobie"
+        },
+        {
+          "id": "d",
+          "text": "akcesoria, wyposażenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„abundant” (przymiotnik, poziom B1) oznacza po polsku „obfity”."
+    },
+    {
+      "id": "b1-przymiotniki-01-008",
+      "question": "academic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "z nadzieją"
+        },
+        {
+          "id": "b",
+          "text": "zostawiać, opuszczać"
+        },
+        {
+          "id": "c",
+          "text": "zaczepny, agresywny"
+        },
+        {
+          "id": "d",
+          "text": "naukowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„academic” (przymiotnik, poziom B1) oznacza po polsku „naukowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-009",
+      "question": "accessible",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogłoszenie"
+        },
+        {
+          "id": "b",
+          "text": "akademia"
+        },
+        {
+          "id": "c",
+          "text": "dotyczący"
+        },
+        {
+          "id": "d",
+          "text": "dostępny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„accessible” (przymiotnik, poziom B1) oznacza po polsku „dostępny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-010",
+      "question": "accidental",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dobro"
+        },
+        {
+          "id": "b",
+          "text": "głośno, na głos"
+        },
+        {
+          "id": "c",
+          "text": "mieć wpływ"
+        },
+        {
+          "id": "d",
+          "text": "przypadkowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„accidental” (przymiotnik, poziom B1) oznacza po polsku „przypadkowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-011",
+      "question": "accurate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieobecny"
+        },
+        {
+          "id": "b",
+          "text": "akademia"
+        },
+        {
+          "id": "c",
+          "text": "wierny"
+        },
+        {
+          "id": "d",
+          "text": "administracja, zarządzanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„accurate” (przymiotnik, poziom B1) oznacza po polsku „wierny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-012",
+      "question": "active",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdolny"
+        },
+        {
+          "id": "b",
+          "text": "mieć wpływ"
+        },
+        {
+          "id": "c",
+          "text": "aktywny"
+        },
+        {
+          "id": "d",
+          "text": "(ugotowany, zagłodzony) na wpół"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„active” (przymiotnik, poziom B1) oznacza po polsku „aktywny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-013",
+      "question": "adorable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aktywny"
+        },
+        {
+          "id": "b",
+          "text": "głośno, na głos"
+        },
+        {
+          "id": "c",
+          "text": "uczucie"
+        },
+        {
+          "id": "d",
+          "text": "miły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„adorable” (przymiotnik, poziom B1) oznacza po polsku „miły”."
+    },
+    {
+      "id": "b1-przymiotniki-01-014",
+      "question": "adverbial",
+      "answers": [
+        {
+          "id": "a",
+          "text": "akademia"
+        },
+        {
+          "id": "b",
+          "text": "przysłówkowy"
+        },
+        {
+          "id": "c",
+          "text": "rolniczy"
+        },
+        {
+          "id": "d",
+          "text": "aktywny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„adverbial” (przymiotnik, poziom B1) oznacza po polsku „przysłówkowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-015",
+      "question": "aggressive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bardzo, wysoce"
+        },
+        {
+          "id": "b",
+          "text": "przyzwyczajać"
+        },
+        {
+          "id": "c",
+          "text": "całkowicie"
+        },
+        {
+          "id": "d",
+          "text": "zaczepny, agresywny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„aggressive” (przymiotnik, poziom B1) oznacza po polsku „zaczepny, agresywny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-016",
+      "question": "agricultural",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rolniczy"
+        },
+        {
+          "id": "b",
+          "text": "abstrakcyjny"
+        },
+        {
+          "id": "c",
+          "text": "(list) adresować"
+        },
+        {
+          "id": "d",
+          "text": "wyjaśniać; stanowić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„agricultural” (przymiotnik, poziom B1) oznacza po polsku „rolniczy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-017",
+      "question": "alcoholic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostosowywać się"
+        },
+        {
+          "id": "b",
+          "text": "działać"
+        },
+        {
+          "id": "c",
+          "text": "alkoholowy"
+        },
+        {
+          "id": "d",
+          "text": "reklama, ogłoszenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„alcoholic” (przymiotnik, poziom B1) oznacza po polsku „alkoholowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-018",
+      "question": "alike",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zostawiać, opuszczać"
+        },
+        {
+          "id": "b",
+          "text": "ale"
+        },
+        {
+          "id": "c",
+          "text": "podobny"
+        },
+        {
+          "id": "d",
+          "text": "później"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„alike” (przymiotnik, poziom B1) oznacza po polsku „podobny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-019",
+      "question": "allergic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "alergiczny, uczulony"
+        },
+        {
+          "id": "b",
+          "text": "księgowy"
+        },
+        {
+          "id": "c",
+          "text": "całkowity"
+        },
+        {
+          "id": "d",
+          "text": "osiągnięcie, wyczyn"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„allergic” (przymiotnik, poziom B1) oznacza po polsku „alergiczny, uczulony”."
+    },
+    {
+      "id": "b1-przymiotniki-01-020",
+      "question": "alternative",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przysłówek"
+        },
+        {
+          "id": "b",
+          "text": "szczerze"
+        },
+        {
+          "id": "c",
+          "text": "włączając, włącznie"
+        },
+        {
+          "id": "d",
+          "text": "alternatywny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„alternative” (przymiotnik, poziom B1) oznacza po polsku „alternatywny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-021",
+      "question": "amazing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kąt"
+        },
+        {
+          "id": "b",
+          "text": "normalnie"
+        },
+        {
+          "id": "c",
+          "text": "zdumiewający"
+        },
+        {
+          "id": "d",
+          "text": "organizować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„amazing” (przymiotnik, poziom B1) oznacza po polsku „zdumiewający”."
+    },
+    {
+      "id": "b1-przymiotniki-01-022",
+      "question": "ambitious",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochwalać"
+        },
+        {
+          "id": "b",
+          "text": "małpa człekokształtna"
+        },
+        {
+          "id": "c",
+          "text": "przebojowy"
+        },
+        {
+          "id": "d",
+          "text": "najmniej"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ambitious” (przymiotnik, poziom B1) oznacza po polsku „przebojowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-023",
+      "question": "amusing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "b",
+          "text": "zabawny"
+        },
+        {
+          "id": "c",
+          "text": "atletyczny"
+        },
+        {
+          "id": "d",
+          "text": "osobiście"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„amusing” (przymiotnik, poziom B1) oznacza po polsku „zabawny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-024",
+      "question": "animated",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywiony"
+        },
+        {
+          "id": "b",
+          "text": "ostatnio"
+        },
+        {
+          "id": "c",
+          "text": "odważny"
+        },
+        {
+          "id": "d",
+          "text": "jednak, niemniej"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„animated” (przymiotnik, poziom B1) oznacza po polsku „ożywiony”."
+    },
+    {
+      "id": "b1-przymiotniki-01-025",
+      "question": "annual",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inaczej"
+        },
+        {
+          "id": "b",
+          "text": "coroczny"
+        },
+        {
+          "id": "c",
+          "text": "gryźć, kąsać"
+        },
+        {
+          "id": "d",
+          "text": "pomocniczy, dodatkowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„annual” (przymiotnik, poziom B1) oznacza po polsku „coroczny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-026",
+      "question": "apparent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "naturalnie"
+        },
+        {
+          "id": "b",
+          "text": "niezręczny"
+        },
+        {
+          "id": "c",
+          "text": "pozorny"
+        },
+        {
+          "id": "d",
+          "text": "prośba o wybaczenie, przeprosiny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„apparent” (przymiotnik, poziom B1) oznacza po polsku „pozorny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-027",
+      "question": "artistic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odbijać"
+        },
+        {
+          "id": "b",
+          "text": "(o przejściu) blokować, barykadować"
+        },
+        {
+          "id": "c",
+          "text": "artystyczny"
+        },
+        {
+          "id": "d",
+          "text": "mrówka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„artistic” (przymiotnik, poziom B1) oznacza po polsku „artystyczny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-028",
+      "question": "ashamed",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochwalać"
+        },
+        {
+          "id": "b",
+          "text": "opierać się"
+        },
+        {
+          "id": "c",
+          "text": "umowa"
+        },
+        {
+          "id": "d",
+          "text": "wstydzić się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ashamed” (przymiotnik, poziom B1) oznacza po polsku „wstydzić się”."
+    },
+    {
+      "id": "b1-przymiotniki-01-029",
+      "question": "athletic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "atletyczny"
+        },
+        {
+          "id": "b",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "c",
+          "text": "usiłować"
+        },
+        {
+          "id": "d",
+          "text": "kojarzyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„athletic” (przymiotnik, poziom B1) oznacza po polsku „atletyczny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-030",
+      "question": "Atlantic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(np. w morzu) kąpać się"
+        },
+        {
+          "id": "b",
+          "text": "grill"
+        },
+        {
+          "id": "c",
+          "text": "atlantycki"
+        },
+        {
+          "id": "d",
+          "text": "opierać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„Atlantic” (przymiotnik, poziom B1) oznacza po polsku „atlantycki”."
+    },
+    {
+      "id": "b1-przymiotniki-01-031",
+      "question": "atomic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tylko, jedynie"
+        },
+        {
+          "id": "b",
+          "text": "atomowy, nuklearny"
+        },
+        {
+          "id": "c",
+          "text": "organizować"
+        },
+        {
+          "id": "d",
+          "text": "naprzeciwko"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„atomic” (przymiotnik, poziom B1) oznacza po polsku „atomowy, nuklearny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-032",
+      "question": "auxiliary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "coraz bardziej"
+        },
+        {
+          "id": "b",
+          "text": "pomocniczy, dodatkowy"
+        },
+        {
+          "id": "c",
+          "text": "stawiać"
+        },
+        {
+          "id": "d",
+          "text": "karetka, ambulans"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„auxiliary” (przymiotnik, poziom B1) oznacza po polsku „pomocniczy, dodatkowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-033",
+      "question": "available",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyznaczać"
+        },
+        {
+          "id": "b",
+          "text": "inaczej"
+        },
+        {
+          "id": "c",
+          "text": "tymczasem"
+        },
+        {
+          "id": "d",
+          "text": "dostępny, osiągalny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„available” (przymiotnik, poziom B1) oznacza po polsku „dostępny, osiągalny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-034",
+      "question": "awesome",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadyszany"
+        },
+        {
+          "id": "b",
+          "text": "krótki"
+        },
+        {
+          "id": "c",
+          "text": "apetyt"
+        },
+        {
+          "id": "d",
+          "text": "straszliwy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„awesome” (przymiotnik, poziom B1) oznacza po polsku „straszliwy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-035",
+      "question": "awkward",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezręczny"
+        },
+        {
+          "id": "b",
+          "text": "ostatnio"
+        },
+        {
+          "id": "c",
+          "text": "ramię, ręka"
+        },
+        {
+          "id": "d",
+          "text": "natychmiast"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„awkward” (przymiotnik, poziom B1) oznacza po polsku „niezręczny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-036",
+      "question": "bald",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grill"
+        },
+        {
+          "id": "b",
+          "text": "natychmiast"
+        },
+        {
+          "id": "c",
+          "text": "atomowy, nuklearny"
+        },
+        {
+          "id": "d",
+          "text": "łysy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bald” (przymiotnik, poziom B1) oznacza po polsku „łysy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-037",
+      "question": "bare",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w większości"
+        },
+        {
+          "id": "b",
+          "text": "mimo to"
+        },
+        {
+          "id": "c",
+          "text": "kojarzyć"
+        },
+        {
+          "id": "d",
+          "text": "goły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bare” (przymiotnik, poziom B1) oznacza po polsku „goły”."
+    },
+    {
+      "id": "b1-przymiotniki-01-038",
+      "question": "beloved",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "b",
+          "text": "artystyczny"
+        },
+        {
+          "id": "c",
+          "text": "beztrosko, lekkomyślnie"
+        },
+        {
+          "id": "d",
+          "text": "ukochany"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„beloved” (przymiotnik, poziom B1) oznacza po polsku „ukochany”."
+    },
+    {
+      "id": "b1-przymiotniki-01-039",
+      "question": "bilingual",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagradzać"
+        },
+        {
+          "id": "b",
+          "text": "dwujęzyczny"
+        },
+        {
+          "id": "c",
+          "text": "irytacja, rozzłoszczenie się"
+        },
+        {
+          "id": "d",
+          "text": "goły"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bilingual” (przymiotnik, poziom B1) oznacza po polsku „dwujęzyczny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-040",
+      "question": "bitter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wewnątrz"
+        },
+        {
+          "id": "b",
+          "text": "gorzki"
+        },
+        {
+          "id": "c",
+          "text": "powstawać"
+        },
+        {
+          "id": "d",
+          "text": "(co się podoba) atrakcja, urok"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bitter” (przymiotnik, poziom B1) oznacza po polsku „gorzki”."
+    },
+    {
+      "id": "b1-przymiotniki-01-041",
+      "question": "blind",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ślepy, niewidomy"
+        },
+        {
+          "id": "b",
+          "text": "przebojowy"
+        },
+        {
+          "id": "c",
+          "text": "alfabet"
+        },
+        {
+          "id": "d",
+          "text": "osiągać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„blind” (przymiotnik, poziom B1) oznacza po polsku „ślepy, niewidomy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-042",
+      "question": "bold",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdumiewający"
+        },
+        {
+          "id": "b",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "c",
+          "text": "odważny"
+        },
+        {
+          "id": "d",
+          "text": "łysy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bold” (przymiotnik, poziom B1) oznacza po polsku „odważny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-043",
+      "question": "brand-new",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przebojowy"
+        },
+        {
+          "id": "b",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "c",
+          "text": "zawiadomienie"
+        },
+        {
+          "id": "d",
+          "text": "fabrycznie nowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„brand-new” (przymiotnik, poziom B1) oznacza po polsku „fabrycznie nowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-044",
+      "question": "breathless",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w większości"
+        },
+        {
+          "id": "b",
+          "text": "zadyszany"
+        },
+        {
+          "id": "c",
+          "text": "alfabet"
+        },
+        {
+          "id": "d",
+          "text": "pozorny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„breathless” (przymiotnik, poziom B1) oznacza po polsku „zadyszany”."
+    },
+    {
+      "id": "b1-przymiotniki-01-045",
+      "question": "brief",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krótki"
+        },
+        {
+          "id": "b",
+          "text": "gniew"
+        },
+        {
+          "id": "c",
+          "text": "mimo to"
+        },
+        {
+          "id": "d",
+          "text": "coraz bardziej"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„brief” (przymiotnik, poziom B1) oznacza po polsku „krótki”."
+    },
+    {
+      "id": "b1-przymiotniki-01-046",
+      "question": "broad",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(daty, terminu) nadejście"
+        },
+        {
+          "id": "b",
+          "text": "szeroki"
+        },
+        {
+          "id": "c",
+          "text": "(form) wsiadać"
+        },
+        {
+          "id": "d",
+          "text": "stosunkowo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„broad” (przymiotnik, poziom B1) oznacza po polsku „szeroki”."
+    },
+    {
+      "id": "b1-przymiotniki-01-047",
+      "question": "burning",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piastować, żywić"
+        },
+        {
+          "id": "b",
+          "text": "palący się"
+        },
+        {
+          "id": "c",
+          "text": "zdolny"
+        },
+        {
+          "id": "d",
+          "text": "zaniepokojony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„burning” (przymiotnik, poziom B1) oznacza po polsku „palący się”."
+    },
+    {
+      "id": "b1-przymiotniki-01-048",
+      "question": "calm",
+      "answers": [
+        {
+          "id": "a",
+          "text": "urok, pociąg"
+        },
+        {
+          "id": "b",
+          "text": "naczelny"
+        },
+        {
+          "id": "c",
+          "text": "kategoryzować, dzielić"
+        },
+        {
+          "id": "d",
+          "text": "spokojny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„calm” (przymiotnik, poziom B1) oznacza po polsku „spokojny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-049",
+      "question": "canned",
+      "answers": [
+        {
+          "id": "a",
+          "text": "astronom"
+        },
+        {
+          "id": "b",
+          "text": "niedbały, nieostrożny"
+        },
+        {
+          "id": "c",
+          "text": "puszkowany, konserwowy"
+        },
+        {
+          "id": "d",
+          "text": "strzała, strzałka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„canned” (przymiotnik, poziom B1) oznacza po polsku „puszkowany, konserwowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-050",
+      "question": "capable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aresztowanie, zatrzymanie"
+        },
+        {
+          "id": "b",
+          "text": "dławić się, dławić, dusić się, dusić"
+        },
+        {
+          "id": "c",
+          "text": "zdolny"
+        },
+        {
+          "id": "d",
+          "text": "radosny, pogodny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„capable” (przymiotnik, poziom B1) oznacza po polsku „zdolny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-051",
+      "question": "careless",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niedbały, nieostrożny"
+        },
+        {
+          "id": "b",
+          "text": "krążyć, okrążać"
+        },
+        {
+          "id": "c",
+          "text": "stanowiący wyzwanie"
+        },
+        {
+          "id": "d",
+          "text": "palić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„careless” (przymiotnik, poziom B1) oznacza po polsku „niedbały, nieostrożny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-052",
+      "question": "casual",
+      "answers": [
+        {
+          "id": "a",
+          "text": "władze"
+        },
+        {
+          "id": "b",
+          "text": "swobodny, naturalny"
+        },
+        {
+          "id": "c",
+          "text": "(daty, terminu) nadejście"
+        },
+        {
+          "id": "d",
+          "text": "rezerwować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„casual” (przymiotnik, poziom B1) oznacza po polsku „swobodny, naturalny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-053",
+      "question": "cautious",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konserwatywny"
+        },
+        {
+          "id": "b",
+          "text": "szeroki"
+        },
+        {
+          "id": "c",
+          "text": "przytomny"
+        },
+        {
+          "id": "d",
+          "text": "ostrożny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cautious” (przymiotnik, poziom B1) oznacza po polsku „ostrożny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-054",
+      "question": "central",
+      "answers": [
+        {
+          "id": "a",
+          "text": "równowaga"
+        },
+        {
+          "id": "b",
+          "text": "centralny"
+        },
+        {
+          "id": "c",
+          "text": "atmosfera"
+        },
+        {
+          "id": "d",
+          "text": "brzeg, wybrzeże"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„central” (przymiotnik, poziom B1) oznacza po polsku „centralny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-055",
+      "question": "challenging",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rzadko"
+        },
+        {
+          "id": "b",
+          "text": "swobodny, naturalny"
+        },
+        {
+          "id": "c",
+          "text": "stanowiący wyzwanie"
+        },
+        {
+          "id": "d",
+          "text": "zdolny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„challenging” (przymiotnik, poziom B1) oznacza po polsku „stanowiący wyzwanie”."
+    },
+    {
+      "id": "b1-przymiotniki-01-056",
+      "question": "cheerful",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(nieform) rozwalać"
+        },
+        {
+          "id": "b",
+          "text": "radosny, pogodny"
+        },
+        {
+          "id": "c",
+          "text": "klasyfikować"
+        },
+        {
+          "id": "d",
+          "text": "palący się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cheerful” (przymiotnik, poziom B1) oznacza po polsku „radosny, pogodny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-057",
+      "question": "chief",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadanie"
+        },
+        {
+          "id": "b",
+          "text": "odmienny"
+        },
+        {
+          "id": "c",
+          "text": "naczelny"
+        },
+        {
+          "id": "d",
+          "text": "przytwierdzać, przymocowywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„chief” (przymiotnik, poziom B1) oznacza po polsku „naczelny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-058",
+      "question": "Christian",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mylący"
+        },
+        {
+          "id": "b",
+          "text": "chrześcijański"
+        },
+        {
+          "id": "c",
+          "text": "aleja"
+        },
+        {
+          "id": "d",
+          "text": "konar"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„Christian” (przymiotnik, poziom B1) oznacza po polsku „chrześcijański”."
+    },
+    {
+      "id": "b1-przymiotniki-01-059",
+      "question": "chronological",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piekarz"
+        },
+        {
+          "id": "b",
+          "text": "rezerwować"
+        },
+        {
+          "id": "c",
+          "text": "łączyć, połączyć"
+        },
+        {
+          "id": "d",
+          "text": "chronologiczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„chronological” (przymiotnik, poziom B1) oznacza po polsku „chronologiczny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-060",
+      "question": "circular",
+      "answers": [
+        {
+          "id": "a",
+          "text": "swobodny, naturalny"
+        },
+        {
+          "id": "b",
+          "text": "kolisty, okrągły"
+        },
+        {
+          "id": "c",
+          "text": "(daty, terminu) nadejście"
+        },
+        {
+          "id": "d",
+          "text": "konar"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„circular” (przymiotnik, poziom B1) oznacza po polsku „kolisty, okrągły”."
+    },
+    {
+      "id": "b1-przymiotniki-01-061",
+      "question": "civil",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piastować, żywić"
+        },
+        {
+          "id": "b",
+          "text": "klasyczny, tradycyjny"
+        },
+        {
+          "id": "c",
+          "text": "odwoływać"
+        },
+        {
+          "id": "d",
+          "text": "cywilny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„civil” (przymiotnik, poziom B1) oznacza po polsku „cywilny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-062",
+      "question": "classical",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaniepokojony"
+        },
+        {
+          "id": "b",
+          "text": "aresztowanie, zatrzymanie"
+        },
+        {
+          "id": "c",
+          "text": "klasyczny, tradycyjny"
+        },
+        {
+          "id": "d",
+          "text": "odmienny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„classical” (przymiotnik, poziom B1) oznacza po polsku „klasyczny, tradycyjny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-063",
+      "question": "coastal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miska, miseczka"
+        },
+        {
+          "id": "b",
+          "text": "przybrzeżny"
+        },
+        {
+          "id": "c",
+          "text": "potwierdzać"
+        },
+        {
+          "id": "d",
+          "text": "miska"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„coastal” (przymiotnik, poziom B1) oznacza po polsku „przybrzeżny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-064",
+      "question": "commercial",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przytomny"
+        },
+        {
+          "id": "b",
+          "text": "handlowy, finansowy"
+        },
+        {
+          "id": "c",
+          "text": "rywalizować, konkurować"
+        },
+        {
+          "id": "d",
+          "text": "przytwierdzać, przymocowywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„commercial” (przymiotnik, poziom B1) oznacza po polsku „handlowy, finansowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-065",
+      "question": "competitive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rywalizujący, współzawodniczący"
+        },
+        {
+          "id": "b",
+          "text": "aresztowanie, zatrzymanie"
+        },
+        {
+          "id": "c",
+          "text": "równowaga"
+        },
+        {
+          "id": "d",
+          "text": "szeroki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„competitive” (przymiotnik, poziom B1) oznacza po polsku „rywalizujący, współzawodniczący”."
+    },
+    {
+      "id": "b1-przymiotniki-01-066",
+      "question": "complex",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skomplikowany"
+        },
+        {
+          "id": "b",
+          "text": "piekarz"
+        },
+        {
+          "id": "c",
+          "text": "suterena"
+        },
+        {
+          "id": "d",
+          "text": "beczka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„complex” (przymiotnik, poziom B1) oznacza po polsku „skomplikowany”."
+    },
+    {
+      "id": "b1-przymiotniki-01-067",
+      "question": "complicated",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aresztowanie, zatrzymanie"
+        },
+        {
+          "id": "b",
+          "text": "urok, pociąg"
+        },
+        {
+          "id": "c",
+          "text": "skomplikowany"
+        },
+        {
+          "id": "d",
+          "text": "plecak"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„complicated” (przymiotnik, poziom B1) oznacza po polsku „skomplikowany”."
+    },
+    {
+      "id": "b1-przymiotniki-01-068",
+      "question": "concerned",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaniepokojony"
+        },
+        {
+          "id": "b",
+          "text": "pękać, rozwalać się, rozwalać"
+        },
+        {
+          "id": "c",
+          "text": "puszkowany, konserwowy"
+        },
+        {
+          "id": "d",
+          "text": "powtórnie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„concerned” (przymiotnik, poziom B1) oznacza po polsku „zaniepokojony”."
+    },
+    {
+      "id": "b1-przymiotniki-01-069",
+      "question": "confusing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stanowiący wyzwanie"
+        },
+        {
+          "id": "b",
+          "text": "kolisty, okrągły"
+        },
+        {
+          "id": "c",
+          "text": "mylący"
+        },
+        {
+          "id": "d",
+          "text": "aleja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„confusing” (przymiotnik, poziom B1) oznacza po polsku „mylący”."
+    },
+    {
+      "id": "b1-przymiotniki-01-070",
+      "question": "conscious",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przytomny"
+        },
+        {
+          "id": "b",
+          "text": "wpadać"
+        },
+        {
+          "id": "c",
+          "text": "dławić się, dławić, dusić się, dusić"
+        },
+        {
+          "id": "d",
+          "text": "rezerwować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„conscious” (przymiotnik, poziom B1) oznacza po polsku „przytomny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-071",
+      "question": "conservative",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konserwatywny"
+        },
+        {
+          "id": "b",
+          "text": "brzeg, wybrzeże"
+        },
+        {
+          "id": "c",
+          "text": "strzała, strzałka"
+        },
+        {
+          "id": "d",
+          "text": "wiercić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„conservative” (przymiotnik, poziom B1) oznacza po polsku „konserwatywny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-072",
+      "question": "considerable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znaczny"
+        },
+        {
+          "id": "b",
+          "text": "rzadko"
+        },
+        {
+          "id": "c",
+          "text": "piastować, żywić"
+        },
+        {
+          "id": "d",
+          "text": "komplikować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„considerable” (przymiotnik, poziom B1) oznacza po polsku „znaczny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-073",
+      "question": "continual",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wice-"
+        },
+        {
+          "id": "b",
+          "text": "nieustanny"
+        },
+        {
+          "id": "c",
+          "text": "wojsko, armia"
+        },
+        {
+          "id": "d",
+          "text": "stanowiący wyzwanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„continual” (przymiotnik, poziom B1) oznacza po polsku „nieustanny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-074",
+      "question": "continuous",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przybycie, przyjazd"
+        },
+        {
+          "id": "b",
+          "text": "arytmetyka"
+        },
+        {
+          "id": "c",
+          "text": "krążyć, okrążać"
+        },
+        {
+          "id": "d",
+          "text": "nieustanny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„continuous” (przymiotnik, poziom B1) oznacza po polsku „nieustanny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-075",
+      "question": "contrary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strzała, strzałka"
+        },
+        {
+          "id": "b",
+          "text": "rywalizujący, współzawodniczący"
+        },
+        {
+          "id": "c",
+          "text": "przechwalać się"
+        },
+        {
+          "id": "d",
+          "text": "odmienny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„contrary” (przymiotnik, poziom B1) oznacza po polsku „odmienny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-076",
+      "question": "controversial",
+      "answers": [
+        {
+          "id": "a",
+          "text": "palić"
+        },
+        {
+          "id": "b",
+          "text": "centralny"
+        },
+        {
+          "id": "c",
+          "text": "skomplikowany"
+        },
+        {
+          "id": "d",
+          "text": "kontrowersyjny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„controversial” (przymiotnik, poziom B1) oznacza po polsku „kontrowersyjny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-077",
+      "question": "damp",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wilgotny"
+        },
+        {
+          "id": "b",
+          "text": "przytwierdzać, przymocowywać"
+        },
+        {
+          "id": "c",
+          "text": "składać się"
+        },
+        {
+          "id": "d",
+          "text": "bagaż"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„damp” (przymiotnik, poziom B1) oznacza po polsku „wilgotny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-078",
+      "question": "deadly",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miejsce przy łóżku, przy łóżku"
+        },
+        {
+          "id": "b",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "c",
+          "text": "bóbr"
+        },
+        {
+          "id": "d",
+          "text": "śmiertelny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„deadly” (przymiotnik, poziom B1) oznacza po polsku „śmiertelny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-079",
+      "question": "deaf",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nuda"
+        },
+        {
+          "id": "b",
+          "text": "wystawiać"
+        },
+        {
+          "id": "c",
+          "text": "kopać, wygrzebywać"
+        },
+        {
+          "id": "d",
+          "text": "głuchy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„deaf” (przymiotnik, poziom B1) oznacza po polsku „głuchy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-080",
+      "question": "definite",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niszczycielski"
+        },
+        {
+          "id": "b",
+          "text": "określony, sprecyzowany"
+        },
+        {
+          "id": "c",
+          "text": "bezcłowy"
+        },
+        {
+          "id": "d",
+          "text": "definiować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„definite” (przymiotnik, poziom B1) oznacza po polsku „określony, sprecyzowany”."
+    },
+    {
+      "id": "b1-przymiotniki-01-081",
+      "question": "delicate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "delikatny"
+        },
+        {
+          "id": "b",
+          "text": "pozbawiać"
+        },
+        {
+          "id": "c",
+          "text": "obrzydliwy"
+        },
+        {
+          "id": "d",
+          "text": "broda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„delicate” (przymiotnik, poziom B1) oznacza po polsku „delikatny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-082",
+      "question": "delightful",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "b",
+          "text": "bransoletka"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "d",
+          "text": "zachwycający, rozkoszny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„delightful” (przymiotnik, poziom B1) oznacza po polsku „zachwycający, rozkoszny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-083",
+      "question": "democratic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "delikatny"
+        },
+        {
+          "id": "b",
+          "text": "demokratyczny"
+        },
+        {
+          "id": "c",
+          "text": "broda"
+        },
+        {
+          "id": "d",
+          "text": "miejsce przy łóżku, przy łóżku"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„democratic” (przymiotnik, poziom B1) oznacza po polsku „demokratyczny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-084",
+      "question": "dependent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektroniczny"
+        },
+        {
+          "id": "b",
+          "text": "przyczyniać się"
+        },
+        {
+          "id": "c",
+          "text": "zależny"
+        },
+        {
+          "id": "d",
+          "text": "elektryczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dependent” (przymiotnik, poziom B1) oznacza po polsku „zależny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-085",
+      "question": "depressed",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przygnębiony"
+        },
+        {
+          "id": "b",
+          "text": "dramatyczny"
+        },
+        {
+          "id": "c",
+          "text": "wiara, przekonanie"
+        },
+        {
+          "id": "d",
+          "text": "(also bothers) kłopoty, problem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„depressed” (przymiotnik, poziom B1) oznacza po polsku „przygnębiony”."
+    },
+    {
+      "id": "b1-przymiotniki-01-086",
+      "question": "desperate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwierzę"
+        },
+        {
+          "id": "b",
+          "text": "poświęcać się, poświęcać"
+        },
+        {
+          "id": "c",
+          "text": "bransoletka"
+        },
+        {
+          "id": "d",
+          "text": "doprowadzony do ostateczności"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„desperate” (przymiotnik, poziom B1) oznacza po polsku „doprowadzony do ostateczności”."
+    },
+    {
+      "id": "b1-przymiotniki-01-087",
+      "question": "destructive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niszczycielski"
+        },
+        {
+          "id": "b",
+          "text": "usuwać, wymazywać"
+        },
+        {
+          "id": "c",
+          "text": "(form) wymierzać"
+        },
+        {
+          "id": "d",
+          "text": "wschodni"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„destructive” (przymiotnik, poziom B1) oznacza po polsku „niszczycielski”."
+    },
+    {
+      "id": "b1-przymiotniki-01-088",
+      "question": "digital",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostarczać"
+        },
+        {
+          "id": "b",
+          "text": "granica, pogranicze"
+        },
+        {
+          "id": "c",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "d",
+          "text": "przekonywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„digital” (przymiotnik, poziom B1) oznacza po polsku „cyfrowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-089",
+      "question": "diligent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "efektywny"
+        },
+        {
+          "id": "b",
+          "text": "pracowity, staranny"
+        },
+        {
+          "id": "c",
+          "text": "przyczyniać się"
+        },
+        {
+          "id": "d",
+          "text": "boks"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„diligent” (przymiotnik, poziom B1) oznacza po polsku „pracowity, staranny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-090",
+      "question": "disabled",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwierzę"
+        },
+        {
+          "id": "b",
+          "text": "kaleki, ułomny"
+        },
+        {
+          "id": "c",
+          "text": "kształcić"
+        },
+        {
+          "id": "d",
+          "text": "przekazywać, komunikować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„disabled” (przymiotnik, poziom B1) oznacza po polsku „kaleki, ułomny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-091",
+      "question": "disastrous",
+      "answers": [
+        {
+          "id": "a",
+          "text": "katastrofalny"
+        },
+        {
+          "id": "b",
+          "text": "poświęcać się, poświęcać"
+        },
+        {
+          "id": "c",
+          "text": "opóźniać, zwlekać"
+        },
+        {
+          "id": "d",
+          "text": "ekonomiczny, gospodarczy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disastrous” (przymiotnik, poziom B1) oznacza po polsku „katastrofalny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-092",
+      "question": "disgusting",
+      "answers": [
+        {
+          "id": "a",
+          "text": "demokratyczny"
+        },
+        {
+          "id": "b",
+          "text": "biografia"
+        },
+        {
+          "id": "c",
+          "text": "obrzydliwy"
+        },
+        {
+          "id": "d",
+          "text": "okaleczać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disgusting” (przymiotnik, poziom B1) oznacza po polsku „obrzydliwy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-093",
+      "question": "distant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brokuły"
+        },
+        {
+          "id": "b",
+          "text": "odległy"
+        },
+        {
+          "id": "c",
+          "text": "pijany"
+        },
+        {
+          "id": "d",
+          "text": "kaleki, ułomny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distant” (przymiotnik, poziom B1) oznacza po polsku „odległy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-094",
+      "question": "diverse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odmienny, różnoraki"
+        },
+        {
+          "id": "b",
+          "text": "biografia"
+        },
+        {
+          "id": "c",
+          "text": "dewastować"
+        },
+        {
+          "id": "d",
+          "text": "obrzydliwy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„diverse” (przymiotnik, poziom B1) oznacza po polsku „odmienny, różnoraki”."
+    },
+    {
+      "id": "b1-przymiotniki-01-095",
+      "question": "divine",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boski"
+        },
+        {
+          "id": "b",
+          "text": "dostarczać"
+        },
+        {
+          "id": "c",
+          "text": "odjeżdżać"
+        },
+        {
+          "id": "d",
+          "text": "zachwycający, rozkoszny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„divine” (przymiotnik, poziom B1) oznacza po polsku „boski”."
+    },
+    {
+      "id": "b1-przymiotniki-01-096",
+      "question": "downstairs",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spokojny, łagodny"
+        },
+        {
+          "id": "b",
+          "text": "obrzydliwy"
+        },
+        {
+          "id": "c",
+          "text": "przełom"
+        },
+        {
+          "id": "d",
+          "text": "parterowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„downstairs” (przymiotnik, poziom B1) oznacza po polsku „parterowy”."
+    },
+    {
+      "id": "b1-przymiotniki-01-097",
+      "question": "downward",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przełom"
+        },
+        {
+          "id": "b",
+          "text": "pracowity, staranny"
+        },
+        {
+          "id": "c",
+          "text": "w dół, na dół"
+        },
+        {
+          "id": "d",
+          "text": "mosiądz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„downward” (przymiotnik, poziom B1) oznacza po polsku „w dół, na dół”."
+    },
+    {
+      "id": "b1-przymiotniki-01-098",
+      "question": "dramatic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chętny"
+        },
+        {
+          "id": "b",
+          "text": "dramatyczny"
+        },
+        {
+          "id": "c",
+          "text": "bomba, pocisk"
+        },
+        {
+          "id": "d",
+          "text": "niszczycielski"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dramatic” (przymiotnik, poziom B1) oznacza po polsku „dramatyczny”."
+    },
+    {
+      "id": "b1-przymiotniki-01-099",
+      "question": "drunk",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "b",
+          "text": "pijany"
+        },
+        {
+          "id": "c",
+          "text": "(also bothers) kłopoty, problem"
+        },
+        {
+          "id": "d",
+          "text": "wykazywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„drunk” (przymiotnik, poziom B1) oznacza po polsku „pijany”."
+    },
+    {
+      "id": "b1-przymiotniki-01-100",
+      "question": "dull",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miejsce przy łóżku, przy łóżku"
+        },
+        {
+          "id": "b",
+          "text": "podstawa"
+        },
+        {
+          "id": "c",
+          "text": "zawierać"
+        },
+        {
+          "id": "d",
+          "text": "nudny, mdły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dull” (przymiotnik, poziom B1) oznacza po polsku „nudny, mdły”."
+    }
+  ]
+}

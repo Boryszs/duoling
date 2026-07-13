@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-rzeczowniki-02",
+    "name": "B1 — Rzeczowniki 2/9 (B–C)"
+  },
+  "questions": [
+    {
+      "id": "b1-rzeczowniki-02-001",
+      "question": "bother",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykazywać"
+        },
+        {
+          "id": "b",
+          "text": "wiadro na śmieci, wiadro"
+        },
+        {
+          "id": "c",
+          "text": "miejsce przy łóżku, przy łóżku"
+        },
+        {
+          "id": "d",
+          "text": "(also bothers) kłopoty, problem"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bother” (rzeczownik, poziom B1) oznacza po polsku „(also bothers) kłopoty, problem”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-002",
+      "question": "boxing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "b",
+          "text": "chętny"
+        },
+        {
+          "id": "c",
+          "text": "boks"
+        },
+        {
+          "id": "d",
+          "text": "usuwać, wymazywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„boxing” (rzeczownik, poziom B1) oznacza po polsku „boks”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-003",
+      "question": "bracelet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarzut, potępienie"
+        },
+        {
+          "id": "b",
+          "text": "efektywny"
+        },
+        {
+          "id": "c",
+          "text": "przekonywać"
+        },
+        {
+          "id": "d",
+          "text": "bransoletka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bracelet” (rzeczownik, poziom B1) oznacza po polsku „bransoletka”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-004",
+      "question": "brass",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mosiądz"
+        },
+        {
+          "id": "b",
+          "text": "wystawiać"
+        },
+        {
+          "id": "c",
+          "text": "odmienny, różnoraki"
+        },
+        {
+          "id": "d",
+          "text": "(wydarzenie) datować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„brass” (rzeczownik, poziom B1) oznacza po polsku „mosiądz”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-005",
+      "question": "breakthrough",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nuda"
+        },
+        {
+          "id": "b",
+          "text": "chętny"
+        },
+        {
+          "id": "c",
+          "text": "przełom"
+        },
+        {
+          "id": "d",
+          "text": "biologia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„breakthrough” (rzeczownik, poziom B1) oznacza po polsku „przełom”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-006",
+      "question": "breast",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oddech"
+        },
+        {
+          "id": "b",
+          "text": "zniechęcać"
+        },
+        {
+          "id": "c",
+          "text": "przygnębiony"
+        },
+        {
+          "id": "d",
+          "text": "pierś"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„breast” (rzeczownik, poziom B1) oznacza po polsku „pierś”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-007",
+      "question": "breath",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oddech"
+        },
+        {
+          "id": "b",
+          "text": "okaleczać"
+        },
+        {
+          "id": "c",
+          "text": "przekazywać, komunikować"
+        },
+        {
+          "id": "d",
+          "text": "zachwycający, rozkoszny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„breath” (rzeczownik, poziom B1) oznacza po polsku „oddech”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-008",
+      "question": "breeding",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odległy"
+        },
+        {
+          "id": "b",
+          "text": "granica, pogranicze"
+        },
+        {
+          "id": "c",
+          "text": "dramatyczny"
+        },
+        {
+          "id": "d",
+          "text": "wychowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„breeding” (rzeczownik, poziom B1) oznacza po polsku „wychowanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-009",
+      "question": "brick",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "b",
+          "text": "cegła"
+        },
+        {
+          "id": "c",
+          "text": "rumieniec"
+        },
+        {
+          "id": "d",
+          "text": "elektryczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„brick” (rzeczownik, poziom B1) oznacza po polsku „cegła”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-010",
+      "question": "broadcast",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "b",
+          "text": "zwierzę"
+        },
+        {
+          "id": "c",
+          "text": "audycja"
+        },
+        {
+          "id": "d",
+          "text": "demokratyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„broadcast” (rzeczownik, poziom B1) oznacza po polsku „audycja”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-011",
+      "question": "broccoli",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wystawiać"
+        },
+        {
+          "id": "b",
+          "text": "(also bothers) kłopoty, problem"
+        },
+        {
+          "id": "c",
+          "text": "rumieniec"
+        },
+        {
+          "id": "d",
+          "text": "brokuły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„broccoli” (rzeczownik, poziom B1) oznacza po polsku „brokuły”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-012",
+      "question": "bronze",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brąz"
+        },
+        {
+          "id": "b",
+          "text": "ciężar"
+        },
+        {
+          "id": "c",
+          "text": "unosić się"
+        },
+        {
+          "id": "d",
+          "text": "usprawiedliwiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bronze” (rzeczownik, poziom B1) oznacza po polsku „brąz”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-013",
+      "question": "brotherhood",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wytrzymywać"
+        },
+        {
+          "id": "b",
+          "text": "wymarły"
+        },
+        {
+          "id": "c",
+          "text": "braterstwo"
+        },
+        {
+          "id": "d",
+          "text": "podkreślać, kłaść nacisk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„brotherhood” (rzeczownik, poziom B1) oznacza po polsku „braterstwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-014",
+      "question": "bubble",
+      "answers": [
+        {
+          "id": "a",
+          "text": "unikać"
+        },
+        {
+          "id": "b",
+          "text": "wytwarzać, generować"
+        },
+        {
+          "id": "c",
+          "text": "bańka, bąbel"
+        },
+        {
+          "id": "d",
+          "text": "oczywisty, widoczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bubble” (rzeczownik, poziom B1) oznacza po polsku „bańka, bąbel”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-015",
+      "question": "buddy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zakazany"
+        },
+        {
+          "id": "b",
+          "text": "braterstwo"
+        },
+        {
+          "id": "c",
+          "text": "kumpel"
+        },
+        {
+          "id": "d",
+          "text": "wyrażać się, wyrażać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„buddy” (rzeczownik, poziom B1) oznacza po polsku „kumpel”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-016",
+      "question": "builder",
+      "answers": [
+        {
+          "id": "a",
+          "text": "walczyć"
+        },
+        {
+          "id": "b",
+          "text": "kalkulator"
+        },
+        {
+          "id": "c",
+          "text": "budowlaniec, budowniczy"
+        },
+        {
+          "id": "d",
+          "text": "unikać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„builder” (rzeczownik, poziom B1) oznacza po polsku „budowlaniec, budowniczy”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-017",
+      "question": "bull",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bańka, bąbel"
+        },
+        {
+          "id": "b",
+          "text": "fałszowany"
+        },
+        {
+          "id": "c",
+          "text": "byk"
+        },
+        {
+          "id": "d",
+          "text": "wagon"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bull” (rzeczownik, poziom B1) oznacza po polsku „byk”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-018",
+      "question": "bullet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "finansowy"
+        },
+        {
+          "id": "b",
+          "text": "kochający, czuły"
+        },
+        {
+          "id": "c",
+          "text": "pocisk, nabój"
+        },
+        {
+          "id": "d",
+          "text": "głupi, niemądry"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bullet” (rzeczownik, poziom B1) oznacza po polsku „pocisk, nabój”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-019",
+      "question": "bulletin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "równy"
+        },
+        {
+          "id": "b",
+          "text": "dywan, wykładzina"
+        },
+        {
+          "id": "c",
+          "text": "wymarły"
+        },
+        {
+          "id": "d",
+          "text": "wiadomości"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bulletin” (rzeczownik, poziom B1) oznacza po polsku „wiadomości”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-020",
+      "question": "burden",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płaski"
+        },
+        {
+          "id": "b",
+          "text": "obliczenie, rachunek"
+        },
+        {
+          "id": "c",
+          "text": "ciężar"
+        },
+        {
+          "id": "d",
+          "text": "cielę, młode"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„burden” (rzeczownik, poziom B1) oznacza po polsku „ciężar”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-021",
+      "question": "bureau",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obozowisko, kemping"
+        },
+        {
+          "id": "b",
+          "text": "emocjonalny, uczuciowy"
+        },
+        {
+          "id": "c",
+          "text": "sekretarzyk"
+        },
+        {
+          "id": "d",
+          "text": "ciężar"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bureau” (rzeczownik, poziom B1) oznacza po polsku „sekretarzyk”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-022",
+      "question": "burglar",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyposażać, meblować"
+        },
+        {
+          "id": "b",
+          "text": "zakłopotany"
+        },
+        {
+          "id": "c",
+          "text": "włamywacz"
+        },
+        {
+          "id": "d",
+          "text": "zagrażać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„burglar” (rzeczownik, poziom B1) oznacza po polsku „włamywacz”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-023",
+      "question": "butcher",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(koło, góry) formować się, formować"
+        },
+        {
+          "id": "b",
+          "text": "wybaczać"
+        },
+        {
+          "id": "c",
+          "text": "ośmielający, zachęcający"
+        },
+        {
+          "id": "d",
+          "text": "rzeźnik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„butcher” (rzeczownik, poziom B1) oznacza po polsku „rzeźnik”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-024",
+      "question": "buyer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nabywca, kupujący"
+        },
+        {
+          "id": "b",
+          "text": "zabawiać"
+        },
+        {
+          "id": "c",
+          "text": "byk"
+        },
+        {
+          "id": "d",
+          "text": "przyrodniczy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„buyer” (rzeczownik, poziom B1) oznacza po polsku „nabywca, kupujący”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-025",
+      "question": "cabbage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciężar"
+        },
+        {
+          "id": "b",
+          "text": "świeca"
+        },
+        {
+          "id": "c",
+          "text": "ośmielający, zachęcający"
+        },
+        {
+          "id": "d",
+          "text": "kapusta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cabbage” (rzeczownik, poziom B1) oznacza po polsku „kapusta”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-026",
+      "question": "cabin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "modny"
+        },
+        {
+          "id": "b",
+          "text": "kabina"
+        },
+        {
+          "id": "c",
+          "text": "wyposażać, meblować"
+        },
+        {
+          "id": "d",
+          "text": "aprobujący"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cabin” (rzeczownik, poziom B1) oznacza po polsku „kabina”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-027",
+      "question": "cage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(koło, góry) formować się, formować"
+        },
+        {
+          "id": "b",
+          "text": "zabawiać"
+        },
+        {
+          "id": "c",
+          "text": "klatka"
+        },
+        {
+          "id": "d",
+          "text": "wyłaniać się, wychodzić"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cage” (rzeczownik, poziom B1) oznacza po polsku „klatka”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-028",
+      "question": "calculation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oglądać"
+        },
+        {
+          "id": "b",
+          "text": "obliczenie, rachunek"
+        },
+        {
+          "id": "c",
+          "text": "wyrażać się, wyrażać"
+        },
+        {
+          "id": "d",
+          "text": "zapewniać, gwarantować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„calculation” (rzeczownik, poziom B1) oznacza po polsku „obliczenie, rachunek”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-029",
+      "question": "calculator",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kłopotać, zawstydzać"
+        },
+        {
+          "id": "b",
+          "text": "kabina"
+        },
+        {
+          "id": "c",
+          "text": "wierny"
+        },
+        {
+          "id": "d",
+          "text": "kalkulator"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„calculator” (rzeczownik, poziom B1) oznacza po polsku „kalkulator”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-030",
+      "question": "calf",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pozwalać, umożliwiać"
+        },
+        {
+          "id": "b",
+          "text": "karton"
+        },
+        {
+          "id": "c",
+          "text": "cielę, młode"
+        },
+        {
+          "id": "d",
+          "text": "eksluzywny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„calf” (rzeczownik, poziom B1) oznacza po polsku „cielę, młode”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-031",
+      "question": "caller",
+      "answers": [
+        {
+          "id": "a",
+          "text": "włamywacz"
+        },
+        {
+          "id": "b",
+          "text": "nadzwyczajny"
+        },
+        {
+          "id": "c",
+          "text": "stołówka, kantyna"
+        },
+        {
+          "id": "d",
+          "text": "gość, odwiedzający"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„caller” (rzeczownik, poziom B1) oznacza po polsku „gość, odwiedzający”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-032",
+      "question": "camel",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aprobujący"
+        },
+        {
+          "id": "b",
+          "text": "zakazany"
+        },
+        {
+          "id": "c",
+          "text": "wielbłąd"
+        },
+        {
+          "id": "d",
+          "text": "wagon"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„camel” (rzeczownik, poziom B1) oznacza po polsku „wielbłąd”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-033",
+      "question": "campsite",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pocisk, nabój"
+        },
+        {
+          "id": "b",
+          "text": "obozowisko, kemping"
+        },
+        {
+          "id": "c",
+          "text": "kapsułka"
+        },
+        {
+          "id": "d",
+          "text": "nikły, wątły"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„campsite” (rzeczownik, poziom B1) oznacza po polsku „obozowisko, kemping”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-034",
+      "question": "canal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fascynować"
+        },
+        {
+          "id": "b",
+          "text": "ciężar"
+        },
+        {
+          "id": "c",
+          "text": "obozowisko, kemping"
+        },
+        {
+          "id": "d",
+          "text": "kanał sztuczny, kanał"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„canal” (rzeczownik, poziom B1) oznacza po polsku „kanał sztuczny, kanał”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-035",
+      "question": "cancer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kumpel"
+        },
+        {
+          "id": "b",
+          "text": "rak"
+        },
+        {
+          "id": "c",
+          "text": "formalny"
+        },
+        {
+          "id": "d",
+          "text": "wielbłąd"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cancer” (rzeczownik, poziom B1) oznacza po polsku „rak”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-036",
+      "question": "candle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "świeca"
+        },
+        {
+          "id": "b",
+          "text": "unikać"
+        },
+        {
+          "id": "c",
+          "text": "emocjonalny, uczuciowy"
+        },
+        {
+          "id": "d",
+          "text": "kumpel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„candle” (rzeczownik, poziom B1) oznacza po polsku „świeca”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-037",
+      "question": "canteen",
+      "answers": [
+        {
+          "id": "a",
+          "text": "byk"
+        },
+        {
+          "id": "b",
+          "text": "łowić ryby, łowić, wędkować"
+        },
+        {
+          "id": "c",
+          "text": "wierny"
+        },
+        {
+          "id": "d",
+          "text": "stołówka, kantyna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„canteen” (rzeczownik, poziom B1) oznacza po polsku „stołówka, kantyna”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-038",
+      "question": "capacity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cielę, młode"
+        },
+        {
+          "id": "b",
+          "text": "unosić się"
+        },
+        {
+          "id": "c",
+          "text": "zagrażać"
+        },
+        {
+          "id": "d",
+          "text": "pojemność"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„capacity” (rzeczownik, poziom B1) oznacza po polsku „pojemność”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-039",
+      "question": "capsule",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kapsułka"
+        },
+        {
+          "id": "b",
+          "text": "rozpościerać się, rozpościerać"
+        },
+        {
+          "id": "c",
+          "text": "kłopotać, zawstydzać"
+        },
+        {
+          "id": "d",
+          "text": "podkreślać, kłaść nacisk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„capsule” (rzeczownik, poziom B1) oznacza po polsku „kapsułka”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-040",
+      "question": "capture",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyposażać, meblować"
+        },
+        {
+          "id": "b",
+          "text": "aprobujący"
+        },
+        {
+          "id": "c",
+          "text": "pojmanie"
+        },
+        {
+          "id": "d",
+          "text": "kapsułka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„capture” (rzeczownik, poziom B1) oznacza po polsku „pojmanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-041",
+      "question": "career",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pocisk, nabój"
+        },
+        {
+          "id": "b",
+          "text": "zagrażać"
+        },
+        {
+          "id": "c",
+          "text": "unikać"
+        },
+        {
+          "id": "d",
+          "text": "zawód, zajęcie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„career” (rzeczownik, poziom B1) oznacza po polsku „zawód, zajęcie”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-042",
+      "question": "carpet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dywan, wykładzina"
+        },
+        {
+          "id": "b",
+          "text": "płaski"
+        },
+        {
+          "id": "c",
+          "text": "bezustanny"
+        },
+        {
+          "id": "d",
+          "text": "obozowisko, kemping"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„carpet” (rzeczownik, poziom B1) oznacza po polsku „dywan, wykładzina”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-043",
+      "question": "carriage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cały, całkowity"
+        },
+        {
+          "id": "b",
+          "text": "wagon"
+        },
+        {
+          "id": "c",
+          "text": "walczyć"
+        },
+        {
+          "id": "d",
+          "text": "wzbogacać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„carriage” (rzeczownik, poziom B1) oznacza po polsku „wagon”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-044",
+      "question": "carton",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obozowisko, kemping"
+        },
+        {
+          "id": "b",
+          "text": "karton"
+        },
+        {
+          "id": "c",
+          "text": "kapsułka"
+        },
+        {
+          "id": "d",
+          "text": "(tempo, temperatura) stały"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„carton” (rzeczownik, poziom B1) oznacza po polsku „karton”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-045",
+      "question": "category",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kochający, czuły"
+        },
+        {
+          "id": "b",
+          "text": "kategoria"
+        },
+        {
+          "id": "c",
+          "text": "zagrażać"
+        },
+        {
+          "id": "d",
+          "text": "płynny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„category” (rzeczownik, poziom B1) oznacza po polsku „kategoria”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-046",
+      "question": "cattle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "substancja chemiczna"
+        },
+        {
+          "id": "b",
+          "text": "dobroczynność, instytucja charytatywna"
+        },
+        {
+          "id": "c",
+          "text": "(paczki) przenosić, przemieszczać"
+        },
+        {
+          "id": "d",
+          "text": "bydło"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cattle” (rzeczownik, poziom B1) oznacza po polsku „bydło”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-047",
+      "question": "caution",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cudowny, wspaniały"
+        },
+        {
+          "id": "b",
+          "text": "ostrożność"
+        },
+        {
+          "id": "c",
+          "text": "pobudzać, skłaniać"
+        },
+        {
+          "id": "d",
+          "text": "znakomitość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„caution” (rzeczownik, poziom B1) oznacza po polsku „ostrożność”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-048",
+      "question": "cave",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciepło, ciepłota"
+        },
+        {
+          "id": "b",
+          "text": "niebiański"
+        },
+        {
+          "id": "c",
+          "text": "jaskinia"
+        },
+        {
+          "id": "d",
+          "text": "mający szczęście"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cave” (rzeczownik, poziom B1) oznacza po polsku „jaskinia”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-049",
+      "question": "celebrity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znakomitość"
+        },
+        {
+          "id": "b",
+          "text": "bezradny"
+        },
+        {
+          "id": "c",
+          "text": "graficzny"
+        },
+        {
+          "id": "d",
+          "text": "przeprowadzać wywiad"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„celebrity” (rzeczownik, poziom B1) oznacza po polsku „znakomitość”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-050",
+      "question": "cell",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komórka"
+        },
+        {
+          "id": "b",
+          "text": "oddziaływać"
+        },
+        {
+          "id": "c",
+          "text": "pewność"
+        },
+        {
+          "id": "d",
+          "text": "wdzięczny, pełen wdzięku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cell” (rzeczownik, poziom B1) oznacza po polsku „komórka”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-051",
+      "question": "ceremony",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pstryknięcie, pstryk"
+        },
+        {
+          "id": "b",
+          "text": "wdychać"
+        },
+        {
+          "id": "c",
+          "text": "pobudzać, skłaniać"
+        },
+        {
+          "id": "d",
+          "text": "ceremonia, ceremoniał"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ceremony” (rzeczownik, poziom B1) oznacza po polsku „ceremonia, ceremoniał”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-052",
+      "question": "certainty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pewność"
+        },
+        {
+          "id": "b",
+          "text": "ciepło, ciepłota"
+        },
+        {
+          "id": "c",
+          "text": "dobroczynność, instytucja charytatywna"
+        },
+        {
+          "id": "d",
+          "text": "wstrzykiwać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„certainty” (rzeczownik, poziom B1) oznacza po polsku „pewność”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-053",
+      "question": "champion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obywatelstwo"
+        },
+        {
+          "id": "b",
+          "text": "podśmiewać się, chichotać"
+        },
+        {
+          "id": "c",
+          "text": "pewność"
+        },
+        {
+          "id": "d",
+          "text": "zwycięzca, mistrz"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„champion” (rzeczownik, poziom B1) oznacza po polsku „zwycięzca, mistrz”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-054",
+      "question": "channel",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanał"
+        },
+        {
+          "id": "b",
+          "text": "wdzięk, urok, czar"
+        },
+        {
+          "id": "c",
+          "text": "ostrożność"
+        },
+        {
+          "id": "d",
+          "text": "informować, zawiadamiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„channel” (rzeczownik, poziom B1) oznacza po polsku „kanał”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-055",
+      "question": "chaos",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hojny, szczodry"
+        },
+        {
+          "id": "b",
+          "text": "wodować"
+        },
+        {
+          "id": "c",
+          "text": "ceremonia, ceremoniał"
+        },
+        {
+          "id": "d",
+          "text": "chaos"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„chaos” (rzeczownik, poziom B1) oznacza po polsku „chaos”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-056",
+      "question": "charge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(za usługi) opłata, należność"
+        },
+        {
+          "id": "b",
+          "text": "obejmować, wciągać, dotyczyć"
+        },
+        {
+          "id": "c",
+          "text": "jaskinia"
+        },
+        {
+          "id": "d",
+          "text": "chemia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„charge” (rzeczownik, poziom B1) oznacza po polsku „(za usługi) opłata, należność”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-057",
+      "question": "chariot",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rydwan"
+        },
+        {
+          "id": "b",
+          "text": "jaskinia"
+        },
+        {
+          "id": "c",
+          "text": "irytować"
+        },
+        {
+          "id": "d",
+          "text": "chaos"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„chariot” (rzeczownik, poziom B1) oznacza po polsku „rydwan”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-058",
+      "question": "charity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "goić się, goić"
+        },
+        {
+          "id": "b",
+          "text": "imitować, naśladować"
+        },
+        {
+          "id": "c",
+          "text": "dobroczynność, instytucja charytatywna"
+        },
+        {
+          "id": "d",
+          "text": "graficzny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„charity” (rzeczownik, poziom B1) oznacza po polsku „dobroczynność, instytucja charytatywna”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-059",
+      "question": "charm",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wdzięk, urok, czar"
+        },
+        {
+          "id": "b",
+          "text": "całować"
+        },
+        {
+          "id": "c",
+          "text": "spinacz, zapięcie"
+        },
+        {
+          "id": "d",
+          "text": "winny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„charm” (rzeczownik, poziom B1) oznacza po polsku „wdzięk, urok, czar”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-060",
+      "question": "chase",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pobudzać, skłaniać"
+        },
+        {
+          "id": "b",
+          "text": "pościg"
+        },
+        {
+          "id": "c",
+          "text": "lodowaty"
+        },
+        {
+          "id": "d",
+          "text": "(za usługi) opłata, należność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„chase” (rzeczownik, poziom B1) oznacza po polsku „pościg”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-061",
+      "question": "chat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obywatelstwo"
+        },
+        {
+          "id": "b",
+          "text": "(ciekawić) interesować"
+        },
+        {
+          "id": "c",
+          "text": "pogawędka"
+        },
+        {
+          "id": "d",
+          "text": "grupować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„chat” (rzeczownik, poziom B1) oznacza po polsku „pogawędka”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-062",
+      "question": "checkout",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwycięzca, mistrz"
+        },
+        {
+          "id": "b",
+          "text": "substancja chemiczna"
+        },
+        {
+          "id": "c",
+          "text": "były"
+        },
+        {
+          "id": "d",
+          "text": "kasa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„checkout” (rzeczownik, poziom B1) oznacza po polsku „kasa”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-063",
+      "question": "chemical",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanał"
+        },
+        {
+          "id": "b",
+          "text": "substancja chemiczna"
+        },
+        {
+          "id": "c",
+          "text": "goić się, goić"
+        },
+        {
+          "id": "d",
+          "text": "rządzić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„chemical” (rzeczownik, poziom B1) oznacza po polsku „substancja chemiczna”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-064",
+      "question": "chemist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chemia"
+        },
+        {
+          "id": "b",
+          "text": "zwycięzca, mistrz"
+        },
+        {
+          "id": "c",
+          "text": "chemik"
+        },
+        {
+          "id": "d",
+          "text": "częsty"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„chemist” (rzeczownik, poziom B1) oznacza po polsku „chemik”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-065",
+      "question": "chemistry",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chemia"
+        },
+        {
+          "id": "b",
+          "text": "hojny, szczodry"
+        },
+        {
+          "id": "c",
+          "text": "dobroczynność, instytucja charytatywna"
+        },
+        {
+          "id": "d",
+          "text": "ogromny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„chemistry” (rzeczownik, poziom B1) oznacza po polsku „chemia”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-066",
+      "question": "chewing gum",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upierać się"
+        },
+        {
+          "id": "b",
+          "text": "niebiański"
+        },
+        {
+          "id": "c",
+          "text": "guma do żucia"
+        },
+        {
+          "id": "d",
+          "text": "przeprowadzać wywiad"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„chewing gum” (rzeczownik, poziom B1) oznacza po polsku „guma do żucia”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-067",
+      "question": "choir",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obejmować, wciągać, dotyczyć"
+        },
+        {
+          "id": "b",
+          "text": "genetyczny"
+        },
+        {
+          "id": "c",
+          "text": "pośpieszny"
+        },
+        {
+          "id": "d",
+          "text": "chór"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„choir” (rzeczownik, poziom B1) oznacza po polsku „chór”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-068",
+      "question": "chuckle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(za usługi) opłata, należność"
+        },
+        {
+          "id": "b",
+          "text": "podśmiewać się, chichotać"
+        },
+        {
+          "id": "c",
+          "text": "guma do żucia"
+        },
+        {
+          "id": "d",
+          "text": "upierać się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„chuckle” (rzeczownik, poziom B1) oznacza po polsku „podśmiewać się, chichotać”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-069",
+      "question": "circus",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klinika"
+        },
+        {
+          "id": "b",
+          "text": "ogromny"
+        },
+        {
+          "id": "c",
+          "text": "cyrk"
+        },
+        {
+          "id": "d",
+          "text": "informować, zawiadamiać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„circus” (rzeczownik, poziom B1) oznacza po polsku „cyrk”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-070",
+      "question": "citizenship",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powieszenie"
+        },
+        {
+          "id": "b",
+          "text": "obywatelstwo"
+        },
+        {
+          "id": "c",
+          "text": "pobudzać, skłaniać"
+        },
+        {
+          "id": "d",
+          "text": "kasa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„citizenship” (rzeczownik, poziom B1) oznacza po polsku „obywatelstwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-071",
+      "question": "civilization",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezdomny"
+        },
+        {
+          "id": "b",
+          "text": "graficzny"
+        },
+        {
+          "id": "c",
+          "text": "cywilizacja"
+        },
+        {
+          "id": "d",
+          "text": "pewność"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„civilization” (rzeczownik, poziom B1) oznacza po polsku „cywilizacja”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-072",
+      "question": "claim",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(stwierdzenie) twierdzenie, sąd, deklaracja"
+        },
+        {
+          "id": "b",
+          "text": "ignorować"
+        },
+        {
+          "id": "c",
+          "text": "(nieform, oszukiwać) nabierać"
+        },
+        {
+          "id": "d",
+          "text": "pogawędka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„claim” (rzeczownik, poziom B1) oznacza po polsku „(stwierdzenie) twierdzenie, sąd, deklaracja”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-073",
+      "question": "click",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(nieform, oszukiwać) nabierać"
+        },
+        {
+          "id": "b",
+          "text": "pstryknięcie, pstryk"
+        },
+        {
+          "id": "c",
+          "text": "klinika"
+        },
+        {
+          "id": "d",
+          "text": "imitować, naśladować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„click” (rzeczownik, poziom B1) oznacza po polsku „pstryknięcie, pstryk”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-074",
+      "question": "cliff",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeprowadzać wywiad"
+        },
+        {
+          "id": "b",
+          "text": "chaos"
+        },
+        {
+          "id": "c",
+          "text": "pośpieszny"
+        },
+        {
+          "id": "d",
+          "text": "klif, stromy brzeg"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cliff” (rzeczownik, poziom B1) oznacza po polsku „klif, stromy brzeg”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-075",
+      "question": "climate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cyrk"
+        },
+        {
+          "id": "b",
+          "text": "klimat"
+        },
+        {
+          "id": "c",
+          "text": "chemia"
+        },
+        {
+          "id": "d",
+          "text": "poręczny, przydatny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„climate” (rzeczownik, poziom B1) oznacza po polsku „klimat”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-076",
+      "question": "climber",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chemik"
+        },
+        {
+          "id": "b",
+          "text": "wspinacz, alpinista"
+        },
+        {
+          "id": "c",
+          "text": "kanał"
+        },
+        {
+          "id": "d",
+          "text": "dziergać, robić na drutach"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„climber” (rzeczownik, poziom B1) oznacza po polsku „wspinacz, alpinista”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-077",
+      "question": "clinic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ostrożność"
+        },
+        {
+          "id": "b",
+          "text": "bydło"
+        },
+        {
+          "id": "c",
+          "text": "zamierzać"
+        },
+        {
+          "id": "d",
+          "text": "klinika"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„clinic” (rzeczownik, poziom B1) oznacza po polsku „klinika”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-078",
+      "question": "clip",
+      "answers": [
+        {
+          "id": "a",
+          "text": "guma do żucia"
+        },
+        {
+          "id": "b",
+          "text": "wesoły, żywy"
+        },
+        {
+          "id": "c",
+          "text": "niebiański"
+        },
+        {
+          "id": "d",
+          "text": "spinacz, zapięcie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„clip” (rzeczownik, poziom B1) oznacza po polsku „spinacz, zapięcie”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-079",
+      "question": "coal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "węgiel"
+        },
+        {
+          "id": "b",
+          "text": "rozmyślać"
+        },
+        {
+          "id": "c",
+          "text": "wewnętrzny"
+        },
+        {
+          "id": "d",
+          "text": "wspólny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„coal” (rzeczownik, poziom B1) oznacza po polsku „węgiel”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-080",
+      "question": "cod",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niewinny"
+        },
+        {
+          "id": "b",
+          "text": "przemyślenie, rozważenie"
+        },
+        {
+          "id": "c",
+          "text": "dorsz"
+        },
+        {
+          "id": "d",
+          "text": "wysyłać pocztą, wysyłać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cod” (rzeczownik, poziom B1) oznacza po polsku „dorsz”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-081",
+      "question": "coffin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komik"
+        },
+        {
+          "id": "b",
+          "text": "trumna"
+        },
+        {
+          "id": "c",
+          "text": "towarzysz"
+        },
+        {
+          "id": "d",
+          "text": "negocjować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„coffin” (rzeczownik, poziom B1) oznacza po polsku „trumna”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-082",
+      "question": "collapse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(dywan, podstawy) kłaść, położyć"
+        },
+        {
+          "id": "b",
+          "text": "wniosek"
+        },
+        {
+          "id": "c",
+          "text": "pojęcie"
+        },
+        {
+          "id": "d",
+          "text": "(budynku) zawalenie się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„collapse” (rzeczownik, poziom B1) oznacza po polsku „(budynku) zawalenie się”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-083",
+      "question": "collar",
+      "answers": [
+        {
+          "id": "a",
+          "text": "soczysty"
+        },
+        {
+          "id": "b",
+          "text": "kołnierzyk"
+        },
+        {
+          "id": "c",
+          "text": "utrzymywać"
+        },
+        {
+          "id": "d",
+          "text": "rozmyślać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„collar” (rzeczownik, poziom B1) oznacza po polsku „kołnierzyk”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-084",
+      "question": "columnist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "felietonista"
+        },
+        {
+          "id": "b",
+          "text": "przedstawiać, opowiadać"
+        },
+        {
+          "id": "c",
+          "text": "(dywan, podstawy) kłaść, położyć"
+        },
+        {
+          "id": "d",
+          "text": "zraniony"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„columnist” (rzeczownik, poziom B1) oznacza po polsku „felietonista”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-085",
+      "question": "combination",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kuleć, kuśtykać"
+        },
+        {
+          "id": "b",
+          "text": "naprawiać się, naprawiać"
+        },
+        {
+          "id": "c",
+          "text": "pośredni, średni"
+        },
+        {
+          "id": "d",
+          "text": "mieszanina, kombinacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„combination” (rzeczownik, poziom B1) oznacza po polsku „mieszanina, kombinacja”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-086",
+      "question": "comedian",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "b",
+          "text": "minimalizować"
+        },
+        {
+          "id": "c",
+          "text": "wysyłać pocztą, wysyłać"
+        },
+        {
+          "id": "d",
+          "text": "komik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„comedian” (rzeczownik, poziom B1) oznacza po polsku „komik”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-087",
+      "question": "comedy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zajmować"
+        },
+        {
+          "id": "b",
+          "text": "wypuszczać na rynek"
+        },
+        {
+          "id": "c",
+          "text": "komedia"
+        },
+        {
+          "id": "d",
+          "text": "pomyłka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„comedy” (rzeczownik, poziom B1) oznacza po polsku „komedia”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-088",
+      "question": "comet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kometa"
+        },
+        {
+          "id": "b",
+          "text": "zapalać"
+        },
+        {
+          "id": "c",
+          "text": "pośredni, średni"
+        },
+        {
+          "id": "d",
+          "text": "nieuchronny, nie do uniknięcia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„comet” (rzeczownik, poziom B1) oznacza po polsku „kometa”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-089",
+      "question": "comfort",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieuchronny, nie do uniknięcia"
+        },
+        {
+          "id": "b",
+          "text": "zauważać"
+        },
+        {
+          "id": "c",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "d",
+          "text": "wygoda"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„comfort” (rzeczownik, poziom B1) oznacza po polsku „wygoda”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-090",
+      "question": "comma",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przecinek"
+        },
+        {
+          "id": "b",
+          "text": "skład"
+        },
+        {
+          "id": "c",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "d",
+          "text": "(dywan, podstawy) kłaść, położyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„comma” (rzeczownik, poziom B1) oznacza po polsku „przecinek”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-091",
+      "question": "command",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komedia"
+        },
+        {
+          "id": "b",
+          "text": "(np. w wojsku) rozkaz"
+        },
+        {
+          "id": "c",
+          "text": "przeważać"
+        },
+        {
+          "id": "d",
+          "text": "niepoprawny, niewłaściwy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„command” (rzeczownik, poziom B1) oznacza po polsku „(np. w wojsku) rozkaz”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-092",
+      "question": "comment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "węgiel"
+        },
+        {
+          "id": "b",
+          "text": "uwaga, komentarz"
+        },
+        {
+          "id": "c",
+          "text": "zaufanie, wiara"
+        },
+        {
+          "id": "d",
+          "text": "mieszanina, kombinacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„comment” (rzeczownik, poziom B1) oznacza po polsku „uwaga, komentarz”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-093",
+      "question": "companion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trumna"
+        },
+        {
+          "id": "b",
+          "text": "towarzysz"
+        },
+        {
+          "id": "c",
+          "text": "zajmować"
+        },
+        {
+          "id": "d",
+          "text": "spowodować, powodować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„companion” (rzeczownik, poziom B1) oznacza po polsku „towarzysz”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-094",
+      "question": "comparison",
+      "answers": [
+        {
+          "id": "a",
+          "text": "porównanie"
+        },
+        {
+          "id": "b",
+          "text": "zdarzać się, następować"
+        },
+        {
+          "id": "c",
+          "text": "przedstawiać, opowiadać"
+        },
+        {
+          "id": "d",
+          "text": "nieuchronny, nie do uniknięcia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„comparison” (rzeczownik, poziom B1) oznacza po polsku „porównanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-095",
+      "question": "competitor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapamiętywać"
+        },
+        {
+          "id": "b",
+          "text": "wniosek"
+        },
+        {
+          "id": "c",
+          "text": "konkurent"
+        },
+        {
+          "id": "d",
+          "text": "pojęcie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„competitor” (rzeczownik, poziom B1) oznacza po polsku „konkurent”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-096",
+      "question": "complement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "topnieć"
+        },
+        {
+          "id": "b",
+          "text": "uzupełnienie, uwydatnienie"
+        },
+        {
+          "id": "c",
+          "text": "niezależny"
+        },
+        {
+          "id": "d",
+          "text": "mylić, wprowadzać w błąd"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„complement” (rzeczownik, poziom B1) oznacza po polsku „uzupełnienie, uwydatnienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-097",
+      "question": "compliment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "informacyjny, pouczający"
+        },
+        {
+          "id": "b",
+          "text": "komplement"
+        },
+        {
+          "id": "c",
+          "text": "(człowiek) szczupły"
+        },
+        {
+          "id": "d",
+          "text": "prowadzenie, przeprowadzanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„compliment” (rzeczownik, poziom B1) oznacza po polsku „komplement”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-098",
+      "question": "composition",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wniosek"
+        },
+        {
+          "id": "b",
+          "text": "skład"
+        },
+        {
+          "id": "c",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "d",
+          "text": "wspominać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„composition” (rzeczownik, poziom B1) oznacza po polsku „skład”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-099",
+      "question": "compound",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieuchronny, nie do uniknięcia"
+        },
+        {
+          "id": "b",
+          "text": "humorystyczny, zabawny"
+        },
+        {
+          "id": "c",
+          "text": "zdarzać się, następować"
+        },
+        {
+          "id": "d",
+          "text": "teren zagrodzony, teren, podwórze"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„compound” (rzeczownik, poziom B1) oznacza po polsku „teren zagrodzony, teren, podwórze”."
+    },
+    {
+      "id": "b1-rzeczowniki-02-100",
+      "question": "compromise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(np. w wojsku) rozkaz"
+        },
+        {
+          "id": "b",
+          "text": "komplement"
+        },
+        {
+          "id": "c",
+          "text": "zamykać na zamek, zamykać"
+        },
+        {
+          "id": "d",
+          "text": "kompromis"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„compromise” (rzeczownik, poziom B1) oznacza po polsku „kompromis”."
+    }
+  ]
+}

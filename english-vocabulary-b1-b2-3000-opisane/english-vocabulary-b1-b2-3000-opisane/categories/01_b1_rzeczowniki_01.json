@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-rzeczowniki-01",
+    "name": "B1 — Rzeczowniki 1/9 (A–B)"
+  },
+  "questions": [
+    {
+      "id": "b1-rzeczowniki-01-001",
+      "question": "absence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wchłaniać"
+        },
+        {
+          "id": "b",
+          "text": "nieobecność"
+        },
+        {
+          "id": "c",
+          "text": "wyjaśniać; stanowić"
+        },
+        {
+          "id": "d",
+          "text": "tuzin"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„absence” (rzeczownik, poziom B1) oznacza po polsku „nieobecność”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-002",
+      "question": "abundance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ból"
+        },
+        {
+          "id": "b",
+          "text": "jeden z dwóch, jeden, któryś"
+        },
+        {
+          "id": "c",
+          "text": "abstrakcyjny"
+        },
+        {
+          "id": "d",
+          "text": "obfitość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„abundance” (rzeczownik, poziom B1) oznacza po polsku „obfitość”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-003",
+      "question": "academy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "często"
+        },
+        {
+          "id": "b",
+          "text": "akademia"
+        },
+        {
+          "id": "c",
+          "text": "czyli, zgodnie z tym"
+        },
+        {
+          "id": "d",
+          "text": "zdolny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„academy” (rzeczownik, poziom B1) oznacza po polsku „akademia”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-004",
+      "question": "accent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obfity"
+        },
+        {
+          "id": "b",
+          "text": "akcesoria, wyposażenie"
+        },
+        {
+          "id": "c",
+          "text": "na pokładzie"
+        },
+        {
+          "id": "d",
+          "text": "dialekt, akcent"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„accent” (rzeczownik, poziom B1) oznacza po polsku „dialekt, akcent”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-005",
+      "question": "acceptance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przypadkowy"
+        },
+        {
+          "id": "b",
+          "text": "pomimo, mimo"
+        },
+        {
+          "id": "c",
+          "text": "z pewnością, zdecydowanie"
+        },
+        {
+          "id": "d",
+          "text": "przyjęcie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„acceptance” (rzeczownik, poziom B1) oznacza po polsku „przyjęcie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-006",
+      "question": "access",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krótko"
+        },
+        {
+          "id": "b",
+          "text": "analizować"
+        },
+        {
+          "id": "c",
+          "text": "ponad"
+        },
+        {
+          "id": "d",
+          "text": "dostęp"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„access” (rzeczownik, poziom B1) oznacza po polsku „dostęp”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-007",
+      "question": "accessory",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjaśniać; stanowić"
+        },
+        {
+          "id": "b",
+          "text": "alkoholowy"
+        },
+        {
+          "id": "c",
+          "text": "ledwo"
+        },
+        {
+          "id": "d",
+          "text": "akcesoria, wyposażenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„accessory” (rzeczownik, poziom B1) oznacza po polsku „akcesoria, wyposażenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-008",
+      "question": "accountant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "księgowy"
+        },
+        {
+          "id": "b",
+          "text": "ponad"
+        },
+        {
+          "id": "c",
+          "text": "żaden, ani jeden"
+        },
+        {
+          "id": "d",
+          "text": "z nadzieją"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„accountant” (rzeczownik, poziom B1) oznacza po polsku „księgowy”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-009",
+      "question": "accuracy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "całkowicie"
+        },
+        {
+          "id": "b",
+          "text": "mianować"
+        },
+        {
+          "id": "c",
+          "text": "podobny"
+        },
+        {
+          "id": "d",
+          "text": "dokładność"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„accuracy” (rzeczownik, poziom B1) oznacza po polsku „dokładność”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-010",
+      "question": "ache",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ból"
+        },
+        {
+          "id": "b",
+          "text": "mieć wpływ"
+        },
+        {
+          "id": "c",
+          "text": "wystraszyć"
+        },
+        {
+          "id": "d",
+          "text": "głośno, na głos"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ache” (rzeczownik, poziom B1) oznacza po polsku „ból”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-011",
+      "question": "achievement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogłoszenie"
+        },
+        {
+          "id": "b",
+          "text": "aktorka"
+        },
+        {
+          "id": "c",
+          "text": "żaden, ani jeden"
+        },
+        {
+          "id": "d",
+          "text": "osiągnięcie, wyczyn"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„achievement” (rzeczownik, poziom B1) oznacza po polsku „osiągnięcie, wyczyn”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-012",
+      "question": "acknowledgement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czyli, zgodnie z tym"
+        },
+        {
+          "id": "b",
+          "text": "zupełnie"
+        },
+        {
+          "id": "c",
+          "text": "przyznanie się"
+        },
+        {
+          "id": "d",
+          "text": "bardzo, wysoce"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„acknowledgement” (rzeczownik, poziom B1) oznacza po polsku „przyznanie się”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-013",
+      "question": "actress",
+      "answers": [
+        {
+          "id": "a",
+          "text": "z pewnością, zdecydowanie"
+        },
+        {
+          "id": "b",
+          "text": "alkoholowy"
+        },
+        {
+          "id": "c",
+          "text": "dialekt, akcent"
+        },
+        {
+          "id": "d",
+          "text": "aktorka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„actress” (rzeczownik, poziom B1) oznacza po polsku „aktorka”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-014",
+      "question": "ad",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reklamować"
+        },
+        {
+          "id": "b",
+          "text": "dobro"
+        },
+        {
+          "id": "c",
+          "text": "co więcej, a przy tym"
+        },
+        {
+          "id": "d",
+          "text": "ogłoszenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ad” (rzeczownik, poziom B1) oznacza po polsku „ogłoszenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-015",
+      "question": "administration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomimo, mimo"
+        },
+        {
+          "id": "b",
+          "text": "często"
+        },
+        {
+          "id": "c",
+          "text": "przysłówkowy"
+        },
+        {
+          "id": "d",
+          "text": "administracja, zarządzanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„administration” (rzeczownik, poziom B1) oznacza po polsku „administracja, zarządzanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-016",
+      "question": "admiration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "osiągnięcie, wyczyn"
+        },
+        {
+          "id": "b",
+          "text": "przypadkowy"
+        },
+        {
+          "id": "c",
+          "text": "podziw"
+        },
+        {
+          "id": "d",
+          "text": "wierny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„admiration” (rzeczownik, poziom B1) oznacza po polsku „podziw”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-017",
+      "question": "admission",
+      "answers": [
+        {
+          "id": "a",
+          "text": "całkowity"
+        },
+        {
+          "id": "b",
+          "text": "doradca"
+        },
+        {
+          "id": "c",
+          "text": "przyjęcie"
+        },
+        {
+          "id": "d",
+          "text": "na bok"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„admission” (rzeczownik, poziom B1) oznacza po polsku „przyjęcie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-018",
+      "question": "adverb",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjaśniać; stanowić"
+        },
+        {
+          "id": "b",
+          "text": "wchłaniać"
+        },
+        {
+          "id": "c",
+          "text": "mieć wpływ"
+        },
+        {
+          "id": "d",
+          "text": "przysłówek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„adverb” (rzeczownik, poziom B1) oznacza po polsku „przysłówek”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-019",
+      "question": "advert",
+      "answers": [
+        {
+          "id": "a",
+          "text": "naukowy"
+        },
+        {
+          "id": "b",
+          "text": "wystraszyć"
+        },
+        {
+          "id": "c",
+          "text": "(list) adresować"
+        },
+        {
+          "id": "d",
+          "text": "reklama, ogłoszenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„advert” (rzeczownik, poziom B1) oznacza po polsku „reklama, ogłoszenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-020",
+      "question": "adviser",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podziw"
+        },
+        {
+          "id": "b",
+          "text": "obok, bez uwzględnienia"
+        },
+        {
+          "id": "c",
+          "text": "doradca"
+        },
+        {
+          "id": "d",
+          "text": "ponad"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„adviser” (rzeczownik, poziom B1) oznacza po polsku „doradca”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-021",
+      "question": "affection",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jej!"
+        },
+        {
+          "id": "b",
+          "text": "przyjęcie"
+        },
+        {
+          "id": "c",
+          "text": "dokonać"
+        },
+        {
+          "id": "d",
+          "text": "uczucie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„affection” (rzeczownik, poziom B1) oznacza po polsku „uczucie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-022",
+      "question": "agenda",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łaskawie"
+        },
+        {
+          "id": "b",
+          "text": "atletyczny"
+        },
+        {
+          "id": "c",
+          "text": "zadyszany"
+        },
+        {
+          "id": "d",
+          "text": "rozkład dnia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„agenda” (rzeczownik, poziom B1) oznacza po polsku „rozkład dnia”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-023",
+      "question": "agreement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "apetyt"
+        },
+        {
+          "id": "b",
+          "text": "prośba o wybaczenie, przeprosiny"
+        },
+        {
+          "id": "c",
+          "text": "umowa"
+        },
+        {
+          "id": "d",
+          "text": "analiza"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„agreement” (rzeczownik, poziom B1) oznacza po polsku „umowa”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-024",
+      "question": "agriculture",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powstawać"
+        },
+        {
+          "id": "b",
+          "text": "goły"
+        },
+        {
+          "id": "c",
+          "text": "ożywiony"
+        },
+        {
+          "id": "d",
+          "text": "rolnictwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„agriculture” (rzeczownik, poziom B1) oznacza po polsku „rolnictwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-025",
+      "question": "aid",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomoc"
+        },
+        {
+          "id": "b",
+          "text": "fabrycznie nowy"
+        },
+        {
+          "id": "c",
+          "text": "dostępny, osiągalny"
+        },
+        {
+          "id": "d",
+          "text": "grill"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„aid” (rzeczownik, poziom B1) oznacza po polsku „pomoc”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-026",
+      "question": "aim",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(co się podoba) atrakcja, urok"
+        },
+        {
+          "id": "b",
+          "text": "cel"
+        },
+        {
+          "id": "c",
+          "text": "rozkład dnia"
+        },
+        {
+          "id": "d",
+          "text": "naturalnie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„aim” (rzeczownik, poziom B1) oznacza po polsku „cel”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-027",
+      "question": "airline",
+      "answers": [
+        {
+          "id": "a",
+          "text": "linia lotnicza"
+        },
+        {
+          "id": "b",
+          "text": "gniew"
+        },
+        {
+          "id": "c",
+          "text": "ukochany"
+        },
+        {
+          "id": "d",
+          "text": "stawiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„airline” (rzeczownik, poziom B1) oznacza po polsku „linia lotnicza”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-028",
+      "question": "allowance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jednak, niemniej"
+        },
+        {
+          "id": "b",
+          "text": "pozorny"
+        },
+        {
+          "id": "c",
+          "text": "zasiłek"
+        },
+        {
+          "id": "d",
+          "text": "dostępny, osiągalny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„allowance” (rzeczownik, poziom B1) oznacza po polsku „zasiłek”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-029",
+      "question": "alphabet",
+      "answers": [
+        {
+          "id": "a",
+          "text": "alfabet"
+        },
+        {
+          "id": "b",
+          "text": "ilość"
+        },
+        {
+          "id": "c",
+          "text": "mrówka"
+        },
+        {
+          "id": "d",
+          "text": "pomagać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„alphabet” (rzeczownik, poziom B1) oznacza po polsku „alfabet”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-030",
+      "question": "ambulance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grill"
+        },
+        {
+          "id": "b",
+          "text": "przebojowy"
+        },
+        {
+          "id": "c",
+          "text": "rolnictwo"
+        },
+        {
+          "id": "d",
+          "text": "karetka, ambulans"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ambulance” (rzeczownik, poziom B1) oznacza po polsku „karetka, ambulans”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-031",
+      "question": "amount",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ilość"
+        },
+        {
+          "id": "b",
+          "text": "umowa"
+        },
+        {
+          "id": "c",
+          "text": "przyłączać, dołączać"
+        },
+        {
+          "id": "d",
+          "text": "cel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„amount” (rzeczownik, poziom B1) oznacza po polsku „ilość”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-032",
+      "question": "analysis",
+      "answers": [
+        {
+          "id": "a",
+          "text": "analiza"
+        },
+        {
+          "id": "b",
+          "text": "zdumiewający"
+        },
+        {
+          "id": "c",
+          "text": "powstawać"
+        },
+        {
+          "id": "d",
+          "text": "kojarzyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„analysis” (rzeczownik, poziom B1) oznacza po polsku „analiza”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-033",
+      "question": "anger",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gniew"
+        },
+        {
+          "id": "b",
+          "text": "gorzki"
+        },
+        {
+          "id": "c",
+          "text": "w większości"
+        },
+        {
+          "id": "d",
+          "text": "przyciągać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„anger” (rzeczownik, poziom B1) oznacza po polsku „gniew”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-034",
+      "question": "angle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "usiłować"
+        },
+        {
+          "id": "b",
+          "text": "oczywiście"
+        },
+        {
+          "id": "c",
+          "text": "kąt"
+        },
+        {
+          "id": "d",
+          "text": "powstawać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„angle” (rzeczownik, poziom B1) oznacza po polsku „kąt”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-035",
+      "question": "animation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "osobiście"
+        },
+        {
+          "id": "b",
+          "text": "ożywienie"
+        },
+        {
+          "id": "c",
+          "text": "ramię, ręka"
+        },
+        {
+          "id": "d",
+          "text": "pomoc"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„animation” (rzeczownik, poziom B1) oznacza po polsku „ożywienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-036",
+      "question": "announcement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasiłek"
+        },
+        {
+          "id": "b",
+          "text": "ślepy, niewidomy"
+        },
+        {
+          "id": "c",
+          "text": "zawiadomienie"
+        },
+        {
+          "id": "d",
+          "text": "najmniej"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„announcement” (rzeczownik, poziom B1) oznacza po polsku „zawiadomienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-037",
+      "question": "annoyance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "irytacja, rozzłoszczenie się"
+        },
+        {
+          "id": "b",
+          "text": "alfabet"
+        },
+        {
+          "id": "c",
+          "text": "naturalnie"
+        },
+        {
+          "id": "d",
+          "text": "mimo to"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„annoyance” (rzeczownik, poziom B1) oznacza po polsku „irytacja, rozzłoszczenie się”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-038",
+      "question": "ant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "małpa człekokształtna"
+        },
+        {
+          "id": "b",
+          "text": "rozkład dnia"
+        },
+        {
+          "id": "c",
+          "text": "alfabet"
+        },
+        {
+          "id": "d",
+          "text": "mrówka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ant” (rzeczownik, poziom B1) oznacza po polsku „mrówka”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-039",
+      "question": "anxiety",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zabawny"
+        },
+        {
+          "id": "b",
+          "text": "niepokój"
+        },
+        {
+          "id": "c",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "d",
+          "text": "gniew"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„anxiety” (rzeczownik, poziom B1) oznacza po polsku „niepokój”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-040",
+      "question": "ape",
+      "answers": [
+        {
+          "id": "a",
+          "text": "małpa człekokształtna"
+        },
+        {
+          "id": "b",
+          "text": "najmniej"
+        },
+        {
+          "id": "c",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "d",
+          "text": "inaczej"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ape” (rzeczownik, poziom B1) oznacza po polsku „małpa człekokształtna”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-041",
+      "question": "apology",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łaskawie"
+        },
+        {
+          "id": "b",
+          "text": "osiągać"
+        },
+        {
+          "id": "c",
+          "text": "nowo"
+        },
+        {
+          "id": "d",
+          "text": "prośba o wybaczenie, przeprosiny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„apology” (rzeczownik, poziom B1) oznacza po polsku „prośba o wybaczenie, przeprosiny”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-042",
+      "question": "appeal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "najmniej"
+        },
+        {
+          "id": "b",
+          "text": "ożywienie"
+        },
+        {
+          "id": "c",
+          "text": "(co się podoba) atrakcja, urok"
+        },
+        {
+          "id": "d",
+          "text": "tymczasem"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„appeal” (rzeczownik, poziom B1) oznacza po polsku „(co się podoba) atrakcja, urok”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-043",
+      "question": "appetite",
+      "answers": [
+        {
+          "id": "a",
+          "text": "irytacja, rozzłoszczenie się"
+        },
+        {
+          "id": "b",
+          "text": "apetyt"
+        },
+        {
+          "id": "c",
+          "text": "linia lotnicza"
+        },
+        {
+          "id": "d",
+          "text": "rozkład dnia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„appetite” (rzeczownik, poziom B1) oznacza po polsku „apetyt”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-044",
+      "question": "applause",
+      "answers": [
+        {
+          "id": "a",
+          "text": "osobiście"
+        },
+        {
+          "id": "b",
+          "text": "gorzki"
+        },
+        {
+          "id": "c",
+          "text": "łaskawie"
+        },
+        {
+          "id": "d",
+          "text": "aplauz, oklaski"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„applause” (rzeczownik, poziom B1) oznacza po polsku „aplauz, oklaski”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-045",
+      "question": "application",
+      "answers": [
+        {
+          "id": "a",
+          "text": "linia lotnicza"
+        },
+        {
+          "id": "b",
+          "text": "ślepy, niewidomy"
+        },
+        {
+          "id": "c",
+          "text": "podanie, zgłoszenie"
+        },
+        {
+          "id": "d",
+          "text": "krótki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„application” (rzeczownik, poziom B1) oznacza po polsku „podanie, zgłoszenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-046",
+      "question": "appreciation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "alfabet"
+        },
+        {
+          "id": "b",
+          "text": "wstydzić się"
+        },
+        {
+          "id": "c",
+          "text": "ostatnio"
+        },
+        {
+          "id": "d",
+          "text": "uznanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„appreciation” (rzeczownik, poziom B1) oznacza po polsku „uznanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-047",
+      "question": "approach",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(daty, terminu) nadejście"
+        },
+        {
+          "id": "b",
+          "text": "wilgotny"
+        },
+        {
+          "id": "c",
+          "text": "cywilny"
+        },
+        {
+          "id": "d",
+          "text": "szeroki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„approach” (rzeczownik, poziom B1) oznacza po polsku „(daty, terminu) nadejście”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-048",
+      "question": "approval",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bekon, boczek"
+        },
+        {
+          "id": "b",
+          "text": "zgoda"
+        },
+        {
+          "id": "c",
+          "text": "palić"
+        },
+        {
+          "id": "d",
+          "text": "łączyć, połączyć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„approval” (rzeczownik, poziom B1) oznacza po polsku „zgoda”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-049",
+      "question": "architect",
+      "answers": [
+        {
+          "id": "a",
+          "text": "budować, konstruować"
+        },
+        {
+          "id": "b",
+          "text": "równowaga"
+        },
+        {
+          "id": "c",
+          "text": "architekt, budowniczy"
+        },
+        {
+          "id": "d",
+          "text": "przybrzeżny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„architect” (rzeczownik, poziom B1) oznacza po polsku „architekt, budowniczy”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-050",
+      "question": "arithmetic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kolisty, okrągły"
+        },
+        {
+          "id": "b",
+          "text": "rywalizujący, współzawodniczący"
+        },
+        {
+          "id": "c",
+          "text": "arytmetyka"
+        },
+        {
+          "id": "d",
+          "text": "handlowy, finansowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„arithmetic” (rzeczownik, poziom B1) oznacza po polsku „arytmetyka”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-051",
+      "question": "army",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przybrzeżny"
+        },
+        {
+          "id": "b",
+          "text": "beczka"
+        },
+        {
+          "id": "c",
+          "text": "wojsko, armia"
+        },
+        {
+          "id": "d",
+          "text": "właściwie, odpowiednio"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„army” (rzeczownik, poziom B1) oznacza po polsku „wojsko, armia”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-052",
+      "question": "arrest",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aspekt"
+        },
+        {
+          "id": "b",
+          "text": "aresztowanie, zatrzymanie"
+        },
+        {
+          "id": "c",
+          "text": "znaczny"
+        },
+        {
+          "id": "d",
+          "text": "stanowić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„arrest” (rzeczownik, poziom B1) oznacza po polsku „aresztowanie, zatrzymanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-053",
+      "question": "arrival",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przybycie, przyjazd"
+        },
+        {
+          "id": "b",
+          "text": "aresztowanie, zatrzymanie"
+        },
+        {
+          "id": "c",
+          "text": "budować, konstruować"
+        },
+        {
+          "id": "d",
+          "text": "aspiryna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„arrival” (rzeczownik, poziom B1) oznacza po polsku „przybycie, przyjazd”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-054",
+      "question": "arrow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strzała, strzałka"
+        },
+        {
+          "id": "b",
+          "text": "spokojny"
+        },
+        {
+          "id": "c",
+          "text": "ostrożny"
+        },
+        {
+          "id": "d",
+          "text": "przywiązanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„arrow” (rzeczownik, poziom B1) oznacza po polsku „strzała, strzałka”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-055",
+      "question": "artist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "artysta"
+        },
+        {
+          "id": "b",
+          "text": "astronom"
+        },
+        {
+          "id": "c",
+          "text": "zakańczać"
+        },
+        {
+          "id": "d",
+          "text": "zadanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„artist” (rzeczownik, poziom B1) oznacza po polsku „artysta”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-056",
+      "question": "aspect",
+      "answers": [
+        {
+          "id": "a",
+          "text": "architekt, budowniczy"
+        },
+        {
+          "id": "b",
+          "text": "aspekt"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) rozwalać"
+        },
+        {
+          "id": "d",
+          "text": "puszkowany, konserwowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„aspect” (rzeczownik, poziom B1) oznacza po polsku „aspekt”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-057",
+      "question": "aspirin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aspiryna"
+        },
+        {
+          "id": "b",
+          "text": "urok, pociąg"
+        },
+        {
+          "id": "c",
+          "text": "gratulować, składać życzenia"
+        },
+        {
+          "id": "d",
+          "text": "konar"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„aspirin” (rzeczownik, poziom B1) oznacza po polsku „aspiryna”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-058",
+      "question": "assignment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "swobodny, naturalny"
+        },
+        {
+          "id": "b",
+          "text": "plecak"
+        },
+        {
+          "id": "c",
+          "text": "zadanie"
+        },
+        {
+          "id": "d",
+          "text": "naczelny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„assignment” (rzeczownik, poziom B1) oznacza po polsku „zadanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-059",
+      "question": "assistance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bekon, boczek"
+        },
+        {
+          "id": "b",
+          "text": "pomoc"
+        },
+        {
+          "id": "c",
+          "text": "stosunkowo"
+        },
+        {
+          "id": "d",
+          "text": "aspekt"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„assistance” (rzeczownik, poziom B1) oznacza po polsku „pomoc”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-060",
+      "question": "assistant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "astronom"
+        },
+        {
+          "id": "b",
+          "text": "puszkowany, konserwowy"
+        },
+        {
+          "id": "c",
+          "text": "wice-"
+        },
+        {
+          "id": "d",
+          "text": "miska, miseczka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„assistant” (rzeczownik, poziom B1) oznacza po polsku „wice-”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-061",
+      "question": "astronomer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "astronom"
+        },
+        {
+          "id": "b",
+          "text": "popełniać"
+        },
+        {
+          "id": "c",
+          "text": "konar"
+        },
+        {
+          "id": "d",
+          "text": "naczelny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„astronomer” (rzeczownik, poziom B1) oznacza po polsku „astronom”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-062",
+      "question": "atmosphere",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piekarnia"
+        },
+        {
+          "id": "b",
+          "text": "atmosfera"
+        },
+        {
+          "id": "c",
+          "text": "przywiązanie"
+        },
+        {
+          "id": "d",
+          "text": "powtórnie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„atmosphere” (rzeczownik, poziom B1) oznacza po polsku „atmosfera”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-063",
+      "question": "attachment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bandaż"
+        },
+        {
+          "id": "b",
+          "text": "spokojny"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) rozwalać"
+        },
+        {
+          "id": "d",
+          "text": "przywiązanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„attachment” (rzeczownik, poziom B1) oznacza po polsku „przywiązanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-064",
+      "question": "attraction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "artysta"
+        },
+        {
+          "id": "b",
+          "text": "urok, pociąg"
+        },
+        {
+          "id": "c",
+          "text": "aspekt"
+        },
+        {
+          "id": "d",
+          "text": "potwierdzać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„attraction” (rzeczownik, poziom B1) oznacza po polsku „urok, pociąg”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-065",
+      "question": "authority",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przywiązanie"
+        },
+        {
+          "id": "b",
+          "text": "zadanie"
+        },
+        {
+          "id": "c",
+          "text": "władze"
+        },
+        {
+          "id": "d",
+          "text": "bagaż"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„authority” (rzeczownik, poziom B1) oznacza po polsku „władze”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-066",
+      "question": "avenue",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wilgotny"
+        },
+        {
+          "id": "b",
+          "text": "aleja"
+        },
+        {
+          "id": "c",
+          "text": "miska"
+        },
+        {
+          "id": "d",
+          "text": "palić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„avenue” (rzeczownik, poziom B1) oznacza po polsku „aleja”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-067",
+      "question": "backpack",
+      "answers": [
+        {
+          "id": "a",
+          "text": "suterena"
+        },
+        {
+          "id": "b",
+          "text": "naczelny"
+        },
+        {
+          "id": "c",
+          "text": "plecak"
+        },
+        {
+          "id": "d",
+          "text": "stanowić"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„backpack” (rzeczownik, poziom B1) oznacza po polsku „plecak”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-068",
+      "question": "bacon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łączyć, połączyć"
+        },
+        {
+          "id": "b",
+          "text": "szczeknięcie"
+        },
+        {
+          "id": "c",
+          "text": "bekon, boczek"
+        },
+        {
+          "id": "d",
+          "text": "budować, konstruować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bacon” (rzeczownik, poziom B1) oznacza po polsku „bekon, boczek”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-069",
+      "question": "baggage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bagaż"
+        },
+        {
+          "id": "b",
+          "text": "aspekt"
+        },
+        {
+          "id": "c",
+          "text": "puszkowany, konserwowy"
+        },
+        {
+          "id": "d",
+          "text": "stosunkowo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„baggage” (rzeczownik, poziom B1) oznacza po polsku „bagaż”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-070",
+      "question": "baker",
+      "answers": [
+        {
+          "id": "a",
+          "text": "urok, pociąg"
+        },
+        {
+          "id": "b",
+          "text": "aspiryna"
+        },
+        {
+          "id": "c",
+          "text": "władze"
+        },
+        {
+          "id": "d",
+          "text": "piekarz"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„baker” (rzeczownik, poziom B1) oznacza po polsku „piekarz”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-071",
+      "question": "bakery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konserwatywny"
+        },
+        {
+          "id": "b",
+          "text": "piekarnia"
+        },
+        {
+          "id": "c",
+          "text": "wice-"
+        },
+        {
+          "id": "d",
+          "text": "zakańczać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bakery” (rzeczownik, poziom B1) oznacza po polsku „piekarnia”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-072",
+      "question": "balance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "równowaga"
+        },
+        {
+          "id": "b",
+          "text": "konserwatywny"
+        },
+        {
+          "id": "c",
+          "text": "stanowiący wyzwanie"
+        },
+        {
+          "id": "d",
+          "text": "chrześcijański"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„balance” (rzeczownik, poziom B1) oznacza po polsku „równowaga”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-073",
+      "question": "bandage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przechwalać się"
+        },
+        {
+          "id": "b",
+          "text": "architekt, budowniczy"
+        },
+        {
+          "id": "c",
+          "text": "bandaż"
+        },
+        {
+          "id": "d",
+          "text": "piekarnia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bandage” (rzeczownik, poziom B1) oznacza po polsku „bandaż”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-074",
+      "question": "bang",
+      "answers": [
+        {
+          "id": "a",
+          "text": "huk"
+        },
+        {
+          "id": "b",
+          "text": "pękać, rozwalać się, rozwalać"
+        },
+        {
+          "id": "c",
+          "text": "aleja"
+        },
+        {
+          "id": "d",
+          "text": "szeroki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bang” (rzeczownik, poziom B1) oznacza po polsku „huk”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-075",
+      "question": "bark",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plecak"
+        },
+        {
+          "id": "b",
+          "text": "stosunkowo"
+        },
+        {
+          "id": "c",
+          "text": "szczeknięcie"
+        },
+        {
+          "id": "d",
+          "text": "przechwalać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bark” (rzeczownik, poziom B1) oznacza po polsku „szczeknięcie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-076",
+      "question": "barrel",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stosunkowo"
+        },
+        {
+          "id": "b",
+          "text": "klasyczny, tradycyjny"
+        },
+        {
+          "id": "c",
+          "text": "równowaga"
+        },
+        {
+          "id": "d",
+          "text": "beczka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„barrel” (rzeczownik, poziom B1) oznacza po polsku „beczka”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-077",
+      "question": "basement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(daty, terminu) nadejście"
+        },
+        {
+          "id": "b",
+          "text": "huk"
+        },
+        {
+          "id": "c",
+          "text": "(form) wsiadać"
+        },
+        {
+          "id": "d",
+          "text": "suterena"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„basement” (rzeczownik, poziom B1) oznacza po polsku „suterena”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-078",
+      "question": "basin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "centralny"
+        },
+        {
+          "id": "b",
+          "text": "plecak"
+        },
+        {
+          "id": "c",
+          "text": "miska"
+        },
+        {
+          "id": "d",
+          "text": "dławić się, dławić, dusić się, dusić"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„basin” (rzeczownik, poziom B1) oznacza po polsku „miska”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-079",
+      "question": "basis",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zależny"
+        },
+        {
+          "id": "b",
+          "text": "podstawa"
+        },
+        {
+          "id": "c",
+          "text": "śmiertelny"
+        },
+        {
+          "id": "d",
+          "text": "poważny, zasadniczy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„basis” (rzeczownik, poziom B1) oznacza po polsku „podstawa”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-080",
+      "question": "battle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasługiwać"
+        },
+        {
+          "id": "b",
+          "text": "bitwa, walka"
+        },
+        {
+          "id": "c",
+          "text": "dramatyczny"
+        },
+        {
+          "id": "d",
+          "text": "dewastować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„battle” (rzeczownik, poziom B1) oznacza po polsku „bitwa, walka”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-081",
+      "question": "beard",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarzut, potępienie"
+        },
+        {
+          "id": "b",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "c",
+          "text": "broda"
+        },
+        {
+          "id": "d",
+          "text": "cyfrowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„beard” (rzeczownik, poziom B1) oznacza po polsku „broda”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-082",
+      "question": "beast",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odmienny, różnoraki"
+        },
+        {
+          "id": "b",
+          "text": "zwierzę"
+        },
+        {
+          "id": "c",
+          "text": "wystawiać"
+        },
+        {
+          "id": "d",
+          "text": "nuda"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„beast” (rzeczownik, poziom B1) oznacza po polsku „zwierzę”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-083",
+      "question": "beaver",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odjeżdżać"
+        },
+        {
+          "id": "b",
+          "text": "bóbr"
+        },
+        {
+          "id": "c",
+          "text": "topić się, tonąć"
+        },
+        {
+          "id": "d",
+          "text": "biologia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„beaver” (rzeczownik, poziom B1) oznacza po polsku „bóbr”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-084",
+      "question": "bedside",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarzut, potępienie"
+        },
+        {
+          "id": "b",
+          "text": "miejsce przy łóżku, przy łóżku"
+        },
+        {
+          "id": "c",
+          "text": "więź"
+        },
+        {
+          "id": "d",
+          "text": "korzyść, pożytek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bedside” (rzeczownik, poziom B1) oznacza po polsku „miejsce przy łóżku, przy łóżku”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-085",
+      "question": "belief",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiara, przekonanie"
+        },
+        {
+          "id": "b",
+          "text": "audycja"
+        },
+        {
+          "id": "c",
+          "text": "chętny"
+        },
+        {
+          "id": "d",
+          "text": "poświęcać się, poświęcać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„belief” (rzeczownik, poziom B1) oznacza po polsku „wiara, przekonanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-086",
+      "question": "benefit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "korzyść, pożytek"
+        },
+        {
+          "id": "b",
+          "text": "audycja"
+        },
+        {
+          "id": "c",
+          "text": "okaleczać"
+        },
+        {
+          "id": "d",
+          "text": "dostarczać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„benefit” (rzeczownik, poziom B1) oznacza po polsku „korzyść, pożytek”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-087",
+      "question": "bin",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oznajmiać"
+        },
+        {
+          "id": "b",
+          "text": "wiadro na śmieci, wiadro"
+        },
+        {
+          "id": "c",
+          "text": "nie cierpieć"
+        },
+        {
+          "id": "d",
+          "text": "ekonomiczny, gospodarczy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bin” (rzeczownik, poziom B1) oznacza po polsku „wiadro na śmieci, wiadro”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-088",
+      "question": "biography",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekazywać, komunikować"
+        },
+        {
+          "id": "b",
+          "text": "nuda"
+        },
+        {
+          "id": "c",
+          "text": "biografia"
+        },
+        {
+          "id": "d",
+          "text": "bezcłowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„biography” (rzeczownik, poziom B1) oznacza po polsku „biografia”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-089",
+      "question": "biology",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyczyniać się"
+        },
+        {
+          "id": "b",
+          "text": "oznajmiać"
+        },
+        {
+          "id": "c",
+          "text": "biologia"
+        },
+        {
+          "id": "d",
+          "text": "poważny, zasadniczy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„biology” (rzeczownik, poziom B1) oznacza po polsku „biologia”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-090",
+      "question": "bishop",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochodzić, wywodzić się"
+        },
+        {
+          "id": "b",
+          "text": "biskup"
+        },
+        {
+          "id": "c",
+          "text": "bóbr"
+        },
+        {
+          "id": "d",
+          "text": "bomba, pocisk"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bishop” (rzeczownik, poziom B1) oznacza po polsku „biskup”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-091",
+      "question": "blame",
+      "answers": [
+        {
+          "id": "a",
+          "text": "okaleczać"
+        },
+        {
+          "id": "b",
+          "text": "podstawa"
+        },
+        {
+          "id": "c",
+          "text": "zarzut, potępienie"
+        },
+        {
+          "id": "d",
+          "text": "konsumować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blame” (rzeczownik, poziom B1) oznacza po polsku „zarzut, potępienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-092",
+      "question": "blessing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błogosławieństwo, dar Boży, dar"
+        },
+        {
+          "id": "b",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "c",
+          "text": "przekonywać"
+        },
+        {
+          "id": "d",
+          "text": "biskup"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„blessing” (rzeczownik, poziom B1) oznacza po polsku „błogosławieństwo, dar Boży, dar”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-093",
+      "question": "blush",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rumieniec"
+        },
+        {
+          "id": "b",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "c",
+          "text": "pierś"
+        },
+        {
+          "id": "d",
+          "text": "doprowadzony do ostateczności"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„blush” (rzeczownik, poziom B1) oznacza po polsku „rumieniec”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-094",
+      "question": "bomb",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasługiwać"
+        },
+        {
+          "id": "b",
+          "text": "determinować"
+        },
+        {
+          "id": "c",
+          "text": "mosiądz"
+        },
+        {
+          "id": "d",
+          "text": "bomba, pocisk"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bomb” (rzeczownik, poziom B1) oznacza po polsku „bomba, pocisk”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-095",
+      "question": "bond",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochodzić, wywodzić się"
+        },
+        {
+          "id": "b",
+          "text": "śmiertelny"
+        },
+        {
+          "id": "c",
+          "text": "zwierzę"
+        },
+        {
+          "id": "d",
+          "text": "więź"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bond” (rzeczownik, poziom B1) oznacza po polsku „więź”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-096",
+      "question": "booking",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nie cierpieć"
+        },
+        {
+          "id": "b",
+          "text": "kaleki, ułomny"
+        },
+        {
+          "id": "c",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "d",
+          "text": "dramatyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„booking” (rzeczownik, poziom B1) oznacza po polsku „rezerwacja”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-097",
+      "question": "boom",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) wymierzać"
+        },
+        {
+          "id": "b",
+          "text": "głuchy"
+        },
+        {
+          "id": "c",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "d",
+          "text": "wiadro na śmieci, wiadro"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„boom” (rzeczownik, poziom B1) oznacza po polsku „boom, koniunktura”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-098",
+      "question": "boot",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opóźniać, zwlekać"
+        },
+        {
+          "id": "b",
+          "text": "spokojny, łagodny"
+        },
+        {
+          "id": "c",
+          "text": "but, kozaczek"
+        },
+        {
+          "id": "d",
+          "text": "dewastować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„boot” (rzeczownik, poziom B1) oznacza po polsku „but, kozaczek”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-099",
+      "question": "border",
+      "answers": [
+        {
+          "id": "a",
+          "text": "granica, pogranicze"
+        },
+        {
+          "id": "b",
+          "text": "wiara, przekonanie"
+        },
+        {
+          "id": "c",
+          "text": "błogosławieństwo, dar Boży, dar"
+        },
+        {
+          "id": "d",
+          "text": "boom, koniunktura"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„border” (rzeczownik, poziom B1) oznacza po polsku „granica, pogranicze”."
+    },
+    {
+      "id": "b1-rzeczowniki-01-100",
+      "question": "boredom",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nuda"
+        },
+        {
+          "id": "b",
+          "text": "bomba, pocisk"
+        },
+        {
+          "id": "c",
+          "text": "błogosławieństwo, dar Boży, dar"
+        },
+        {
+          "id": "d",
+          "text": "bransoletka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„boredom” (rzeczownik, poziom B1) oznacza po polsku „nuda”."
+    }
+  ]
+}

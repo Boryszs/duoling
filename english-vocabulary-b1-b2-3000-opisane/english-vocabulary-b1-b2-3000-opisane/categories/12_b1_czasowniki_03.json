@@ -1,0 +1,1784 @@
+{
+  "category": {
+    "id": "b1-czasowniki-03",
+    "name": "B1 — Czasowniki 3/3 (M–S)"
+  },
+  "questions": [
+    {
+      "id": "b1-czasowniki-03-001",
+      "question": "murder",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konkurent"
+        },
+        {
+          "id": "b",
+          "text": "dorsz"
+        },
+        {
+          "id": "c",
+          "text": "mordować"
+        },
+        {
+          "id": "d",
+          "text": "niepoprawny, niewłaściwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„murder” (czasownik, poziom B1) oznacza po polsku „mordować”."
+    },
+    {
+      "id": "b1-czasowniki-03-002",
+      "question": "narrate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konflikt, sprzeczność"
+        },
+        {
+          "id": "b",
+          "text": "przedstawiać, opowiadać"
+        },
+        {
+          "id": "c",
+          "text": "wilgotny"
+        },
+        {
+          "id": "d",
+          "text": "utrzymywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„narrate” (czasownik, poziom B1) oznacza po polsku „przedstawiać, opowiadać”."
+    },
+    {
+      "id": "b1-czasowniki-03-003",
+      "question": "negotiate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przecinek"
+        },
+        {
+          "id": "b",
+          "text": "na całe życie, na życie"
+        },
+        {
+          "id": "c",
+          "text": "negocjować"
+        },
+        {
+          "id": "d",
+          "text": "gwałtowny, silny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„negotiate” (czasownik, poziom B1) oznacza po polsku „negocjować”."
+    },
+    {
+      "id": "b1-czasowniki-03-004",
+      "question": "notice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zauważać"
+        },
+        {
+          "id": "b",
+          "text": "(np. w wojsku) rozkaz"
+        },
+        {
+          "id": "c",
+          "text": "(budynku) zawalenie się"
+        },
+        {
+          "id": "d",
+          "text": "na całe życie, na życie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„notice” (czasownik, poziom B1) oznacza po polsku „zauważać”."
+    },
+    {
+      "id": "b1-czasowniki-03-005",
+      "question": "nurse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "węgiel"
+        },
+        {
+          "id": "b",
+          "text": "pojęcie"
+        },
+        {
+          "id": "c",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "d",
+          "text": "zapamiętywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nurse” (czasownik, poziom B1) oznacza po polsku „pielęgnować”."
+    },
+    {
+      "id": "b1-czasowniki-03-006",
+      "question": "observe",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "b",
+          "text": "obserwować"
+        },
+        {
+          "id": "c",
+          "text": "pośredni"
+        },
+        {
+          "id": "d",
+          "text": "przemyślenie, rozważenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„observe” (czasownik, poziom B1) oznacza po polsku „obserwować”."
+    },
+    {
+      "id": "b1-czasowniki-03-007",
+      "question": "obtain",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boleć po stracie, boleć, nosić żałobę"
+        },
+        {
+          "id": "b",
+          "text": "osiągać, uzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "wspominać"
+        },
+        {
+          "id": "d",
+          "text": "przemysłowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„obtain” (czasownik, poziom B1) oznacza po polsku „osiągać, uzyskiwać”."
+    },
+    {
+      "id": "b1-czasowniki-03-008",
+      "question": "occupy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdarzać się, następować"
+        },
+        {
+          "id": "b",
+          "text": "kometa"
+        },
+        {
+          "id": "c",
+          "text": "zajmować"
+        },
+        {
+          "id": "d",
+          "text": "modyfikować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„occupy” (czasownik, poziom B1) oznacza po polsku „zajmować”."
+    },
+    {
+      "id": "b1-czasowniki-03-009",
+      "question": "occur",
+      "answers": [
+        {
+          "id": "a",
+          "text": "humorystyczny, zabawny"
+        },
+        {
+          "id": "b",
+          "text": "mylić, wprowadzać w błąd"
+        },
+        {
+          "id": "c",
+          "text": "zdarzać się, następować"
+        },
+        {
+          "id": "d",
+          "text": "niepoprawny, niewłaściwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„occur” (czasownik, poziom B1) oznacza po polsku „zdarzać się, następować”."
+    },
+    {
+      "id": "b1-czasowniki-03-010",
+      "question": "oppress",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(budynku) zawalenie się"
+        },
+        {
+          "id": "b",
+          "text": "zapalać"
+        },
+        {
+          "id": "c",
+          "text": "zazdrosny"
+        },
+        {
+          "id": "d",
+          "text": "prześladować, uciskać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„oppress” (czasownik, poziom B1) oznacza po polsku „prześladować, uciskać”."
+    },
+    {
+      "id": "b1-czasowniki-03-011",
+      "question": "outweigh",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koncentracja, skupienie się, skupienie"
+        },
+        {
+          "id": "b",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "c",
+          "text": "osiągać, uzyskiwać"
+        },
+        {
+          "id": "d",
+          "text": "przeważać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„outweigh” (czasownik, poziom B1) oznacza po polsku „przeważać”."
+    },
+    {
+      "id": "b1-czasowniki-03-012",
+      "question": "overcome",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wkład"
+        },
+        {
+          "id": "b",
+          "text": "(minerałów) złoże, osad"
+        },
+        {
+          "id": "c",
+          "text": "pokonywać"
+        },
+        {
+          "id": "d",
+          "text": "żądanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„overcome” (czasownik, poziom B1) oznacza po polsku „pokonywać”."
+    },
+    {
+      "id": "b1-czasowniki-03-013",
+      "question": "overwhelm",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przytłaczać, miażdżyć"
+        },
+        {
+          "id": "b",
+          "text": "obrona"
+        },
+        {
+          "id": "c",
+          "text": "zużycie"
+        },
+        {
+          "id": "d",
+          "text": "propagować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„overwhelm” (czasownik, poziom B1) oznacza po polsku „przytłaczać, miażdżyć”."
+    },
+    {
+      "id": "b1-czasowniki-03-014",
+      "question": "owe",
+      "answers": [
+        {
+          "id": "a",
+          "text": "posiadać"
+        },
+        {
+          "id": "b",
+          "text": "zachowywać"
+        },
+        {
+          "id": "c",
+          "text": "być winnym"
+        },
+        {
+          "id": "d",
+          "text": "zadowalać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„owe” (czasownik, poziom B1) oznacza po polsku „być winnym”."
+    },
+    {
+      "id": "b1-czasowniki-03-015",
+      "question": "paralyse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wspaniały"
+        },
+        {
+          "id": "b",
+          "text": "czyn, wyczyn"
+        },
+        {
+          "id": "c",
+          "text": "minimalny"
+        },
+        {
+          "id": "d",
+          "text": "paraliżować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„paralyse” (czasownik, poziom B1) oznacza po polsku „paraliżować”."
+    },
+    {
+      "id": "b1-czasowniki-03-016",
+      "question": "pardon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(minerałów) złoże, osad"
+        },
+        {
+          "id": "b",
+          "text": "instytut"
+        },
+        {
+          "id": "c",
+          "text": "żądanie"
+        },
+        {
+          "id": "d",
+          "text": "wybaczać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pardon” (czasownik, poziom B1) oznacza po polsku „wybaczać”."
+    },
+    {
+      "id": "b1-czasowniki-03-017",
+      "question": "participate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "udowadniać, wykazywać"
+        },
+        {
+          "id": "b",
+          "text": "nieszczęśliwy"
+        },
+        {
+          "id": "c",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "d",
+          "text": "mechaniczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„participate” (czasownik, poziom B1) oznacza po polsku „uczestniczyć”."
+    },
+    {
+      "id": "b1-czasowniki-03-018",
+      "question": "permit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyznanie, deklaracja"
+        },
+        {
+          "id": "b",
+          "text": "masywny"
+        },
+        {
+          "id": "c",
+          "text": "zezwolenie"
+        },
+        {
+          "id": "d",
+          "text": "głośny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„permit” (czasownik, poziom B1) oznacza po polsku „zezwolenie”."
+    },
+    {
+      "id": "b1-czasowniki-03-019",
+      "question": "persuade",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekonywać"
+        },
+        {
+          "id": "b",
+          "text": "pamiętny"
+        },
+        {
+          "id": "c",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "d",
+          "text": "karać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„persuade” (czasownik, poziom B1) oznacza po polsku „przekonywać”."
+    },
+    {
+      "id": "b1-czasowniki-03-020",
+      "question": "place",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(meble, ogłoszenie) umieszczać"
+        },
+        {
+          "id": "b",
+          "text": "żądanie"
+        },
+        {
+          "id": "c",
+          "text": "przytłaczać, miażdżyć"
+        },
+        {
+          "id": "d",
+          "text": "blask"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„place” (czasownik, poziom B1) oznacza po polsku „(meble, ogłoszenie) umieszczać”."
+    },
+    {
+      "id": "b1-czasowniki-03-021",
+      "question": "plan",
+      "answers": [
+        {
+          "id": "a",
+          "text": "planować, planować"
+        },
+        {
+          "id": "b",
+          "text": "demonstracja"
+        },
+        {
+          "id": "c",
+          "text": "blask"
+        },
+        {
+          "id": "d",
+          "text": "obiecywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„plan” (czasownik, poziom B1) oznacza po polsku „planować, planować”."
+    },
+    {
+      "id": "b1-czasowniki-03-022",
+      "question": "plant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "demokracja"
+        },
+        {
+          "id": "b",
+          "text": "(rośliny) sadzić, obsadzać"
+        },
+        {
+          "id": "c",
+          "text": "przypominać sobie"
+        },
+        {
+          "id": "d",
+          "text": "maksymalny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„plant” (czasownik, poziom B1) oznacza po polsku „(rośliny) sadzić, obsadzać”."
+    },
+    {
+      "id": "b1-czasowniki-03-023",
+      "question": "please",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadowalać"
+        },
+        {
+          "id": "b",
+          "text": "prawo autorskie, copyright"
+        },
+        {
+          "id": "c",
+          "text": "mechaniczny"
+        },
+        {
+          "id": "d",
+          "text": "depresja, przygnębienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„please” (czasownik, poziom B1) oznacza po polsku „zadowalać”."
+    },
+    {
+      "id": "b1-czasowniki-03-024",
+      "question": "possess",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zabierać się"
+        },
+        {
+          "id": "b",
+          "text": "posiadać"
+        },
+        {
+          "id": "c",
+          "text": "planować, planować"
+        },
+        {
+          "id": "d",
+          "text": "wyraźny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„possess” (czasownik, poziom B1) oznacza po polsku „posiadać”."
+    },
+    {
+      "id": "b1-czasowniki-03-025",
+      "question": "preserve",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zużycie"
+        },
+        {
+          "id": "b",
+          "text": "zachowywać"
+        },
+        {
+          "id": "c",
+          "text": "głębokość"
+        },
+        {
+          "id": "d",
+          "text": "przekonywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„preserve” (czasownik, poziom B1) oznacza po polsku „zachowywać”."
+    },
+    {
+      "id": "b1-czasowniki-03-026",
+      "question": "proceed",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chronić"
+        },
+        {
+          "id": "b",
+          "text": "zabierać się"
+        },
+        {
+          "id": "c",
+          "text": "propagować"
+        },
+        {
+          "id": "d",
+          "text": "oszałamiać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„proceed” (czasownik, poziom B1) oznacza po polsku „zabierać się”."
+    },
+    {
+      "id": "b1-czasowniki-03-027",
+      "question": "proclaim",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogłaszać"
+        },
+        {
+          "id": "b",
+          "text": "nagi"
+        },
+        {
+          "id": "c",
+          "text": "pomniejszy"
+        },
+        {
+          "id": "d",
+          "text": "doręczanie poczty, doręczanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„proclaim” (czasownik, poziom B1) oznacza po polsku „ogłaszać”."
+    },
+    {
+      "id": "b1-czasowniki-03-028",
+      "question": "programme",
+      "answers": [
+        {
+          "id": "a",
+          "text": "morski"
+        },
+        {
+          "id": "b",
+          "text": "program"
+        },
+        {
+          "id": "c",
+          "text": "propagować"
+        },
+        {
+          "id": "d",
+          "text": "umiarkowany"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„programme” (czasownik, poziom B1) oznacza po polsku „program”."
+    },
+    {
+      "id": "b1-czasowniki-03-029",
+      "question": "promise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obiecywać"
+        },
+        {
+          "id": "b",
+          "text": "zużycie"
+        },
+        {
+          "id": "c",
+          "text": "wybaczać"
+        },
+        {
+          "id": "d",
+          "text": "obrona"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„promise” (czasownik, poziom B1) oznacza po polsku „obiecywać”."
+    },
+    {
+      "id": "b1-czasowniki-03-030",
+      "question": "promote",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lojalny"
+        },
+        {
+          "id": "b",
+          "text": "zmniejszenie się, zmniejszenie, pogorszenie się, pogorszenie"
+        },
+        {
+          "id": "c",
+          "text": "propagować"
+        },
+        {
+          "id": "d",
+          "text": "definicja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„promote” (czasownik, poziom B1) oznacza po polsku „propagować”."
+    },
+    {
+      "id": "b1-czasowniki-03-031",
+      "question": "propose",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zużycie"
+        },
+        {
+          "id": "b",
+          "text": "sugerować, proponować"
+        },
+        {
+          "id": "c",
+          "text": "odłamki, szczątki"
+        },
+        {
+          "id": "d",
+          "text": "prawo autorskie, copyright"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„propose” (czasownik, poziom B1) oznacza po polsku „sugerować, proponować”."
+    },
+    {
+      "id": "b1-czasowniki-03-032",
+      "question": "protect",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chronić"
+        },
+        {
+          "id": "b",
+          "text": "zmniejszenie, spadek"
+        },
+        {
+          "id": "c",
+          "text": "przestawiać, reorganizować"
+        },
+        {
+          "id": "d",
+          "text": "ciekły, płynny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„protect” (czasownik, poziom B1) oznacza po polsku „chronić”."
+    },
+    {
+      "id": "b1-czasowniki-03-033",
+      "question": "prove",
+      "answers": [
+        {
+          "id": "a",
+          "text": "udowadniać, wykazywać"
+        },
+        {
+          "id": "b",
+          "text": "być winnym"
+        },
+        {
+          "id": "c",
+          "text": "literacki"
+        },
+        {
+          "id": "d",
+          "text": "program"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prove” (czasownik, poziom B1) oznacza po polsku „udowadniać, wykazywać”."
+    },
+    {
+      "id": "b1-czasowniki-03-034",
+      "question": "punish",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odłamki, szczątki"
+        },
+        {
+          "id": "b",
+          "text": "udowadniać, wykazywać"
+        },
+        {
+          "id": "c",
+          "text": "karać"
+        },
+        {
+          "id": "d",
+          "text": "nieruchomy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„punish” (czasownik, poziom B1) oznacza po polsku „karać”."
+    },
+    {
+      "id": "b1-czasowniki-03-035",
+      "question": "purify",
+      "answers": [
+        {
+          "id": "a",
+          "text": "głębokość"
+        },
+        {
+          "id": "b",
+          "text": "oczyszczać"
+        },
+        {
+          "id": "c",
+          "text": "demokracja"
+        },
+        {
+          "id": "d",
+          "text": "odłamki, szczątki"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„purify” (czasownik, poziom B1) oznacza po polsku „oczyszczać”."
+    },
+    {
+      "id": "b1-czasowniki-03-036",
+      "question": "qualify",
+      "answers": [
+        {
+          "id": "a",
+          "text": "otrzymywać dyplom"
+        },
+        {
+          "id": "b",
+          "text": "(mąż) wzorowy"
+        },
+        {
+          "id": "c",
+          "text": "umysłowy"
+        },
+        {
+          "id": "d",
+          "text": "męski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„qualify” (czasownik, poziom B1) oznacza po polsku „otrzymywać dyplom”."
+    },
+    {
+      "id": "b1-czasowniki-03-037",
+      "question": "rap",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzajemny"
+        },
+        {
+          "id": "b",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "stukać"
+        },
+        {
+          "id": "d",
+          "text": "znaczący, posiadający znaczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rap” (czasownik, poziom B1) oznacza po polsku „stukać”."
+    },
+    {
+      "id": "b1-czasowniki-03-038",
+      "question": "react",
+      "answers": [
+        {
+          "id": "a",
+          "text": "umysłowy"
+        },
+        {
+          "id": "b",
+          "text": "(rośliny) żywy"
+        },
+        {
+          "id": "c",
+          "text": "pokonywać"
+        },
+        {
+          "id": "d",
+          "text": "reagować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„react” (czasownik, poziom B1) oznacza po polsku „reagować”."
+    },
+    {
+      "id": "b1-czasowniki-03-039",
+      "question": "rearrange",
+      "answers": [
+        {
+          "id": "a",
+          "text": "comiesięczny"
+        },
+        {
+          "id": "b",
+          "text": "przestawiać, reorganizować"
+        },
+        {
+          "id": "c",
+          "text": "czyn, wyczyn"
+        },
+        {
+          "id": "d",
+          "text": "zmniejszenie się, zmniejszenie, pogorszenie się, pogorszenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rearrange” (czasownik, poziom B1) oznacza po polsku „przestawiać, reorganizować”."
+    },
+    {
+      "id": "b1-czasowniki-03-040",
+      "question": "rebuild",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odbudowywać"
+        },
+        {
+          "id": "b",
+          "text": "blask"
+        },
+        {
+          "id": "c",
+          "text": "wkład"
+        },
+        {
+          "id": "d",
+          "text": "niedostatek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rebuild” (czasownik, poziom B1) oznacza po polsku „odbudowywać”."
+    },
+    {
+      "id": "b1-czasowniki-03-041",
+      "question": "recall",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przypominać sobie"
+        },
+        {
+          "id": "b",
+          "text": "narracyjny"
+        },
+        {
+          "id": "c",
+          "text": "wkład"
+        },
+        {
+          "id": "d",
+          "text": "definicja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„recall” (czasownik, poziom B1) oznacza po polsku „przypominać sobie”."
+    },
+    {
+      "id": "b1-czasowniki-03-042",
+      "question": "recite",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paraliżować"
+        },
+        {
+          "id": "b",
+          "text": "recytować"
+        },
+        {
+          "id": "c",
+          "text": "rozpoznawać"
+        },
+        {
+          "id": "d",
+          "text": "doręczanie poczty, doręczanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„recite” (czasownik, poziom B1) oznacza po polsku „recytować”."
+    },
+    {
+      "id": "b1-czasowniki-03-043",
+      "question": "reclaim",
+      "answers": [
+        {
+          "id": "a",
+          "text": "program"
+        },
+        {
+          "id": "b",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "przytłaczać, miażdżyć"
+        },
+        {
+          "id": "d",
+          "text": "odbudowywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reclaim” (czasownik, poziom B1) oznacza po polsku „odzyskiwać”."
+    },
+    {
+      "id": "b1-czasowniki-03-044",
+      "question": "recognize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "średni"
+        },
+        {
+          "id": "b",
+          "text": "recytować"
+        },
+        {
+          "id": "c",
+          "text": "termin ostateczny, termin"
+        },
+        {
+          "id": "d",
+          "text": "rozpoznawać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„recognize” (czasownik, poziom B1) oznacza po polsku „rozpoznawać”."
+    },
+    {
+      "id": "b1-czasowniki-03-045",
+      "question": "recommend",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zabierać"
+        },
+        {
+          "id": "b",
+          "text": "organiczny"
+        },
+        {
+          "id": "c",
+          "text": "rozkład, dystrybucja"
+        },
+        {
+          "id": "d",
+          "text": "polecać, rekomendować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„recommend” (czasownik, poziom B1) oznacza po polsku „polecać, rekomendować”."
+    },
+    {
+      "id": "b1-czasowniki-03-046",
+      "question": "recover",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reprodukować, naśladować"
+        },
+        {
+          "id": "b",
+          "text": "wyzdrowieć"
+        },
+        {
+          "id": "c",
+          "text": "zniszczenie"
+        },
+        {
+          "id": "d",
+          "text": "zatłuszczony, natłuszczony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„recover” (czasownik, poziom B1) oznacza po polsku „wyzdrowieć”."
+    },
+    {
+      "id": "b1-czasowniki-03-047",
+      "question": "reduce",
+      "answers": [
+        {
+          "id": "a",
+          "text": "polegać"
+        },
+        {
+          "id": "b",
+          "text": "redukować, zmniejszać"
+        },
+        {
+          "id": "c",
+          "text": "delfin"
+        },
+        {
+          "id": "d",
+          "text": "organiczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reduce” (czasownik, poziom B1) oznacza po polsku „redukować, zmniejszać”."
+    },
+    {
+      "id": "b1-czasowniki-03-048",
+      "question": "regain",
+      "answers": [
+        {
+          "id": "a",
+          "text": "choroba, schorzenie"
+        },
+        {
+          "id": "b",
+          "text": "dolegliwość"
+        },
+        {
+          "id": "c",
+          "text": "dzielnica, dystrykt"
+        },
+        {
+          "id": "d",
+          "text": "odzyskiwać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„regain” (czasownik, poziom B1) oznacza po polsku „odzyskiwać”."
+    },
+    {
+      "id": "b1-czasowniki-03-049",
+      "question": "reject",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamieszki"
+        },
+        {
+          "id": "b",
+          "text": "detektyw"
+        },
+        {
+          "id": "c",
+          "text": "odrzucać"
+        },
+        {
+          "id": "d",
+          "text": "zwykły"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reject” (czasownik, poziom B1) oznacza po polsku „odrzucać”."
+    },
+    {
+      "id": "b1-czasowniki-03-050",
+      "question": "relate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odnosić się"
+        },
+        {
+          "id": "b",
+          "text": "notoryczny"
+        },
+        {
+          "id": "c",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "d",
+          "text": "wystraszać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„relate” (czasownik, poziom B1) oznacza po polsku „odnosić się”."
+    },
+    {
+      "id": "b1-czasowniki-03-051",
+      "question": "release",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wypuszczać"
+        },
+        {
+          "id": "b",
+          "text": "choroba, schorzenie"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowanie"
+        },
+        {
+          "id": "d",
+          "text": "nurek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„release” (czasownik, poziom B1) oznacza po polsku „wypuszczać”."
+    },
+    {
+      "id": "b1-czasowniki-03-052",
+      "question": "rely",
+      "answers": [
+        {
+          "id": "a",
+          "text": "liczny"
+        },
+        {
+          "id": "b",
+          "text": "pielucha"
+        },
+        {
+          "id": "c",
+          "text": "choroba, schorzenie"
+        },
+        {
+          "id": "d",
+          "text": "polegać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rely” (czasownik, poziom B1) oznacza po polsku „polegać”."
+    },
+    {
+      "id": "b1-czasowniki-03-053",
+      "question": "remove",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyzdrowieć"
+        },
+        {
+          "id": "b",
+          "text": "odległość"
+        },
+        {
+          "id": "c",
+          "text": "zabierać"
+        },
+        {
+          "id": "d",
+          "text": "potrzebować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„remove” (czasownik, poziom B1) oznacza po polsku „zabierać”."
+    },
+    {
+      "id": "b1-czasowniki-03-054",
+      "question": "renew",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwracać"
+        },
+        {
+          "id": "b",
+          "text": "widoczny"
+        },
+        {
+          "id": "c",
+          "text": "pomieszczenie, pokój"
+        },
+        {
+          "id": "d",
+          "text": "wznawiać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„renew” (czasownik, poziom B1) oznacza po polsku „wznawiać”."
+    },
+    {
+      "id": "b1-czasowniki-03-055",
+      "question": "repay",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zniszczenie"
+        },
+        {
+          "id": "b",
+          "text": "zwracać"
+        },
+        {
+          "id": "c",
+          "text": "rozwój"
+        },
+        {
+          "id": "d",
+          "text": "rozrzucać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„repay” (czasownik, poziom B1) oznacza po polsku „zwracać”."
+    },
+    {
+      "id": "b1-czasowniki-03-056",
+      "question": "reply",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brud, kurz"
+        },
+        {
+          "id": "b",
+          "text": "odpowiadać"
+        },
+        {
+          "id": "c",
+          "text": "delfin"
+        },
+        {
+          "id": "d",
+          "text": "cierpliwy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reply” (czasownik, poziom B1) oznacza po polsku „odpowiadać”."
+    },
+    {
+      "id": "b1-czasowniki-03-057",
+      "question": "report",
+      "answers": [
+        {
+          "id": "a",
+          "text": "donosić, zgłaszać"
+        },
+        {
+          "id": "b",
+          "text": "klęska"
+        },
+        {
+          "id": "c",
+          "text": "dolegliwość"
+        },
+        {
+          "id": "d",
+          "text": "postanawiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„report” (czasownik, poziom B1) oznacza po polsku „donosić, zgłaszać”."
+    },
+    {
+      "id": "b1-czasowniki-03-058",
+      "question": "reproduce",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reprodukować, naśladować"
+        },
+        {
+          "id": "b",
+          "text": "polecać, rekomendować"
+        },
+        {
+          "id": "c",
+          "text": "częściowy"
+        },
+        {
+          "id": "d",
+          "text": "zabierać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„reproduce” (czasownik, poziom B1) oznacza po polsku „reprodukować, naśladować”."
+    },
+    {
+      "id": "b1-czasowniki-03-059",
+      "question": "require",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paskudny, nieprzyjemny"
+        },
+        {
+          "id": "b",
+          "text": "dzielnica, dystrykt"
+        },
+        {
+          "id": "c",
+          "text": "potrzebować"
+        },
+        {
+          "id": "d",
+          "text": "odpowiadać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„require” (czasownik, poziom B1) oznacza po polsku „potrzebować”."
+    },
+    {
+      "id": "b1-czasowniki-03-060",
+      "question": "resemble",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wąski"
+        },
+        {
+          "id": "b",
+          "text": "zwracać"
+        },
+        {
+          "id": "c",
+          "text": "przypominać, być podobnym"
+        },
+        {
+          "id": "d",
+          "text": "organiczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„resemble” (czasownik, poziom B1) oznacza po polsku „przypominać, być podobnym”."
+    },
+    {
+      "id": "b1-czasowniki-03-061",
+      "question": "resist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stawiać opór, opierać się, opierać"
+        },
+        {
+          "id": "b",
+          "text": "rozwój"
+        },
+        {
+          "id": "c",
+          "text": "przywracać"
+        },
+        {
+          "id": "d",
+          "text": "na zewnątrz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„resist” (czasownik, poziom B1) oznacza po polsku „stawiać opór, opierać się, opierać”."
+    },
+    {
+      "id": "b1-czasowniki-03-062",
+      "question": "resolve",
+      "answers": [
+        {
+          "id": "a",
+          "text": "postanawiać"
+        },
+        {
+          "id": "b",
+          "text": "przepisywać, ulepszać"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowanie"
+        },
+        {
+          "id": "d",
+          "text": "odżywczy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„resolve” (czasownik, poziom B1) oznacza po polsku „postanawiać”."
+    },
+    {
+      "id": "b1-czasowniki-03-063",
+      "question": "respond",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwracać"
+        },
+        {
+          "id": "b",
+          "text": "postanawiać"
+        },
+        {
+          "id": "c",
+          "text": "odpowiadać"
+        },
+        {
+          "id": "d",
+          "text": "wykres"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„respond” (czasownik, poziom B1) oznacza po polsku „odpowiadać”."
+    },
+    {
+      "id": "b1-czasowniki-03-064",
+      "question": "restore",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nocny"
+        },
+        {
+          "id": "b",
+          "text": "przywracać"
+        },
+        {
+          "id": "c",
+          "text": "polecać, rekomendować"
+        },
+        {
+          "id": "d",
+          "text": "odkrycie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„restore” (czasownik, poziom B1) oznacza po polsku „przywracać”."
+    },
+    {
+      "id": "b1-czasowniki-03-065",
+      "question": "restrict",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brud, kurz"
+        },
+        {
+          "id": "b",
+          "text": "ograniczać"
+        },
+        {
+          "id": "c",
+          "text": "besztać, łajać"
+        },
+        {
+          "id": "d",
+          "text": "wybitny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„restrict” (czasownik, poziom B1) oznacza po polsku „ograniczać”."
+    },
+    {
+      "id": "b1-czasowniki-03-066",
+      "question": "result",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dawać w wyniku"
+        },
+        {
+          "id": "b",
+          "text": "poprawiać, rewidować"
+        },
+        {
+          "id": "c",
+          "text": "nurek"
+        },
+        {
+          "id": "d",
+          "text": "stawiać opór, opierać się, opierać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„result” (czasownik, poziom B1) oznacza po polsku „dawać w wyniku”."
+    },
+    {
+      "id": "b1-czasowniki-03-067",
+      "question": "retain",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poprawiać, rewidować"
+        },
+        {
+          "id": "b",
+          "text": "zachowywać, zatrzymywać"
+        },
+        {
+          "id": "c",
+          "text": "polecać, rekomendować"
+        },
+        {
+          "id": "d",
+          "text": "redukować, zmniejszać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„retain” (czasownik, poziom B1) oznacza po polsku „zachowywać, zatrzymywać”."
+    },
+    {
+      "id": "b1-czasowniki-03-068",
+      "question": "revise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "organiczny"
+        },
+        {
+          "id": "b",
+          "text": "poprawiać, rewidować"
+        },
+        {
+          "id": "c",
+          "text": "miejsce przeznaczenia"
+        },
+        {
+          "id": "d",
+          "text": "pobliski"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„revise” (czasownik, poziom B1) oznacza po polsku „poprawiać, rewidować”."
+    },
+    {
+      "id": "b1-czasowniki-03-069",
+      "question": "rewrite",
+      "answers": [
+        {
+          "id": "a",
+          "text": "detektyw"
+        },
+        {
+          "id": "b",
+          "text": "przepisywać, ulepszać"
+        },
+        {
+          "id": "c",
+          "text": "niepełnoetatowy"
+        },
+        {
+          "id": "d",
+          "text": "reprodukować, naśladować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rewrite” (czasownik, poziom B1) oznacza po polsku „przepisywać, ulepszać”."
+    },
+    {
+      "id": "b1-czasowniki-03-070",
+      "question": "room",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjściowy"
+        },
+        {
+          "id": "b",
+          "text": "nocny"
+        },
+        {
+          "id": "c",
+          "text": "pomieszczenie, pokój"
+        },
+        {
+          "id": "d",
+          "text": "rozrzucać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„room” (czasownik, poziom B1) oznacza po polsku „pomieszczenie, pokój”."
+    },
+    {
+      "id": "b1-czasowniki-03-071",
+      "question": "scare",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miejsce przeznaczenia"
+        },
+        {
+          "id": "b",
+          "text": "bierny"
+        },
+        {
+          "id": "c",
+          "text": "rozłam"
+        },
+        {
+          "id": "d",
+          "text": "wystraszać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„scare” (czasownik, poziom B1) oznacza po polsku „wystraszać”."
+    },
+    {
+      "id": "b1-czasowniki-03-072",
+      "question": "scatter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krążek, tarcza"
+        },
+        {
+          "id": "b",
+          "text": "wąski"
+        },
+        {
+          "id": "c",
+          "text": "rozrzucać"
+        },
+        {
+          "id": "d",
+          "text": "rozwój"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„scatter” (czasownik, poziom B1) oznacza po polsku „rozrzucać”."
+    },
+    {
+      "id": "b1-czasowniki-03-073",
+      "question": "scold",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odkrycie"
+        },
+        {
+          "id": "b",
+          "text": "besztać, łajać"
+        },
+        {
+          "id": "c",
+          "text": "niepełnoetatowy"
+        },
+        {
+          "id": "d",
+          "text": "bierny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„scold” (czasownik, poziom B1) oznacza po polsku „besztać, łajać”."
+    },
+    {
+      "id": "b1-czasowniki-03-074",
+      "question": "scream",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "b",
+          "text": "zachowywać, zatrzymywać"
+        },
+        {
+          "id": "c",
+          "text": "liczny"
+        },
+        {
+          "id": "d",
+          "text": "krzyczeć przenikliwie, krzyczeć, wykrzykiwać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„scream” (czasownik, poziom B1) oznacza po polsku „krzyczeć przenikliwie, krzyczeć, wykrzykiwać”."
+    }
+  ]
+}

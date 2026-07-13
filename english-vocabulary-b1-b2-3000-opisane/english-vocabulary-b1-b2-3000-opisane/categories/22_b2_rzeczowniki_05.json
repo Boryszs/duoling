@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-rzeczowniki-05",
+    "name": "B2 — Rzeczowniki 5/9 (G–L)"
+  },
+  "questions": [
+    {
+      "id": "b2-rzeczowniki-05-001",
+      "question": "gum",
+      "answers": [
+        {
+          "id": "a",
+          "text": "datek, wsparcie, zapomoga"
+        },
+        {
+          "id": "b",
+          "text": "guma do żucia, guma"
+        },
+        {
+          "id": "c",
+          "text": "(also fumes) (zwł.) wyziewy, opary"
+        },
+        {
+          "id": "d",
+          "text": "gosposia, pomoc domowa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„gum” (rzeczownik, poziom B2) oznacza po polsku „guma do żucia, guma”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-002",
+      "question": "gunshot",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upośledzenie"
+        },
+        {
+          "id": "b",
+          "text": "ostrzyć"
+        },
+        {
+          "id": "c",
+          "text": "datek, wsparcie, zapomoga"
+        },
+        {
+          "id": "d",
+          "text": "wystrzał"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gunshot” (rzeczownik, poziom B2) oznacza po polsku „wystrzał”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-003",
+      "question": "handicap",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ilustracja"
+        },
+        {
+          "id": "b",
+          "text": "upośledzenie"
+        },
+        {
+          "id": "c",
+          "text": "uśmiech"
+        },
+        {
+          "id": "d",
+          "text": "wściekłe spojrzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„handicap” (rzeczownik, poziom B2) oznacza po polsku „upośledzenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-004",
+      "question": "handicraft",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grypa"
+        },
+        {
+          "id": "b",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "c",
+          "text": "rzemiosło, rękodzieło"
+        },
+        {
+          "id": "d",
+          "text": "uśmiech"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„handicraft” (rzeczownik, poziom B2) oznacza po polsku „rzemiosło, rękodzieło”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-005",
+      "question": "handout",
+      "answers": [
+        {
+          "id": "a",
+          "text": "datek, wsparcie, zapomoga"
+        },
+        {
+          "id": "b",
+          "text": "zwolennik, uczeń"
+        },
+        {
+          "id": "c",
+          "text": "(also fumes) (zwł.) wyziewy, opary"
+        },
+        {
+          "id": "d",
+          "text": "zawahanie się, zawahanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„handout” (rzeczownik, poziom B2) oznacza po polsku „datek, wsparcie, zapomoga”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-006",
+      "question": "hardware",
+      "answers": [
+        {
+          "id": "a",
+          "text": "identyfikacja"
+        },
+        {
+          "id": "b",
+          "text": "narzędzia metalowe"
+        },
+        {
+          "id": "c",
+          "text": "życzliwość"
+        },
+        {
+          "id": "d",
+          "text": "krzywda"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hardware” (rzeczownik, poziom B2) oznacza po polsku „narzędzia metalowe”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-007",
+      "question": "harm",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziedzictwo"
+        },
+        {
+          "id": "b",
+          "text": "krzywda"
+        },
+        {
+          "id": "c",
+          "text": "indeks"
+        },
+        {
+          "id": "d",
+          "text": "żar, blask"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„harm” (rzeczownik, poziom B2) oznacza po polsku „krzywda”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-008",
+      "question": "haste",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziedzictwo"
+        },
+        {
+          "id": "b",
+          "text": "siano"
+        },
+        {
+          "id": "c",
+          "text": "bodziec"
+        },
+        {
+          "id": "d",
+          "text": "pośpiech"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„haste” (rzeczownik, poziom B2) oznacza po polsku „pośpiech”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-009",
+      "question": "hay",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siano"
+        },
+        {
+          "id": "b",
+          "text": "helikopter"
+        },
+        {
+          "id": "c",
+          "text": "zwolennik, uczeń"
+        },
+        {
+          "id": "d",
+          "text": "chwyt, uścisk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„hay” (rzeczownik, poziom B2) oznacza po polsku „siano”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-010",
+      "question": "headquarters",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aromat"
+        },
+        {
+          "id": "b",
+          "text": "kwatera główna"
+        },
+        {
+          "id": "c",
+          "text": "poniżenie"
+        },
+        {
+          "id": "d",
+          "text": "dziedzictwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„headquarters” (rzeczownik, poziom B2) oznacza po polsku „kwatera główna”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-011",
+      "question": "heap",
+      "answers": [
+        {
+          "id": "a",
+          "text": "życzliwość"
+        },
+        {
+          "id": "b",
+          "text": "uśmiech"
+        },
+        {
+          "id": "c",
+          "text": "sterta, kupa"
+        },
+        {
+          "id": "d",
+          "text": "helikopter"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„heap” (rzeczownik, poziom B2) oznacza po polsku „sterta, kupa”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-012",
+      "question": "hedge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tworzenie się, tworzenie, formowanie się, formowanie"
+        },
+        {
+          "id": "b",
+          "text": "wściekłe spojrzenie"
+        },
+        {
+          "id": "c",
+          "text": "żywopłot"
+        },
+        {
+          "id": "d",
+          "text": "żar, blask"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„hedge” (rzeczownik, poziom B2) oznacza po polsku „żywopłot”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-013",
+      "question": "helicopter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "getto"
+        },
+        {
+          "id": "b",
+          "text": "uśmiech"
+        },
+        {
+          "id": "c",
+          "text": "upośledzenie"
+        },
+        {
+          "id": "d",
+          "text": "helikopter"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„helicopter” (rzeczownik, poziom B2) oznacza po polsku „helikopter”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-014",
+      "question": "hell",
+      "answers": [
+        {
+          "id": "a",
+          "text": "imitacja"
+        },
+        {
+          "id": "b",
+          "text": "gościnność"
+        },
+        {
+          "id": "c",
+          "text": "łyk"
+        },
+        {
+          "id": "d",
+          "text": "piekło"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hell” (rzeczownik, poziom B2) oznacza po polsku „piekło”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-015",
+      "question": "helper",
+      "answers": [
+        {
+          "id": "a",
+          "text": "majster"
+        },
+        {
+          "id": "b",
+          "text": "narzędzie"
+        },
+        {
+          "id": "c",
+          "text": "zarazek"
+        },
+        {
+          "id": "d",
+          "text": "pomocnik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„helper” (rzeczownik, poziom B2) oznacza po polsku „pomocnik”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-016",
+      "question": "hemp",
+      "answers": [
+        {
+          "id": "a",
+          "text": "leśnictwo, gospodarka leśna"
+        },
+        {
+          "id": "b",
+          "text": "ideologia"
+        },
+        {
+          "id": "c",
+          "text": "porywać"
+        },
+        {
+          "id": "d",
+          "text": "konopie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hemp” (rzeczownik, poziom B2) oznacza po polsku „konopie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-017",
+      "question": "herb",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bodziec"
+        },
+        {
+          "id": "b",
+          "text": "ziele, zioło"
+        },
+        {
+          "id": "c",
+          "text": "wytyczna, dyrektywa"
+        },
+        {
+          "id": "d",
+          "text": "geniusz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„herb” (rzeczownik, poziom B2) oznacza po polsku „ziele, zioło”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-018",
+      "question": "heritage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "imigrant"
+        },
+        {
+          "id": "b",
+          "text": "zawahanie się, zawahanie"
+        },
+        {
+          "id": "c",
+          "text": "dziedzictwo"
+        },
+        {
+          "id": "d",
+          "text": "koza, kozioł"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„heritage” (rzeczownik, poziom B2) oznacza po polsku „dziedzictwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-019",
+      "question": "hesitation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żałość, zgryzota"
+        },
+        {
+          "id": "b",
+          "text": "zawahanie się, zawahanie"
+        },
+        {
+          "id": "c",
+          "text": "ikona"
+        },
+        {
+          "id": "d",
+          "text": "leśnictwo, gospodarka leśna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hesitation” (rzeczownik, poziom B2) oznacza po polsku „zawahanie się, zawahanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-020",
+      "question": "highlight",
+      "answers": [
+        {
+          "id": "a",
+          "text": "najważniejszy punkt, kulminacja"
+        },
+        {
+          "id": "b",
+          "text": "nagrobek"
+        },
+        {
+          "id": "c",
+          "text": "furora, poruszenie"
+        },
+        {
+          "id": "d",
+          "text": "majster"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„highlight” (rzeczownik, poziom B2) oznacza po polsku „najważniejszy punkt, kulminacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-021",
+      "question": "hijack",
+      "answers": [
+        {
+          "id": "a",
+          "text": "porywać"
+        },
+        {
+          "id": "b",
+          "text": "majster"
+        },
+        {
+          "id": "c",
+          "text": "łyk"
+        },
+        {
+          "id": "d",
+          "text": "zadowolenie, radość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„hijack” (rzeczownik, poziom B2) oznacza po polsku „porywać”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-022",
+      "question": "hint",
+      "answers": [
+        {
+          "id": "a",
+          "text": "najważniejszy punkt, kulminacja"
+        },
+        {
+          "id": "b",
+          "text": "helikopter"
+        },
+        {
+          "id": "c",
+          "text": "narzędzie"
+        },
+        {
+          "id": "d",
+          "text": "aluzja, napomknienie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hint” (rzeczownik, poziom B2) oznacza po polsku „aluzja, napomknienie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-023",
+      "question": "holder",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hojność, szczodrość"
+        },
+        {
+          "id": "b",
+          "text": "imitacja"
+        },
+        {
+          "id": "c",
+          "text": "higiena"
+        },
+        {
+          "id": "d",
+          "text": "opakowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„holder” (rzeczownik, poziom B2) oznacza po polsku „opakowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-024",
+      "question": "hone",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ostrzyć"
+        },
+        {
+          "id": "b",
+          "text": "ziarno"
+        },
+        {
+          "id": "c",
+          "text": "siano"
+        },
+        {
+          "id": "d",
+          "text": "wystrzał"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„hone” (rzeczownik, poziom B2) oznacza po polsku „ostrzyć”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-025",
+      "question": "hood",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gangster"
+        },
+        {
+          "id": "b",
+          "text": "kaptur"
+        },
+        {
+          "id": "c",
+          "text": "identyfikacja"
+        },
+        {
+          "id": "d",
+          "text": "furora, poruszenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hood” (rzeczownik, poziom B2) oznacza po polsku „kaptur”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-026",
+      "question": "hospitality",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gościnność"
+        },
+        {
+          "id": "b",
+          "text": "lis"
+        },
+        {
+          "id": "c",
+          "text": "zniewaga, obraza"
+        },
+        {
+          "id": "d",
+          "text": "higiena"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„hospitality” (rzeczownik, poziom B2) oznacza po polsku „gościnność”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-027",
+      "question": "housekeeper",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gosposia, pomoc domowa"
+        },
+        {
+          "id": "b",
+          "text": "narzędzie"
+        },
+        {
+          "id": "c",
+          "text": "ideologia"
+        },
+        {
+          "id": "d",
+          "text": "imitacja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„housekeeper” (rzeczownik, poziom B2) oznacza po polsku „gosposia, pomoc domowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-028",
+      "question": "housewife",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gospodyni domowa, pani domu"
+        },
+        {
+          "id": "b",
+          "text": "ziarno"
+        },
+        {
+          "id": "c",
+          "text": "uścisk"
+        },
+        {
+          "id": "d",
+          "text": "kaptur"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„housewife” (rzeczownik, poziom B2) oznacza po polsku „gospodyni domowa, pani domu”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-029",
+      "question": "hug",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fregata"
+        },
+        {
+          "id": "b",
+          "text": "uścisk"
+        },
+        {
+          "id": "c",
+          "text": "żar, blask"
+        },
+        {
+          "id": "d",
+          "text": "szaleństwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hug” (rzeczownik, poziom B2) oznacza po polsku „uścisk”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-030",
+      "question": "humbug",
+      "answers": [
+        {
+          "id": "a",
+          "text": "geniusz"
+        },
+        {
+          "id": "b",
+          "text": "miętus, miętówka"
+        },
+        {
+          "id": "c",
+          "text": "defraudacja"
+        },
+        {
+          "id": "d",
+          "text": "kadzidło"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„humbug” (rzeczownik, poziom B2) oznacza po polsku „miętus, miętówka”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-031",
+      "question": "humiliation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "narzędzie"
+        },
+        {
+          "id": "b",
+          "text": "zawahanie się, zawahanie"
+        },
+        {
+          "id": "c",
+          "text": "poniżenie"
+        },
+        {
+          "id": "d",
+          "text": "geniusz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„humiliation” (rzeczownik, poziom B2) oznacza po polsku „poniżenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-032",
+      "question": "hygiene",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aluzja, napomknienie"
+        },
+        {
+          "id": "b",
+          "text": "dziedzictwo"
+        },
+        {
+          "id": "c",
+          "text": "higiena"
+        },
+        {
+          "id": "d",
+          "text": "bodziec"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„hygiene” (rzeczownik, poziom B2) oznacza po polsku „higiena”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-033",
+      "question": "icon",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wejście, brama"
+        },
+        {
+          "id": "b",
+          "text": "szaleństwo"
+        },
+        {
+          "id": "c",
+          "text": "ikona"
+        },
+        {
+          "id": "d",
+          "text": "połysk, blask, przebłysk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„icon” (rzeczownik, poziom B2) oznacza po polsku „ikona”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-034",
+      "question": "identification",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziecko małe, dziecko, niemowlę"
+        },
+        {
+          "id": "b",
+          "text": "identyfikacja"
+        },
+        {
+          "id": "c",
+          "text": "pośpiech"
+        },
+        {
+          "id": "d",
+          "text": "hojność, szczodrość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„identification” (rzeczownik, poziom B2) oznacza po polsku „identyfikacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-035",
+      "question": "ideology",
+      "answers": [
+        {
+          "id": "a",
+          "text": "getto"
+        },
+        {
+          "id": "b",
+          "text": "życzliwość"
+        },
+        {
+          "id": "c",
+          "text": "ideologia"
+        },
+        {
+          "id": "d",
+          "text": "spojrzenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ideology” (rzeczownik, poziom B2) oznacza po polsku „ideologia”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-036",
+      "question": "idiot",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inicjatywa"
+        },
+        {
+          "id": "b",
+          "text": "kaptur"
+        },
+        {
+          "id": "c",
+          "text": "idiota"
+        },
+        {
+          "id": "d",
+          "text": "(form) nakaz, imperatyw"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„idiot” (rzeczownik, poziom B2) oznacza po polsku „idiota”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-037",
+      "question": "ignorance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piekło"
+        },
+        {
+          "id": "b",
+          "text": "nieświadomość"
+        },
+        {
+          "id": "c",
+          "text": "porywać"
+        },
+        {
+          "id": "d",
+          "text": "kadzidło"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ignorance” (rzeczownik, poziom B2) oznacza po polsku „nieświadomość”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-038",
+      "question": "illustration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarazek"
+        },
+        {
+          "id": "b",
+          "text": "ilustracja"
+        },
+        {
+          "id": "c",
+          "text": "przypis"
+        },
+        {
+          "id": "d",
+          "text": "życzliwość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„illustration” (rzeczownik, poziom B2) oznacza po polsku „ilustracja”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-039",
+      "question": "imagery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "porywać"
+        },
+        {
+          "id": "b",
+          "text": "narzędzia metalowe"
+        },
+        {
+          "id": "c",
+          "text": "obrazowanie"
+        },
+        {
+          "id": "d",
+          "text": "ziarno"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„imagery” (rzeczownik, poziom B2) oznacza po polsku „obrazowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-040",
+      "question": "imitation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyszenie"
+        },
+        {
+          "id": "b",
+          "text": "imitacja"
+        },
+        {
+          "id": "c",
+          "text": "kadzidło"
+        },
+        {
+          "id": "d",
+          "text": "aromat"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„imitation” (rzeczownik, poziom B2) oznacza po polsku „imitacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-041",
+      "question": "immigrant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pośpiech"
+        },
+        {
+          "id": "b",
+          "text": "ziele, zioło"
+        },
+        {
+          "id": "c",
+          "text": "imigrant"
+        },
+        {
+          "id": "d",
+          "text": "życzliwość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„immigrant” (rzeczownik, poziom B2) oznacza po polsku „imigrant”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-042",
+      "question": "imperative",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) nakaz, imperatyw"
+        },
+        {
+          "id": "b",
+          "text": "przekładnia zębata, przekładnia"
+        },
+        {
+          "id": "c",
+          "text": "nagrobek"
+        },
+        {
+          "id": "d",
+          "text": "wytyczna, dyrektywa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„imperative” (rzeczownik, poziom B2) oznacza po polsku „(form) nakaz, imperatyw”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-043",
+      "question": "implement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "narzędzie"
+        },
+        {
+          "id": "b",
+          "text": "majster"
+        },
+        {
+          "id": "c",
+          "text": "wytyczna, dyrektywa"
+        },
+        {
+          "id": "d",
+          "text": "lis"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„implement” (rzeczownik, poziom B2) oznacza po polsku „narzędzie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-044",
+      "question": "implication",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aluzja, napomknienie"
+        },
+        {
+          "id": "b",
+          "text": "implikacja"
+        },
+        {
+          "id": "c",
+          "text": "furora, poruszenie"
+        },
+        {
+          "id": "d",
+          "text": "gosposia, pomoc domowa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„implication” (rzeczownik, poziom B2) oznacza po polsku „implikacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-045",
+      "question": "imprisonment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uwięzienie, więzienie"
+        },
+        {
+          "id": "b",
+          "text": "grypa"
+        },
+        {
+          "id": "c",
+          "text": "guma do żucia, guma"
+        },
+        {
+          "id": "d",
+          "text": "siano"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„imprisonment” (rzeczownik, poziom B2) oznacza po polsku „uwięzienie, więzienie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-046",
+      "question": "impulse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żałość, zgryzota"
+        },
+        {
+          "id": "b",
+          "text": "uwięzienie, więzienie"
+        },
+        {
+          "id": "c",
+          "text": "impuls"
+        },
+        {
+          "id": "d",
+          "text": "guma do żucia, guma"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„impulse” (rzeczownik, poziom B2) oznacza po polsku „impuls”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-047",
+      "question": "incense",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wniosek"
+        },
+        {
+          "id": "b",
+          "text": "kadzidło"
+        },
+        {
+          "id": "c",
+          "text": "dziecko małe, dziecko, niemowlę"
+        },
+        {
+          "id": "d",
+          "text": "identyfikacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„incense” (rzeczownik, poziom B2) oznacza po polsku „kadzidło”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-048",
+      "question": "incentive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chwyt, uścisk"
+        },
+        {
+          "id": "b",
+          "text": "nieświadomość"
+        },
+        {
+          "id": "c",
+          "text": "bodziec"
+        },
+        {
+          "id": "d",
+          "text": "sterta, kupa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„incentive” (rzeczownik, poziom B2) oznacza po polsku „bodziec”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-049",
+      "question": "index",
+      "answers": [
+        {
+          "id": "a",
+          "text": "leśnictwo, gospodarka leśna"
+        },
+        {
+          "id": "b",
+          "text": "indeks"
+        },
+        {
+          "id": "c",
+          "text": "piekło"
+        },
+        {
+          "id": "d",
+          "text": "dyszenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„index” (rzeczownik, poziom B2) oznacza po polsku „indeks”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-050",
+      "question": "indignity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gościnność"
+        },
+        {
+          "id": "b",
+          "text": "chwyt, uścisk"
+        },
+        {
+          "id": "c",
+          "text": "miętus, miętówka"
+        },
+        {
+          "id": "d",
+          "text": "zniewaga, obraza"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„indignity” (rzeczownik, poziom B2) oznacza po polsku „zniewaga, obraza”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-051",
+      "question": "infant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lis"
+        },
+        {
+          "id": "b",
+          "text": "dziecko małe, dziecko, niemowlę"
+        },
+        {
+          "id": "c",
+          "text": "helikopter"
+        },
+        {
+          "id": "d",
+          "text": "piekło"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„infant” (rzeczownik, poziom B2) oznacza po polsku „dziecko małe, dziecko, niemowlę”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-052",
+      "question": "inference",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obrazowanie"
+        },
+        {
+          "id": "b",
+          "text": "wniosek"
+        },
+        {
+          "id": "c",
+          "text": "porywać"
+        },
+        {
+          "id": "d",
+          "text": "(also fumes) (zwł.) wyziewy, opary"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„inference” (rzeczownik, poziom B2) oznacza po polsku „wniosek”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-053",
+      "question": "inflammation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uścisk"
+        },
+        {
+          "id": "b",
+          "text": "zniewaga, obraza"
+        },
+        {
+          "id": "c",
+          "text": "koza, kozioł"
+        },
+        {
+          "id": "d",
+          "text": "zapalenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„inflammation” (rzeczownik, poziom B2) oznacza po polsku „zapalenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-054",
+      "question": "inflation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomocnik"
+        },
+        {
+          "id": "b",
+          "text": "żar, blask"
+        },
+        {
+          "id": "c",
+          "text": "inflacja"
+        },
+        {
+          "id": "d",
+          "text": "zawahanie się, zawahanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„inflation” (rzeczownik, poziom B2) oznacza po polsku „inflacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-055",
+      "question": "influenza",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łyk"
+        },
+        {
+          "id": "b",
+          "text": "porywać"
+        },
+        {
+          "id": "c",
+          "text": "krzywda"
+        },
+        {
+          "id": "d",
+          "text": "grypa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„influenza” (rzeczownik, poziom B2) oznacza po polsku „grypa”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-056",
+      "question": "infringement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomocnik"
+        },
+        {
+          "id": "b",
+          "text": "zarazek"
+        },
+        {
+          "id": "c",
+          "text": "upośledzenie"
+        },
+        {
+          "id": "d",
+          "text": "naruszenie, złamanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„infringement” (rzeczownik, poziom B2) oznacza po polsku „naruszenie, złamanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-057",
+      "question": "initiative",
+      "answers": [
+        {
+          "id": "a",
+          "text": "majster"
+        },
+        {
+          "id": "b",
+          "text": "inicjatywa"
+        },
+        {
+          "id": "c",
+          "text": "łyk"
+        },
+        {
+          "id": "d",
+          "text": "inflacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„initiative” (rzeczownik, poziom B2) oznacza po polsku „inicjatywa”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-058",
+      "question": "injection",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sposób"
+        },
+        {
+          "id": "b",
+          "text": "tłumacz ustny, tłumacz"
+        },
+        {
+          "id": "c",
+          "text": "zastrzyk"
+        },
+        {
+          "id": "d",
+          "text": "zaangażowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„injection” (rzeczownik, poziom B2) oznacza po polsku „zastrzyk”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-059",
+      "question": "innovation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cudzysłów"
+        },
+        {
+          "id": "b",
+          "text": "innowacja"
+        },
+        {
+          "id": "c",
+          "text": "masaż"
+        },
+        {
+          "id": "d",
+          "text": "lekarstwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„innovation” (rzeczownik, poziom B2) oznacza po polsku „innowacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-060",
+      "question": "input",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wprowadzanie"
+        },
+        {
+          "id": "b",
+          "text": "sposób"
+        },
+        {
+          "id": "c",
+          "text": "nicpoń"
+        },
+        {
+          "id": "d",
+          "text": "jubiler"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„input” (rzeczownik, poziom B2) oznacza po polsku „wprowadzanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-061",
+      "question": "inspector",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oświetlenie"
+        },
+        {
+          "id": "b",
+          "text": "inspektor"
+        },
+        {
+          "id": "c",
+          "text": "całe życie, życie"
+        },
+        {
+          "id": "d",
+          "text": "przerwanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„inspector” (rzeczownik, poziom B2) oznacza po polsku „inspektor”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-062",
+      "question": "instinct",
+      "answers": [
+        {
+          "id": "a",
+          "text": "masakra"
+        },
+        {
+          "id": "b",
+          "text": "instynkt"
+        },
+        {
+          "id": "c",
+          "text": "wprowadzanie"
+        },
+        {
+          "id": "d",
+          "text": "pracownik fizyczny, pracownik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„instinct” (rzeczownik, poziom B2) oznacza po polsku „instynkt”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-063",
+      "question": "institution",
+      "answers": [
+        {
+          "id": "a",
+          "text": "masaż"
+        },
+        {
+          "id": "b",
+          "text": "proces sądowy, postępowanie sądowe"
+        },
+        {
+          "id": "c",
+          "text": "instytucja"
+        },
+        {
+          "id": "d",
+          "text": "biegłość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„institution” (rzeczownik, poziom B2) oznacza po polsku „instytucja”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-064",
+      "question": "insult",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nicpoń"
+        },
+        {
+          "id": "b",
+          "text": "producent"
+        },
+        {
+          "id": "c",
+          "text": "obraza"
+        },
+        {
+          "id": "d",
+          "text": "sposób"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„insult” (rzeczownik, poziom B2) oznacza po polsku „obraza”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-065",
+      "question": "interior",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "b",
+          "text": "prowadzący dochodzenie"
+        },
+        {
+          "id": "c",
+          "text": "wnętrze"
+        },
+        {
+          "id": "d",
+          "text": "fuzja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„interior” (rzeczownik, poziom B2) oznacza po polsku „wnętrze”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-066",
+      "question": "interpretation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "proces sądowy, postępowanie sądowe"
+        },
+        {
+          "id": "b",
+          "text": "sąd przysięgłych"
+        },
+        {
+          "id": "c",
+          "text": "interpretacja"
+        },
+        {
+          "id": "d",
+          "text": "gospodyni"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„interpretation” (rzeczownik, poziom B2) oznacza po polsku „interpretacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-067",
+      "question": "interpreter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "masakra"
+        },
+        {
+          "id": "b",
+          "text": "tłumacz ustny, tłumacz"
+        },
+        {
+          "id": "c",
+          "text": "ulotka"
+        },
+        {
+          "id": "d",
+          "text": "śmieci"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„interpreter” (rzeczownik, poziom B2) oznacza po polsku „tłumacz ustny, tłumacz”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-068",
+      "question": "interruption",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przerwanie"
+        },
+        {
+          "id": "b",
+          "text": "śmieci"
+        },
+        {
+          "id": "c",
+          "text": "produkcja"
+        },
+        {
+          "id": "d",
+          "text": "mango"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„interruption” (rzeczownik, poziom B2) oznacza po polsku „przerwanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-069",
+      "question": "intersection",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "b",
+          "text": "dozorca"
+        },
+        {
+          "id": "c",
+          "text": "słowa pieśni, słowa"
+        },
+        {
+          "id": "d",
+          "text": "pan"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„intersection” (rzeczownik, poziom B2) oznacza po polsku „skrzyżowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-070",
+      "question": "intruder",
+      "answers": [
+        {
+          "id": "a",
+          "text": "intruz, natręt"
+        },
+        {
+          "id": "b",
+          "text": "laser"
+        },
+        {
+          "id": "c",
+          "text": "smycz"
+        },
+        {
+          "id": "d",
+          "text": "pralnia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„intruder” (rzeczownik, poziom B2) oznacza po polsku „intruz, natręt”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-071",
+      "question": "intrusion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzierżawa, najem"
+        },
+        {
+          "id": "b",
+          "text": "ulotka"
+        },
+        {
+          "id": "c",
+          "text": "mentor"
+        },
+        {
+          "id": "d",
+          "text": "najście"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„intrusion” (rzeczownik, poziom B2) oznacza po polsku „najście”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-072",
+      "question": "inventor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mauzoleum"
+        },
+        {
+          "id": "b",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "c",
+          "text": "wynalazca"
+        },
+        {
+          "id": "d",
+          "text": "najście"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„inventor” (rzeczownik, poziom B2) oznacza po polsku „wynalazca”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-073",
+      "question": "inverted commas",
+      "answers": [
+        {
+          "id": "a",
+          "text": "najście"
+        },
+        {
+          "id": "b",
+          "text": "umiar, powściągliwość"
+        },
+        {
+          "id": "c",
+          "text": "ustawodawstwo, prawodawstwo"
+        },
+        {
+          "id": "d",
+          "text": "cudzysłów"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„inverted commas” (rzeczownik, poziom B2) oznacza po polsku „cudzysłów”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-074",
+      "question": "investigator",
+      "answers": [
+        {
+          "id": "a",
+          "text": "innowacja"
+        },
+        {
+          "id": "b",
+          "text": "dozorca"
+        },
+        {
+          "id": "c",
+          "text": "prowadzący dochodzenie"
+        },
+        {
+          "id": "d",
+          "text": "rezydencja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„investigator” (rzeczownik, poziom B2) oznacza po polsku „prowadzący dochodzenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-075",
+      "question": "investment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inwestowanie"
+        },
+        {
+          "id": "b",
+          "text": "zastrzyk"
+        },
+        {
+          "id": "c",
+          "text": "laser"
+        },
+        {
+          "id": "d",
+          "text": "melodia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„investment” (rzeczownik, poziom B2) oznacza po polsku „inwestowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-076",
+      "question": "investor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaangażowanie"
+        },
+        {
+          "id": "b",
+          "text": "pokrywka"
+        },
+        {
+          "id": "c",
+          "text": "(wojsk) major"
+        },
+        {
+          "id": "d",
+          "text": "inwestor"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„investor” (rzeczownik, poziom B2) oznacza po polsku „inwestor”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-077",
+      "question": "involvement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezydencja"
+        },
+        {
+          "id": "b",
+          "text": "zaangażowanie"
+        },
+        {
+          "id": "c",
+          "text": "intruz, natręt"
+        },
+        {
+          "id": "d",
+          "text": "legislatura"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„involvement” (rzeczownik, poziom B2) oznacza po polsku „zaangażowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-078",
+      "question": "irritation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pracownik fizyczny, pracownik"
+        },
+        {
+          "id": "b",
+          "text": "głęboka wiedza, wiedza"
+        },
+        {
+          "id": "c",
+          "text": "irytacja"
+        },
+        {
+          "id": "d",
+          "text": "smycz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„irritation” (rzeczownik, poziom B2) oznacza po polsku „irytacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-079",
+      "question": "islander",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jubiler"
+        },
+        {
+          "id": "b",
+          "text": "sąd przysięgłych"
+        },
+        {
+          "id": "c",
+          "text": "wyspiarz"
+        },
+        {
+          "id": "d",
+          "text": "tłumacz ustny, tłumacz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„islander” (rzeczownik, poziom B2) oznacza po polsku „wyspiarz”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-080",
+      "question": "jaw",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kończyna, odnóże"
+        },
+        {
+          "id": "b",
+          "text": "wprowadzanie"
+        },
+        {
+          "id": "c",
+          "text": "szczęka, żuchwa"
+        },
+        {
+          "id": "d",
+          "text": "wnętrze"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„jaw” (rzeczownik, poziom B2) oznacza po polsku „szczęka, żuchwa”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-081",
+      "question": "jeweller",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożyczka, kredyt bankowy, kredyt"
+        },
+        {
+          "id": "b",
+          "text": "fuzja"
+        },
+        {
+          "id": "c",
+          "text": "jubiler"
+        },
+        {
+          "id": "d",
+          "text": "kangur"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„jeweller” (rzeczownik, poziom B2) oznacza po polsku „jubiler”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-082",
+      "question": "jog",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trucht"
+        },
+        {
+          "id": "b",
+          "text": "wprowadzanie"
+        },
+        {
+          "id": "c",
+          "text": "oświetlenie"
+        },
+        {
+          "id": "d",
+          "text": "biegłość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„jog” (rzeczownik, poziom B2) oznacza po polsku „trucht”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-083",
+      "question": "journalism",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trucht"
+        },
+        {
+          "id": "b",
+          "text": "dziennikarstwo"
+        },
+        {
+          "id": "c",
+          "text": "len"
+        },
+        {
+          "id": "d",
+          "text": "proces sądowy, postępowanie sądowe"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„journalism” (rzeczownik, poziom B2) oznacza po polsku „dziennikarstwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-084",
+      "question": "jump",
+      "answers": [
+        {
+          "id": "a",
+          "text": "towary, towar"
+        },
+        {
+          "id": "b",
+          "text": "laser"
+        },
+        {
+          "id": "c",
+          "text": "dzierżawa, najem"
+        },
+        {
+          "id": "d",
+          "text": "skok"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„jump” (rzeczownik, poziom B2) oznacza po polsku „skok”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-085",
+      "question": "juror",
+      "answers": [
+        {
+          "id": "a",
+          "text": "członek sądu przysięgłego"
+        },
+        {
+          "id": "b",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "c",
+          "text": "legenda"
+        },
+        {
+          "id": "d",
+          "text": "jubiler"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„juror” (rzeczownik, poziom B2) oznacza po polsku „członek sądu przysięgłego”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-086",
+      "question": "jury",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fuzja"
+        },
+        {
+          "id": "b",
+          "text": "tłumacz ustny, tłumacz"
+        },
+        {
+          "id": "c",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "d",
+          "text": "sąd przysięgłych"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„jury” (rzeczownik, poziom B2) oznacza po polsku „sąd przysięgłych”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-087",
+      "question": "kangaroo",
+      "answers": [
+        {
+          "id": "a",
+          "text": "smycz"
+        },
+        {
+          "id": "b",
+          "text": "obraza"
+        },
+        {
+          "id": "c",
+          "text": "kangur"
+        },
+        {
+          "id": "d",
+          "text": "mentor"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„kangaroo” (rzeczownik, poziom B2) oznacza po polsku „kangur”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-088",
+      "question": "keeper",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pan"
+        },
+        {
+          "id": "b",
+          "text": "producent"
+        },
+        {
+          "id": "c",
+          "text": "dozorca"
+        },
+        {
+          "id": "d",
+          "text": "lawa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„keeper” (rzeczownik, poziom B2) oznacza po polsku „dozorca”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-089",
+      "question": "kerosene",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prowadzący dochodzenie"
+        },
+        {
+          "id": "b",
+          "text": "mentor"
+        },
+        {
+          "id": "c",
+          "text": "hall, westybul"
+        },
+        {
+          "id": "d",
+          "text": "nafta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„kerosene” (rzeczownik, poziom B2) oznacza po polsku „nafta”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-090",
+      "question": "label",
+      "answers": [
+        {
+          "id": "a",
+          "text": "etykieta"
+        },
+        {
+          "id": "b",
+          "text": "śmieci"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) kumpel"
+        },
+        {
+          "id": "d",
+          "text": "komputer przenośny, przenośny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„label” (rzeczownik, poziom B2) oznacza po polsku „etykieta”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-091",
+      "question": "labourer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skok"
+        },
+        {
+          "id": "b",
+          "text": "pracownik fizyczny, pracownik"
+        },
+        {
+          "id": "c",
+          "text": "pan"
+        },
+        {
+          "id": "d",
+          "text": "jubiler"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„labourer” (rzeczownik, poziom B2) oznacza po polsku „pracownik fizyczny, pracownik”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-092",
+      "question": "landing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podest"
+        },
+        {
+          "id": "b",
+          "text": "por"
+        },
+        {
+          "id": "c",
+          "text": "produkcja"
+        },
+        {
+          "id": "d",
+          "text": "ustawodawstwo, prawodawstwo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„landing” (rzeczownik, poziom B2) oznacza po polsku „podest”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-093",
+      "question": "landlady",
+      "answers": [
+        {
+          "id": "a",
+          "text": "instynkt"
+        },
+        {
+          "id": "b",
+          "text": "całe życie, życie"
+        },
+        {
+          "id": "c",
+          "text": "głęboka wiedza, wiedza"
+        },
+        {
+          "id": "d",
+          "text": "gospodyni"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„landlady” (rzeczownik, poziom B2) oznacza po polsku „gospodyni”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-094",
+      "question": "landslide",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sposób"
+        },
+        {
+          "id": "b",
+          "text": "ustawodawstwo, prawodawstwo"
+        },
+        {
+          "id": "c",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "d",
+          "text": "instynkt"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„landslide” (rzeczownik, poziom B2) oznacza po polsku „miażdżące zwycięstwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-095",
+      "question": "lap",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(miejsce) kolana"
+        },
+        {
+          "id": "b",
+          "text": "melodia"
+        },
+        {
+          "id": "c",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "d",
+          "text": "len"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lap” (rzeczownik, poziom B2) oznacza po polsku „(miejsce) kolana”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-096",
+      "question": "laptop",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komputer przenośny, przenośny"
+        },
+        {
+          "id": "b",
+          "text": "szaleństwo"
+        },
+        {
+          "id": "c",
+          "text": "masaż"
+        },
+        {
+          "id": "d",
+          "text": "słuchacz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„laptop” (rzeczownik, poziom B2) oznacza po polsku „komputer przenośny, przenośny”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-097",
+      "question": "lark",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inspektor"
+        },
+        {
+          "id": "b",
+          "text": "komputer przenośny, przenośny"
+        },
+        {
+          "id": "c",
+          "text": "skowronek"
+        },
+        {
+          "id": "d",
+          "text": "pralnia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lark” (rzeczownik, poziom B2) oznacza po polsku „skowronek”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-098",
+      "question": "laser",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "b",
+          "text": "hall, westybul"
+        },
+        {
+          "id": "c",
+          "text": "laser"
+        },
+        {
+          "id": "d",
+          "text": "zaangażowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„laser” (rzeczownik, poziom B2) oznacza po polsku „laser”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-099",
+      "question": "laundry",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jubiler"
+        },
+        {
+          "id": "b",
+          "text": "melodia"
+        },
+        {
+          "id": "c",
+          "text": "pralnia"
+        },
+        {
+          "id": "d",
+          "text": "ulotka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„laundry” (rzeczownik, poziom B2) oznacza po polsku „pralnia”."
+    },
+    {
+      "id": "b2-rzeczowniki-05-100",
+      "question": "lava",
+      "answers": [
+        {
+          "id": "a",
+          "text": "umiar, powściągliwość"
+        },
+        {
+          "id": "b",
+          "text": "pomnik"
+        },
+        {
+          "id": "c",
+          "text": "lawa"
+        },
+        {
+          "id": "d",
+          "text": "tłumacz ustny, tłumacz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lava” (rzeczownik, poziom B2) oznacza po polsku „lawa”."
+    }
+  ]
+}

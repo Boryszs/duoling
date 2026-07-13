@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-rzeczowniki-06",
+    "name": "B1 — Rzeczowniki 6/9 (I–M)"
+  },
+  "questions": [
+    {
+      "id": "b1-rzeczowniki-06-001",
+      "question": "isolation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamiar"
+        },
+        {
+          "id": "b",
+          "text": "instytut"
+        },
+        {
+          "id": "c",
+          "text": "uprząż"
+        },
+        {
+          "id": "d",
+          "text": "odosobnienie, osamotnienie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„isolation” (rzeczownik, poziom B1) oznacza po polsku „odosobnienie, osamotnienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-002",
+      "question": "ivory",
+      "answers": [
+        {
+          "id": "a",
+          "text": "liga"
+        },
+        {
+          "id": "b",
+          "text": "odosobnienie, osamotnienie"
+        },
+        {
+          "id": "c",
+          "text": "nagłówek"
+        },
+        {
+          "id": "d",
+          "text": "kość słoniowa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ivory” (rzeczownik, poziom B1) oznacza po polsku „kość słoniowa”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-003",
+      "question": "jade",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jadeit"
+        },
+        {
+          "id": "b",
+          "text": "róg"
+        },
+        {
+          "id": "c",
+          "text": "nienawiść"
+        },
+        {
+          "id": "d",
+          "text": "miesiąc miodowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„jade” (rzeczownik, poziom B1) oznacza po polsku „jadeit”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-004",
+      "question": "jar",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wysokość"
+        },
+        {
+          "id": "b",
+          "text": "humor"
+        },
+        {
+          "id": "c",
+          "text": "zapytanie"
+        },
+        {
+          "id": "d",
+          "text": "słój, słoik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„jar” (rzeczownik, poziom B1) oznacza po polsku „słój, słoik”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-005",
+      "question": "jazz",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jadeit"
+        },
+        {
+          "id": "b",
+          "text": "dziennikarz"
+        },
+        {
+          "id": "c",
+          "text": "jazz"
+        },
+        {
+          "id": "d",
+          "text": "stado"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„jazz” (rzeczownik, poziom B1) oznacza po polsku „jazz”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-006",
+      "question": "jewel",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słuch"
+        },
+        {
+          "id": "b",
+          "text": "jadeit"
+        },
+        {
+          "id": "c",
+          "text": "wykład"
+        },
+        {
+          "id": "d",
+          "text": "klejnot"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„jewel” (rzeczownik, poziom B1) oznacza po polsku „klejnot”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-007",
+      "question": "journal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jazz"
+        },
+        {
+          "id": "b",
+          "text": "wykład"
+        },
+        {
+          "id": "c",
+          "text": "słuch"
+        },
+        {
+          "id": "d",
+          "text": "magazyn, czasopismo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„journal” (rzeczownik, poziom B1) oznacza po polsku „magazyn, czasopismo”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-008",
+      "question": "journalist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprawiedliwość"
+        },
+        {
+          "id": "b",
+          "text": "dziennikarz"
+        },
+        {
+          "id": "c",
+          "text": "szczerość"
+        },
+        {
+          "id": "d",
+          "text": "zabójstwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„journalist” (rzeczownik, poziom B1) oznacza po polsku „dziennikarz”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-009",
+      "question": "judge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "życzliwość"
+        },
+        {
+          "id": "b",
+          "text": "sędzia"
+        },
+        {
+          "id": "c",
+          "text": "wykład"
+        },
+        {
+          "id": "d",
+          "text": "uprząż"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„judge” (rzeczownik, poziom B1) oznacza po polsku „sędzia”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-010",
+      "question": "judgement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ocena, osąd"
+        },
+        {
+          "id": "b",
+          "text": "historyk"
+        },
+        {
+          "id": "c",
+          "text": "(np. do czołgu) luk, właz"
+        },
+        {
+          "id": "d",
+          "text": "zamiar"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„judgement” (rzeczownik, poziom B1) oznacza po polsku „ocena, osąd”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-011",
+      "question": "jug",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(np. do czołgu) luk, właz"
+        },
+        {
+          "id": "b",
+          "text": "chata"
+        },
+        {
+          "id": "c",
+          "text": "dzbanek"
+        },
+        {
+          "id": "d",
+          "text": "klejnot"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„jug” (rzeczownik, poziom B1) oznacza po polsku „dzbanek”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-012",
+      "question": "jumper",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uprząż"
+        },
+        {
+          "id": "b",
+          "text": "klawiatura"
+        },
+        {
+          "id": "c",
+          "text": "zapytanie"
+        },
+        {
+          "id": "d",
+          "text": "pulower"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„jumper” (rzeczownik, poziom B1) oznacza po polsku „pulower”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-013",
+      "question": "jungle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "śmiech"
+        },
+        {
+          "id": "b",
+          "text": "dżungla"
+        },
+        {
+          "id": "c",
+          "text": "zapytanie"
+        },
+        {
+          "id": "d",
+          "text": "sprawiedliwość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„jungle” (rzeczownik, poziom B1) oznacza po polsku „dżungla”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-014",
+      "question": "justice",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miesiąc miodowy"
+        },
+        {
+          "id": "b",
+          "text": "jagnię"
+        },
+        {
+          "id": "c",
+          "text": "odosobnienie, osamotnienie"
+        },
+        {
+          "id": "d",
+          "text": "sprawiedliwość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„justice” (rzeczownik, poziom B1) oznacza po polsku „sprawiedliwość”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-015",
+      "question": "kettle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czajnik"
+        },
+        {
+          "id": "b",
+          "text": "sprawiedliwość"
+        },
+        {
+          "id": "c",
+          "text": "spóźnialski"
+        },
+        {
+          "id": "d",
+          "text": "laboratorium"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„kettle” (rzeczownik, poziom B1) oznacza po polsku „czajnik”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-016",
+      "question": "keyboard",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drabina"
+        },
+        {
+          "id": "b",
+          "text": "(np. do czołgu) luk, właz"
+        },
+        {
+          "id": "c",
+          "text": "klawiatura"
+        },
+        {
+          "id": "d",
+          "text": "nauka, nauczanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„keyboard” (rzeczownik, poziom B1) oznacza po polsku „klawiatura”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-017",
+      "question": "killing",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zabójstwo"
+        },
+        {
+          "id": "b",
+          "text": "polowanie"
+        },
+        {
+          "id": "c",
+          "text": "skok, podskok"
+        },
+        {
+          "id": "d",
+          "text": "pięta"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„killing” (rzeczownik, poziom B1) oznacza po polsku „zabójstwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-018",
+      "question": "kindness",
+      "answers": [
+        {
+          "id": "a",
+          "text": "życzliwość"
+        },
+        {
+          "id": "b",
+          "text": "kontrola, inspekcja"
+        },
+        {
+          "id": "c",
+          "text": "śmiech"
+        },
+        {
+          "id": "d",
+          "text": "dżungla"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„kindness” (rzeczownik, poziom B1) oznacza po polsku „życzliwość”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-019",
+      "question": "kitten",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przemysł"
+        },
+        {
+          "id": "b",
+          "text": "instytut"
+        },
+        {
+          "id": "c",
+          "text": "skok, podskok"
+        },
+        {
+          "id": "d",
+          "text": "kociak"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„kitten” (rzeczownik, poziom B1) oznacza po polsku „kociak”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-020",
+      "question": "lab",
+      "answers": [
+        {
+          "id": "a",
+          "text": "napis"
+        },
+        {
+          "id": "b",
+          "text": "laboratorium"
+        },
+        {
+          "id": "c",
+          "text": "wykład"
+        },
+        {
+          "id": "d",
+          "text": "dochodzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lab” (rzeczownik, poziom B1) oznacza po polsku „laboratorium”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-021",
+      "question": "laboratory",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inwazja"
+        },
+        {
+          "id": "b",
+          "text": "tożsamość"
+        },
+        {
+          "id": "c",
+          "text": "laboratorium"
+        },
+        {
+          "id": "d",
+          "text": "kask"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„laboratory” (rzeczownik, poziom B1) oznacza po polsku „laboratorium”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-022",
+      "question": "ladder",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spóźnialski"
+        },
+        {
+          "id": "b",
+          "text": "dom, dom wycieczkowy, dom studencki"
+        },
+        {
+          "id": "c",
+          "text": "mieszkaniec"
+        },
+        {
+          "id": "d",
+          "text": "drabina"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ladder” (rzeczownik, poziom B1) oznacza po polsku „drabina”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-023",
+      "question": "lamb",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jagnię"
+        },
+        {
+          "id": "b",
+          "text": "słuch"
+        },
+        {
+          "id": "c",
+          "text": "kierownictwo"
+        },
+        {
+          "id": "d",
+          "text": "ryzyko, niebezpieczeństwo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lamb” (rzeczownik, poziom B1) oznacza po polsku „jagnię”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-024",
+      "question": "landlord",
+      "answers": [
+        {
+          "id": "a",
+          "text": "idol"
+        },
+        {
+          "id": "b",
+          "text": "szczerość"
+        },
+        {
+          "id": "c",
+          "text": "gospodarz"
+        },
+        {
+          "id": "d",
+          "text": "historyk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„landlord” (rzeczownik, poziom B1) oznacza po polsku „gospodarz”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-025",
+      "question": "latecomer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dom, dom wycieczkowy, dom studencki"
+        },
+        {
+          "id": "b",
+          "text": "atrament"
+        },
+        {
+          "id": "c",
+          "text": "czajnik"
+        },
+        {
+          "id": "d",
+          "text": "spóźnialski"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„latecomer” (rzeczownik, poziom B1) oznacza po polsku „spóźnialski”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-026",
+      "question": "laugh",
+      "answers": [
+        {
+          "id": "a",
+          "text": "imigracja"
+        },
+        {
+          "id": "b",
+          "text": "ocena, osąd"
+        },
+        {
+          "id": "c",
+          "text": "śmiech"
+        },
+        {
+          "id": "d",
+          "text": "warstwa, powłoka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„laugh” (rzeczownik, poziom B1) oznacza po polsku „śmiech”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-027",
+      "question": "laughter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "śmiech"
+        },
+        {
+          "id": "b",
+          "text": "drabina"
+        },
+        {
+          "id": "c",
+          "text": "nagłówek"
+        },
+        {
+          "id": "d",
+          "text": "niebo, niebiosa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„laughter” (rzeczownik, poziom B1) oznacza po polsku „śmiech”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-028",
+      "question": "layer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "warstwa, powłoka"
+        },
+        {
+          "id": "b",
+          "text": "nauka, nauczanie"
+        },
+        {
+          "id": "c",
+          "text": "tożsamość"
+        },
+        {
+          "id": "d",
+          "text": "wrażenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„layer” (rzeczownik, poziom B1) oznacza po polsku „warstwa, powłoka”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-029",
+      "question": "leadership",
+      "answers": [
+        {
+          "id": "a",
+          "text": "liga"
+        },
+        {
+          "id": "b",
+          "text": "jagnię"
+        },
+        {
+          "id": "c",
+          "text": "wyspa, ostrów"
+        },
+        {
+          "id": "d",
+          "text": "kierownictwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„leadership” (rzeczownik, poziom B1) oznacza po polsku „kierownictwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-030",
+      "question": "league",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczerość"
+        },
+        {
+          "id": "b",
+          "text": "żelazo"
+        },
+        {
+          "id": "c",
+          "text": "dom, dom wycieczkowy, dom studencki"
+        },
+        {
+          "id": "d",
+          "text": "liga"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„league” (rzeczownik, poziom B1) oznacza po polsku „liga”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-031",
+      "question": "leave",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(np. wypoczynkowy) urlop"
+        },
+        {
+          "id": "b",
+          "text": "sędzia"
+        },
+        {
+          "id": "c",
+          "text": "róg"
+        },
+        {
+          "id": "d",
+          "text": "ryzyko, niebezpieczeństwo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„leave” (rzeczownik, poziom B1) oznacza po polsku „(np. wypoczynkowy) urlop”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-032",
+      "question": "lecture",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyspa, ostrów"
+        },
+        {
+          "id": "b",
+          "text": "przemysł"
+        },
+        {
+          "id": "c",
+          "text": "wykład"
+        },
+        {
+          "id": "d",
+          "text": "kierownictwo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lecture” (rzeczownik, poziom B1) oznacza po polsku „wykład”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-033",
+      "question": "lettuce",
+      "answers": [
+        {
+          "id": "a",
+          "text": "motywacja"
+        },
+        {
+          "id": "b",
+          "text": "błyskawica"
+        },
+        {
+          "id": "c",
+          "text": "sałata"
+        },
+        {
+          "id": "d",
+          "text": "gwóźdź"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lettuce” (rzeczownik, poziom B1) oznacza po polsku „sałata”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-034",
+      "question": "liar",
+      "answers": [
+        {
+          "id": "a",
+          "text": "matematyk"
+        },
+        {
+          "id": "b",
+          "text": "kolia, naszyjnik"
+        },
+        {
+          "id": "c",
+          "text": "ciężarówka"
+        },
+        {
+          "id": "d",
+          "text": "kłamca"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„liar” (rzeczownik, poziom B1) oznacza po polsku „kłamca”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-035",
+      "question": "liberation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błyskawica"
+        },
+        {
+          "id": "b",
+          "text": "logika"
+        },
+        {
+          "id": "c",
+          "text": "iluzjonista, prestidigitator"
+        },
+        {
+          "id": "d",
+          "text": "wyzwolenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„liberation” (rzeczownik, poziom B1) oznacza po polsku „wyzwolenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-036",
+      "question": "librarian",
+      "answers": [
+        {
+          "id": "a",
+          "text": "muł"
+        },
+        {
+          "id": "b",
+          "text": "igła"
+        },
+        {
+          "id": "c",
+          "text": "bibliotekarz"
+        },
+        {
+          "id": "d",
+          "text": "minerał"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„librarian” (rzeczownik, poziom B1) oznacza po polsku „bibliotekarz”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-037",
+      "question": "lifeguard",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błyskawica"
+        },
+        {
+          "id": "b",
+          "text": "ratownik"
+        },
+        {
+          "id": "c",
+          "text": "minerał"
+        },
+        {
+          "id": "d",
+          "text": "bochenek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lifeguard” (rzeczownik, poziom B1) oznacza po polsku „ratownik”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-038",
+      "question": "lift",
+      "answers": [
+        {
+          "id": "a",
+          "text": "morderca"
+        },
+        {
+          "id": "b",
+          "text": "mit"
+        },
+        {
+          "id": "c",
+          "text": "(w budynku) winda"
+        },
+        {
+          "id": "d",
+          "text": "zapalniczka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lift” (rzeczownik, poziom B1) oznacza po polsku „(w budynku) winda”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-039",
+      "question": "lighter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marsz"
+        },
+        {
+          "id": "b",
+          "text": "nacjonalista"
+        },
+        {
+          "id": "c",
+          "text": "zapalniczka"
+        },
+        {
+          "id": "d",
+          "text": "logika"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lighter” (rzeczownik, poziom B1) oznacza po polsku „zapalniczka”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-040",
+      "question": "lightning",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siatka, sieć"
+        },
+        {
+          "id": "b",
+          "text": "błyskawica"
+        },
+        {
+          "id": "c",
+          "text": "ludzkość"
+        },
+        {
+          "id": "d",
+          "text": "życie nocne"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lightning” (rzeczownik, poziom B1) oznacza po polsku „błyskawica”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-041",
+      "question": "likeness",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ludzkość"
+        },
+        {
+          "id": "b",
+          "text": "bagaż"
+        },
+        {
+          "id": "c",
+          "text": "wątroba"
+        },
+        {
+          "id": "d",
+          "text": "podobieństwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„likeness” (rzeczownik, poziom B1) oznacza po polsku „podobieństwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-042",
+      "question": "limitation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nonsens, bzdura"
+        },
+        {
+          "id": "b",
+          "text": "iluzjonista, prestidigitator"
+        },
+        {
+          "id": "c",
+          "text": "ograniczenie"
+        },
+        {
+          "id": "d",
+          "text": "gwóźdź"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„limitation” (rzeczownik, poziom B1) oznacza po polsku „ograniczenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-043",
+      "question": "link",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kierownictwo, zarządzanie"
+        },
+        {
+          "id": "b",
+          "text": "związek"
+        },
+        {
+          "id": "c",
+          "text": "większość"
+        },
+        {
+          "id": "d",
+          "text": "przybysz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„link” (rzeczownik, poziom B1) oznacza po polsku „związek”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-044",
+      "question": "literature",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marmur"
+        },
+        {
+          "id": "b",
+          "text": "ruch"
+        },
+        {
+          "id": "c",
+          "text": "bratanica, siostrzenica"
+        },
+        {
+          "id": "d",
+          "text": "literatura"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„literature” (rzeczownik, poziom B1) oznacza po polsku „literatura”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-045",
+      "question": "liver",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strata, utrata"
+        },
+        {
+          "id": "b",
+          "text": "moskit, komar"
+        },
+        {
+          "id": "c",
+          "text": "nieporozumienie"
+        },
+        {
+          "id": "d",
+          "text": "wątroba"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„liver” (rzeczownik, poziom B1) oznacza po polsku „wątroba”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-046",
+      "question": "loaf",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bochenek"
+        },
+        {
+          "id": "b",
+          "text": "strata, utrata"
+        },
+        {
+          "id": "c",
+          "text": "powieściopisarz"
+        },
+        {
+          "id": "d",
+          "text": "wymiar, rozmiar"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„loaf” (rzeczownik, poziom B1) oznacza po polsku „bochenek”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-047",
+      "question": "location",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mięsień, muskuł"
+        },
+        {
+          "id": "b",
+          "text": "wymiar, rozmiar"
+        },
+        {
+          "id": "c",
+          "text": "silnik, motor"
+        },
+        {
+          "id": "d",
+          "text": "umiejscowienie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„location” (rzeczownik, poziom B1) oznacza po polsku „umiejscowienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-048",
+      "question": "lodge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciężarówka"
+        },
+        {
+          "id": "b",
+          "text": "domek dozorcy, domek"
+        },
+        {
+          "id": "c",
+          "text": "motyw, powód"
+        },
+        {
+          "id": "d",
+          "text": "przybysz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lodge” (rzeczownik, poziom B1) oznacza po polsku „domek dozorcy, domek”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-049",
+      "question": "logic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zakonnik, mnich"
+        },
+        {
+          "id": "b",
+          "text": "logika"
+        },
+        {
+          "id": "c",
+          "text": "mit"
+        },
+        {
+          "id": "d",
+          "text": "mechanik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„logic” (rzeczownik, poziom B1) oznacza po polsku „logika”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-050",
+      "question": "lorry",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mila"
+        },
+        {
+          "id": "b",
+          "text": "cząsteczka, molekuła"
+        },
+        {
+          "id": "c",
+          "text": "ciężarówka"
+        },
+        {
+          "id": "d",
+          "text": "mniejszość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lorry” (rzeczownik, poziom B1) oznacza po polsku „ciężarówka”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-051",
+      "question": "loss",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mila"
+        },
+        {
+          "id": "b",
+          "text": "strata, utrata"
+        },
+        {
+          "id": "c",
+          "text": "odżywianie się"
+        },
+        {
+          "id": "d",
+          "text": "pojęcie, opinia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„loss” (rzeczownik, poziom B1) oznacza po polsku „strata, utrata”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-052",
+      "question": "lottery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyzwolenie"
+        },
+        {
+          "id": "b",
+          "text": "matematyka"
+        },
+        {
+          "id": "c",
+          "text": "loteria"
+        },
+        {
+          "id": "d",
+          "text": "skrzynka pocztowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lottery” (rzeczownik, poziom B1) oznacza po polsku „loteria”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-053",
+      "question": "loudspeaker",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drzemka"
+        },
+        {
+          "id": "b",
+          "text": "przedmiot, obiekt"
+        },
+        {
+          "id": "c",
+          "text": "głośnik"
+        },
+        {
+          "id": "d",
+          "text": "mech"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„loudspeaker” (rzeczownik, poziom B1) oznacza po polsku „głośnik”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-054",
+      "question": "loyalty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ludzkość"
+        },
+        {
+          "id": "b",
+          "text": "siatka, sieć"
+        },
+        {
+          "id": "c",
+          "text": "mech"
+        },
+        {
+          "id": "d",
+          "text": "lojalność"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„loyalty” (rzeczownik, poziom B1) oznacza po polsku „lojalność”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-055",
+      "question": "luggage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "logika"
+        },
+        {
+          "id": "b",
+          "text": "kolia, naszyjnik"
+        },
+        {
+          "id": "c",
+          "text": "bibliotekarz"
+        },
+        {
+          "id": "d",
+          "text": "bagaż"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„luggage” (rzeczownik, poziom B1) oznacza po polsku „bagaż”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-056",
+      "question": "lung",
+      "answers": [
+        {
+          "id": "a",
+          "text": "muł"
+        },
+        {
+          "id": "b",
+          "text": "płuco"
+        },
+        {
+          "id": "c",
+          "text": "misja"
+        },
+        {
+          "id": "d",
+          "text": "bochenek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lung” (rzeczownik, poziom B1) oznacza po polsku „płuco”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-057",
+      "question": "magician",
+      "answers": [
+        {
+          "id": "a",
+          "text": "matematyk"
+        },
+        {
+          "id": "b",
+          "text": "motocykl"
+        },
+        {
+          "id": "c",
+          "text": "sałata"
+        },
+        {
+          "id": "d",
+          "text": "iluzjonista, prestidigitator"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„magician” (rzeczownik, poziom B1) oznacza po polsku „iluzjonista, prestidigitator”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-058",
+      "question": "mailbox",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podobieństwo"
+        },
+        {
+          "id": "b",
+          "text": "skrzynka pocztowa"
+        },
+        {
+          "id": "c",
+          "text": "życie nocne"
+        },
+        {
+          "id": "d",
+          "text": "motto"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mailbox” (rzeczownik, poziom B1) oznacza po polsku „skrzynka pocztowa”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-059",
+      "question": "maintenance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lojalność"
+        },
+        {
+          "id": "b",
+          "text": "członkostwo"
+        },
+        {
+          "id": "c",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "d",
+          "text": "sałata"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„maintenance” (rzeczownik, poziom B1) oznacza po polsku „utrzymanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-060",
+      "question": "majority",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sieć"
+        },
+        {
+          "id": "b",
+          "text": "kierownictwo, zarządzanie"
+        },
+        {
+          "id": "c",
+          "text": "odżywianie się"
+        },
+        {
+          "id": "d",
+          "text": "większość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„majority” (rzeczownik, poziom B1) oznacza po polsku „większość”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-061",
+      "question": "management",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błoto"
+        },
+        {
+          "id": "b",
+          "text": "kierownictwo, zarządzanie"
+        },
+        {
+          "id": "c",
+          "text": "kłamca"
+        },
+        {
+          "id": "d",
+          "text": "ciężarówka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„management” (rzeczownik, poziom B1) oznacza po polsku „kierownictwo, zarządzanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-062",
+      "question": "mankind",
+      "answers": [
+        {
+          "id": "a",
+          "text": "negocjacje"
+        },
+        {
+          "id": "b",
+          "text": "dokazywanie, psota"
+        },
+        {
+          "id": "c",
+          "text": "bochenek"
+        },
+        {
+          "id": "d",
+          "text": "ludzkość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mankind” (rzeczownik, poziom B1) oznacza po polsku „ludzkość”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-063",
+      "question": "maple",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klon"
+        },
+        {
+          "id": "b",
+          "text": "umiejscowienie"
+        },
+        {
+          "id": "c",
+          "text": "ciężarówka"
+        },
+        {
+          "id": "d",
+          "text": "zakonnik, mnich"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„maple” (rzeczownik, poziom B1) oznacza po polsku „klon”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-064",
+      "question": "marble",
+      "answers": [
+        {
+          "id": "a",
+          "text": "logika"
+        },
+        {
+          "id": "b",
+          "text": "związek"
+        },
+        {
+          "id": "c",
+          "text": "marmur"
+        },
+        {
+          "id": "d",
+          "text": "nonsens, bzdura"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„marble” (rzeczownik, poziom B1) oznacza po polsku „marmur”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-065",
+      "question": "march",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marsz"
+        },
+        {
+          "id": "b",
+          "text": "igła"
+        },
+        {
+          "id": "c",
+          "text": "sieć"
+        },
+        {
+          "id": "d",
+          "text": "bratanica, siostrzenica"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„march” (rzeczownik, poziom B1) oznacza po polsku „marsz”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-066",
+      "question": "marriage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dokazywanie, psota"
+        },
+        {
+          "id": "b",
+          "text": "jądro"
+        },
+        {
+          "id": "c",
+          "text": "sąsiedztwo"
+        },
+        {
+          "id": "d",
+          "text": "małżeństwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„marriage” (rzeczownik, poziom B1) oznacza po polsku „małżeństwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-067",
+      "question": "mathematician",
+      "answers": [
+        {
+          "id": "a",
+          "text": "matematyk"
+        },
+        {
+          "id": "b",
+          "text": "miara"
+        },
+        {
+          "id": "c",
+          "text": "monitor"
+        },
+        {
+          "id": "d",
+          "text": "pojęcie, opinia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mathematician” (rzeczownik, poziom B1) oznacza po polsku „matematyk”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-068",
+      "question": "mathematics",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pojęcie, opinia"
+        },
+        {
+          "id": "b",
+          "text": "sałata"
+        },
+        {
+          "id": "c",
+          "text": "głośnik"
+        },
+        {
+          "id": "d",
+          "text": "matematyka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mathematics” (rzeczownik, poziom B1) oznacza po polsku „matematyka”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-069",
+      "question": "mayor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "igła"
+        },
+        {
+          "id": "b",
+          "text": "miara"
+        },
+        {
+          "id": "c",
+          "text": "jądro"
+        },
+        {
+          "id": "d",
+          "text": "burmistrz"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mayor” (rzeczownik, poziom B1) oznacza po polsku „burmistrz”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-070",
+      "question": "measure",
+      "answers": [
+        {
+          "id": "a",
+          "text": "motocykl"
+        },
+        {
+          "id": "b",
+          "text": "umiejscowienie"
+        },
+        {
+          "id": "c",
+          "text": "ratownik"
+        },
+        {
+          "id": "d",
+          "text": "miara"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„measure” (rzeczownik, poziom B1) oznacza po polsku „miara”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-071",
+      "question": "measurement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymiar, rozmiar"
+        },
+        {
+          "id": "b",
+          "text": "przezwisko, przydomek"
+        },
+        {
+          "id": "c",
+          "text": "śródziemnomorski"
+        },
+        {
+          "id": "d",
+          "text": "nacjonalista"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„measurement” (rzeczownik, poziom B1) oznacza po polsku „wymiar, rozmiar”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-072",
+      "question": "mechanic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mechanik"
+        },
+        {
+          "id": "b",
+          "text": "strata, utrata"
+        },
+        {
+          "id": "c",
+          "text": "śródziemnomorski"
+        },
+        {
+          "id": "d",
+          "text": "kierownictwo, zarządzanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mechanic” (rzeczownik, poziom B1) oznacza po polsku „mechanik”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-073",
+      "question": "meditation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapalniczka"
+        },
+        {
+          "id": "b",
+          "text": "mechanik"
+        },
+        {
+          "id": "c",
+          "text": "sieć"
+        },
+        {
+          "id": "d",
+          "text": "medytacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„meditation” (rzeczownik, poziom B1) oznacza po polsku „medytacja”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-074",
+      "question": "Mediterranean",
+      "answers": [
+        {
+          "id": "a",
+          "text": "logika"
+        },
+        {
+          "id": "b",
+          "text": "śródziemnomorski"
+        },
+        {
+          "id": "c",
+          "text": "wymiar, rozmiar"
+        },
+        {
+          "id": "d",
+          "text": "bibliotekarz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„Mediterranean” (rzeczownik, poziom B1) oznacza po polsku „śródziemnomorski”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-075",
+      "question": "membership",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mięsień, muskuł"
+        },
+        {
+          "id": "b",
+          "text": "błoto"
+        },
+        {
+          "id": "c",
+          "text": "członkostwo"
+        },
+        {
+          "id": "d",
+          "text": "odżywianie się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„membership” (rzeczownik, poziom B1) oznacza po polsku „członkostwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-076",
+      "question": "merchant",
+      "answers": [
+        {
+          "id": "a",
+          "text": "motyw, powód"
+        },
+        {
+          "id": "b",
+          "text": "kupiec, hurtownik"
+        },
+        {
+          "id": "c",
+          "text": "małżeństwo"
+        },
+        {
+          "id": "d",
+          "text": "mila"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„merchant” (rzeczownik, poziom B1) oznacza po polsku „kupiec, hurtownik”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-077",
+      "question": "mile",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedmiot, obiekt"
+        },
+        {
+          "id": "b",
+          "text": "moskit, komar"
+        },
+        {
+          "id": "c",
+          "text": "mila"
+        },
+        {
+          "id": "d",
+          "text": "pojęcie, opinia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mile” (rzeczownik, poziom B1) oznacza po polsku „mila”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-078",
+      "question": "mineral",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieszczęście"
+        },
+        {
+          "id": "b",
+          "text": "jądro"
+        },
+        {
+          "id": "c",
+          "text": "minerał"
+        },
+        {
+          "id": "d",
+          "text": "bochenek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mineral” (rzeczownik, poziom B1) oznacza po polsku „minerał”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-079",
+      "question": "minority",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skrzynka pocztowa"
+        },
+        {
+          "id": "b",
+          "text": "mniejszość"
+        },
+        {
+          "id": "c",
+          "text": "motywacja"
+        },
+        {
+          "id": "d",
+          "text": "nonsens, bzdura"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„minority” (rzeczownik, poziom B1) oznacza po polsku „mniejszość”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-080",
+      "question": "miracle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomnik, statua"
+        },
+        {
+          "id": "b",
+          "text": "bibliotekarz"
+        },
+        {
+          "id": "c",
+          "text": "monstrum, potwór"
+        },
+        {
+          "id": "d",
+          "text": "cud"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„miracle” (rzeczownik, poziom B1) oznacza po polsku „cud”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-081",
+      "question": "mischief",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mila"
+        },
+        {
+          "id": "b",
+          "text": "tablica ogłoszeń"
+        },
+        {
+          "id": "c",
+          "text": "nonsens, bzdura"
+        },
+        {
+          "id": "d",
+          "text": "dokazywanie, psota"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mischief” (rzeczownik, poziom B1) oznacza po polsku „dokazywanie, psota”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-082",
+      "question": "misery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymiar, rozmiar"
+        },
+        {
+          "id": "b",
+          "text": "wyzwolenie"
+        },
+        {
+          "id": "c",
+          "text": "marsz"
+        },
+        {
+          "id": "d",
+          "text": "nieszczęście"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„misery” (rzeczownik, poziom B1) oznacza po polsku „nieszczęście”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-083",
+      "question": "mission",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błyskawica"
+        },
+        {
+          "id": "b",
+          "text": "marsz"
+        },
+        {
+          "id": "c",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "d",
+          "text": "misja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mission” (rzeczownik, poziom B1) oznacza po polsku „misja”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-084",
+      "question": "misunderstanding",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieporozumienie"
+        },
+        {
+          "id": "b",
+          "text": "cud"
+        },
+        {
+          "id": "c",
+          "text": "bagaż"
+        },
+        {
+          "id": "d",
+          "text": "śródziemnomorski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„misunderstanding” (rzeczownik, poziom B1) oznacza po polsku „nieporozumienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-085",
+      "question": "modem",
+      "answers": [
+        {
+          "id": "a",
+          "text": "monstrum, potwór"
+        },
+        {
+          "id": "b",
+          "text": "skinienie głową"
+        },
+        {
+          "id": "c",
+          "text": "kłamca"
+        },
+        {
+          "id": "d",
+          "text": "modem"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„modem” (rzeczownik, poziom B1) oznacza po polsku „modem”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-086",
+      "question": "moisture",
+      "answers": [
+        {
+          "id": "a",
+          "text": "domek dozorcy, domek"
+        },
+        {
+          "id": "b",
+          "text": "bibliotekarz"
+        },
+        {
+          "id": "c",
+          "text": "literatura"
+        },
+        {
+          "id": "d",
+          "text": "wilgoć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„moisture” (rzeczownik, poziom B1) oznacza po polsku „wilgoć”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-087",
+      "question": "molecule",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skinienie głową"
+        },
+        {
+          "id": "b",
+          "text": "mięsień, muskuł"
+        },
+        {
+          "id": "c",
+          "text": "burmistrz"
+        },
+        {
+          "id": "d",
+          "text": "cząsteczka, molekuła"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„molecule” (rzeczownik, poziom B1) oznacza po polsku „cząsteczka, molekuła”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-088",
+      "question": "monitor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "monitor"
+        },
+        {
+          "id": "b",
+          "text": "sąsiedztwo"
+        },
+        {
+          "id": "c",
+          "text": "burmistrz"
+        },
+        {
+          "id": "d",
+          "text": "ludzkość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„monitor” (rzeczownik, poziom B1) oznacza po polsku „monitor”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-089",
+      "question": "monk",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ograniczenie"
+        },
+        {
+          "id": "b",
+          "text": "związek"
+        },
+        {
+          "id": "c",
+          "text": "skrzynka pocztowa"
+        },
+        {
+          "id": "d",
+          "text": "zakonnik, mnich"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„monk” (rzeczownik, poziom B1) oznacza po polsku „zakonnik, mnich”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-090",
+      "question": "monster",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strata, utrata"
+        },
+        {
+          "id": "b",
+          "text": "mięsień, muskuł"
+        },
+        {
+          "id": "c",
+          "text": "przezwisko, przydomek"
+        },
+        {
+          "id": "d",
+          "text": "monstrum, potwór"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„monster” (rzeczownik, poziom B1) oznacza po polsku „monstrum, potwór”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-091",
+      "question": "monument",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siostrzeniec, bratanek"
+        },
+        {
+          "id": "b",
+          "text": "dokazywanie, psota"
+        },
+        {
+          "id": "c",
+          "text": "pomnik, statua"
+        },
+        {
+          "id": "d",
+          "text": "mechanik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„monument” (rzeczownik, poziom B1) oznacza po polsku „pomnik, statua”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-092",
+      "question": "mosquito",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powieściopisarz"
+        },
+        {
+          "id": "b",
+          "text": "moskit, komar"
+        },
+        {
+          "id": "c",
+          "text": "silnik, motor"
+        },
+        {
+          "id": "d",
+          "text": "bochenek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mosquito” (rzeczownik, poziom B1) oznacza po polsku „moskit, komar”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-093",
+      "question": "moss",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kierownictwo, zarządzanie"
+        },
+        {
+          "id": "b",
+          "text": "odżywianie się"
+        },
+        {
+          "id": "c",
+          "text": "mila"
+        },
+        {
+          "id": "d",
+          "text": "mech"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„moss” (rzeczownik, poziom B1) oznacza po polsku „mech”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-094",
+      "question": "motivation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bratanica, siostrzenica"
+        },
+        {
+          "id": "b",
+          "text": "sałata"
+        },
+        {
+          "id": "c",
+          "text": "siostrzeniec, bratanek"
+        },
+        {
+          "id": "d",
+          "text": "motywacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„motivation” (rzeczownik, poziom B1) oznacza po polsku „motywacja”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-095",
+      "question": "motive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marmur"
+        },
+        {
+          "id": "b",
+          "text": "motyw, powód"
+        },
+        {
+          "id": "c",
+          "text": "nieszczęście"
+        },
+        {
+          "id": "d",
+          "text": "związek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„motive” (rzeczownik, poziom B1) oznacza po polsku „motyw, powód”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-096",
+      "question": "motor",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sałata"
+        },
+        {
+          "id": "b",
+          "text": "silnik, motor"
+        },
+        {
+          "id": "c",
+          "text": "bratanica, siostrzenica"
+        },
+        {
+          "id": "d",
+          "text": "umiejscowienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„motor” (rzeczownik, poziom B1) oznacza po polsku „silnik, motor”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-097",
+      "question": "motorcycle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wątpliwość"
+        },
+        {
+          "id": "b",
+          "text": "motocykl"
+        },
+        {
+          "id": "c",
+          "text": "podobieństwo"
+        },
+        {
+          "id": "d",
+          "text": "gwóźdź"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„motorcycle” (rzeczownik, poziom B1) oznacza po polsku „motocykl”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-098",
+      "question": "motto",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciężarówka"
+        },
+        {
+          "id": "b",
+          "text": "matematyk"
+        },
+        {
+          "id": "c",
+          "text": "motto"
+        },
+        {
+          "id": "d",
+          "text": "wyzwolenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„motto” (rzeczownik, poziom B1) oznacza po polsku „motto”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-099",
+      "question": "mount",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jądro"
+        },
+        {
+          "id": "b",
+          "text": "(w nazwach) góra"
+        },
+        {
+          "id": "c",
+          "text": "strata, utrata"
+        },
+        {
+          "id": "d",
+          "text": "minerał"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mount” (rzeczownik, poziom B1) oznacza po polsku „(w nazwach) góra”."
+    },
+    {
+      "id": "b1-rzeczowniki-06-100",
+      "question": "movement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ratownik"
+        },
+        {
+          "id": "b",
+          "text": "wątpliwość"
+        },
+        {
+          "id": "c",
+          "text": "ruch"
+        },
+        {
+          "id": "d",
+          "text": "bagaż"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„movement” (rzeczownik, poziom B1) oznacza po polsku „ruch”."
+    }
+  ]
+}

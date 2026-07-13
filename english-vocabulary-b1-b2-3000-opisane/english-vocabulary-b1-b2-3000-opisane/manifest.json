@@ -1,0 +1,361 @@
+{
+  "totalCategories": 34,
+  "totalQuestions": 3000,
+  "levels": {
+    "B1": 1500,
+    "B2": 1500
+  },
+  "changes": [
+    "Kategorie pogrupowano według poziomu i części mowy.",
+    "Nazwy kategorii zawierają poziom, typ słownictwa i zakres liter.",
+    "Pole question zawiera wyłącznie angielskie hasło.",
+    "Usunięto tekst: Co oznacza angielskie słowo lub wyrażenie."
+  ],
+  "categories": [
+    {
+      "file": "01_b1_rzeczowniki_01.json",
+      "categoryId": "b1-rzeczowniki-01",
+      "categoryName": "B1 — Rzeczowniki 1/9 (A–B)",
+      "level": "B1",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "absence",
+      "lastWord": "boredom"
+    },
+    {
+      "file": "02_b1_rzeczowniki_02.json",
+      "categoryId": "b1-rzeczowniki-02",
+      "categoryName": "B1 — Rzeczowniki 2/9 (B–C)",
+      "level": "B1",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "bother",
+      "lastWord": "compromise"
+    },
+    {
+      "file": "03_b1_rzeczowniki_03.json",
+      "categoryId": "b1-rzeczowniki-03",
+      "categoryName": "B1 — Rzeczowniki 3/9 (C–E)",
+      "level": "B1",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "concentration",
+      "lastWord": "emperor"
+    },
+    {
+      "file": "04_b1_rzeczowniki_04.json",
+      "categoryId": "b1-rzeczowniki-04",
+      "categoryName": "B1 — Rzeczowniki 4/9 (E–G)",
+      "level": "B1",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "emphasis",
+      "lastWord": "goddess"
+    },
+    {
+      "file": "05_b1_rzeczowniki_05.json",
+      "categoryId": "b1-rzeczowniki-05",
+      "categoryName": "B1 — Rzeczowniki 5/9 (G–I)",
+      "level": "B1",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "golfer",
+      "lastWord": "isle"
+    },
+    {
+      "file": "06_b1_rzeczowniki_06.json",
+      "categoryId": "b1-rzeczowniki-06",
+      "categoryName": "B1 — Rzeczowniki 6/9 (I–M)",
+      "level": "B1",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "isolation",
+      "lastWord": "movement"
+    },
+    {
+      "file": "07_b1_rzeczowniki_07.json",
+      "categoryId": "b1-rzeczowniki-07",
+      "categoryName": "B1 — Rzeczowniki 7/9 (M–P)",
+      "level": "B1",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "mud",
+      "lastWord": "pork"
+    },
+    {
+      "file": "08_b1_rzeczowniki_08.json",
+      "categoryId": "b1-rzeczowniki-08",
+      "categoryName": "B1 — Rzeczowniki 8/9 (P–R)",
+      "level": "B1",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "port",
+      "lastWord": "resource"
+    },
+    {
+      "file": "09_b1_rzeczowniki_09.json",
+      "categoryId": "b1-rzeczowniki-09",
+      "categoryName": "B1 — Rzeczowniki 9/9 (R–S)",
+      "level": "B1",
+      "group": "Rzeczowniki",
+      "questionCount": 32,
+      "firstWord": "responsibility",
+      "lastWord": "scratch"
+    },
+    {
+      "file": "10_b1_czasowniki_01.json",
+      "categoryId": "b1-czasowniki-01",
+      "categoryName": "B1 — Czasowniki 1/3 (A–D)",
+      "level": "B1",
+      "group": "Czasowniki",
+      "questionCount": 100,
+      "firstWord": "abandon",
+      "lastWord": "devastate"
+    },
+    {
+      "file": "11_b1_czasowniki_02.json",
+      "categoryId": "b1-czasowniki-02",
+      "categoryName": "B1 — Czasowniki 2/3 (D–M)",
+      "level": "B1",
+      "group": "Czasowniki",
+      "questionCount": 100,
+      "firstWord": "dig",
+      "lastWord": "mourn"
+    },
+    {
+      "file": "12_b1_czasowniki_03.json",
+      "categoryId": "b1-czasowniki-03",
+      "categoryName": "B1 — Czasowniki 3/3 (M–S)",
+      "level": "B1",
+      "group": "Czasowniki",
+      "questionCount": 74,
+      "firstWord": "murder",
+      "lastWord": "scream"
+    },
+    {
+      "file": "13_b1_przymiotniki_01.json",
+      "categoryId": "b1-przymiotniki-01",
+      "categoryName": "B1 — Przymiotniki 1/4 (A–D)",
+      "level": "B1",
+      "group": "Przymiotniki",
+      "questionCount": 100,
+      "firstWord": "able",
+      "lastWord": "dull"
+    },
+    {
+      "file": "14_b1_przymiotniki_02.json",
+      "categoryId": "b1-przymiotniki-02",
+      "categoryName": "B1 — Przymiotniki 2/4 (D–I)",
+      "level": "B1",
+      "group": "Przymiotniki",
+      "questionCount": 100,
+      "firstWord": "dusty",
+      "lastWord": "involved"
+    },
+    {
+      "file": "15_b1_przymiotniki_03.json",
+      "categoryId": "b1-przymiotniki-03",
+      "categoryName": "B1 — Przymiotniki 3/4 (I–P)",
+      "level": "B1",
+      "group": "Przymiotniki",
+      "questionCount": 100,
+      "firstWord": "irregular",
+      "lastWord": "psychological"
+    },
+    {
+      "file": "16_b1_przymiotniki_04.json",
+      "categoryId": "b1-przymiotniki-04",
+      "categoryName": "B1 — Przymiotniki 4/4 (P–S)",
+      "level": "B1",
+      "group": "Przymiotniki",
+      "questionCount": 27,
+      "firstWord": "public",
+      "lastWord": "scenic"
+    },
+    {
+      "file": "17_b1_przyslowki-i-wyrazenia_01.json",
+      "categoryId": "b1-przyslowki-i-wyrazenia-01",
+      "categoryName": "B1 — Przysłówki i wyrażenia (A–R)",
+      "level": "B1",
+      "group": "Przysłówki i wyrażenia",
+      "questionCount": 67,
+      "firstWord": "aboard",
+      "lastWord": "repeatedly"
+    },
+    {
+      "file": "18_b2_rzeczowniki_01.json",
+      "categoryId": "b2-rzeczowniki-01",
+      "categoryName": "B2 — Rzeczowniki 1/9 (A–B)",
+      "level": "B2",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "absentee",
+      "lastWord": "bounce"
+    },
+    {
+      "file": "19_b2_rzeczowniki_02.json",
+      "categoryId": "b2-rzeczowniki-02",
+      "categoryName": "B2 — Rzeczowniki 2/9 (B–C)",
+      "level": "B2",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "boxer",
+      "lastWord": "contempt"
+    },
+    {
+      "file": "20_b2_rzeczowniki_03.json",
+      "categoryId": "b2-rzeczowniki-03",
+      "categoryName": "B2 — Rzeczowniki 3/9 (C–E)",
+      "level": "B2",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "contract",
+      "lastWord": "endurance"
+    },
+    {
+      "file": "21_b2_rzeczowniki_04.json",
+      "categoryId": "b2-rzeczowniki-04",
+      "categoryName": "B2 — Rzeczowniki 4/9 (E–G)",
+      "level": "B2",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "energy",
+      "lastWord": "gulp"
+    },
+    {
+      "file": "22_b2_rzeczowniki_05.json",
+      "categoryId": "b2-rzeczowniki-05",
+      "categoryName": "B2 — Rzeczowniki 5/9 (G–L)",
+      "level": "B2",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "gum",
+      "lastWord": "lava"
+    },
+    {
+      "file": "23_b2_rzeczowniki_06.json",
+      "categoryId": "b2-rzeczowniki-06",
+      "categoryName": "B2 — Rzeczowniki 6/9 (L–N)",
+      "level": "B2",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "lawn",
+      "lastWord": "neglect"
+    },
+    {
+      "file": "24_b2_rzeczowniki_07.json",
+      "categoryId": "b2-rzeczowniki-07",
+      "categoryName": "B2 — Rzeczowniki 7/9 (N–P)",
+      "level": "B2",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "nerve",
+      "lastWord": "phase"
+    },
+    {
+      "file": "25_b2_rzeczowniki_08.json",
+      "categoryId": "b2-rzeczowniki-08",
+      "categoryName": "B2 — Rzeczowniki 8/9 (P–R)",
+      "level": "B2",
+      "group": "Rzeczowniki",
+      "questionCount": 100,
+      "firstWord": "physician",
+      "lastWord": "reinforcement"
+    },
+    {
+      "file": "26_b2_rzeczowniki_09.json",
+      "categoryId": "b2-rzeczowniki-09",
+      "categoryName": "B2 — Rzeczowniki 9/9 (R–S)",
+      "level": "B2",
+      "group": "Rzeczowniki",
+      "questionCount": 57,
+      "firstWord": "relaxation",
+      "lastWord": "scent"
+    },
+    {
+      "file": "27_b2_czasowniki_01.json",
+      "categoryId": "b2-czasowniki-01",
+      "categoryName": "B2 — Czasowniki 1/3 (A–E)",
+      "level": "B2",
+      "group": "Czasowniki",
+      "questionCount": 100,
+      "firstWord": "abolish",
+      "lastWord": "endorse"
+    },
+    {
+      "file": "28_b2_czasowniki_02.json",
+      "categoryId": "b2-czasowniki-02",
+      "categoryName": "B2 — Czasowniki 2/3 (E–O)",
+      "level": "B2",
+      "group": "Czasowniki",
+      "questionCount": 100,
+      "firstWord": "enforce",
+      "lastWord": "obsess"
+    },
+    {
+      "file": "29_b2_czasowniki_03.json",
+      "categoryId": "b2-czasowniki-03",
+      "categoryName": "B2 — Czasowniki 3/3 (O–S)",
+      "level": "B2",
+      "group": "Czasowniki",
+      "questionCount": 73,
+      "firstWord": "offend",
+      "lastWord": "schedule"
+    },
+    {
+      "file": "30_b2_przymiotniki_01.json",
+      "categoryId": "b2-przymiotniki-01",
+      "categoryName": "B2 — Przymiotniki 1/4 (A–E)",
+      "level": "B2",
+      "group": "Przymiotniki",
+      "questionCount": 100,
+      "firstWord": "absurd",
+      "lastWord": "eligible"
+    },
+    {
+      "file": "31_b2_przymiotniki_02.json",
+      "categoryId": "b2-przymiotniki-02",
+      "categoryName": "B2 — Przymiotniki 2/4 (E–I)",
+      "level": "B2",
+      "group": "Przymiotniki",
+      "questionCount": 100,
+      "firstWord": "eloquent",
+      "lastWord": "intimate"
+    },
+    {
+      "file": "32_b2_przymiotniki_03.json",
+      "categoryId": "b2-przymiotniki-03",
+      "categoryName": "B2 — Przymiotniki 3/4 (I–Q)",
+      "level": "B2",
+      "group": "Przymiotniki",
+      "questionCount": 100,
+      "firstWord": "intransitive",
+      "lastWord": "queer"
+    },
+    {
+      "file": "33_b2_przymiotniki_04.json",
+      "categoryId": "b2-przymiotniki-04",
+      "categoryName": "B2 — Przymiotniki 4/4 (Q–S)",
+      "level": "B2",
+      "group": "Przymiotniki",
+      "questionCount": 24,
+      "firstWord": "quit",
+      "lastWord": "satisfactory"
+    },
+    {
+      "file": "34_b2_przyslowki-i-wyrazenia_01.json",
+      "categoryId": "b2-przyslowki-i-wyrazenia-01",
+      "categoryName": "B2 — Przysłówki i wyrażenia (A–S)",
+      "level": "B2",
+      "group": "Przysłówki i wyrażenia",
+      "questionCount": 46,
+      "firstWord": "abnormally",
+      "lastWord": "scarcely"
+    }
+  ],
+  "validation": {
+    "uniqueCategoryIds": true,
+    "uniqueQuestionIds": true,
+    "totalQuestionsCorrect": true
+  }
+}

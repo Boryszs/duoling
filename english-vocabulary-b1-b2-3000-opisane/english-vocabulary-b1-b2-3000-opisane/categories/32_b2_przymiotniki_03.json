@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-przymiotniki-03",
+    "name": "B2 — Przymiotniki 3/4 (I–Q)"
+  },
+  "questions": [
+    {
+      "id": "b2-przymiotniki-03-001",
+      "question": "intransitive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieprzechodni"
+        },
+        {
+          "id": "b",
+          "text": "konferencja"
+        },
+        {
+          "id": "c",
+          "text": "pogarda"
+        },
+        {
+          "id": "d",
+          "text": "nie dawać spokoju"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„intransitive” (przymiotnik, poziom B2) oznacza po polsku „nieprzechodni”."
+    },
+    {
+      "id": "b2-przymiotniki-03-002",
+      "question": "invariable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bez życia"
+        },
+        {
+          "id": "b",
+          "text": "niezmienny"
+        },
+        {
+          "id": "c",
+          "text": "wpływowy"
+        },
+        {
+          "id": "d",
+          "text": "przekształcenie, konwersja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„invariable” (przymiotnik, poziom B2) oznacza po polsku „niezmienny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-003",
+      "question": "invisible",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niewidoczny"
+        },
+        {
+          "id": "b",
+          "text": "długodystansowy"
+        },
+        {
+          "id": "c",
+          "text": "mlecz, mniszek"
+        },
+        {
+          "id": "d",
+          "text": "pogarda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„invisible” (przymiotnik, poziom B2) oznacza po polsku „niewidoczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-004",
+      "question": "irrational",
+      "answers": [
+        {
+          "id": "a",
+          "text": "irracjonalny, nielogiczny"
+        },
+        {
+          "id": "b",
+          "text": "pora dzienna"
+        },
+        {
+          "id": "c",
+          "text": "nieodpowiedzialny"
+        },
+        {
+          "id": "d",
+          "text": "intelektualny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„irrational” (przymiotnik, poziom B2) oznacza po polsku „irracjonalny, nielogiczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-005",
+      "question": "irresistible",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieodparty, nieprzeparty"
+        },
+        {
+          "id": "b",
+          "text": "rozmnażać się"
+        },
+        {
+          "id": "c",
+          "text": "odżywiać"
+        },
+        {
+          "id": "d",
+          "text": "konwencja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„irresistible” (przymiotnik, poziom B2) oznacza po polsku „nieodparty, nieprzeparty”."
+    },
+    {
+      "id": "b2-przymiotniki-03-006",
+      "question": "irresponsible",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarozumiałość"
+        },
+        {
+          "id": "b",
+          "text": "nie dawać spokoju"
+        },
+        {
+          "id": "c",
+          "text": "nieodpowiedzialny"
+        },
+        {
+          "id": "d",
+          "text": "obalać, zrzucać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„irresponsible” (przymiotnik, poziom B2) oznacza po polsku „nieodpowiedzialny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-007",
+      "question": "keen",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezwładny"
+        },
+        {
+          "id": "b",
+          "text": "(lit) dumać"
+        },
+        {
+          "id": "c",
+          "text": "kulawy"
+        },
+        {
+          "id": "d",
+          "text": "chętny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„keen” (przymiotnik, poziom B2) oznacza po polsku „chętny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-008",
+      "question": "lame",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ozdoba"
+        },
+        {
+          "id": "b",
+          "text": "kulawy"
+        },
+        {
+          "id": "c",
+          "text": "scalać się, scalać, stapiać się, stapiać"
+        },
+        {
+          "id": "d",
+          "text": "baza danych"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lame” (przymiotnik, poziom B2) oznacza po polsku „kulawy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-009",
+      "question": "last-minute",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w ostatniej chwili"
+        },
+        {
+          "id": "b",
+          "text": "pogarda"
+        },
+        {
+          "id": "c",
+          "text": "konduktor"
+        },
+        {
+          "id": "d",
+          "text": "nie dawać spokoju"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„last-minute” (przymiotnik, poziom B2) oznacza po polsku „w ostatniej chwili”."
+    },
+    {
+      "id": "b2-przymiotniki-03-010",
+      "question": "latter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mlecz, mniszek"
+        },
+        {
+          "id": "b",
+          "text": "w ostatniej chwili"
+        },
+        {
+          "id": "c",
+          "text": "powiększać"
+        },
+        {
+          "id": "d",
+          "text": "ostatni"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„latter” (przymiotnik, poziom B2) oznacza po polsku „ostatni”."
+    },
+    {
+      "id": "b2-przymiotniki-03-011",
+      "question": "legendary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekształcenie, konwersja"
+        },
+        {
+          "id": "b",
+          "text": "konwencja"
+        },
+        {
+          "id": "c",
+          "text": "(np. wódki) odrobina, szczypta"
+        },
+        {
+          "id": "d",
+          "text": "legendarny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„legendary” (przymiotnik, poziom B2) oznacza po polsku „legendarny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-012",
+      "question": "legislative",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wrodzony"
+        },
+        {
+          "id": "b",
+          "text": "legislacyjny, prawny"
+        },
+        {
+          "id": "c",
+          "text": "rozkład"
+        },
+        {
+          "id": "d",
+          "text": "interakcyjny, wzajemny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„legislative” (przymiotnik, poziom B2) oznacza po polsku „legislacyjny, prawny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-013",
+      "question": "legitimate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upokarzać"
+        },
+        {
+          "id": "b",
+          "text": "legalny"
+        },
+        {
+          "id": "c",
+          "text": "pora dzienna"
+        },
+        {
+          "id": "d",
+          "text": "intymny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„legitimate” (przymiotnik, poziom B2) oznacza po polsku „legalny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-014",
+      "question": "lengthy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bez życia"
+        },
+        {
+          "id": "b",
+          "text": "nieodparty, nieprzeparty"
+        },
+        {
+          "id": "c",
+          "text": "wychodzić"
+        },
+        {
+          "id": "d",
+          "text": "długi, wydłużony"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lengthy” (przymiotnik, poziom B2) oznacza po polsku „długi, wydłużony”."
+    },
+    {
+      "id": "b2-przymiotniki-03-015",
+      "question": "liberal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "liberalny"
+        },
+        {
+          "id": "b",
+          "text": "zgoda"
+        },
+        {
+          "id": "c",
+          "text": "dosłowny"
+        },
+        {
+          "id": "d",
+          "text": "kulawy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„liberal” (przymiotnik, poziom B2) oznacza po polsku „liberalny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-016",
+      "question": "lifeless",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obalać, zrzucać"
+        },
+        {
+          "id": "b",
+          "text": "być posłusznym"
+        },
+        {
+          "id": "c",
+          "text": "długi, wydłużony"
+        },
+        {
+          "id": "d",
+          "text": "bez życia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lifeless” (przymiotnik, poziom B2) oznacza po polsku „bez życia”."
+    },
+    {
+      "id": "b2-przymiotniki-03-017",
+      "question": "literal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "być posłusznym"
+        },
+        {
+          "id": "b",
+          "text": "podbój"
+        },
+        {
+          "id": "c",
+          "text": "dosłowny"
+        },
+        {
+          "id": "d",
+          "text": "wyprzedzać, zostawiać w tyle"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„literal” (przymiotnik, poziom B2) oznacza po polsku „dosłowny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-018",
+      "question": "long-distance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wpływowy"
+        },
+        {
+          "id": "b",
+          "text": "panikować"
+        },
+        {
+          "id": "c",
+          "text": "długodystansowy"
+        },
+        {
+          "id": "d",
+          "text": "kontrowersja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„long-distance” (przymiotnik, poziom B2) oznacza po polsku „długodystansowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-019",
+      "question": "long-term",
+      "answers": [
+        {
+          "id": "a",
+          "text": "długoterminowy"
+        },
+        {
+          "id": "b",
+          "text": "potrzebujący"
+        },
+        {
+          "id": "c",
+          "text": "zapisywać"
+        },
+        {
+          "id": "d",
+          "text": "ogólnokrajowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„long-term” (przymiotnik, poziom B2) oznacza po polsku „długoterminowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-020",
+      "question": "lousy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "śmiertelny"
+        },
+        {
+          "id": "b",
+          "text": "orzeczenie"
+        },
+        {
+          "id": "c",
+          "text": "wszawy"
+        },
+        {
+          "id": "d",
+          "text": "zniknięcie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lousy” (przymiotnik, poziom B2) oznacza po polsku „wszawy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-021",
+      "question": "lucrative",
+      "answers": [
+        {
+          "id": "a",
+          "text": "delikatność"
+        },
+        {
+          "id": "b",
+          "text": "metryczny"
+        },
+        {
+          "id": "c",
+          "text": "lukratywny"
+        },
+        {
+          "id": "d",
+          "text": "ofiarność, poświęcenie się, poświęcenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lucrative” (przymiotnik, poziom B2) oznacza po polsku „lukratywny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-022",
+      "question": "lush",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klęska"
+        },
+        {
+          "id": "b",
+          "text": "bujny, wybujały"
+        },
+        {
+          "id": "c",
+          "text": "pośledni, mierny"
+        },
+        {
+          "id": "d",
+          "text": "śmiertelny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lush” (przymiotnik, poziom B2) oznacza po polsku „bujny, wybujały”."
+    },
+    {
+      "id": "b2-przymiotniki-03-023",
+      "question": "luxurious",
+      "answers": [
+        {
+          "id": "a",
+          "text": "luksusowy"
+        },
+        {
+          "id": "b",
+          "text": "dyktator"
+        },
+        {
+          "id": "c",
+          "text": "przerabiać"
+        },
+        {
+          "id": "d",
+          "text": "udawany, pseudo-"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„luxurious” (przymiotnik, poziom B2) oznacza po polsku „luksusowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-024",
+      "question": "luxury",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wielokrotny"
+        },
+        {
+          "id": "b",
+          "text": "luksusowy"
+        },
+        {
+          "id": "c",
+          "text": "(ze szpitala, wojska) zwolnienie"
+        },
+        {
+          "id": "d",
+          "text": "skromny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„luxury” (przymiotnik, poziom B2) oznacza po polsku „luksusowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-025",
+      "question": "manual",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "b",
+          "text": "szatan"
+        },
+        {
+          "id": "c",
+          "text": "panować"
+        },
+        {
+          "id": "d",
+          "text": "ręczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„manual” (przymiotnik, poziom B2) oznacza po polsku „ręczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-026",
+      "question": "mathematical",
+      "answers": [
+        {
+          "id": "a",
+          "text": "matematyczny"
+        },
+        {
+          "id": "b",
+          "text": "sądzić"
+        },
+        {
+          "id": "c",
+          "text": "(lit) potężny"
+        },
+        {
+          "id": "d",
+          "text": "rozchodzić się promieniście"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mathematical” (przymiotnik, poziom B2) oznacza po polsku „matematyczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-027",
+      "question": "mature",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeznaczenie"
+        },
+        {
+          "id": "b",
+          "text": "dojrzały"
+        },
+        {
+          "id": "c",
+          "text": "rozchodzić się promieniście"
+        },
+        {
+          "id": "d",
+          "text": "niezależność, obojętność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mature” (przymiotnik, poziom B2) oznacza po polsku „dojrzały”."
+    },
+    {
+      "id": "b2-przymiotniki-03-028",
+      "question": "medieval",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skromny"
+        },
+        {
+          "id": "b",
+          "text": "średniowieczny"
+        },
+        {
+          "id": "c",
+          "text": "moralny"
+        },
+        {
+          "id": "d",
+          "text": "rekrutować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„medieval” (przymiotnik, poziom B2) oznacza po polsku „średniowieczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-029",
+      "question": "mediocre",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pośledni, mierny"
+        },
+        {
+          "id": "b",
+          "text": "przypominać sobie"
+        },
+        {
+          "id": "c",
+          "text": "wyludnienie, pustka"
+        },
+        {
+          "id": "d",
+          "text": "prosperować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mediocre” (przymiotnik, poziom B2) oznacza po polsku „pośledni, mierny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-030",
+      "question": "metric",
+      "answers": [
+        {
+          "id": "a",
+          "text": "metryczny"
+        },
+        {
+          "id": "b",
+          "text": "sądzić"
+        },
+        {
+          "id": "c",
+          "text": "dojrzały"
+        },
+        {
+          "id": "d",
+          "text": "hańba"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„metric” (przymiotnik, poziom B2) oznacza po polsku „metryczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-031",
+      "question": "microscopic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogólnokrajowy"
+        },
+        {
+          "id": "b",
+          "text": "sądzić"
+        },
+        {
+          "id": "c",
+          "text": "przebranie"
+        },
+        {
+          "id": "d",
+          "text": "mikroskopowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„microscopic” (przymiotnik, poziom B2) oznacza po polsku „mikroskopowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-032",
+      "question": "mighty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyceniać"
+        },
+        {
+          "id": "b",
+          "text": "(lit) potężny"
+        },
+        {
+          "id": "c",
+          "text": "dyplom"
+        },
+        {
+          "id": "d",
+          "text": "klęska"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mighty” (przymiotnik, poziom B2) oznacza po polsku „(lit) potężny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-033",
+      "question": "miniature",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(ze szpitala, wojska) zwolnienie"
+        },
+        {
+          "id": "b",
+          "text": "przenikać"
+        },
+        {
+          "id": "c",
+          "text": "jeleń"
+        },
+        {
+          "id": "d",
+          "text": "miniaturowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„miniature” (przymiotnik, poziom B2) oznacza po polsku „miniaturowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-034",
+      "question": "mock",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyfteryt, błonica"
+        },
+        {
+          "id": "b",
+          "text": "kapryśny, mający humory"
+        },
+        {
+          "id": "c",
+          "text": "żałobny, grobowy"
+        },
+        {
+          "id": "d",
+          "text": "udawany, pseudo-"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mock” (przymiotnik, poziom B2) oznacza po polsku „udawany, pseudo-”."
+    },
+    {
+      "id": "b2-przymiotniki-03-035",
+      "question": "modest",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fotografować"
+        },
+        {
+          "id": "b",
+          "text": "(ze szpitala, wojska) zwolnienie"
+        },
+        {
+          "id": "c",
+          "text": "zabłocony, błotnisty"
+        },
+        {
+          "id": "d",
+          "text": "skromny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„modest” (przymiotnik, poziom B2) oznacza po polsku „skromny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-036",
+      "question": "momentary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chwilowy"
+        },
+        {
+          "id": "b",
+          "text": "dezaprobata"
+        },
+        {
+          "id": "c",
+          "text": "poruszający"
+        },
+        {
+          "id": "d",
+          "text": "uczeń"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„momentary” (przymiotnik, poziom B2) oznacza po polsku „chwilowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-037",
+      "question": "moody",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(ze szpitala, wojska) zwolnienie"
+        },
+        {
+          "id": "b",
+          "text": "(na zdjęciu) pokazywać"
+        },
+        {
+          "id": "c",
+          "text": "kapryśny, mający humory"
+        },
+        {
+          "id": "d",
+          "text": "skromny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„moody” (przymiotnik, poziom B2) oznacza po polsku „kapryśny, mający humory”."
+    },
+    {
+      "id": "b2-przymiotniki-03-038",
+      "question": "moral",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moralny"
+        },
+        {
+          "id": "b",
+          "text": "deficyt"
+        },
+        {
+          "id": "c",
+          "text": "niezadowolenie, oburzenie"
+        },
+        {
+          "id": "d",
+          "text": "(ze szpitala, wojska) zwolnienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„moral” (przymiotnik, poziom B2) oznacza po polsku „moralny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-039",
+      "question": "mortal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fotografować"
+        },
+        {
+          "id": "b",
+          "text": "(ze szpitala, wojska) zwolnienie"
+        },
+        {
+          "id": "c",
+          "text": "śmiertelny"
+        },
+        {
+          "id": "d",
+          "text": "przebranie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mortal” (przymiotnik, poziom B2) oznacza po polsku „śmiertelny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-040",
+      "question": "mournful",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poprzedzać"
+        },
+        {
+          "id": "b",
+          "text": "żałobny, grobowy"
+        },
+        {
+          "id": "c",
+          "text": "ręczny"
+        },
+        {
+          "id": "d",
+          "text": "wyceniać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mournful” (przymiotnik, poziom B2) oznacza po polsku „żałobny, grobowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-041",
+      "question": "moving",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utrzymywać się"
+        },
+        {
+          "id": "b",
+          "text": "lukratywny"
+        },
+        {
+          "id": "c",
+          "text": "przeznaczenie"
+        },
+        {
+          "id": "d",
+          "text": "poruszający"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„moving” (przymiotnik, poziom B2) oznacza po polsku „poruszający”."
+    },
+    {
+      "id": "b2-przymiotniki-03-042",
+      "question": "muddy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ofiarność, poświęcenie się, poświęcenie"
+        },
+        {
+          "id": "b",
+          "text": "zabłocony, błotnisty"
+        },
+        {
+          "id": "c",
+          "text": "zastępca"
+        },
+        {
+          "id": "d",
+          "text": "sąsiedni, sąsiadujący"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„muddy” (przymiotnik, poziom B2) oznacza po polsku „zabłocony, błotnisty”."
+    },
+    {
+      "id": "b2-przymiotniki-03-043",
+      "question": "multiple",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wielokrotny"
+        },
+        {
+          "id": "b",
+          "text": "jeleń"
+        },
+        {
+          "id": "c",
+          "text": "(o oczach) wyłazić na wierzch, wyłazić"
+        },
+        {
+          "id": "d",
+          "text": "wszawy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„multiple” (przymiotnik, poziom B2) oznacza po polsku „wielokrotny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-044",
+      "question": "nationwide",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyplomata"
+        },
+        {
+          "id": "b",
+          "text": "ogólnokrajowy"
+        },
+        {
+          "id": "c",
+          "text": "delikatność"
+        },
+        {
+          "id": "d",
+          "text": "morski"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„nationwide” (przymiotnik, poziom B2) oznacza po polsku „ogólnokrajowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-045",
+      "question": "naughty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dylemat"
+        },
+        {
+          "id": "b",
+          "text": "mieć opinię, oceniać"
+        },
+        {
+          "id": "c",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "d",
+          "text": "szlachetny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„naughty” (przymiotnik, poziom B2) oznacza po polsku „niegrzeczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-046",
+      "question": "naval",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mieć opinię, oceniać"
+        },
+        {
+          "id": "b",
+          "text": "(komputer) stołowy, biurkowy"
+        },
+        {
+          "id": "c",
+          "text": "morski"
+        },
+        {
+          "id": "d",
+          "text": "sąsiedni, sąsiadujący"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„naval” (przymiotnik, poziom B2) oznacza po polsku „morski”."
+    },
+    {
+      "id": "b2-przymiotniki-03-047",
+      "question": "neat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(lit) zrywać"
+        },
+        {
+          "id": "b",
+          "text": "przemyśleć, zastanowić się"
+        },
+        {
+          "id": "c",
+          "text": "ścigać sądownie, oskarżać"
+        },
+        {
+          "id": "d",
+          "text": "elegancki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„neat” (przymiotnik, poziom B2) oznacza po polsku „elegancki”."
+    },
+    {
+      "id": "b2-przymiotniki-03-048",
+      "question": "needless",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pośledni, mierny"
+        },
+        {
+          "id": "b",
+          "text": "panować"
+        },
+        {
+          "id": "c",
+          "text": "długoterminowy"
+        },
+        {
+          "id": "d",
+          "text": "niepotrzebny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„needless” (przymiotnik, poziom B2) oznacza po polsku „niepotrzebny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-049",
+      "question": "needy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wszawy"
+        },
+        {
+          "id": "b",
+          "text": "sądzić"
+        },
+        {
+          "id": "c",
+          "text": "zniknięcie"
+        },
+        {
+          "id": "d",
+          "text": "potrzebujący"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„needy” (przymiotnik, poziom B2) oznacza po polsku „potrzebujący”."
+    },
+    {
+      "id": "b2-przymiotniki-03-050",
+      "question": "neighbouring",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poprzedzać"
+        },
+        {
+          "id": "b",
+          "text": "sąsiedni, sąsiadujący"
+        },
+        {
+          "id": "c",
+          "text": "hańba"
+        },
+        {
+          "id": "d",
+          "text": "panować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„neighbouring” (przymiotnik, poziom B2) oznacza po polsku „sąsiedni, sąsiadujący”."
+    },
+    {
+      "id": "b2-przymiotniki-03-051",
+      "question": "noble",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szlachetny"
+        },
+        {
+          "id": "b",
+          "text": "kapryśny, mający humory"
+        },
+        {
+          "id": "c",
+          "text": "elegancki"
+        },
+        {
+          "id": "d",
+          "text": "wyceniać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„noble” (przymiotnik, poziom B2) oznacza po polsku „szlachetny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-052",
+      "question": "numerical",
+      "answers": [
+        {
+          "id": "a",
+          "text": "optymistyczny"
+        },
+        {
+          "id": "b",
+          "text": "upadek"
+        },
+        {
+          "id": "c",
+          "text": "nieporozumienie"
+        },
+        {
+          "id": "d",
+          "text": "liczbowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„numerical” (przymiotnik, poziom B2) oznacza po polsku „liczbowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-053",
+      "question": "obedient",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogólny"
+        },
+        {
+          "id": "b",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "c",
+          "text": "posłuszny"
+        },
+        {
+          "id": "d",
+          "text": "doza, dawka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„obedient” (przymiotnik, poziom B2) oznacza po polsku „posłuszny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-054",
+      "question": "objective",
+      "answers": [
+        {
+          "id": "a",
+          "text": "posłuszny"
+        },
+        {
+          "id": "b",
+          "text": "obiektywny"
+        },
+        {
+          "id": "c",
+          "text": "dok, basen portowy"
+        },
+        {
+          "id": "d",
+          "text": "rezygnować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„objective” (przymiotnik, poziom B2) oznacza po polsku „obiektywny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-055",
+      "question": "obsessive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "draperie, udrapowanie"
+        },
+        {
+          "id": "b",
+          "text": "patriotyczny"
+        },
+        {
+          "id": "c",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "d",
+          "text": "wstępny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„obsessive” (przymiotnik, poziom B2) oznacza po polsku „obsesyjny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-056",
+      "question": "odd",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziwny"
+        },
+        {
+          "id": "b",
+          "text": "nadmiarowy, większy niż zwykle"
+        },
+        {
+          "id": "c",
+          "text": "łatwość"
+        },
+        {
+          "id": "d",
+          "text": "niezadowolenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„odd” (przymiotnik, poziom B2) oznacza po polsku „dziwny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-057",
+      "question": "offshore",
+      "answers": [
+        {
+          "id": "a",
+          "text": "toczyć się, toczyć"
+        },
+        {
+          "id": "b",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "c",
+          "text": "reorganizować"
+        },
+        {
+          "id": "d",
+          "text": "odbrzegowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„offshore” (przymiotnik, poziom B2) oznacza po polsku „odbrzegowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-058",
+      "question": "optimistic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "optymistyczny"
+        },
+        {
+          "id": "b",
+          "text": "tłumić, zduszać"
+        },
+        {
+          "id": "c",
+          "text": "pocztowy"
+        },
+        {
+          "id": "d",
+          "text": "malowniczy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„optimistic” (przymiotnik, poziom B2) oznacza po polsku „optymistyczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-059",
+      "question": "optional",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wstępny"
+        },
+        {
+          "id": "b",
+          "text": "opcjonalny, do wyboru"
+        },
+        {
+          "id": "c",
+          "text": "łatwość"
+        },
+        {
+          "id": "d",
+          "text": "susza"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„optional” (przymiotnik, poziom B2) oznacza po polsku „opcjonalny, do wyboru”."
+    },
+    {
+      "id": "b2-przymiotniki-03-060",
+      "question": "oral",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przesyłać do bufora"
+        },
+        {
+          "id": "b",
+          "text": "przejście, drzwi"
+        },
+        {
+          "id": "c",
+          "text": "ustny, oralny"
+        },
+        {
+          "id": "d",
+          "text": "nieporozumienie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„oral” (przymiotnik, poziom B2) oznacza po polsku „ustny, oralny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-061",
+      "question": "outrageous",
+      "answers": [
+        {
+          "id": "a",
+          "text": "liczbowy"
+        },
+        {
+          "id": "b",
+          "text": "podział"
+        },
+        {
+          "id": "c",
+          "text": "szokujący, wzburzający"
+        },
+        {
+          "id": "d",
+          "text": "artykuł wstępny od redakcji, artykuł wstępny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„outrageous” (przymiotnik, poziom B2) oznacza po polsku „szokujący, wzburzający”."
+    },
+    {
+      "id": "b2-przymiotniki-03-062",
+      "question": "outside",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "b",
+          "text": "owalny"
+        },
+        {
+          "id": "c",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "d",
+          "text": "uporczywy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„outside” (przymiotnik, poziom B2) oznacza po polsku „zewnętrzny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-063",
+      "question": "oval",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also doubles) (sport) debel"
+        },
+        {
+          "id": "b",
+          "text": "owalny"
+        },
+        {
+          "id": "c",
+          "text": "roztargnienie, rozproszenie uwagi"
+        },
+        {
+          "id": "d",
+          "text": "doza, dawka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„oval” (przymiotnik, poziom B2) oznacza po polsku „owalny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-064",
+      "question": "overall",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezsensowny"
+        },
+        {
+          "id": "b",
+          "text": "wstępny"
+        },
+        {
+          "id": "c",
+          "text": "ogólny"
+        },
+        {
+          "id": "d",
+          "text": "donacja, dar"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„overall” (przymiotnik, poziom B2) oznacza po polsku „ogólny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-065",
+      "question": "overseas",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekonomista"
+        },
+        {
+          "id": "b",
+          "text": "dziwny"
+        },
+        {
+          "id": "c",
+          "text": "sypialnia"
+        },
+        {
+          "id": "d",
+          "text": "zagraniczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„overseas” (przymiotnik, poziom B2) oznacza po polsku „zagraniczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-066",
+      "question": "oversize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nadmiarowy, większy niż zwykle"
+        },
+        {
+          "id": "b",
+          "text": "osioł"
+        },
+        {
+          "id": "c",
+          "text": "bezsensowny"
+        },
+        {
+          "id": "d",
+          "text": "zwisać, obwisać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„oversize” (przymiotnik, poziom B2) oznacza po polsku „nadmiarowy, większy niż zwykle”."
+    },
+    {
+      "id": "b2-przymiotniki-03-067",
+      "question": "packed",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upadek"
+        },
+        {
+          "id": "b",
+          "text": "zatłoczony"
+        },
+        {
+          "id": "c",
+          "text": "lepszy"
+        },
+        {
+          "id": "d",
+          "text": "potencjalny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„packed” (przymiotnik, poziom B2) oznacza po polsku „zatłoczony”."
+    },
+    {
+      "id": "b2-przymiotniki-03-068",
+      "question": "passionate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "b",
+          "text": "zapamiętały"
+        },
+        {
+          "id": "c",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "d",
+          "text": "przejście, drzwi"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„passionate” (przymiotnik, poziom B2) oznacza po polsku „zapamiętały”."
+    },
+    {
+      "id": "b2-przymiotniki-03-069",
+      "question": "pastoral",
+      "answers": [
+        {
+          "id": "a",
+          "text": "duszpasterski"
+        },
+        {
+          "id": "b",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "c",
+          "text": "ryczeć"
+        },
+        {
+          "id": "d",
+          "text": "odwracać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pastoral” (przymiotnik, poziom B2) oznacza po polsku „duszpasterski”."
+    },
+    {
+      "id": "b2-przymiotniki-03-070",
+      "question": "patriotic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potężny"
+        },
+        {
+          "id": "b",
+          "text": "potencjalny"
+        },
+        {
+          "id": "c",
+          "text": "patriotyczny"
+        },
+        {
+          "id": "d",
+          "text": "przejście, drzwi"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„patriotic” (przymiotnik, poziom B2) oznacza po polsku „patriotyczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-071",
+      "question": "pedantic",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badać, prowadzić badania naukowe, prowadzić badania"
+        },
+        {
+          "id": "b",
+          "text": "reorganizować"
+        },
+        {
+          "id": "c",
+          "text": "usposobienie"
+        },
+        {
+          "id": "d",
+          "text": "pedantyczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pedantic” (przymiotnik, poziom B2) oznacza po polsku „pedantyczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-072",
+      "question": "persistent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prestiżowy"
+        },
+        {
+          "id": "b",
+          "text": "obracać się, kręcić się"
+        },
+        {
+          "id": "c",
+          "text": "prezydencki"
+        },
+        {
+          "id": "d",
+          "text": "uporczywy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„persistent” (przymiotnik, poziom B2) oznacza po polsku „uporczywy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-073",
+      "question": "petrified",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dysydent"
+        },
+        {
+          "id": "b",
+          "text": "skamieniały"
+        },
+        {
+          "id": "c",
+          "text": "doza, dawka"
+        },
+        {
+          "id": "d",
+          "text": "opcjonalny, do wyboru"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„petrified” (przymiotnik, poziom B2) oznacza po polsku „skamieniały”."
+    },
+    {
+      "id": "b2-przymiotniki-03-074",
+      "question": "petty",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieważny, drobny"
+        },
+        {
+          "id": "b",
+          "text": "pocztowy"
+        },
+        {
+          "id": "c",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "d",
+          "text": "zguba, zły los, los"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„petty” (przymiotnik, poziom B2) oznacza po polsku „nieważny, drobny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-075",
+      "question": "picturesque",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reorganizować"
+        },
+        {
+          "id": "b",
+          "text": "malowniczy"
+        },
+        {
+          "id": "c",
+          "text": "pozbywanie się, usuwanie"
+        },
+        {
+          "id": "d",
+          "text": "potencjalny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„picturesque” (przymiotnik, poziom B2) oznacza po polsku „malowniczy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-076",
+      "question": "pointless",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozdzierać, oddzierać"
+        },
+        {
+          "id": "b",
+          "text": "bezsensowny"
+        },
+        {
+          "id": "c",
+          "text": "toczyć się, toczyć"
+        },
+        {
+          "id": "d",
+          "text": "płynąć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pointless” (przymiotnik, poziom B2) oznacza po polsku „bezsensowny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-077",
+      "question": "posh",
+      "answers": [
+        {
+          "id": "a",
+          "text": "owalny"
+        },
+        {
+          "id": "b",
+          "text": "sypialnia"
+        },
+        {
+          "id": "c",
+          "text": "donacja, dar"
+        },
+        {
+          "id": "d",
+          "text": "elegancki, modny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„posh” (przymiotnik, poziom B2) oznacza po polsku „elegancki, modny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-078",
+      "question": "postal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieporozumienie"
+        },
+        {
+          "id": "b",
+          "text": "pocztowy"
+        },
+        {
+          "id": "c",
+          "text": "potężny"
+        },
+        {
+          "id": "d",
+          "text": "pozbywanie się, usuwanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„postal” (przymiotnik, poziom B2) oznacza po polsku „pocztowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-079",
+      "question": "potent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "b",
+          "text": "przepowiadalny"
+        },
+        {
+          "id": "c",
+          "text": "lekceważenie, niezwracanie uwagi"
+        },
+        {
+          "id": "d",
+          "text": "potężny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„potent” (przymiotnik, poziom B2) oznacza po polsku „potężny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-080",
+      "question": "potential",
+      "answers": [
+        {
+          "id": "a",
+          "text": "orzeł"
+        },
+        {
+          "id": "b",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "potencjalny"
+        },
+        {
+          "id": "d",
+          "text": "ryczeć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„potential” (przymiotnik, poziom B2) oznacza po polsku „potencjalny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-081",
+      "question": "predicative",
+      "answers": [
+        {
+          "id": "a",
+          "text": "owalny"
+        },
+        {
+          "id": "b",
+          "text": "prezydencki"
+        },
+        {
+          "id": "c",
+          "text": "predykatywny"
+        },
+        {
+          "id": "d",
+          "text": "przejście, drzwi"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„predicative” (przymiotnik, poziom B2) oznacza po polsku „predykatywny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-082",
+      "question": "predictable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepowiadalny"
+        },
+        {
+          "id": "b",
+          "text": "pocztowy"
+        },
+        {
+          "id": "c",
+          "text": "doza, dawka"
+        },
+        {
+          "id": "d",
+          "text": "tłumić, zduszać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„predictable” (przymiotnik, poziom B2) oznacza po polsku „przepowiadalny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-083",
+      "question": "preferable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rewolucjonizować"
+        },
+        {
+          "id": "b",
+          "text": "łatwość"
+        },
+        {
+          "id": "c",
+          "text": "lepszy"
+        },
+        {
+          "id": "d",
+          "text": "uporczywy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„preferable” (przymiotnik, poziom B2) oznacza po polsku „lepszy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-084",
+      "question": "prehistoric",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prehistoryczny, prymitywny"
+        },
+        {
+          "id": "b",
+          "text": "podział"
+        },
+        {
+          "id": "c",
+          "text": "szokujący, wzburzający"
+        },
+        {
+          "id": "d",
+          "text": "ustny, oralny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prehistoric” (przymiotnik, poziom B2) oznacza po polsku „prehistoryczny, prymitywny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-085",
+      "question": "preliminary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prezydencki"
+        },
+        {
+          "id": "b",
+          "text": "wstępny"
+        },
+        {
+          "id": "c",
+          "text": "artykuł wstępny od redakcji, artykuł wstępny"
+        },
+        {
+          "id": "d",
+          "text": "nieporozumienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„preliminary” (przymiotnik, poziom B2) oznacza po polsku „wstępny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-086",
+      "question": "presidential",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "b",
+          "text": "ryczeć"
+        },
+        {
+          "id": "c",
+          "text": "prezydencki"
+        },
+        {
+          "id": "d",
+          "text": "upadek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„presidential” (przymiotnik, poziom B2) oznacza po polsku „prezydencki”."
+    },
+    {
+      "id": "b2-przymiotniki-03-087",
+      "question": "prestigious",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prestiżowy"
+        },
+        {
+          "id": "b",
+          "text": "malowniczy"
+        },
+        {
+          "id": "c",
+          "text": "płynąć"
+        },
+        {
+          "id": "d",
+          "text": "podział"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prestigious” (przymiotnik, poziom B2) oznacza po polsku „prestiżowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-088",
+      "question": "pretend",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badać, prowadzić badania naukowe, prowadzić badania"
+        },
+        {
+          "id": "b",
+          "text": "płynąć"
+        },
+        {
+          "id": "c",
+          "text": "odwracać"
+        },
+        {
+          "id": "d",
+          "text": "udawać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pretend” (przymiotnik, poziom B2) oznacza po polsku „udawać”."
+    },
+    {
+      "id": "b2-przymiotniki-03-089",
+      "question": "preventive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapobiegawczy"
+        },
+        {
+          "id": "b",
+          "text": "trzeć"
+        },
+        {
+          "id": "c",
+          "text": "(zasobów) drenaż, odprowadzanie"
+        },
+        {
+          "id": "d",
+          "text": "roztargnienie, rozproszenie uwagi"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„preventive” (przymiotnik, poziom B2) oznacza po polsku „zapobiegawczy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-090",
+      "question": "priceless",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obracać się, kręcić się"
+        },
+        {
+          "id": "b",
+          "text": "bezcenny"
+        },
+        {
+          "id": "c",
+          "text": "usposobienie"
+        },
+        {
+          "id": "d",
+          "text": "pedantyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„priceless” (przymiotnik, poziom B2) oznacza po polsku „bezcenny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-091",
+      "question": "primary",
+      "answers": [
+        {
+          "id": "a",
+          "text": "włókno"
+        },
+        {
+          "id": "b",
+          "text": "powieka"
+        },
+        {
+          "id": "c",
+          "text": "zbyteczny, zbędny"
+        },
+        {
+          "id": "d",
+          "text": "główny, zasadniczy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„primary” (przymiotnik, poziom B2) oznacza po polsku „główny, zasadniczy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-092",
+      "question": "prime",
+      "answers": [
+        {
+          "id": "a",
+          "text": "najwyższy, najważniejszy"
+        },
+        {
+          "id": "b",
+          "text": "zapalczywy, pochopny"
+        },
+        {
+          "id": "c",
+          "text": "tłuszcz"
+        },
+        {
+          "id": "d",
+          "text": "rytmiczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prime” (przymiotnik, poziom B2) oznacza po polsku „najwyższy, najważniejszy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-093",
+      "question": "prior",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zbyteczny, zbędny"
+        },
+        {
+          "id": "b",
+          "text": "płomień"
+        },
+        {
+          "id": "c",
+          "text": "uszczęśliwiony, pełen ulgi"
+        },
+        {
+          "id": "d",
+          "text": "uprzedni"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„prior” (przymiotnik, poziom B2) oznacza po polsku „uprzedni”."
+    },
+    {
+      "id": "b2-przymiotniki-03-094",
+      "question": "probable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zbyteczny, zbędny"
+        },
+        {
+          "id": "b",
+          "text": "spotkanie"
+        },
+        {
+          "id": "c",
+          "text": "rozrost, ekspansja"
+        },
+        {
+          "id": "d",
+          "text": "prawdopodobny, możliwy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„probable” (przymiotnik, poziom B2) oznacza po polsku „prawdopodobny, możliwy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-095",
+      "question": "profitable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dochodowy"
+        },
+        {
+          "id": "b",
+          "text": "uścisk"
+        },
+        {
+          "id": "c",
+          "text": "wybuch"
+        },
+        {
+          "id": "d",
+          "text": "brew"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„profitable” (przymiotnik, poziom B2) oznacza po polsku „dochodowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-096",
+      "question": "prompt",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezzwłoczny"
+        },
+        {
+          "id": "b",
+          "text": "uścisk"
+        },
+        {
+          "id": "c",
+          "text": "tłuszcz"
+        },
+        {
+          "id": "d",
+          "text": "eseista"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prompt” (przymiotnik, poziom B2) oznacza po polsku „bezzwłoczny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-097",
+      "question": "punctual",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płomień"
+        },
+        {
+          "id": "b",
+          "text": "prawdopodobny, możliwy"
+        },
+        {
+          "id": "c",
+          "text": "rzęsa"
+        },
+        {
+          "id": "d",
+          "text": "punktualny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„punctual” (przymiotnik, poziom B2) oznacza po polsku „punktualny”."
+    },
+    {
+      "id": "b2-przymiotniki-03-098",
+      "question": "purposeful",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badacz, eksplorator"
+        },
+        {
+          "id": "b",
+          "text": "celowy"
+        },
+        {
+          "id": "c",
+          "text": "tłuszcz"
+        },
+        {
+          "id": "d",
+          "text": "główny, zasadniczy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„purposeful” (przymiotnik, poziom B2) oznacza po polsku „celowy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-099",
+      "question": "quarrelsome",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprawiedliwość, słuszność"
+        },
+        {
+          "id": "b",
+          "text": "(form) usiłowanie, wysiłek, próba"
+        },
+        {
+          "id": "c",
+          "text": "przedsiębiorca"
+        },
+        {
+          "id": "d",
+          "text": "kłótliwy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„quarrelsome” (przymiotnik, poziom B2) oznacza po polsku „kłótliwy”."
+    },
+    {
+      "id": "b2-przymiotniki-03-100",
+      "question": "queer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "eseista"
+        },
+        {
+          "id": "b",
+          "text": "samica"
+        },
+        {
+          "id": "c",
+          "text": "prostokątny"
+        },
+        {
+          "id": "d",
+          "text": "dziwaczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„queer” (przymiotnik, poziom B2) oznacza po polsku „dziwaczny”."
+    }
+  ]
+}

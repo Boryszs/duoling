@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-czasowniki-02",
+    "name": "B1 — Czasowniki 2/3 (D–M)"
+  },
+  "questions": [
+    {
+      "id": "b1-czasowniki-02-001",
+      "question": "dig",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kaleki, ułomny"
+        },
+        {
+          "id": "b",
+          "text": "wydajny, efektywny"
+        },
+        {
+          "id": "c",
+          "text": "elektryczny"
+        },
+        {
+          "id": "d",
+          "text": "kopać, wygrzebywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dig” (czasownik, poziom B1) oznacza po polsku „kopać, wygrzebywać”."
+    },
+    {
+      "id": "b1-czasowniki-02-002",
+      "question": "direct",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biologia"
+        },
+        {
+          "id": "b",
+          "text": "dewastować"
+        },
+        {
+          "id": "c",
+          "text": "reżyserować"
+        },
+        {
+          "id": "d",
+          "text": "przekonywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„direct” (czasownik, poziom B1) oznacza po polsku „reżyserować”."
+    },
+    {
+      "id": "b1-czasowniki-02-003",
+      "question": "disable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektryczny"
+        },
+        {
+          "id": "b",
+          "text": "wychowanie"
+        },
+        {
+          "id": "c",
+          "text": "błogosławieństwo, dar Boży, dar"
+        },
+        {
+          "id": "d",
+          "text": "okaleczać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„disable” (czasownik, poziom B1) oznacza po polsku „okaleczać”."
+    },
+    {
+      "id": "b1-czasowniki-02-004",
+      "question": "disappoint",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also bothers) kłopoty, problem"
+        },
+        {
+          "id": "b",
+          "text": "granica, pogranicze"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "d",
+          "text": "nuda"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disappoint” (czasownik, poziom B1) oznacza po polsku „rozczarowywać”."
+    },
+    {
+      "id": "b1-czasowniki-02-005",
+      "question": "discourage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) wymierzać"
+        },
+        {
+          "id": "b",
+          "text": "więź"
+        },
+        {
+          "id": "c",
+          "text": "korzyść, pożytek"
+        },
+        {
+          "id": "d",
+          "text": "zniechęcać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„discourage” (czasownik, poziom B1) oznacza po polsku „zniechęcać”."
+    },
+    {
+      "id": "b1-czasowniki-02-006",
+      "question": "dislike",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nie cierpieć"
+        },
+        {
+          "id": "b",
+          "text": "kształcić"
+        },
+        {
+          "id": "c",
+          "text": "delikatny"
+        },
+        {
+          "id": "d",
+          "text": "obrzydliwy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dislike” (czasownik, poziom B1) oznacza po polsku „nie cierpieć”."
+    },
+    {
+      "id": "b1-czasowniki-02-007",
+      "question": "display",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nudny, mdły"
+        },
+        {
+          "id": "b",
+          "text": "wystawiać"
+        },
+        {
+          "id": "c",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "d",
+          "text": "pochodzić, wywodzić się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„display” (czasownik, poziom B1) oznacza po polsku „wystawiać”."
+    },
+    {
+      "id": "b1-czasowniki-02-008",
+      "question": "distinguish",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nuda"
+        },
+        {
+          "id": "b",
+          "text": "rozróżniać"
+        },
+        {
+          "id": "c",
+          "text": "przekonywać"
+        },
+        {
+          "id": "d",
+          "text": "topić się, tonąć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distinguish” (czasownik, poziom B1) oznacza po polsku „rozróżniać”."
+    },
+    {
+      "id": "b1-czasowniki-02-009",
+      "question": "distribute",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochodzić, wywodzić się"
+        },
+        {
+          "id": "b",
+          "text": "rozprowadzać"
+        },
+        {
+          "id": "c",
+          "text": "(wydarzenie) datować"
+        },
+        {
+          "id": "d",
+          "text": "rumieniec"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distribute” (czasownik, poziom B1) oznacza po polsku „rozprowadzać”."
+    },
+    {
+      "id": "b1-czasowniki-02-010",
+      "question": "drown",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekazywać, komunikować"
+        },
+        {
+          "id": "b",
+          "text": "topić się, tonąć"
+        },
+        {
+          "id": "c",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "d",
+          "text": "zaprzeczać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„drown” (czasownik, poziom B1) oznacza po polsku „topić się, tonąć”."
+    },
+    {
+      "id": "b1-czasowniki-02-011",
+      "question": "educate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niszczycielski"
+        },
+        {
+          "id": "b",
+          "text": "przekazywać, komunikować"
+        },
+        {
+          "id": "c",
+          "text": "zasługiwać"
+        },
+        {
+          "id": "d",
+          "text": "kształcić"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„educate” (czasownik, poziom B1) oznacza po polsku „kształcić”."
+    },
+    {
+      "id": "b1-czasowniki-02-012",
+      "question": "eliminate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gość, odwiedzający"
+        },
+        {
+          "id": "b",
+          "text": "rozpościerać się, rozpościerać"
+        },
+        {
+          "id": "c",
+          "text": "sekretarzyk"
+        },
+        {
+          "id": "d",
+          "text": "eliminować, usuwać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„eliminate” (czasownik, poziom B1) oznacza po polsku „eliminować, usuwać”."
+    },
+    {
+      "id": "b1-czasowniki-02-013",
+      "question": "embarrass",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kłopotać, zawstydzać"
+        },
+        {
+          "id": "b",
+          "text": "ośmielający, zachęcający"
+        },
+        {
+          "id": "c",
+          "text": "pojmanie"
+        },
+        {
+          "id": "d",
+          "text": "(koło, góry) formować się, formować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„embarrass” (czasownik, poziom B1) oznacza po polsku „kłopotać, zawstydzać”."
+    },
+    {
+      "id": "b1-czasowniki-02-014",
+      "question": "emerge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyłaniać się, wychodzić"
+        },
+        {
+          "id": "b",
+          "text": "rozpościerać się, rozpościerać"
+        },
+        {
+          "id": "c",
+          "text": "finansowy"
+        },
+        {
+          "id": "d",
+          "text": "aprobujący"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„emerge” (czasownik, poziom B1) oznacza po polsku „wyłaniać się, wychodzić”."
+    },
+    {
+      "id": "b1-czasowniki-02-015",
+      "question": "emphasize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obliczenie, rachunek"
+        },
+        {
+          "id": "b",
+          "text": "braterstwo"
+        },
+        {
+          "id": "c",
+          "text": "zawód, zajęcie"
+        },
+        {
+          "id": "d",
+          "text": "podkreślać, kłaść nacisk"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„emphasize” (czasownik, poziom B1) oznacza po polsku „podkreślać, kłaść nacisk”."
+    },
+    {
+      "id": "b1-czasowniki-02-016",
+      "question": "enable",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzbogacać"
+        },
+        {
+          "id": "b",
+          "text": "karmić"
+        },
+        {
+          "id": "c",
+          "text": "entuzjastyczny"
+        },
+        {
+          "id": "d",
+          "text": "pozwalać, umożliwiać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„enable” (czasownik, poziom B1) oznacza po polsku „pozwalać, umożliwiać”."
+    },
+    {
+      "id": "b1-czasowniki-02-017",
+      "question": "enclose",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płynny"
+        },
+        {
+          "id": "b",
+          "text": "oglądać"
+        },
+        {
+          "id": "c",
+          "text": "przyrodniczy"
+        },
+        {
+          "id": "d",
+          "text": "zawierać, otaczać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„enclose” (czasownik, poziom B1) oznacza po polsku „zawierać, otaczać”."
+    },
+    {
+      "id": "b1-czasowniki-02-018",
+      "question": "endanger",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rzeźnik"
+        },
+        {
+          "id": "b",
+          "text": "kapusta"
+        },
+        {
+          "id": "c",
+          "text": "zagrażać"
+        },
+        {
+          "id": "d",
+          "text": "aprobujący"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„endanger” (czasownik, poziom B1) oznacza po polsku „zagrażać”."
+    },
+    {
+      "id": "b1-czasowniki-02-019",
+      "question": "endure",
+      "answers": [
+        {
+          "id": "a",
+          "text": "emocjonalny, uczuciowy"
+        },
+        {
+          "id": "b",
+          "text": "zalewać się wodą, zalewać wodą"
+        },
+        {
+          "id": "c",
+          "text": "zawód, zajęcie"
+        },
+        {
+          "id": "d",
+          "text": "wytrzymywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„endure” (czasownik, poziom B1) oznacza po polsku „wytrzymywać”."
+    },
+    {
+      "id": "b1-czasowniki-02-020",
+      "question": "engage",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pojmanie"
+        },
+        {
+          "id": "b",
+          "text": "głupi, niemądry"
+        },
+        {
+          "id": "c",
+          "text": "wyrażać się, wyrażać"
+        },
+        {
+          "id": "d",
+          "text": "angażować się, angażować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„engage” (czasownik, poziom B1) oznacza po polsku „angażować się, angażować”."
+    },
+    {
+      "id": "b1-czasowniki-02-021",
+      "question": "enrich",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kapusta"
+        },
+        {
+          "id": "b",
+          "text": "przyrodniczy"
+        },
+        {
+          "id": "c",
+          "text": "odsłaniać"
+        },
+        {
+          "id": "d",
+          "text": "wzbogacać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„enrich” (czasownik, poziom B1) oznacza po polsku „wzbogacać”."
+    },
+    {
+      "id": "b1-czasowniki-02-022",
+      "question": "ensure",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaręczony"
+        },
+        {
+          "id": "b",
+          "text": "aprobujący"
+        },
+        {
+          "id": "c",
+          "text": "zabawiać"
+        },
+        {
+          "id": "d",
+          "text": "zapewniać, gwarantować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ensure” (czasownik, poziom B1) oznacza po polsku „zapewniać, gwarantować”."
+    },
+    {
+      "id": "b1-czasowniki-02-023",
+      "question": "entertain",
+      "answers": [
+        {
+          "id": "a",
+          "text": "usprawiedliwiać"
+        },
+        {
+          "id": "b",
+          "text": "dokładny"
+        },
+        {
+          "id": "c",
+          "text": "ciężar"
+        },
+        {
+          "id": "d",
+          "text": "zabawiać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„entertain” (czasownik, poziom B1) oznacza po polsku „zabawiać”."
+    },
+    {
+      "id": "b1-czasowniki-02-024",
+      "question": "escape",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kapsułka"
+        },
+        {
+          "id": "b",
+          "text": "obliczenie, rachunek"
+        },
+        {
+          "id": "c",
+          "text": "odsłaniać"
+        },
+        {
+          "id": "d",
+          "text": "unikać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„escape” (czasownik, poziom B1) oznacza po polsku „unikać”."
+    },
+    {
+      "id": "b1-czasowniki-02-025",
+      "question": "examine",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zakazany"
+        },
+        {
+          "id": "b",
+          "text": "oglądać"
+        },
+        {
+          "id": "c",
+          "text": "robić zdjęcia, filmować"
+        },
+        {
+          "id": "d",
+          "text": "formalny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„examine” (czasownik, poziom B1) oznacza po polsku „oglądać”."
+    },
+    {
+      "id": "b1-czasowniki-02-026",
+      "question": "exchange",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymieniać się, wymieniać"
+        },
+        {
+          "id": "b",
+          "text": "pojmanie"
+        },
+        {
+          "id": "c",
+          "text": "aprobujący"
+        },
+        {
+          "id": "d",
+          "text": "kumpel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„exchange” (czasownik, poziom B1) oznacza po polsku „wymieniać się, wymieniać”."
+    },
+    {
+      "id": "b1-czasowniki-02-027",
+      "question": "excuse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obozowisko, kemping"
+        },
+        {
+          "id": "b",
+          "text": "smażyć się, smażyć"
+        },
+        {
+          "id": "c",
+          "text": "usprawiedliwiać"
+        },
+        {
+          "id": "d",
+          "text": "wytwarzać, generować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„excuse” (czasownik, poziom B1) oznacza po polsku „usprawiedliwiać”."
+    },
+    {
+      "id": "b1-czasowniki-02-028",
+      "question": "experience",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obliczenie, rachunek"
+        },
+        {
+          "id": "b",
+          "text": "przeżywać, doświadczać"
+        },
+        {
+          "id": "c",
+          "text": "świeca"
+        },
+        {
+          "id": "d",
+          "text": "stołówka, kantyna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„experience” (czasownik, poziom B1) oznacza po polsku „przeżywać, doświadczać”."
+    },
+    {
+      "id": "b1-czasowniki-02-029",
+      "question": "expose",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odsłaniać"
+        },
+        {
+          "id": "b",
+          "text": "zakłopotany"
+        },
+        {
+          "id": "c",
+          "text": "sprowadzać, przynosić"
+        },
+        {
+          "id": "d",
+          "text": "braterstwo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„expose” (czasownik, poziom B1) oznacza po polsku „odsłaniać”."
+    },
+    {
+      "id": "b1-czasowniki-02-030",
+      "question": "express",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyrażać się, wyrażać"
+        },
+        {
+          "id": "b",
+          "text": "kategoria"
+        },
+        {
+          "id": "c",
+          "text": "przyrodniczy"
+        },
+        {
+          "id": "d",
+          "text": "świąteczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„express” (czasownik, poziom B1) oznacza po polsku „wyrażać się, wyrażać”."
+    },
+    {
+      "id": "b1-czasowniki-02-031",
+      "question": "extend",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozpościerać się, rozpościerać"
+        },
+        {
+          "id": "b",
+          "text": "wybaczać"
+        },
+        {
+          "id": "c",
+          "text": "(np. materac) twardy, sztywny"
+        },
+        {
+          "id": "d",
+          "text": "robić zdjęcia, filmować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„extend” (czasownik, poziom B1) oznacza po polsku „rozpościerać się, rozpościerać”."
+    },
+    {
+      "id": "b1-czasowniki-02-032",
+      "question": "fascinate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wytwarzać, generować"
+        },
+        {
+          "id": "b",
+          "text": "głupi, niemądry"
+        },
+        {
+          "id": "c",
+          "text": "brąz"
+        },
+        {
+          "id": "d",
+          "text": "fascynować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fascinate” (czasownik, poziom B1) oznacza po polsku „fascynować”."
+    },
+    {
+      "id": "b1-czasowniki-02-033",
+      "question": "feed",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karmić"
+        },
+        {
+          "id": "b",
+          "text": "cały, całkowity"
+        },
+        {
+          "id": "c",
+          "text": "płynny"
+        },
+        {
+          "id": "d",
+          "text": "usprawiedliwiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„feed” (czasownik, poziom B1) oznacza po polsku „karmić”."
+    },
+    {
+      "id": "b1-czasowniki-02-034",
+      "question": "fetch",
+      "answers": [
+        {
+          "id": "a",
+          "text": "równy"
+        },
+        {
+          "id": "b",
+          "text": "sprowadzać, przynosić"
+        },
+        {
+          "id": "c",
+          "text": "modny"
+        },
+        {
+          "id": "d",
+          "text": "pojmanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fetch” (czasownik, poziom B1) oznacza po polsku „sprowadzać, przynosić”."
+    },
+    {
+      "id": "b1-czasowniki-02-035",
+      "question": "fight",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(np. materac) twardy, sztywny"
+        },
+        {
+          "id": "b",
+          "text": "braterstwo"
+        },
+        {
+          "id": "c",
+          "text": "oczywisty, widoczny"
+        },
+        {
+          "id": "d",
+          "text": "walczyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fight” (czasownik, poziom B1) oznacza po polsku „walczyć”."
+    },
+    {
+      "id": "b1-czasowniki-02-036",
+      "question": "film",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyrażać się, wyrażać"
+        },
+        {
+          "id": "b",
+          "text": "(tempo, temperatura) stały"
+        },
+        {
+          "id": "c",
+          "text": "ośmielający, zachęcający"
+        },
+        {
+          "id": "d",
+          "text": "robić zdjęcia, filmować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„film” (czasownik, poziom B1) oznacza po polsku „robić zdjęcia, filmować”."
+    },
+    {
+      "id": "b1-czasowniki-02-037",
+      "question": "fish",
+      "answers": [
+        {
+          "id": "a",
+          "text": "angażować się, angażować"
+        },
+        {
+          "id": "b",
+          "text": "przeżywać, doświadczać"
+        },
+        {
+          "id": "c",
+          "text": "kanał sztuczny, kanał"
+        },
+        {
+          "id": "d",
+          "text": "łowić ryby, łowić, wędkować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fish” (czasownik, poziom B1) oznacza po polsku „łowić ryby, łowić, wędkować”."
+    },
+    {
+      "id": "b1-czasowniki-02-038",
+      "question": "float",
+      "answers": [
+        {
+          "id": "a",
+          "text": "unosić się"
+        },
+        {
+          "id": "b",
+          "text": "odległy"
+        },
+        {
+          "id": "c",
+          "text": "kapsułka"
+        },
+        {
+          "id": "d",
+          "text": "obozowisko, kemping"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„float” (czasownik, poziom B1) oznacza po polsku „unosić się”."
+    },
+    {
+      "id": "b1-czasowniki-02-039",
+      "question": "flood",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zalewać się wodą, zalewać wodą"
+        },
+        {
+          "id": "b",
+          "text": "świąteczny"
+        },
+        {
+          "id": "c",
+          "text": "gość, odwiedzający"
+        },
+        {
+          "id": "d",
+          "text": "nadzwyczajny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„flood” (czasownik, poziom B1) oznacza po polsku „zalewać się wodą, zalewać wodą”."
+    },
+    {
+      "id": "b1-czasowniki-02-040",
+      "question": "forgive",
+      "answers": [
+        {
+          "id": "a",
+          "text": "angażować się, angażować"
+        },
+        {
+          "id": "b",
+          "text": "kanał sztuczny, kanał"
+        },
+        {
+          "id": "c",
+          "text": "pojemność"
+        },
+        {
+          "id": "d",
+          "text": "wybaczać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„forgive” (czasownik, poziom B1) oznacza po polsku „wybaczać”."
+    },
+    {
+      "id": "b1-czasowniki-02-041",
+      "question": "form",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odległy"
+        },
+        {
+          "id": "b",
+          "text": "cały, całkowity"
+        },
+        {
+          "id": "c",
+          "text": "unosić się"
+        },
+        {
+          "id": "d",
+          "text": "(koło, góry) formować się, formować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„form” (czasownik, poziom B1) oznacza po polsku „(koło, góry) formować się, formować”."
+    },
+    {
+      "id": "b1-czasowniki-02-042",
+      "question": "fry",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyposażać, meblować"
+        },
+        {
+          "id": "b",
+          "text": "pojmanie"
+        },
+        {
+          "id": "c",
+          "text": "smażyć się, smażyć"
+        },
+        {
+          "id": "d",
+          "text": "nabywca, kupujący"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„fry” (czasownik, poziom B1) oznacza po polsku „smażyć się, smażyć”."
+    },
+    {
+      "id": "b1-czasowniki-02-043",
+      "question": "furnish",
+      "answers": [
+        {
+          "id": "a",
+          "text": "świeca"
+        },
+        {
+          "id": "b",
+          "text": "stołówka, kantyna"
+        },
+        {
+          "id": "c",
+          "text": "rzeźnik"
+        },
+        {
+          "id": "d",
+          "text": "wyposażać, meblować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„furnish” (czasownik, poziom B1) oznacza po polsku „wyposażać, meblować”."
+    },
+    {
+      "id": "b1-czasowniki-02-044",
+      "question": "generate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kapusta"
+        },
+        {
+          "id": "b",
+          "text": "nikły, wątły"
+        },
+        {
+          "id": "c",
+          "text": "kochający, czuły"
+        },
+        {
+          "id": "d",
+          "text": "wytwarzać, generować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„generate” (czasownik, poziom B1) oznacza po polsku „wytwarzać, generować”."
+    },
+    {
+      "id": "b1-czasowniki-02-045",
+      "question": "govern",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogromny"
+        },
+        {
+          "id": "b",
+          "text": "historyczny, przełomowy"
+        },
+        {
+          "id": "c",
+          "text": "rządzić"
+        },
+        {
+          "id": "d",
+          "text": "klinika"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„govern” (czasownik, poziom B1) oznacza po polsku „rządzić”."
+    },
+    {
+      "id": "b1-czasowniki-02-046",
+      "question": "grab",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łapać"
+        },
+        {
+          "id": "b",
+          "text": "ciepło, ciepłota"
+        },
+        {
+          "id": "c",
+          "text": "zamarznięty"
+        },
+        {
+          "id": "d",
+          "text": "zwycięzca, mistrz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„grab” (czasownik, poziom B1) oznacza po polsku „łapać”."
+    },
+    {
+      "id": "b1-czasowniki-02-047",
+      "question": "group",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chemia"
+        },
+        {
+          "id": "b",
+          "text": "historyczny"
+        },
+        {
+          "id": "c",
+          "text": "mający szczęście"
+        },
+        {
+          "id": "d",
+          "text": "grupować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„group” (czasownik, poziom B1) oznacza po polsku „grupować”."
+    },
+    {
+      "id": "b1-czasowniki-02-048",
+      "question": "handle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(paczki) przenosić, przemieszczać"
+        },
+        {
+          "id": "b",
+          "text": "cyrk"
+        },
+        {
+          "id": "c",
+          "text": "klimat"
+        },
+        {
+          "id": "d",
+          "text": "spodziewać się, oczekiwać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„handle” (czasownik, poziom B1) oznacza po polsku „(paczki) przenosić, przemieszczać”."
+    },
+    {
+      "id": "b1-czasowniki-02-049",
+      "question": "heal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(ciekawić) interesować"
+        },
+        {
+          "id": "b",
+          "text": "klinika"
+        },
+        {
+          "id": "c",
+          "text": "zamarznięty"
+        },
+        {
+          "id": "d",
+          "text": "goić się, goić"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„heal” (czasownik, poziom B1) oznacza po polsku „goić się, goić”."
+    },
+    {
+      "id": "b1-czasowniki-02-050",
+      "question": "heat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pogawędka"
+        },
+        {
+          "id": "b",
+          "text": "oddziaływać"
+        },
+        {
+          "id": "c",
+          "text": "ciepło, ciepłota"
+        },
+        {
+          "id": "d",
+          "text": "lodowaty"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„heat” (czasownik, poziom B1) oznacza po polsku „ciepło, ciepłota”."
+    },
+    {
+      "id": "b1-czasowniki-02-051",
+      "question": "hesitate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "goić się, goić"
+        },
+        {
+          "id": "b",
+          "text": "wahać się"
+        },
+        {
+          "id": "c",
+          "text": "święty"
+        },
+        {
+          "id": "d",
+          "text": "pogawędka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hesitate” (czasownik, poziom B1) oznacza po polsku „wahać się”."
+    },
+    {
+      "id": "b1-czasowniki-02-052",
+      "question": "hire",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wesoły, żywy"
+        },
+        {
+          "id": "b",
+          "text": "wynajmować"
+        },
+        {
+          "id": "c",
+          "text": "(paczki) przenosić, przemieszczać"
+        },
+        {
+          "id": "d",
+          "text": "pościg"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hire” (czasownik, poziom B1) oznacza po polsku „wynajmować”."
+    },
+    {
+      "id": "b1-czasowniki-02-053",
+      "question": "hope",
+      "answers": [
+        {
+          "id": "a",
+          "text": "częsty"
+        },
+        {
+          "id": "b",
+          "text": "(nieform, oszukiwać) nabierać"
+        },
+        {
+          "id": "c",
+          "text": "graficzny"
+        },
+        {
+          "id": "d",
+          "text": "spodziewać się, oczekiwać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hope” (czasownik, poziom B1) oznacza po polsku „spodziewać się, oczekiwać”."
+    },
+    {
+      "id": "b1-czasowniki-02-054",
+      "question": "horrify",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lodowaty"
+        },
+        {
+          "id": "b",
+          "text": "przerażać"
+        },
+        {
+          "id": "c",
+          "text": "rozpaczliwy"
+        },
+        {
+          "id": "d",
+          "text": "graficzny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„horrify” (czasownik, poziom B1) oznacza po polsku „przerażać”."
+    },
+    {
+      "id": "b1-czasowniki-02-055",
+      "question": "ignore",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ignorować"
+        },
+        {
+          "id": "b",
+          "text": "klimat"
+        },
+        {
+          "id": "c",
+          "text": "cyrk"
+        },
+        {
+          "id": "d",
+          "text": "goić się, goić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ignore” (czasownik, poziom B1) oznacza po polsku „ignorować”."
+    },
+    {
+      "id": "b1-czasowniki-02-056",
+      "question": "illuminate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spinacz, zapięcie"
+        },
+        {
+          "id": "b",
+          "text": "oświetlać"
+        },
+        {
+          "id": "c",
+          "text": "historyczny"
+        },
+        {
+          "id": "d",
+          "text": "obejmować, wciągać, dotyczyć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„illuminate” (czasownik, poziom B1) oznacza po polsku „oświetlać”."
+    },
+    {
+      "id": "b1-czasowniki-02-057",
+      "question": "imitate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "imitować, naśladować"
+        },
+        {
+          "id": "b",
+          "text": "wynajmować"
+        },
+        {
+          "id": "c",
+          "text": "pewność"
+        },
+        {
+          "id": "d",
+          "text": "zamarznięty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„imitate” (czasownik, poziom B1) oznacza po polsku „imitować, naśladować”."
+    },
+    {
+      "id": "b1-czasowniki-02-058",
+      "question": "impair",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyszły"
+        },
+        {
+          "id": "b",
+          "text": "wspaniały"
+        },
+        {
+          "id": "c",
+          "text": "osłabiać, nadwerężać"
+        },
+        {
+          "id": "d",
+          "text": "historyczny, przełomowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„impair” (czasownik, poziom B1) oznacza po polsku „osłabiać, nadwerężać”."
+    },
+    {
+      "id": "b1-czasowniki-02-059",
+      "question": "inform",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gigantyczny, kolosalny"
+        },
+        {
+          "id": "b",
+          "text": "oświetlać"
+        },
+        {
+          "id": "c",
+          "text": "genetyczny"
+        },
+        {
+          "id": "d",
+          "text": "informować, zawiadamiać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„inform” (czasownik, poziom B1) oznacza po polsku „informować, zawiadamiać”."
+    },
+    {
+      "id": "b1-czasowniki-02-060",
+      "question": "inhale",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hojny, szczodry"
+        },
+        {
+          "id": "b",
+          "text": "grupować"
+        },
+        {
+          "id": "c",
+          "text": "cudowny, wspaniały"
+        },
+        {
+          "id": "d",
+          "text": "wdychać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„inhale” (czasownik, poziom B1) oznacza po polsku „wdychać”."
+    },
+    {
+      "id": "b1-czasowniki-02-061",
+      "question": "inject",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pstryknięcie, pstryk"
+        },
+        {
+          "id": "b",
+          "text": "historyczny, przełomowy"
+        },
+        {
+          "id": "c",
+          "text": "guma do żucia"
+        },
+        {
+          "id": "d",
+          "text": "wstrzykiwać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„inject” (czasownik, poziom B1) oznacza po polsku „wstrzykiwać”."
+    },
+    {
+      "id": "b1-czasowniki-02-062",
+      "question": "inscribe",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wspaniały"
+        },
+        {
+          "id": "b",
+          "text": "kanał"
+        },
+        {
+          "id": "c",
+          "text": "chemia"
+        },
+        {
+          "id": "d",
+          "text": "ryć, grawerować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„inscribe” (czasownik, poziom B1) oznacza po polsku „ryć, grawerować”."
+    },
+    {
+      "id": "b1-czasowniki-02-063",
+      "question": "insist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upierać się"
+        },
+        {
+          "id": "b",
+          "text": "przerywać"
+        },
+        {
+          "id": "c",
+          "text": "rydwan"
+        },
+        {
+          "id": "d",
+          "text": "bezdomny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„insist” (czasownik, poziom B1) oznacza po polsku „upierać się”."
+    },
+    {
+      "id": "b1-czasowniki-02-064",
+      "question": "inspire",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kasa"
+        },
+        {
+          "id": "b",
+          "text": "informować, zawiadamiać"
+        },
+        {
+          "id": "c",
+          "text": "bezradny"
+        },
+        {
+          "id": "d",
+          "text": "pobudzać, skłaniać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„inspire” (czasownik, poziom B1) oznacza po polsku „pobudzać, skłaniać”."
+    },
+    {
+      "id": "b1-czasowniki-02-065",
+      "question": "install",
+      "answers": [
+        {
+          "id": "a",
+          "text": "instalować"
+        },
+        {
+          "id": "b",
+          "text": "utalentowany"
+        },
+        {
+          "id": "c",
+          "text": "ryć, grawerować"
+        },
+        {
+          "id": "d",
+          "text": "cyrk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„install” (czasownik, poziom B1) oznacza po polsku „instalować”."
+    },
+    {
+      "id": "b1-czasowniki-02-066",
+      "question": "intend",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamierzać"
+        },
+        {
+          "id": "b",
+          "text": "gigantyczny, kolosalny"
+        },
+        {
+          "id": "c",
+          "text": "spinacz, zapięcie"
+        },
+        {
+          "id": "d",
+          "text": "dziergać, robić na drutach"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„intend” (czasownik, poziom B1) oznacza po polsku „zamierzać”."
+    },
+    {
+      "id": "b1-czasowniki-02-067",
+      "question": "interact",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziergać, robić na drutach"
+        },
+        {
+          "id": "b",
+          "text": "oddziaływać"
+        },
+        {
+          "id": "c",
+          "text": "chemik"
+        },
+        {
+          "id": "d",
+          "text": "irytować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„interact” (czasownik, poziom B1) oznacza po polsku „oddziaływać”."
+    },
+    {
+      "id": "b1-czasowniki-02-068",
+      "question": "interest",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klinika"
+        },
+        {
+          "id": "b",
+          "text": "instalować"
+        },
+        {
+          "id": "c",
+          "text": "(ciekawić) interesować"
+        },
+        {
+          "id": "d",
+          "text": "ryć, grawerować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„interest” (czasownik, poziom B1) oznacza po polsku „(ciekawić) interesować”."
+    },
+    {
+      "id": "b1-czasowniki-02-069",
+      "question": "interrupt",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pobudzać, skłaniać"
+        },
+        {
+          "id": "b",
+          "text": "pośpieszny"
+        },
+        {
+          "id": "c",
+          "text": "chór"
+        },
+        {
+          "id": "d",
+          "text": "przerywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„interrupt” (czasownik, poziom B1) oznacza po polsku „przerywać”."
+    },
+    {
+      "id": "b1-czasowniki-02-070",
+      "question": "interview",
+      "answers": [
+        {
+          "id": "a",
+          "text": "informować, zawiadamiać"
+        },
+        {
+          "id": "b",
+          "text": "przeprowadzać wywiad"
+        },
+        {
+          "id": "c",
+          "text": "chaos"
+        },
+        {
+          "id": "d",
+          "text": "okropny, straszliwy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„interview” (czasownik, poziom B1) oznacza po polsku „przeprowadzać wywiad”."
+    },
+    {
+      "id": "b1-czasowniki-02-071",
+      "question": "invest",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hojny, szczodry"
+        },
+        {
+          "id": "b",
+          "text": "substancja chemiczna"
+        },
+        {
+          "id": "c",
+          "text": "wesoły, żywy"
+        },
+        {
+          "id": "d",
+          "text": "inwestować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„invest” (czasownik, poziom B1) oznacza po polsku „inwestować”."
+    },
+    {
+      "id": "b1-czasowniki-02-072",
+      "question": "involve",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obejmować, wciągać, dotyczyć"
+        },
+        {
+          "id": "b",
+          "text": "były"
+        },
+        {
+          "id": "c",
+          "text": "wdzięk, urok, czar"
+        },
+        {
+          "id": "d",
+          "text": "graficzny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„involve” (czasownik, poziom B1) oznacza po polsku „obejmować, wciągać, dotyczyć”."
+    },
+    {
+      "id": "b1-czasowniki-02-073",
+      "question": "irritate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "irytować"
+        },
+        {
+          "id": "b",
+          "text": "globalny"
+        },
+        {
+          "id": "c",
+          "text": "dobroczynność, instytucja charytatywna"
+        },
+        {
+          "id": "d",
+          "text": "pstryknięcie, pstryk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„irritate” (czasownik, poziom B1) oznacza po polsku „irytować”."
+    },
+    {
+      "id": "b1-czasowniki-02-074",
+      "question": "joke",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spinacz, zapięcie"
+        },
+        {
+          "id": "b",
+          "text": "święty"
+        },
+        {
+          "id": "c",
+          "text": "żartować"
+        },
+        {
+          "id": "d",
+          "text": "oświetlać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„joke” (czasownik, poziom B1) oznacza po polsku „żartować”."
+    },
+    {
+      "id": "b1-czasowniki-02-075",
+      "question": "kid",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grupować"
+        },
+        {
+          "id": "b",
+          "text": "ostrożność"
+        },
+        {
+          "id": "c",
+          "text": "(stwierdzenie) twierdzenie, sąd, deklaracja"
+        },
+        {
+          "id": "d",
+          "text": "(nieform, oszukiwać) nabierać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„kid” (czasownik, poziom B1) oznacza po polsku „(nieform, oszukiwać) nabierać”."
+    },
+    {
+      "id": "b1-czasowniki-02-076",
+      "question": "kiss",
+      "answers": [
+        {
+          "id": "a",
+          "text": "goić się, goić"
+        },
+        {
+          "id": "b",
+          "text": "niebiański"
+        },
+        {
+          "id": "c",
+          "text": "grupować"
+        },
+        {
+          "id": "d",
+          "text": "całować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„kiss” (czasownik, poziom B1) oznacza po polsku „całować”."
+    },
+    {
+      "id": "b1-czasowniki-02-077",
+      "question": "knit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hojny, szczodry"
+        },
+        {
+          "id": "b",
+          "text": "przerażać"
+        },
+        {
+          "id": "c",
+          "text": "dziergać, robić na drutach"
+        },
+        {
+          "id": "d",
+          "text": "cyrk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„knit” (czasownik, poziom B1) oznacza po polsku „dziergać, robić na drutach”."
+    },
+    {
+      "id": "b1-czasowniki-02-078",
+      "question": "launch",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wodować"
+        },
+        {
+          "id": "b",
+          "text": "zwycięzca, mistrz"
+        },
+        {
+          "id": "c",
+          "text": "rządzić"
+        },
+        {
+          "id": "d",
+          "text": "(ciekawić) interesować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„launch” (czasownik, poziom B1) oznacza po polsku „wodować”."
+    },
+    {
+      "id": "b1-czasowniki-02-079",
+      "question": "lay",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(dywan, podstawy) kłaść, położyć"
+        },
+        {
+          "id": "b",
+          "text": "obserwować"
+        },
+        {
+          "id": "c",
+          "text": "wniosek"
+        },
+        {
+          "id": "d",
+          "text": "konkurent"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lay” (czasownik, poziom B1) oznacza po polsku „(dywan, podstawy) kłaść, położyć”."
+    },
+    {
+      "id": "b1-czasowniki-02-080",
+      "question": "lessen",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zmniejszać się, zmniejszać"
+        },
+        {
+          "id": "b",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "c",
+          "text": "uwaga, komentarz"
+        },
+        {
+          "id": "d",
+          "text": "spowodować, powodować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lessen” (czasownik, poziom B1) oznacza po polsku „zmniejszać się, zmniejszać”."
+    },
+    {
+      "id": "b1-czasowniki-02-081",
+      "question": "liberate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zauważać"
+        },
+        {
+          "id": "b",
+          "text": "uzupełnienie, uwydatnienie"
+        },
+        {
+          "id": "c",
+          "text": "ochrona przyrody, ochrona"
+        },
+        {
+          "id": "d",
+          "text": "uwalniać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„liberate” (czasownik, poziom B1) oznacza po polsku „uwalniać”."
+    },
+    {
+      "id": "b1-czasowniki-02-082",
+      "question": "light",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trumna"
+        },
+        {
+          "id": "b",
+          "text": "zapalać"
+        },
+        {
+          "id": "c",
+          "text": "uwaga, komentarz"
+        },
+        {
+          "id": "d",
+          "text": "przemyślenie, rozważenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„light” (czasownik, poziom B1) oznacza po polsku „zapalać”."
+    },
+    {
+      "id": "b1-czasowniki-02-083",
+      "question": "limp",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "b",
+          "text": "wypuszczać na rynek"
+        },
+        {
+          "id": "c",
+          "text": "pośredni"
+        },
+        {
+          "id": "d",
+          "text": "kuleć, kuśtykać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„limp” (czasownik, poziom B1) oznacza po polsku „kuleć, kuśtykać”."
+    },
+    {
+      "id": "b1-czasowniki-02-084",
+      "question": "locate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pośredni"
+        },
+        {
+          "id": "b",
+          "text": "wynajdować"
+        },
+        {
+          "id": "c",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "d",
+          "text": "uwaga, komentarz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„locate” (czasownik, poziom B1) oznacza po polsku „wynajdować”."
+    },
+    {
+      "id": "b1-czasowniki-02-085",
+      "question": "lock",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaufanie, wiara"
+        },
+        {
+          "id": "b",
+          "text": "zamykać na zamek, zamykać"
+        },
+        {
+          "id": "c",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "d",
+          "text": "skład"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lock” (czasownik, poziom B1) oznacza po polsku „zamykać na zamek, zamykać”."
+    },
+    {
+      "id": "b1-czasowniki-02-086",
+      "question": "mail",
+      "answers": [
+        {
+          "id": "a",
+          "text": "humorystyczny, zabawny"
+        },
+        {
+          "id": "b",
+          "text": "zazdrosny"
+        },
+        {
+          "id": "c",
+          "text": "tłuc"
+        },
+        {
+          "id": "d",
+          "text": "wysyłać pocztą, wysyłać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mail” (czasownik, poziom B1) oznacza po polsku „wysyłać pocztą, wysyłać”."
+    },
+    {
+      "id": "b1-czasowniki-02-087",
+      "question": "maintain",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utrzymywać"
+        },
+        {
+          "id": "b",
+          "text": "spowodować, powodować"
+        },
+        {
+          "id": "c",
+          "text": "przemyślenie, rozważenie"
+        },
+        {
+          "id": "d",
+          "text": "niewinny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„maintain” (czasownik, poziom B1) oznacza po polsku „utrzymywać”."
+    },
+    {
+      "id": "b1-czasowniki-02-088",
+      "question": "market",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedstawiać, opowiadać"
+        },
+        {
+          "id": "b",
+          "text": "wysyłać pocztą, wysyłać"
+        },
+        {
+          "id": "c",
+          "text": "utrzymywać"
+        },
+        {
+          "id": "d",
+          "text": "wypuszczać na rynek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„market” (czasownik, poziom B1) oznacza po polsku „wypuszczać na rynek”."
+    },
+    {
+      "id": "b1-czasowniki-02-089",
+      "question": "mash",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tłuc"
+        },
+        {
+          "id": "b",
+          "text": "trumna"
+        },
+        {
+          "id": "c",
+          "text": "wygoda"
+        },
+        {
+          "id": "d",
+          "text": "kompromis"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mash” (czasownik, poziom B1) oznacza po polsku „tłuc”."
+    },
+    {
+      "id": "b1-czasowniki-02-090",
+      "question": "match",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(myśli) odpowiadać"
+        },
+        {
+          "id": "b",
+          "text": "zaufanie, wiara"
+        },
+        {
+          "id": "c",
+          "text": "wyimaginowany"
+        },
+        {
+          "id": "d",
+          "text": "humorystyczny, zabawny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„match” (czasownik, poziom B1) oznacza po polsku „(myśli) odpowiadać”."
+    },
+    {
+      "id": "b1-czasowniki-02-091",
+      "question": "meditate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyimaginowany"
+        },
+        {
+          "id": "b",
+          "text": "rozmyślać"
+        },
+        {
+          "id": "c",
+          "text": "legalny"
+        },
+        {
+          "id": "d",
+          "text": "trwały"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„meditate” (czasownik, poziom B1) oznacza po polsku „rozmyślać”."
+    },
+    {
+      "id": "b1-czasowniki-02-092",
+      "question": "melt",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utrzymywać"
+        },
+        {
+          "id": "b",
+          "text": "niewłaściwy"
+        },
+        {
+          "id": "c",
+          "text": "(myśli) odpowiadać"
+        },
+        {
+          "id": "d",
+          "text": "topnieć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„melt” (czasownik, poziom B1) oznacza po polsku „topnieć”."
+    },
+    {
+      "id": "b1-czasowniki-02-093",
+      "question": "memorize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spowodować, powodować"
+        },
+        {
+          "id": "b",
+          "text": "konflikt, sprzeczność"
+        },
+        {
+          "id": "c",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "d",
+          "text": "zapamiętywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„memorize” (czasownik, poziom B1) oznacza po polsku „zapamiętywać”."
+    },
+    {
+      "id": "b1-czasowniki-02-094",
+      "question": "mend",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komik"
+        },
+        {
+          "id": "b",
+          "text": "boleć po stracie, boleć, nosić żałobę"
+        },
+        {
+          "id": "c",
+          "text": "naprawiać się, naprawiać"
+        },
+        {
+          "id": "d",
+          "text": "nieuchronny, nie do uniknięcia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mend” (czasownik, poziom B1) oznacza po polsku „naprawiać się, naprawiać”."
+    },
+    {
+      "id": "b1-czasowniki-02-095",
+      "question": "mention",
+      "answers": [
+        {
+          "id": "a",
+          "text": "naprawiać się, naprawiać"
+        },
+        {
+          "id": "b",
+          "text": "wynajdować"
+        },
+        {
+          "id": "c",
+          "text": "niewygodny, niedogodny"
+        },
+        {
+          "id": "d",
+          "text": "wspominać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mention” (czasownik, poziom B1) oznacza po polsku „wspominać”."
+    },
+    {
+      "id": "b1-czasowniki-02-096",
+      "question": "minimize",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaabsorbowany"
+        },
+        {
+          "id": "b",
+          "text": "rozmyślać"
+        },
+        {
+          "id": "c",
+          "text": "minimalizować"
+        },
+        {
+          "id": "d",
+          "text": "dorsz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„minimize” (czasownik, poziom B1) oznacza po polsku „minimalizować”."
+    },
+    {
+      "id": "b1-czasowniki-02-097",
+      "question": "mislead",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uzupełnienie, uwydatnienie"
+        },
+        {
+          "id": "b",
+          "text": "dorsz"
+        },
+        {
+          "id": "c",
+          "text": "mylić, wprowadzać w błąd"
+        },
+        {
+          "id": "d",
+          "text": "kometa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mislead” (czasownik, poziom B1) oznacza po polsku „mylić, wprowadzać w błąd”."
+    },
+    {
+      "id": "b1-czasowniki-02-098",
+      "question": "modify",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieuchronny, nie do uniknięcia"
+        },
+        {
+          "id": "b",
+          "text": "przecinek"
+        },
+        {
+          "id": "c",
+          "text": "modyfikować"
+        },
+        {
+          "id": "d",
+          "text": "spółgłoska"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„modify” (czasownik, poziom B1) oznacza po polsku „modyfikować”."
+    },
+    {
+      "id": "b1-czasowniki-02-099",
+      "question": "motivate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozmyślać"
+        },
+        {
+          "id": "b",
+          "text": "niewygodny, niedogodny"
+        },
+        {
+          "id": "c",
+          "text": "natychmiastowy"
+        },
+        {
+          "id": "d",
+          "text": "spowodować, powodować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„motivate” (czasownik, poziom B1) oznacza po polsku „spowodować, powodować”."
+    },
+    {
+      "id": "b1-czasowniki-02-100",
+      "question": "mourn",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boleć po stracie, boleć, nosić żałobę"
+        },
+        {
+          "id": "b",
+          "text": "wygoda"
+        },
+        {
+          "id": "c",
+          "text": "komik"
+        },
+        {
+          "id": "d",
+          "text": "nieregularny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mourn” (czasownik, poziom B1) oznacza po polsku „boleć po stracie, boleć, nosić żałobę”."
+    }
+  ]
+}

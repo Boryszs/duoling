@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-rzeczowniki-04",
+    "name": "B1 — Rzeczowniki 4/9 (E–G)"
+  },
+  "questions": [
+    {
+      "id": "b1-rzeczowniki-04-001",
+      "question": "emphasis",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cesarz, imperator"
+        },
+        {
+          "id": "b",
+          "text": "znaczenie, nacisk"
+        },
+        {
+          "id": "c",
+          "text": "artysta kabaretowy"
+        },
+        {
+          "id": "d",
+          "text": "eksperyment, doświadczenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„emphasis” (rzeczownik, poziom B1) oznacza po polsku „znaczenie, nacisk”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-002",
+      "question": "empire",
+      "answers": [
+        {
+          "id": "a",
+          "text": "imperium, cesarstwo"
+        },
+        {
+          "id": "b",
+          "text": "spotkanie"
+        },
+        {
+          "id": "c",
+          "text": "pewny, niezawodny"
+        },
+        {
+          "id": "d",
+          "text": "rozmiar"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„empire” (rzeczownik, poziom B1) oznacza po polsku „imperium, cesarstwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-003",
+      "question": "employment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "praktyczny"
+        },
+        {
+          "id": "b",
+          "text": "elektryczność"
+        },
+        {
+          "id": "c",
+          "text": "święty"
+        },
+        {
+          "id": "d",
+          "text": "zatrudnienie, praca"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„employment” (rzeczownik, poziom B1) oznacza po polsku „zatrudnienie, praca”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-004",
+      "question": "encounter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "religijny"
+        },
+        {
+          "id": "b",
+          "text": "dojrzały"
+        },
+        {
+          "id": "c",
+          "text": "spotkanie"
+        },
+        {
+          "id": "d",
+          "text": "rzadki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„encounter” (rzeczownik, poziom B1) oznacza po polsku „spotkanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-005",
+      "question": "encyclopedia",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prymitywny"
+        },
+        {
+          "id": "b",
+          "text": "przygotowany"
+        },
+        {
+          "id": "c",
+          "text": "bez grosza"
+        },
+        {
+          "id": "d",
+          "text": "encyklopedia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„encyclopedia” (rzeczownik, poziom B1) oznacza po polsku „encyklopedia”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-006",
+      "question": "enemy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciężarny"
+        },
+        {
+          "id": "b",
+          "text": "wyposażenie, ekwipunek, sprzęt"
+        },
+        {
+          "id": "c",
+          "text": "wróg"
+        },
+        {
+          "id": "d",
+          "text": "wydanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„enemy” (rzeczownik, poziom B1) oznacza po polsku „wróg”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-007",
+      "question": "engine",
+      "answers": [
+        {
+          "id": "a",
+          "text": "silnik"
+        },
+        {
+          "id": "b",
+          "text": "trwały"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        },
+        {
+          "id": "d",
+          "text": "Anglik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„engine” (rzeczownik, poziom B1) oznacza po polsku „silnik”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-008",
+      "question": "engineering",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inżynieria"
+        },
+        {
+          "id": "b",
+          "text": "istota, podstawa"
+        },
+        {
+          "id": "c",
+          "text": "wieczność"
+        },
+        {
+          "id": "d",
+          "text": "Anglik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„engineering” (rzeczownik, poziom B1) oznacza po polsku „inżynieria”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-009",
+      "question": "Englishman",
+      "answers": [
+        {
+          "id": "a",
+          "text": "święty"
+        },
+        {
+          "id": "b",
+          "text": "mieszkalny, mieszkaniowy"
+        },
+        {
+          "id": "c",
+          "text": "Anglik"
+        },
+        {
+          "id": "d",
+          "text": "eksplozja, wybuch"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„Englishman” (rzeczownik, poziom B1) oznacza po polsku „Anglik”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-010",
+      "question": "enjoyment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radość"
+        },
+        {
+          "id": "b",
+          "text": "rozsądny"
+        },
+        {
+          "id": "c",
+          "text": "spotkanie"
+        },
+        {
+          "id": "d",
+          "text": "eksplozja, wybuch"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„enjoyment” (rzeczownik, poziom B1) oznacza po polsku „radość”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-011",
+      "question": "entertainer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pierzyna"
+        },
+        {
+          "id": "b",
+          "text": "istnienie"
+        },
+        {
+          "id": "c",
+          "text": "artysta kabaretowy"
+        },
+        {
+          "id": "d",
+          "text": "obowiązek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„entertainer” (rzeczownik, poziom B1) oznacza po polsku „artysta kabaretowy”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-012",
+      "question": "enthusiasm",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poprzedni"
+        },
+        {
+          "id": "b",
+          "text": "istnienie"
+        },
+        {
+          "id": "c",
+          "text": "pozorny, złudny"
+        },
+        {
+          "id": "d",
+          "text": "entuzjazm"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„enthusiasm” (rzeczownik, poziom B1) oznacza po polsku „entuzjazm”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-013",
+      "question": "enthusiast",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jakość"
+        },
+        {
+          "id": "b",
+          "text": "entuzjasta"
+        },
+        {
+          "id": "c",
+          "text": "pewny, niezawodny"
+        },
+        {
+          "id": "d",
+          "text": "realistyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„enthusiast” (rzeczownik, poziom B1) oznacza po polsku „entuzjasta”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-014",
+      "question": "entry",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radość"
+        },
+        {
+          "id": "b",
+          "text": "trujący"
+        },
+        {
+          "id": "c",
+          "text": "zgłoszenie"
+        },
+        {
+          "id": "d",
+          "text": "praktyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„entry” (rzeczownik, poziom B1) oznacza po polsku „zgłoszenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-015",
+      "question": "environmentalist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radość"
+        },
+        {
+          "id": "b",
+          "text": "ochroniarz przyrody, ochroniarz, ekolog"
+        },
+        {
+          "id": "c",
+          "text": "produktywny"
+        },
+        {
+          "id": "d",
+          "text": "kropka, plamka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„environmentalist” (rzeczownik, poziom B1) oznacza po polsku „ochroniarz przyrody, ochroniarz, ekolog”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-016",
+      "question": "equality",
+      "answers": [
+        {
+          "id": "a",
+          "text": "równość"
+        },
+        {
+          "id": "b",
+          "text": "wykwalifikowany, dyplomowany"
+        },
+        {
+          "id": "c",
+          "text": "zgłoszenie"
+        },
+        {
+          "id": "d",
+          "text": "ciężarny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„equality” (rzeczownik, poziom B1) oznacza po polsku „równość”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-017",
+      "question": "equipment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyposażenie, ekwipunek, sprzęt"
+        },
+        {
+          "id": "b",
+          "text": "inżynieria"
+        },
+        {
+          "id": "c",
+          "text": "Anglik"
+        },
+        {
+          "id": "d",
+          "text": "praktyczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„equipment” (rzeczownik, poziom B1) oznacza po polsku „wyposażenie, ekwipunek, sprzęt”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-018",
+      "question": "era",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        },
+        {
+          "id": "b",
+          "text": "era, okres"
+        },
+        {
+          "id": "c",
+          "text": "realistyczny"
+        },
+        {
+          "id": "d",
+          "text": "zadowolony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„era” (rzeczownik, poziom B1) oznacza po polsku „era, okres”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-019",
+      "question": "essence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "święty"
+        },
+        {
+          "id": "b",
+          "text": "wróg"
+        },
+        {
+          "id": "c",
+          "text": "istota, podstawa"
+        },
+        {
+          "id": "d",
+          "text": "szacowny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„essence” (rzeczownik, poziom B1) oznacza po polsku „istota, podstawa”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-020",
+      "question": "establishment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znaczenie, nacisk"
+        },
+        {
+          "id": "b",
+          "text": "elektron"
+        },
+        {
+          "id": "c",
+          "text": "założenie"
+        },
+        {
+          "id": "d",
+          "text": "zatrudnienie, praca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„establishment” (rzeczownik, poziom B1) oznacza po polsku „założenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-021",
+      "question": "eternity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "nakłady, wydatki"
+        },
+        {
+          "id": "c",
+          "text": "godny uwagi, zadziwiający"
+        },
+        {
+          "id": "d",
+          "text": "czysty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„eternity” (rzeczownik, poziom B1) oznacza po polsku „wieczność”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-022",
+      "question": "examination",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjście, wyjazd"
+        },
+        {
+          "id": "b",
+          "text": "egzamin"
+        },
+        {
+          "id": "c",
+          "text": "ochronny"
+        },
+        {
+          "id": "d",
+          "text": "dynastia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„examination” (rzeczownik, poziom B1) oznacza po polsku „egzamin”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-023",
+      "question": "examiner",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kosz na śmieci"
+        },
+        {
+          "id": "b",
+          "text": "przygotowany"
+        },
+        {
+          "id": "c",
+          "text": "egzaminator"
+        },
+        {
+          "id": "d",
+          "text": "ważny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„examiner” (rzeczownik, poziom B1) oznacza po polsku „egzaminator”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-024",
+      "question": "excellence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drogocenny"
+        },
+        {
+          "id": "b",
+          "text": "ekologia"
+        },
+        {
+          "id": "c",
+          "text": "doskonałość, przodowanie"
+        },
+        {
+          "id": "d",
+          "text": "zadowolony"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„excellence” (rzeczownik, poziom B1) oznacza po polsku „doskonałość, przodowanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-025",
+      "question": "excess",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nadmiar"
+        },
+        {
+          "id": "b",
+          "text": "silnik"
+        },
+        {
+          "id": "c",
+          "text": "religijny"
+        },
+        {
+          "id": "d",
+          "text": "nierówny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„excess” (rzeczownik, poziom B1) oznacza po polsku „nadmiar”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-026",
+      "question": "excitement",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inżynieria"
+        },
+        {
+          "id": "b",
+          "text": "rasowy"
+        },
+        {
+          "id": "c",
+          "text": "dobrze prosperujący"
+        },
+        {
+          "id": "d",
+          "text": "podniecenie, ekscytacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„excitement” (rzeczownik, poziom B1) oznacza po polsku „podniecenie, ekscytacja”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-027",
+      "question": "existence",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekologia"
+        },
+        {
+          "id": "b",
+          "text": "wyposażenie, ekwipunek, sprzęt"
+        },
+        {
+          "id": "c",
+          "text": "istnienie"
+        },
+        {
+          "id": "d",
+          "text": "elektryczność"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„existence” (rzeczownik, poziom B1) oznacza po polsku „istnienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-028",
+      "question": "exit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gospodarka, ekonomia"
+        },
+        {
+          "id": "b",
+          "text": "trujący"
+        },
+        {
+          "id": "c",
+          "text": "kosz na śmieci"
+        },
+        {
+          "id": "d",
+          "text": "wyjście, wyjazd"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„exit” (rzeczownik, poziom B1) oznacza po polsku „wyjście, wyjazd”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-029",
+      "question": "expense",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nakłady, wydatki"
+        },
+        {
+          "id": "b",
+          "text": "elektron"
+        },
+        {
+          "id": "c",
+          "text": "imperium, cesarstwo"
+        },
+        {
+          "id": "d",
+          "text": "bez grosza"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„expense” (rzeczownik, poziom B1) oznacza po polsku „nakłady, wydatki”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-030",
+      "question": "experiment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "eksplozja, wybuch"
+        },
+        {
+          "id": "b",
+          "text": "eksperyment, doświadczenie"
+        },
+        {
+          "id": "c",
+          "text": "racjonalny"
+        },
+        {
+          "id": "d",
+          "text": "trujący"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„experiment” (rzeczownik, poziom B1) oznacza po polsku „eksperyment, doświadczenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-031",
+      "question": "explosion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "eksplozja, wybuch"
+        },
+        {
+          "id": "b",
+          "text": "egzaminator"
+        },
+        {
+          "id": "c",
+          "text": "prędki"
+        },
+        {
+          "id": "d",
+          "text": "istota, podstawa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„explosion” (rzeczownik, poziom B1) oznacza po polsku „eksplozja, wybuch”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-032",
+      "question": "extent",
+      "answers": [
+        {
+          "id": "a",
+          "text": "artysta kabaretowy"
+        },
+        {
+          "id": "b",
+          "text": "rozmiar"
+        },
+        {
+          "id": "c",
+          "text": "elektryczność"
+        },
+        {
+          "id": "d",
+          "text": "emocja, uczucie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„extent” (rzeczownik, poziom B1) oznacza po polsku „rozmiar”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-033",
+      "question": "extinction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymarcie"
+        },
+        {
+          "id": "b",
+          "text": "czoło"
+        },
+        {
+          "id": "c",
+          "text": "wzrok"
+        },
+        {
+          "id": "d",
+          "text": "frustracja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„extinction” (rzeczownik, poziom B1) oznacza po polsku „wymarcie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-034",
+      "question": "extra",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rzut oka, spojrzenie"
+        },
+        {
+          "id": "b",
+          "text": "wdzięczność"
+        },
+        {
+          "id": "c",
+          "text": "dodatek"
+        },
+        {
+          "id": "d",
+          "text": "stado"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„extra” (rzeczownik, poziom B1) oznacza po polsku „dodatek”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-035",
+      "question": "eyesight",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siedlisko, habitat"
+        },
+        {
+          "id": "b",
+          "text": "wzrok"
+        },
+        {
+          "id": "c",
+          "text": "sos"
+        },
+        {
+          "id": "d",
+          "text": "smak"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„eyesight” (rzeczownik, poziom B1) oznacza po polsku „wzrok”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-036",
+      "question": "facility",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ruszt"
+        },
+        {
+          "id": "b",
+          "text": "lud"
+        },
+        {
+          "id": "c",
+          "text": "zdolność, łatwość"
+        },
+        {
+          "id": "d",
+          "text": "faks"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„facility” (rzeczownik, poziom B1) oznacza po polsku „zdolność, łatwość”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-037",
+      "question": "failure",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gest"
+        },
+        {
+          "id": "b",
+          "text": "gimnastyka"
+        },
+        {
+          "id": "c",
+          "text": "niepowodzenie"
+        },
+        {
+          "id": "d",
+          "text": "mróz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„failure” (rzeczownik, poziom B1) oznacza po polsku „niepowodzenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-038",
+      "question": "fair",
+      "answers": [
+        {
+          "id": "a",
+          "text": "suszarka do włosów, suszarka"
+        },
+        {
+          "id": "b",
+          "text": "siedlisko, habitat"
+        },
+        {
+          "id": "c",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        },
+        {
+          "id": "d",
+          "text": "(BR) wesołe miasteczko"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fair” (rzeczownik, poziom B1) oznacza po polsku „(BR) wesołe miasteczko”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-039",
+      "question": "fall",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymarcie"
+        },
+        {
+          "id": "b",
+          "text": "gest"
+        },
+        {
+          "id": "c",
+          "text": "pan młody"
+        },
+        {
+          "id": "d",
+          "text": "upadek, spadek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fall” (rzeczownik, poziom B1) oznacza po polsku „upadek, spadek”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-040",
+      "question": "fantasy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "faks"
+        },
+        {
+          "id": "b",
+          "text": "fantazjowanie"
+        },
+        {
+          "id": "c",
+          "text": "fontanna"
+        },
+        {
+          "id": "d",
+          "text": "wina, poczucie winy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fantasy” (rzeczownik, poziom B1) oznacza po polsku „fantazjowanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-041",
+      "question": "farewell",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strój"
+        },
+        {
+          "id": "b",
+          "text": "bogini"
+        },
+        {
+          "id": "c",
+          "text": "pożegnanie"
+        },
+        {
+          "id": "d",
+          "text": "format"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„farewell” (rzeczownik, poziom B1) oznacza po polsku „pożegnanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-042",
+      "question": "farming",
+      "answers": [
+        {
+          "id": "a",
+          "text": "suknia"
+        },
+        {
+          "id": "b",
+          "text": "rezultat, stwierdzenie"
+        },
+        {
+          "id": "c",
+          "text": "rolnictwo, gospodarka"
+        },
+        {
+          "id": "d",
+          "text": "frustracja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„farming” (rzeczownik, poziom B1) oznacza po polsku „rolnictwo, gospodarka”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-043",
+      "question": "farmland",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gracz w golfa"
+        },
+        {
+          "id": "b",
+          "text": "ziemia uprawna"
+        },
+        {
+          "id": "c",
+          "text": "(BR) wesołe miasteczko"
+        },
+        {
+          "id": "d",
+          "text": "suknia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„farmland” (rzeczownik, poziom B1) oznacza po polsku „ziemia uprawna”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-044",
+      "question": "fax",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sierść"
+        },
+        {
+          "id": "b",
+          "text": "absolwent"
+        },
+        {
+          "id": "c",
+          "text": "fundament"
+        },
+        {
+          "id": "d",
+          "text": "faks"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fax” (rzeczownik, poziom B1) oznacza po polsku „faks”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-045",
+      "question": "feast",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fontanna"
+        },
+        {
+          "id": "b",
+          "text": "nowy student, nowy"
+        },
+        {
+          "id": "c",
+          "text": "przyjęcie, uczta"
+        },
+        {
+          "id": "d",
+          "text": "siedlisko, habitat"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„feast” (rzeczownik, poziom B1) oznacza po polsku „przyjęcie, uczta”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-046",
+      "question": "ferry",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prom"
+        },
+        {
+          "id": "b",
+          "text": "fryzjer"
+        },
+        {
+          "id": "c",
+          "text": "lud"
+        },
+        {
+          "id": "d",
+          "text": "żyrafa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ferry” (rzeczownik, poziom B1) oznacza po polsku „prom”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-047",
+      "question": "fifth",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plomba"
+        },
+        {
+          "id": "b",
+          "text": "piąty"
+        },
+        {
+          "id": "c",
+          "text": "geologia"
+        },
+        {
+          "id": "d",
+          "text": "gimnastyka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fifth” (rzeczownik, poziom B1) oznacza po polsku „piąty”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-048",
+      "question": "filling",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plomba"
+        },
+        {
+          "id": "b",
+          "text": "rolnictwo, gospodarka"
+        },
+        {
+          "id": "c",
+          "text": "fryzjer"
+        },
+        {
+          "id": "d",
+          "text": "lud"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„filling” (rzeczownik, poziom B1) oznacza po polsku „plomba”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-049",
+      "question": "filter",
+      "answers": [
+        {
+          "id": "a",
+          "text": "filtr"
+        },
+        {
+          "id": "b",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        },
+        {
+          "id": "c",
+          "text": "rolnictwo, gospodarka"
+        },
+        {
+          "id": "d",
+          "text": "wzrost, zysk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„filter” (rzeczownik, poziom B1) oznacza po polsku „filtr”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-050",
+      "question": "finding",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezultat, stwierdzenie"
+        },
+        {
+          "id": "b",
+          "text": "młotek, młot"
+        },
+        {
+          "id": "c",
+          "text": "prognoza"
+        },
+        {
+          "id": "d",
+          "text": "gen"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„finding” (rzeczownik, poziom B1) oznacza po polsku „rezultat, stwierdzenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-051",
+      "question": "finger",
+      "answers": [
+        {
+          "id": "a",
+          "text": "palec"
+        },
+        {
+          "id": "b",
+          "text": "zakończenie studiów, zakończenie"
+        },
+        {
+          "id": "c",
+          "text": "fantazjowanie"
+        },
+        {
+          "id": "d",
+          "text": "formuła, wzór"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„finger” (rzeczownik, poziom B1) oznacza po polsku „palec”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-052",
+      "question": "firework",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogień sztuczny, fajerwerk"
+        },
+        {
+          "id": "b",
+          "text": "palec"
+        },
+        {
+          "id": "c",
+          "text": "suszarka do włosów, suszarka"
+        },
+        {
+          "id": "d",
+          "text": "gimnastyka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„firework” (rzeczownik, poziom B1) oznacza po polsku „ogień sztuczny, fajerwerk”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-053",
+      "question": "flavour",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fontanna"
+        },
+        {
+          "id": "b",
+          "text": "dotacja"
+        },
+        {
+          "id": "c",
+          "text": "smak"
+        },
+        {
+          "id": "d",
+          "text": "wina, poczucie winy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„flavour” (rzeczownik, poziom B1) oznacza po polsku „smak”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-054",
+      "question": "flock",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymarcie"
+        },
+        {
+          "id": "b",
+          "text": "strój"
+        },
+        {
+          "id": "c",
+          "text": "strach, przestrach"
+        },
+        {
+          "id": "d",
+          "text": "stado"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„flock” (rzeczownik, poziom B1) oznacza po polsku „stado”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-055",
+      "question": "flow",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dwa tygodnie"
+        },
+        {
+          "id": "b",
+          "text": "potok"
+        },
+        {
+          "id": "c",
+          "text": "pismo odręczne"
+        },
+        {
+          "id": "d",
+          "text": "wykres, graf"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„flow” (rzeczownik, poziom B1) oznacza po polsku „potok”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-056",
+      "question": "flu",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożegnanie"
+        },
+        {
+          "id": "b",
+          "text": "flet"
+        },
+        {
+          "id": "c",
+          "text": "grypa"
+        },
+        {
+          "id": "d",
+          "text": "rezultat, stwierdzenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„flu” (rzeczownik, poziom B1) oznacza po polsku „grypa”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-057",
+      "question": "flute",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nowy student, nowy"
+        },
+        {
+          "id": "b",
+          "text": "wykres, graf"
+        },
+        {
+          "id": "c",
+          "text": "flet"
+        },
+        {
+          "id": "d",
+          "text": "niepowodzenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„flute” (rzeczownik, poziom B1) oznacza po polsku „flet”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-058",
+      "question": "folk",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dżentelmen"
+        },
+        {
+          "id": "b",
+          "text": "lud"
+        },
+        {
+          "id": "c",
+          "text": "pożegnanie"
+        },
+        {
+          "id": "d",
+          "text": "dwa tygodnie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„folk” (rzeczownik, poziom B1) oznacza po polsku „lud”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-059",
+      "question": "foot",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nowy student, nowy"
+        },
+        {
+          "id": "b",
+          "text": "pogrzeb"
+        },
+        {
+          "id": "c",
+          "text": "stopa"
+        },
+        {
+          "id": "d",
+          "text": "zakończenie studiów, zakończenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„foot” (rzeczownik, poziom B1) oznacza po polsku „stopa”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-060",
+      "question": "forecast",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zgrupowanie, grupa"
+        },
+        {
+          "id": "b",
+          "text": "gracz w golfa"
+        },
+        {
+          "id": "c",
+          "text": "patelnia"
+        },
+        {
+          "id": "d",
+          "text": "prognoza"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„forecast” (rzeczownik, poziom B1) oznacza po polsku „prognoza”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-061",
+      "question": "forehead",
+      "answers": [
+        {
+          "id": "a",
+          "text": "flet"
+        },
+        {
+          "id": "b",
+          "text": "przewodnik turystyczny, przewodnik"
+        },
+        {
+          "id": "c",
+          "text": "czoło"
+        },
+        {
+          "id": "d",
+          "text": "suknia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„forehead” (rzeczownik, poziom B1) oznacza po polsku „czoło”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-062",
+      "question": "format",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piąty"
+        },
+        {
+          "id": "b",
+          "text": "format"
+        },
+        {
+          "id": "c",
+          "text": "geografia"
+        },
+        {
+          "id": "d",
+          "text": "prom"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„format” (rzeczownik, poziom B1) oznacza po polsku „format”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-063",
+      "question": "formula",
+      "answers": [
+        {
+          "id": "a",
+          "text": "formuła, wzór"
+        },
+        {
+          "id": "b",
+          "text": "geologia"
+        },
+        {
+          "id": "c",
+          "text": "chusteczka do nosa, chusteczka"
+        },
+        {
+          "id": "d",
+          "text": "sos"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„formula” (rzeczownik, poziom B1) oznacza po polsku „formuła, wzór”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-064",
+      "question": "fortnight",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomoc"
+        },
+        {
+          "id": "b",
+          "text": "rzut oka, spojrzenie"
+        },
+        {
+          "id": "c",
+          "text": "zamrażarka, zamrażalnik"
+        },
+        {
+          "id": "d",
+          "text": "dwa tygodnie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fortnight” (rzeczownik, poziom B1) oznacza po polsku „dwa tygodnie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-065",
+      "question": "foundation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żółć"
+        },
+        {
+          "id": "b",
+          "text": "strój"
+        },
+        {
+          "id": "c",
+          "text": "fundament"
+        },
+        {
+          "id": "d",
+          "text": "pożegnanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„foundation” (rzeczownik, poziom B1) oznacza po polsku „fundament”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-066",
+      "question": "fountain",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wina, poczucie winy"
+        },
+        {
+          "id": "b",
+          "text": "piąty"
+        },
+        {
+          "id": "c",
+          "text": "smak"
+        },
+        {
+          "id": "d",
+          "text": "fontanna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fountain” (rzeczownik, poziom B1) oznacza po polsku „fontanna”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-067",
+      "question": "fragment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodatek"
+        },
+        {
+          "id": "b",
+          "text": "upadek, spadek"
+        },
+        {
+          "id": "c",
+          "text": "gracz w golfa"
+        },
+        {
+          "id": "d",
+          "text": "fragment"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fragment” (rzeczownik, poziom B1) oznacza po polsku „fragment”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-068",
+      "question": "freezer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upadek, spadek"
+        },
+        {
+          "id": "b",
+          "text": "rezultat, stwierdzenie"
+        },
+        {
+          "id": "c",
+          "text": "prom"
+        },
+        {
+          "id": "d",
+          "text": "zamrażarka, zamrażalnik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„freezer” (rzeczownik, poziom B1) oznacza po polsku „zamrażarka, zamrażalnik”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-069",
+      "question": "frequency",
+      "answers": [
+        {
+          "id": "a",
+          "text": "smak"
+        },
+        {
+          "id": "b",
+          "text": "żyrafa"
+        },
+        {
+          "id": "c",
+          "text": "częstość"
+        },
+        {
+          "id": "d",
+          "text": "zdolność, łatwość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„frequency” (rzeczownik, poziom B1) oznacza po polsku „częstość”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-070",
+      "question": "freshman",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piąty"
+        },
+        {
+          "id": "b",
+          "text": "nowy student, nowy"
+        },
+        {
+          "id": "c",
+          "text": "mróz"
+        },
+        {
+          "id": "d",
+          "text": "rezultat, stwierdzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„freshman” (rzeczownik, poziom B1) oznacza po polsku „nowy student, nowy”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-071",
+      "question": "fright",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykres, graf"
+        },
+        {
+          "id": "b",
+          "text": "strach, przestrach"
+        },
+        {
+          "id": "c",
+          "text": "zamrażarka, zamrażalnik"
+        },
+        {
+          "id": "d",
+          "text": "stopa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fright” (rzeczownik, poziom B1) oznacza po polsku „strach, przestrach”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-072",
+      "question": "frost",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mróz"
+        },
+        {
+          "id": "b",
+          "text": "wina, poczucie winy"
+        },
+        {
+          "id": "c",
+          "text": "prom"
+        },
+        {
+          "id": "d",
+          "text": "zdolność, łatwość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„frost” (rzeczownik, poziom B1) oznacza po polsku „mróz”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-073",
+      "question": "frustration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "geografia"
+        },
+        {
+          "id": "b",
+          "text": "frustracja"
+        },
+        {
+          "id": "c",
+          "text": "szklarnia"
+        },
+        {
+          "id": "d",
+          "text": "wymarcie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„frustration” (rzeczownik, poziom B1) oznacza po polsku „frustracja”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-074",
+      "question": "frying pan",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przemykać się, prześlizgiwać się"
+        },
+        {
+          "id": "b",
+          "text": "patelnia"
+        },
+        {
+          "id": "c",
+          "text": "funkcja, zadanie"
+        },
+        {
+          "id": "d",
+          "text": "przypuszczenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„frying pan” (rzeczownik, poziom B1) oznacza po polsku „patelnia”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-075",
+      "question": "fuel",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paliwo"
+        },
+        {
+          "id": "b",
+          "text": "(BR) wesołe miasteczko"
+        },
+        {
+          "id": "c",
+          "text": "geografia"
+        },
+        {
+          "id": "d",
+          "text": "nowy student, nowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fuel” (rzeczownik, poziom B1) oznacza po polsku „paliwo”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-076",
+      "question": "function",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dwa tygodnie"
+        },
+        {
+          "id": "b",
+          "text": "wina, poczucie winy"
+        },
+        {
+          "id": "c",
+          "text": "gracz w golfa"
+        },
+        {
+          "id": "d",
+          "text": "funkcja, zadanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„function” (rzeczownik, poziom B1) oznacza po polsku „funkcja, zadanie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-077",
+      "question": "fund",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        },
+        {
+          "id": "b",
+          "text": "sierść"
+        },
+        {
+          "id": "c",
+          "text": "(BR) wesołe miasteczko"
+        },
+        {
+          "id": "d",
+          "text": "flet"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fund” (rzeczownik, poziom B1) oznacza po polsku „(also funds) fundusze, fundusz, środki pieniężne”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-078",
+      "question": "funeral",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pogrzeb"
+        },
+        {
+          "id": "b",
+          "text": "zamrażarka, zamrażalnik"
+        },
+        {
+          "id": "c",
+          "text": "lud"
+        },
+        {
+          "id": "d",
+          "text": "fragment"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„funeral” (rzeczownik, poziom B1) oznacza po polsku „pogrzeb”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-079",
+      "question": "fur",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uścisk dłoni"
+        },
+        {
+          "id": "b",
+          "text": "sierść"
+        },
+        {
+          "id": "c",
+          "text": "grypa"
+        },
+        {
+          "id": "d",
+          "text": "wykres, graf"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fur” (rzeczownik, poziom B1) oznacza po polsku „sierść”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-080",
+      "question": "fuss",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożegnanie"
+        },
+        {
+          "id": "b",
+          "text": "zamieszanie, zawracanie głowy, histeria"
+        },
+        {
+          "id": "c",
+          "text": "dżentelmen"
+        },
+        {
+          "id": "d",
+          "text": "częstość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fuss” (rzeczownik, poziom B1) oznacza po polsku „zamieszanie, zawracanie głowy, histeria”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-081",
+      "question": "gain",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzrost, zysk"
+        },
+        {
+          "id": "b",
+          "text": "bramkarz"
+        },
+        {
+          "id": "c",
+          "text": "ruszt"
+        },
+        {
+          "id": "d",
+          "text": "fantazjowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gain” (rzeczownik, poziom B1) oznacza po polsku „wzrost, zysk”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-082",
+      "question": "gall",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bramkarz"
+        },
+        {
+          "id": "b",
+          "text": "absolwent"
+        },
+        {
+          "id": "c",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "d",
+          "text": "żółć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gall” (rzeczownik, poziom B1) oznacza po polsku „żółć”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-083",
+      "question": "gap",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodatek"
+        },
+        {
+          "id": "b",
+          "text": "gen"
+        },
+        {
+          "id": "c",
+          "text": "przypuszczenie"
+        },
+        {
+          "id": "d",
+          "text": "przerwa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gap” (rzeczownik, poziom B1) oznacza po polsku „przerwa”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-084",
+      "question": "garment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potok"
+        },
+        {
+          "id": "b",
+          "text": "funkcja, zadanie"
+        },
+        {
+          "id": "c",
+          "text": "przemykać się, prześlizgiwać się"
+        },
+        {
+          "id": "d",
+          "text": "strój"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„garment” (rzeczownik, poziom B1) oznacza po polsku „strój”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-085",
+      "question": "gene",
+      "answers": [
+        {
+          "id": "a",
+          "text": "faks"
+        },
+        {
+          "id": "b",
+          "text": "gen"
+        },
+        {
+          "id": "c",
+          "text": "przemykać się, prześlizgiwać się"
+        },
+        {
+          "id": "d",
+          "text": "strach, przestrach"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„gene” (rzeczownik, poziom B1) oznacza po polsku „gen”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-086",
+      "question": "genetics",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zakończenie studiów, zakończenie"
+        },
+        {
+          "id": "b",
+          "text": "dwa tygodnie"
+        },
+        {
+          "id": "c",
+          "text": "genetyka"
+        },
+        {
+          "id": "d",
+          "text": "pomoc"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„genetics” (rzeczownik, poziom B1) oznacza po polsku „genetyka”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-087",
+      "question": "gentleman",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dżentelmen"
+        },
+        {
+          "id": "b",
+          "text": "(BR) wesołe miasteczko"
+        },
+        {
+          "id": "c",
+          "text": "wdzięczność"
+        },
+        {
+          "id": "d",
+          "text": "faks"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gentleman” (rzeczownik, poziom B1) oznacza po polsku „dżentelmen”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-088",
+      "question": "geography",
+      "answers": [
+        {
+          "id": "a",
+          "text": "suknia"
+        },
+        {
+          "id": "b",
+          "text": "zamrażarka, zamrażalnik"
+        },
+        {
+          "id": "c",
+          "text": "stado"
+        },
+        {
+          "id": "d",
+          "text": "geografia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„geography” (rzeczownik, poziom B1) oznacza po polsku „geografia”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-089",
+      "question": "geology",
+      "answers": [
+        {
+          "id": "a",
+          "text": "geologia"
+        },
+        {
+          "id": "b",
+          "text": "szklarnia"
+        },
+        {
+          "id": "c",
+          "text": "sława, chwała"
+        },
+        {
+          "id": "d",
+          "text": "funkcja, zadanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„geology” (rzeczownik, poziom B1) oznacza po polsku „geologia”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-090",
+      "question": "gesture",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gest"
+        },
+        {
+          "id": "b",
+          "text": "sierść"
+        },
+        {
+          "id": "c",
+          "text": "ruszt"
+        },
+        {
+          "id": "d",
+          "text": "strach, przestrach"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gesture” (rzeczownik, poziom B1) oznacza po polsku „gest”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-091",
+      "question": "giggle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sala gimnastyczna"
+        },
+        {
+          "id": "b",
+          "text": "fryzjer"
+        },
+        {
+          "id": "c",
+          "text": "ogień sztuczny, fajerwerk"
+        },
+        {
+          "id": "d",
+          "text": "chichot"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„giggle” (rzeczownik, poziom B1) oznacza po polsku „chichot”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-092",
+      "question": "ginger",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gest"
+        },
+        {
+          "id": "b",
+          "text": "pożegnanie"
+        },
+        {
+          "id": "c",
+          "text": "zamieszanie, zawracanie głowy, histeria"
+        },
+        {
+          "id": "d",
+          "text": "imbir"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ginger” (rzeczownik, poziom B1) oznacza po polsku „imbir”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-093",
+      "question": "giraffe",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fontanna"
+        },
+        {
+          "id": "b",
+          "text": "żyrafa"
+        },
+        {
+          "id": "c",
+          "text": "potok"
+        },
+        {
+          "id": "d",
+          "text": "zakończenie studiów, zakończenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„giraffe” (rzeczownik, poziom B1) oznacza po polsku „żyrafa”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-094",
+      "question": "glance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykres, graf"
+        },
+        {
+          "id": "b",
+          "text": "gest"
+        },
+        {
+          "id": "c",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "d",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„glance” (rzeczownik, poziom B1) oznacza po polsku „spojrzenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-095",
+      "question": "glide",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezultat, stwierdzenie"
+        },
+        {
+          "id": "b",
+          "text": "fryzjer"
+        },
+        {
+          "id": "c",
+          "text": "bogini"
+        },
+        {
+          "id": "d",
+          "text": "przemykać się, prześlizgiwać się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„glide” (rzeczownik, poziom B1) oznacza po polsku „przemykać się, prześlizgiwać się”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-096",
+      "question": "glimpse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grób"
+        },
+        {
+          "id": "b",
+          "text": "przewodnik turystyczny, przewodnik"
+        },
+        {
+          "id": "c",
+          "text": "uścisk dłoni"
+        },
+        {
+          "id": "d",
+          "text": "rzut oka, spojrzenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„glimpse” (rzeczownik, poziom B1) oznacza po polsku „rzut oka, spojrzenie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-097",
+      "question": "glint",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzrok"
+        },
+        {
+          "id": "b",
+          "text": "rolnictwo, gospodarka"
+        },
+        {
+          "id": "c",
+          "text": "strach, przestrach"
+        },
+        {
+          "id": "d",
+          "text": "błysk, lśnienie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„glint” (rzeczownik, poziom B1) oznacza po polsku „błysk, lśnienie”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-098",
+      "question": "glory",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sława, chwała"
+        },
+        {
+          "id": "b",
+          "text": "szklarnia"
+        },
+        {
+          "id": "c",
+          "text": "faks"
+        },
+        {
+          "id": "d",
+          "text": "stado"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„glory” (rzeczownik, poziom B1) oznacza po polsku „sława, chwała”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-099",
+      "question": "goalkeeper",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sierść"
+        },
+        {
+          "id": "b",
+          "text": "bramkarz"
+        },
+        {
+          "id": "c",
+          "text": "czoło"
+        },
+        {
+          "id": "d",
+          "text": "rzut oka, spojrzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„goalkeeper” (rzeczownik, poziom B1) oznacza po polsku „bramkarz”."
+    },
+    {
+      "id": "b1-rzeczowniki-04-100",
+      "question": "goddess",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chichot"
+        },
+        {
+          "id": "b",
+          "text": "zakończenie studiów, zakończenie"
+        },
+        {
+          "id": "c",
+          "text": "uścisk dłoni"
+        },
+        {
+          "id": "d",
+          "text": "bogini"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„goddess” (rzeczownik, poziom B1) oznacza po polsku „bogini”."
+    }
+  ]
+}

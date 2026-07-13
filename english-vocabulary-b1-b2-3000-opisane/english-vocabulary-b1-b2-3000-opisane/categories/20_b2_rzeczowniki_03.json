@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-rzeczowniki-03",
+    "name": "B2 — Rzeczowniki 3/9 (C–E)"
+  },
+  "questions": [
+    {
+      "id": "b2-rzeczowniki-03-001",
+      "question": "contract",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utwardzać, wykładać kamieniami, wykładać"
+        },
+        {
+          "id": "b",
+          "text": "kontrakt, umowa"
+        },
+        {
+          "id": "c",
+          "text": "nieodzowny"
+        },
+        {
+          "id": "d",
+          "text": "bez życia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„contract” (rzeczownik, poziom B2) oznacza po polsku „kontrakt, umowa”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-002",
+      "question": "contradiction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzeczność"
+        },
+        {
+          "id": "b",
+          "text": "niedoświadczony"
+        },
+        {
+          "id": "c",
+          "text": "zgoda"
+        },
+        {
+          "id": "d",
+          "text": "docierać, przenikać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„contradiction” (rzeczownik, poziom B2) oznacza po polsku „sprzeczność”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-003",
+      "question": "controversy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieodparty, nieprzeparty"
+        },
+        {
+          "id": "b",
+          "text": "niezmienny"
+        },
+        {
+          "id": "c",
+          "text": "kontrowersja"
+        },
+        {
+          "id": "d",
+          "text": "upokarzać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„controversy” (rzeczownik, poziom B2) oznacza po polsku „kontrowersja”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-004",
+      "question": "convention",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ustępstwo"
+        },
+        {
+          "id": "b",
+          "text": "intymny"
+        },
+        {
+          "id": "c",
+          "text": "konwencja"
+        },
+        {
+          "id": "d",
+          "text": "liberalny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„convention” (rzeczownik, poziom B2) oznacza po polsku „konwencja”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-005",
+      "question": "converse",
+      "answers": [
+        {
+          "id": "a",
+          "text": "intelektualny"
+        },
+        {
+          "id": "b",
+          "text": "początkowy"
+        },
+        {
+          "id": "c",
+          "text": "(also the converse) odwrotność"
+        },
+        {
+          "id": "d",
+          "text": "górować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„converse” (rzeczownik, poziom B2) oznacza po polsku „(also the converse) odwrotność”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-006",
+      "question": "conversion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konduktor"
+        },
+        {
+          "id": "b",
+          "text": "przekształcenie, konwersja"
+        },
+        {
+          "id": "c",
+          "text": "sprzeczność"
+        },
+        {
+          "id": "d",
+          "text": "konwencja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„conversion” (rzeczownik, poziom B2) oznacza po polsku „przekształcenie, konwersja”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-007",
+      "question": "copper",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karać"
+        },
+        {
+          "id": "b",
+          "text": "miedź"
+        },
+        {
+          "id": "c",
+          "text": "w ostatniej chwili"
+        },
+        {
+          "id": "d",
+          "text": "konsensus"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„copper” (rzeczownik, poziom B2) oznacza po polsku „miedź”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-008",
+      "question": "dandelion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyprzedzać, zostawiać w tyle"
+        },
+        {
+          "id": "b",
+          "text": "mlecz, mniszek"
+        },
+        {
+          "id": "c",
+          "text": "siusiać"
+        },
+        {
+          "id": "d",
+          "text": "przekształcenie, konwersja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dandelion” (rzeczownik, poziom B2) oznacza po polsku „mlecz, mniszek”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-009",
+      "question": "dash",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utwardzać, wykładać kamieniami, wykładać"
+        },
+        {
+          "id": "b",
+          "text": "(np. wódki) odrobina, szczypta"
+        },
+        {
+          "id": "c",
+          "text": "dostrzegać, postrzegać"
+        },
+        {
+          "id": "d",
+          "text": "koncepcja, pomysł"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dash” (rzeczownik, poziom B2) oznacza po polsku „(np. wódki) odrobina, szczypta”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-010",
+      "question": "data",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karać"
+        },
+        {
+          "id": "b",
+          "text": "pokonywać, przewyższać"
+        },
+        {
+          "id": "c",
+          "text": "dane"
+        },
+        {
+          "id": "d",
+          "text": "(np. wódki) odrobina, szczypta"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„data” (rzeczownik, poziom B2) oznacza po polsku „dane”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-011",
+      "question": "database",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyrastać"
+        },
+        {
+          "id": "b",
+          "text": "niedoświadczony"
+        },
+        {
+          "id": "c",
+          "text": "miedź"
+        },
+        {
+          "id": "d",
+          "text": "baza danych"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„database” (rzeczownik, poziom B2) oznacza po polsku „baza danych”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-012",
+      "question": "daytime",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pora dzienna"
+        },
+        {
+          "id": "b",
+          "text": "górować"
+        },
+        {
+          "id": "c",
+          "text": "pobłażliwy"
+        },
+        {
+          "id": "d",
+          "text": "debet"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„daytime” (rzeczownik, poziom B2) oznacza po polsku „pora dzienna”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-013",
+      "question": "dear",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekształcenie, konwersja"
+        },
+        {
+          "id": "b",
+          "text": "piętro, poziom"
+        },
+        {
+          "id": "c",
+          "text": "drogi"
+        },
+        {
+          "id": "d",
+          "text": "pociecha, pocieszenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dear” (rzeczownik, poziom B2) oznacza po polsku „drogi”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-014",
+      "question": "debit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieskuteczny"
+        },
+        {
+          "id": "b",
+          "text": "debet"
+        },
+        {
+          "id": "c",
+          "text": "docierać, przenikać"
+        },
+        {
+          "id": "d",
+          "text": "dosłowny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„debit” (rzeczownik, poziom B2) oznacza po polsku „debet”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-015",
+      "question": "decade",
+      "answers": [
+        {
+          "id": "a",
+          "text": "manipulować"
+        },
+        {
+          "id": "b",
+          "text": "intymny"
+        },
+        {
+          "id": "c",
+          "text": "konsensus"
+        },
+        {
+          "id": "d",
+          "text": "dekada"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„decade” (rzeczownik, poziom B2) oznacza po polsku „dekada”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-016",
+      "question": "deck",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mechanizować"
+        },
+        {
+          "id": "b",
+          "text": "koncepcja, pomysł"
+        },
+        {
+          "id": "c",
+          "text": "piętro, poziom"
+        },
+        {
+          "id": "d",
+          "text": "bezwładny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„deck” (rzeczownik, poziom B2) oznacza po polsku „piętro, poziom”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-017",
+      "question": "decomposition",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dekada"
+        },
+        {
+          "id": "b",
+          "text": "rozkład"
+        },
+        {
+          "id": "c",
+          "text": "długodystansowy"
+        },
+        {
+          "id": "d",
+          "text": "wychodzić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„decomposition” (rzeczownik, poziom B2) oznacza po polsku „rozkład”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-018",
+      "question": "decoration",
+      "answers": [
+        {
+          "id": "a",
+          "text": "legalny"
+        },
+        {
+          "id": "b",
+          "text": "ozdoba"
+        },
+        {
+          "id": "c",
+          "text": "utwardzać, wykładać kamieniami, wykładać"
+        },
+        {
+          "id": "d",
+          "text": "siusiać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„decoration” (rzeczownik, poziom B2) oznacza po polsku „ozdoba”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-019",
+      "question": "dedication",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oceniać z góry"
+        },
+        {
+          "id": "b",
+          "text": "pośledni, mierny"
+        },
+        {
+          "id": "c",
+          "text": "przypominać sobie"
+        },
+        {
+          "id": "d",
+          "text": "ofiarność, poświęcenie się, poświęcenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dedication” (rzeczownik, poziom B2) oznacza po polsku „ofiarność, poświęcenie się, poświęcenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-020",
+      "question": "deduction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczeń"
+        },
+        {
+          "id": "b",
+          "text": "odkładać, odraczać"
+        },
+        {
+          "id": "c",
+          "text": "klęska"
+        },
+        {
+          "id": "d",
+          "text": "dedukcja, wnioskowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„deduction” (rzeczownik, poziom B2) oznacza po polsku „dedukcja, wnioskowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-021",
+      "question": "deer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jeleń"
+        },
+        {
+          "id": "b",
+          "text": "orzeczenie"
+        },
+        {
+          "id": "c",
+          "text": "rozreklamowywać"
+        },
+        {
+          "id": "d",
+          "text": "dyktator"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„deer” (rzeczownik, poziom B2) oznacza po polsku „jeleń”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-022",
+      "question": "defeat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przegląd"
+        },
+        {
+          "id": "b",
+          "text": "klęska"
+        },
+        {
+          "id": "c",
+          "text": "rozmyślać, rozpatrywać"
+        },
+        {
+          "id": "d",
+          "text": "błagać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„defeat” (rzeczownik, poziom B2) oznacza po polsku „klęska”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-023",
+      "question": "deficit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "deficyt"
+        },
+        {
+          "id": "b",
+          "text": "dezaprobata"
+        },
+        {
+          "id": "c",
+          "text": "matematyczny"
+        },
+        {
+          "id": "d",
+          "text": "wzmacniać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„deficit” (rzeczownik, poziom B2) oznacza po polsku „deficyt”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-024",
+      "question": "delegate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aspekt"
+        },
+        {
+          "id": "b",
+          "text": "bujny, wybujały"
+        },
+        {
+          "id": "c",
+          "text": "regulować"
+        },
+        {
+          "id": "d",
+          "text": "delegat, reprezentant"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„delegate” (rzeczownik, poziom B2) oznacza po polsku „delegat, reprezentant”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-025",
+      "question": "delicacy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "delikatność"
+        },
+        {
+          "id": "b",
+          "text": "personifikować, uosabiać"
+        },
+        {
+          "id": "c",
+          "text": "lukratywny"
+        },
+        {
+          "id": "d",
+          "text": "fotografować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„delicacy” (rzeczownik, poziom B2) oznacza po polsku „delikatność”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-026",
+      "question": "denim",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szlachetny"
+        },
+        {
+          "id": "b",
+          "text": "dżins"
+        },
+        {
+          "id": "c",
+          "text": "lukratywny"
+        },
+        {
+          "id": "d",
+          "text": "przegląd"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„denim” (rzeczownik, poziom B2) oznacza po polsku „dżins”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-027",
+      "question": "deputy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wszawy"
+        },
+        {
+          "id": "b",
+          "text": "szlachetny"
+        },
+        {
+          "id": "c",
+          "text": "niepotrzebny"
+        },
+        {
+          "id": "d",
+          "text": "zastępca"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„deputy” (rzeczownik, poziom B2) oznacza po polsku „zastępca”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-028",
+      "question": "desktop",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(komputer) stołowy, biurkowy"
+        },
+        {
+          "id": "b",
+          "text": "mieć opinię, oceniać"
+        },
+        {
+          "id": "c",
+          "text": "chwilowy"
+        },
+        {
+          "id": "d",
+          "text": "zabłocony, błotnisty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„desktop” (rzeczownik, poziom B2) oznacza po polsku „(komputer) stołowy, biurkowy”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-029",
+      "question": "desolation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wszawy"
+        },
+        {
+          "id": "b",
+          "text": "zabraniać"
+        },
+        {
+          "id": "c",
+          "text": "utrzymywać się"
+        },
+        {
+          "id": "d",
+          "text": "wyludnienie, pustka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„desolation” (rzeczownik, poziom B2) oznacza po polsku „wyludnienie, pustka”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-030",
+      "question": "desperation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "desperacja"
+        },
+        {
+          "id": "b",
+          "text": "aspekt"
+        },
+        {
+          "id": "c",
+          "text": "wszawy"
+        },
+        {
+          "id": "d",
+          "text": "bujny, wybujały"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„desperation” (rzeczownik, poziom B2) oznacza po polsku „desperacja”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-031",
+      "question": "destiny",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeznaczenie"
+        },
+        {
+          "id": "b",
+          "text": "żałobny, grobowy"
+        },
+        {
+          "id": "c",
+          "text": "aspekt"
+        },
+        {
+          "id": "d",
+          "text": "jeleń"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„destiny” (rzeczownik, poziom B2) oznacza po polsku „przeznaczenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-032",
+      "question": "detachment",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przemyśleć, zastanowić się"
+        },
+        {
+          "id": "b",
+          "text": "przebranie"
+        },
+        {
+          "id": "c",
+          "text": "zmniejszyć, ulżyć"
+        },
+        {
+          "id": "d",
+          "text": "niezależność, obojętność"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„detachment” (rzeczownik, poziom B2) oznacza po polsku „niezależność, obojętność”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-033",
+      "question": "devil",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kapryśny, mający humory"
+        },
+        {
+          "id": "b",
+          "text": "dziesięciocentówka"
+        },
+        {
+          "id": "c",
+          "text": "sądzić"
+        },
+        {
+          "id": "d",
+          "text": "szatan"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„devil” (rzeczownik, poziom B2) oznacza po polsku „szatan”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-034",
+      "question": "diarrhoea",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biegunka"
+        },
+        {
+          "id": "b",
+          "text": "fotografować"
+        },
+        {
+          "id": "c",
+          "text": "poruszający"
+        },
+        {
+          "id": "d",
+          "text": "(na zdjęciu) pokazywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„diarrhoea” (rzeczownik, poziom B2) oznacza po polsku „biegunka”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-035",
+      "question": "dictator",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wielokrotny"
+        },
+        {
+          "id": "b",
+          "text": "(ze szpitala, wojska) zwolnienie"
+        },
+        {
+          "id": "c",
+          "text": "dyktator"
+        },
+        {
+          "id": "d",
+          "text": "orzeczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dictator” (rzeczownik, poziom B2) oznacza po polsku „dyktator”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-036",
+      "question": "digest",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzmacniać"
+        },
+        {
+          "id": "b",
+          "text": "zapisywać"
+        },
+        {
+          "id": "c",
+          "text": "przegląd"
+        },
+        {
+          "id": "d",
+          "text": "dostojeństwo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„digest” (rzeczownik, poziom B2) oznacza po polsku „przegląd”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-037",
+      "question": "dignity",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miniaturowy"
+        },
+        {
+          "id": "b",
+          "text": "dostojeństwo"
+        },
+        {
+          "id": "c",
+          "text": "(ze szpitala, wojska) zwolnienie"
+        },
+        {
+          "id": "d",
+          "text": "matematyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dignity” (rzeczownik, poziom B2) oznacza po polsku „dostojeństwo”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-038",
+      "question": "dilemma",
+      "answers": [
+        {
+          "id": "a",
+          "text": "metryczny"
+        },
+        {
+          "id": "b",
+          "text": "delegat, reprezentant"
+        },
+        {
+          "id": "c",
+          "text": "dylemat"
+        },
+        {
+          "id": "d",
+          "text": "niegrzeczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dilemma” (rzeczownik, poziom B2) oznacza po polsku „dylemat”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-039",
+      "question": "dime",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mikroskopowy"
+        },
+        {
+          "id": "b",
+          "text": "ręczny"
+        },
+        {
+          "id": "c",
+          "text": "dziesięciocentówka"
+        },
+        {
+          "id": "d",
+          "text": "żałobny, grobowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dime” (rzeczownik, poziom B2) oznacza po polsku „dziesięciocentówka”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-040",
+      "question": "dimension",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(na zdjęciu) pokazywać"
+        },
+        {
+          "id": "b",
+          "text": "aspekt"
+        },
+        {
+          "id": "c",
+          "text": "przypominać sobie"
+        },
+        {
+          "id": "d",
+          "text": "zastępca"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dimension” (rzeczownik, poziom B2) oznacza po polsku „aspekt”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-041",
+      "question": "diphtheria",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyfteryt, błonica"
+        },
+        {
+          "id": "b",
+          "text": "dyscyplina"
+        },
+        {
+          "id": "c",
+          "text": "delegat, reprezentant"
+        },
+        {
+          "id": "d",
+          "text": "aspekt"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„diphtheria” (rzeczownik, poziom B2) oznacza po polsku „dyfteryt, błonica”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-042",
+      "question": "diploma",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyplom"
+        },
+        {
+          "id": "b",
+          "text": "dyfteryt, błonica"
+        },
+        {
+          "id": "c",
+          "text": "potrzebujący"
+        },
+        {
+          "id": "d",
+          "text": "dziesięciocentówka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„diploma” (rzeczownik, poziom B2) oznacza po polsku „dyplom”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-043",
+      "question": "diplomat",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozchodzić się promieniście"
+        },
+        {
+          "id": "b",
+          "text": "zabłocony, błotnisty"
+        },
+        {
+          "id": "c",
+          "text": "dojrzały"
+        },
+        {
+          "id": "d",
+          "text": "dyplomata"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„diplomat” (rzeczownik, poziom B2) oznacza po polsku „dyplomata”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-044",
+      "question": "disappearance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "średniowieczny"
+        },
+        {
+          "id": "b",
+          "text": "zniknięcie"
+        },
+        {
+          "id": "c",
+          "text": "rozchodzić się promieniście"
+        },
+        {
+          "id": "d",
+          "text": "wszawy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„disappearance” (rzeczownik, poziom B2) oznacza po polsku „zniknięcie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-045",
+      "question": "disapproval",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zabłocony, błotnisty"
+        },
+        {
+          "id": "b",
+          "text": "dezaprobata"
+        },
+        {
+          "id": "c",
+          "text": "dyfteryt, błonica"
+        },
+        {
+          "id": "d",
+          "text": "wzmacniać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„disapproval” (rzeczownik, poziom B2) oznacza po polsku „dezaprobata”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-046",
+      "question": "discharge",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(ze szpitala, wojska) zwolnienie"
+        },
+        {
+          "id": "b",
+          "text": "zapisywać"
+        },
+        {
+          "id": "c",
+          "text": "przerabiać"
+        },
+        {
+          "id": "d",
+          "text": "skromny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„discharge” (rzeczownik, poziom B2) oznacza po polsku „(ze szpitala, wojska) zwolnienie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-047",
+      "question": "disciple",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczeń"
+        },
+        {
+          "id": "b",
+          "text": "luksusowy"
+        },
+        {
+          "id": "c",
+          "text": "wzmacniać"
+        },
+        {
+          "id": "d",
+          "text": "dziesięciocentówka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disciple” (rzeczownik, poziom B2) oznacza po polsku „uczeń”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-048",
+      "question": "discipline",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyscyplina"
+        },
+        {
+          "id": "b",
+          "text": "śmiertelny"
+        },
+        {
+          "id": "c",
+          "text": "dostojeństwo"
+        },
+        {
+          "id": "d",
+          "text": "dylemat"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„discipline” (rzeczownik, poziom B2) oznacza po polsku „dyscyplina”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-049",
+      "question": "disgrace",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hańba"
+        },
+        {
+          "id": "b",
+          "text": "(o oczach) wyłazić na wierzch, wyłazić"
+        },
+        {
+          "id": "c",
+          "text": "ofiarność, poświęcenie się, poświęcenie"
+        },
+        {
+          "id": "d",
+          "text": "mikroskopowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disgrace” (rzeczownik, poziom B2) oznacza po polsku „hańba”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-050",
+      "question": "disguise",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przebranie"
+        },
+        {
+          "id": "b",
+          "text": "niezależność, obojętność"
+        },
+        {
+          "id": "c",
+          "text": "wzmacniać"
+        },
+        {
+          "id": "d",
+          "text": "zmniejszyć, ulżyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disguise” (rzeczownik, poziom B2) oznacza po polsku „przebranie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-051",
+      "question": "disorder",
+      "answers": [
+        {
+          "id": "a",
+          "text": "orzeczenie"
+        },
+        {
+          "id": "b",
+          "text": "obalać"
+        },
+        {
+          "id": "c",
+          "text": "sąsiedni, sąsiadujący"
+        },
+        {
+          "id": "d",
+          "text": "bałagan"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„disorder” (rzeczownik, poziom B2) oznacza po polsku „bałagan”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-052",
+      "question": "displeasure",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mieć opinię, oceniać"
+        },
+        {
+          "id": "b",
+          "text": "lukratywny"
+        },
+        {
+          "id": "c",
+          "text": "niezadowolenie, oburzenie"
+        },
+        {
+          "id": "d",
+          "text": "panować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„displeasure” (rzeczownik, poziom B2) oznacza po polsku „niezadowolenie, oburzenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-053",
+      "question": "disposal",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pozbywanie się, usuwanie"
+        },
+        {
+          "id": "b",
+          "text": "dokonywać przeglądu"
+        },
+        {
+          "id": "c",
+          "text": "patriotyczny"
+        },
+        {
+          "id": "d",
+          "text": "duszpasterski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disposal” (rzeczownik, poziom B2) oznacza po polsku „pozbywanie się, usuwanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-054",
+      "question": "disposition",
+      "answers": [
+        {
+          "id": "a",
+          "text": "usposobienie"
+        },
+        {
+          "id": "b",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "c",
+          "text": "orzeł"
+        },
+        {
+          "id": "d",
+          "text": "obsesyjny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disposition” (rzeczownik, poziom B2) oznacza po polsku „usposobienie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-055",
+      "question": "dispute",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zguba, zły los, los"
+        },
+        {
+          "id": "b",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "c",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "d",
+          "text": "nieporozumienie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dispute” (rzeczownik, poziom B2) oznacza po polsku „nieporozumienie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-056",
+      "question": "disregard",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zagraniczny"
+        },
+        {
+          "id": "b",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "lekceważenie, niezwracanie uwagi"
+        },
+        {
+          "id": "d",
+          "text": "nadmiarowy, większy niż zwykle"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disregard” (rzeczownik, poziom B2) oznacza po polsku „lekceważenie, niezwracanie uwagi”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-057",
+      "question": "dissatisfaction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezadowolenie"
+        },
+        {
+          "id": "b",
+          "text": "nadmiarowy, większy niż zwykle"
+        },
+        {
+          "id": "c",
+          "text": "pocztowy"
+        },
+        {
+          "id": "d",
+          "text": "ekonomista"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dissatisfaction” (rzeczownik, poziom B2) oznacza po polsku „niezadowolenie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-058",
+      "question": "dissident",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezadowolenie"
+        },
+        {
+          "id": "b",
+          "text": "dysydent"
+        },
+        {
+          "id": "c",
+          "text": "rewolucjonizować"
+        },
+        {
+          "id": "d",
+          "text": "płynąć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dissident” (rzeczownik, poziom B2) oznacza po polsku „dysydent”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-059",
+      "question": "distraction",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tłumić, zduszać"
+        },
+        {
+          "id": "b",
+          "text": "roztargnienie, rozproszenie uwagi"
+        },
+        {
+          "id": "c",
+          "text": "dziwny"
+        },
+        {
+          "id": "d",
+          "text": "szokujący, wzburzający"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distraction” (rzeczownik, poziom B2) oznacza po polsku „roztargnienie, rozproszenie uwagi”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-060",
+      "question": "diversion",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "b",
+          "text": "rozrywka, atrakcja"
+        },
+        {
+          "id": "c",
+          "text": "ożywiać się, ożywiać"
+        },
+        {
+          "id": "d",
+          "text": "zwisać, obwisać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„diversion” (rzeczownik, poziom B2) oznacza po polsku „rozrywka, atrakcja”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-061",
+      "question": "division",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podział"
+        },
+        {
+          "id": "b",
+          "text": "ogólny"
+        },
+        {
+          "id": "c",
+          "text": "toczyć się, toczyć"
+        },
+        {
+          "id": "d",
+          "text": "przesyłać do bufora"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„division” (rzeczownik, poziom B2) oznacza po polsku „podział”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-062",
+      "question": "divorce",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(zasobów) drenaż, odprowadzanie"
+        },
+        {
+          "id": "b",
+          "text": "rozwód"
+        },
+        {
+          "id": "c",
+          "text": "zwisać, obwisać"
+        },
+        {
+          "id": "d",
+          "text": "dysydent"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„divorce” (rzeczownik, poziom B2) oznacza po polsku „rozwód”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-063",
+      "question": "dock",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potencjalny"
+        },
+        {
+          "id": "b",
+          "text": "zguba, zły los, los"
+        },
+        {
+          "id": "c",
+          "text": "duszpasterski"
+        },
+        {
+          "id": "d",
+          "text": "dok, basen portowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dock” (rzeczownik, poziom B2) oznacza po polsku „dok, basen portowy”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-064",
+      "question": "donation",
+      "answers": [
+        {
+          "id": "a",
+          "text": "liczbowy"
+        },
+        {
+          "id": "b",
+          "text": "pocztowy"
+        },
+        {
+          "id": "c",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "d",
+          "text": "donacja, dar"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„donation” (rzeczownik, poziom B2) oznacza po polsku „donacja, dar”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-065",
+      "question": "donkey",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zguba, zły los, los"
+        },
+        {
+          "id": "b",
+          "text": "dok, basen portowy"
+        },
+        {
+          "id": "c",
+          "text": "karzeł"
+        },
+        {
+          "id": "d",
+          "text": "osioł"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„donkey” (rzeczownik, poziom B2) oznacza po polsku „osioł”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-066",
+      "question": "doom",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ryczeć"
+        },
+        {
+          "id": "b",
+          "text": "przepowiadalny"
+        },
+        {
+          "id": "c",
+          "text": "(BR nieform) wyrzucać z pracy, wyrzucać"
+        },
+        {
+          "id": "d",
+          "text": "zguba, zły los, los"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„doom” (rzeczownik, poziom B2) oznacza po polsku „zguba, zły los, los”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-067",
+      "question": "doorway",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reorganizować"
+        },
+        {
+          "id": "b",
+          "text": "liczbowy"
+        },
+        {
+          "id": "c",
+          "text": "opcjonalny, do wyboru"
+        },
+        {
+          "id": "d",
+          "text": "przejście, drzwi"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„doorway” (rzeczownik, poziom B2) oznacza po polsku „przejście, drzwi”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-068",
+      "question": "dormitory",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przesyłać do bufora"
+        },
+        {
+          "id": "b",
+          "text": "ekonomista"
+        },
+        {
+          "id": "c",
+          "text": "sypialnia"
+        },
+        {
+          "id": "d",
+          "text": "upadek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dormitory” (rzeczownik, poziom B2) oznacza po polsku „sypialnia”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-069",
+      "question": "dose",
+      "answers": [
+        {
+          "id": "a",
+          "text": "doza, dawka"
+        },
+        {
+          "id": "b",
+          "text": "przepowiadalny"
+        },
+        {
+          "id": "c",
+          "text": "obiektywny"
+        },
+        {
+          "id": "d",
+          "text": "zapamiętały"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dose” (rzeczownik, poziom B2) oznacza po polsku „doza, dawka”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-070",
+      "question": "double",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywiać się, ożywiać"
+        },
+        {
+          "id": "b",
+          "text": "zarobki"
+        },
+        {
+          "id": "c",
+          "text": "patriotyczny"
+        },
+        {
+          "id": "d",
+          "text": "(also doubles) (sport) debel"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„double” (rzeczownik, poziom B2) oznacza po polsku „(also doubles) (sport) debel”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-071",
+      "question": "dove",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zagraniczny"
+        },
+        {
+          "id": "b",
+          "text": "gołąb"
+        },
+        {
+          "id": "c",
+          "text": "wiano"
+        },
+        {
+          "id": "d",
+          "text": "wznawiać, kontynuować się, kontynuować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dove” (rzeczownik, poziom B2) oznacza po polsku „gołąb”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-072",
+      "question": "downfall",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upadek"
+        },
+        {
+          "id": "b",
+          "text": "elegancki, modny"
+        },
+        {
+          "id": "c",
+          "text": "niezadowolenie"
+        },
+        {
+          "id": "d",
+          "text": "ustny, oralny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„downfall” (rzeczownik, poziom B2) oznacza po polsku „upadek”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-073",
+      "question": "download",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gołąb"
+        },
+        {
+          "id": "b",
+          "text": "przesyłać do bufora"
+        },
+        {
+          "id": "c",
+          "text": "odwracać"
+        },
+        {
+          "id": "d",
+          "text": "potężny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„download” (rzeczownik, poziom B2) oznacza po polsku „przesyłać do bufora”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-074",
+      "question": "dowry",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obiektywny"
+        },
+        {
+          "id": "b",
+          "text": "prestiżowy"
+        },
+        {
+          "id": "c",
+          "text": "wiano"
+        },
+        {
+          "id": "d",
+          "text": "zwisać, obwisać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dowry” (rzeczownik, poziom B2) oznacza po polsku „wiano”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-075",
+      "question": "draft",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozwód"
+        },
+        {
+          "id": "b",
+          "text": "patriotyczny"
+        },
+        {
+          "id": "c",
+          "text": "szkic, wstępna wersja"
+        },
+        {
+          "id": "d",
+          "text": "donacja, dar"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„draft” (rzeczownik, poziom B2) oznacza po polsku „szkic, wstępna wersja”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-076",
+      "question": "drain",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(zasobów) drenaż, odprowadzanie"
+        },
+        {
+          "id": "b",
+          "text": "owalny"
+        },
+        {
+          "id": "c",
+          "text": "rozwód"
+        },
+        {
+          "id": "d",
+          "text": "pozbywanie się, usuwanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„drain” (rzeczownik, poziom B2) oznacza po polsku „(zasobów) drenaż, odprowadzanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-077",
+      "question": "drapery",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karzeł"
+        },
+        {
+          "id": "b",
+          "text": "draperie, udrapowanie"
+        },
+        {
+          "id": "c",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "d",
+          "text": "dokonywać przeglądu"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„drapery” (rzeczownik, poziom B2) oznacza po polsku „draperie, udrapowanie”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-078",
+      "question": "droop",
+      "answers": [
+        {
+          "id": "a",
+          "text": "doza, dawka"
+        },
+        {
+          "id": "b",
+          "text": "dysydent"
+        },
+        {
+          "id": "c",
+          "text": "zwisać, obwisać"
+        },
+        {
+          "id": "d",
+          "text": "toczyć się, toczyć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„droop” (rzeczownik, poziom B2) oznacza po polsku „zwisać, obwisać”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-079",
+      "question": "drought",
+      "answers": [
+        {
+          "id": "a",
+          "text": "susza"
+        },
+        {
+          "id": "b",
+          "text": "dysydent"
+        },
+        {
+          "id": "c",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "d",
+          "text": "predykatywny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„drought” (rzeczownik, poziom B2) oznacza po polsku „susza”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-080",
+      "question": "duel",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potencjalny"
+        },
+        {
+          "id": "b",
+          "text": "ekolog"
+        },
+        {
+          "id": "c",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "d",
+          "text": "pojedynek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„duel” (rzeczownik, poziom B2) oznacza po polsku „pojedynek”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-081",
+      "question": "duplicate",
+      "answers": [
+        {
+          "id": "a",
+          "text": "duplikat, kopia"
+        },
+        {
+          "id": "b",
+          "text": "udawać"
+        },
+        {
+          "id": "c",
+          "text": "rozdzierać, oddzierać"
+        },
+        {
+          "id": "d",
+          "text": "odbrzegowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„duplicate” (rzeczownik, poziom B2) oznacza po polsku „duplikat, kopia”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-082",
+      "question": "dwarf",
+      "answers": [
+        {
+          "id": "a",
+          "text": "malowniczy"
+        },
+        {
+          "id": "b",
+          "text": "karzeł"
+        },
+        {
+          "id": "c",
+          "text": "dok, basen portowy"
+        },
+        {
+          "id": "d",
+          "text": "redagować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dwarf” (rzeczownik, poziom B2) oznacza po polsku „karzeł”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-083",
+      "question": "dye",
+      "answers": [
+        {
+          "id": "a",
+          "text": "barwnik"
+        },
+        {
+          "id": "b",
+          "text": "pozbywanie się, usuwanie"
+        },
+        {
+          "id": "c",
+          "text": "rezygnować"
+        },
+        {
+          "id": "d",
+          "text": "podział"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dye” (rzeczownik, poziom B2) oznacza po polsku „barwnik”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-084",
+      "question": "eagle",
+      "answers": [
+        {
+          "id": "a",
+          "text": "orzeł"
+        },
+        {
+          "id": "b",
+          "text": "gołąb"
+        },
+        {
+          "id": "c",
+          "text": "udawać"
+        },
+        {
+          "id": "d",
+          "text": "optymistyczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„eagle” (rzeczownik, poziom B2) oznacza po polsku „orzeł”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-085",
+      "question": "earnings",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarobki"
+        },
+        {
+          "id": "b",
+          "text": "elegancki, modny"
+        },
+        {
+          "id": "c",
+          "text": "donacja, dar"
+        },
+        {
+          "id": "d",
+          "text": "płynąć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„earnings” (rzeczownik, poziom B2) oznacza po polsku „zarobki”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-086",
+      "question": "ease",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pedantyczny"
+        },
+        {
+          "id": "b",
+          "text": "łatwość"
+        },
+        {
+          "id": "c",
+          "text": "płynąć"
+        },
+        {
+          "id": "d",
+          "text": "badać, prowadzić badania naukowe, prowadzić badania"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ease” (rzeczownik, poziom B2) oznacza po polsku „łatwość”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-087",
+      "question": "ecologist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dysydent"
+        },
+        {
+          "id": "b",
+          "text": "ekolog"
+        },
+        {
+          "id": "c",
+          "text": "duszpasterski"
+        },
+        {
+          "id": "d",
+          "text": "niezadowolenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ecologist” (rzeczownik, poziom B2) oznacza po polsku „ekolog”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-088",
+      "question": "economist",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekonomista"
+        },
+        {
+          "id": "b",
+          "text": "odbrzegowy"
+        },
+        {
+          "id": "c",
+          "text": "draperie, udrapowanie"
+        },
+        {
+          "id": "d",
+          "text": "duszpasterski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„economist” (rzeczownik, poziom B2) oznacza po polsku „ekonomista”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-089",
+      "question": "edit",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wychowawca, nauczyciel"
+        },
+        {
+          "id": "b",
+          "text": "wstępny"
+        },
+        {
+          "id": "c",
+          "text": "redagować"
+        },
+        {
+          "id": "d",
+          "text": "niezadowolenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„edit” (rzeczownik, poziom B2) oznacza po polsku „redagować”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-090",
+      "question": "editorial",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łatwość"
+        },
+        {
+          "id": "b",
+          "text": "wiano"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) kłócić się"
+        },
+        {
+          "id": "d",
+          "text": "artykuł wstępny od redakcji, artykuł wstępny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„editorial” (rzeczownik, poziom B2) oznacza po polsku „artykuł wstępny od redakcji, artykuł wstępny”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-091",
+      "question": "educator",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opcjonalny, do wyboru"
+        },
+        {
+          "id": "b",
+          "text": "dokonywać przeglądu"
+        },
+        {
+          "id": "c",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "d",
+          "text": "wychowawca, nauczyciel"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„educator” (rzeczownik, poziom B2) oznacza po polsku „wychowawca, nauczyciel”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-092",
+      "question": "electrician",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektryk"
+        },
+        {
+          "id": "b",
+          "text": "najwyższy, najważniejszy"
+        },
+        {
+          "id": "c",
+          "text": "kamienisty"
+        },
+        {
+          "id": "d",
+          "text": "prawdopodobny, możliwy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„electrician” (rzeczownik, poziom B2) oznacza po polsku „elektryk”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-093",
+      "question": "electronics",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektronika"
+        },
+        {
+          "id": "b",
+          "text": "zapalczywy, pochopny"
+        },
+        {
+          "id": "c",
+          "text": "materiał, płótno"
+        },
+        {
+          "id": "d",
+          "text": "wiara"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„electronics” (rzeczownik, poziom B2) oznacza po polsku „elektronika”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-094",
+      "question": "elite",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rewolucyjny"
+        },
+        {
+          "id": "b",
+          "text": "elita"
+        },
+        {
+          "id": "c",
+          "text": "refleksyjny, pełen zadumy"
+        },
+        {
+          "id": "d",
+          "text": "(form) usiłowanie, wysiłek, próba"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„elite” (rzeczownik, poziom B2) oznacza po polsku „elita”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-095",
+      "question": "embassy",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sfinansowanie, dofinansowanie, pieniądze"
+        },
+        {
+          "id": "b",
+          "text": "płomień"
+        },
+        {
+          "id": "c",
+          "text": "ambasada"
+        },
+        {
+          "id": "d",
+          "text": "głęboki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„embassy” (rzeczownik, poziom B2) oznacza po polsku „ambasada”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-096",
+      "question": "embrace",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spokrewniony"
+        },
+        {
+          "id": "b",
+          "text": "uścisk"
+        },
+        {
+          "id": "c",
+          "text": "prostokątny"
+        },
+        {
+          "id": "d",
+          "text": "władze umysłowe i cielesne"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„embrace” (rzeczownik, poziom B2) oznacza po polsku „uścisk”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-097",
+      "question": "employee",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samica"
+        },
+        {
+          "id": "b",
+          "text": "ambasada"
+        },
+        {
+          "id": "c",
+          "text": "zapalczywy, pochopny"
+        },
+        {
+          "id": "d",
+          "text": "pracownik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„employee” (rzeczownik, poziom B2) oznacza po polsku „pracownik”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-098",
+      "question": "employer",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tyczący się"
+        },
+        {
+          "id": "b",
+          "text": "wyprawa"
+        },
+        {
+          "id": "c",
+          "text": "pracodawca"
+        },
+        {
+          "id": "d",
+          "text": "przestawać, rzucać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„employer” (rzeczownik, poziom B2) oznacza po polsku „pracodawca”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-099",
+      "question": "endeavour",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wytrzymałość"
+        },
+        {
+          "id": "b",
+          "text": "(form) usiłowanie, wysiłek, próba"
+        },
+        {
+          "id": "c",
+          "text": "prostokątny"
+        },
+        {
+          "id": "d",
+          "text": "ocena, oszacowanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„endeavour” (rzeczownik, poziom B2) oznacza po polsku „(form) usiłowanie, wysiłek, próba”."
+    },
+    {
+      "id": "b2-rzeczowniki-03-100",
+      "question": "endurance",
+      "answers": [
+        {
+          "id": "a",
+          "text": "len"
+        },
+        {
+          "id": "b",
+          "text": "wytrzymałość"
+        },
+        {
+          "id": "c",
+          "text": "zardzewiały"
+        },
+        {
+          "id": "d",
+          "text": "tłuszcz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„endurance” (rzeczownik, poziom B2) oznacza po polsku „wytrzymałość”."
+    }
+  ]
+}
