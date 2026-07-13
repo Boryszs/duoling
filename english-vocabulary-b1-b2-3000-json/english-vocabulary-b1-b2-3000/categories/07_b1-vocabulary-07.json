@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-vocabulary-07",
+    "name": "B1 — słownictwo 07"
+  },
+  "questions": [
+    {
+      "id": "b1-vocabulary-07-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „coal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "węgiel"
+        },
+        {
+          "id": "b",
+          "text": "rozmyślać"
+        },
+        {
+          "id": "c",
+          "text": "wewnętrzny"
+        },
+        {
+          "id": "d",
+          "text": "wspólny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„coal” (rzeczownik, poziom B1) oznacza po polsku „węgiel”."
+    },
+    {
+      "id": "b1-vocabulary-07-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „humid”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wspominać"
+        },
+        {
+          "id": "b",
+          "text": "skład"
+        },
+        {
+          "id": "c",
+          "text": "trwały"
+        },
+        {
+          "id": "d",
+          "text": "wilgotny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„humid” (przymiotnik, poziom B1) oznacza po polsku „wilgotny”."
+    },
+    {
+      "id": "b1-vocabulary-07-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hurt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zraniony"
+        },
+        {
+          "id": "b",
+          "text": "wspominać"
+        },
+        {
+          "id": "c",
+          "text": "pośredni, średni"
+        },
+        {
+          "id": "d",
+          "text": "(głos, instrument) prowadzący, wiodący"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„hurt” (przymiotnik, poziom B1) oznacza po polsku „zraniony”."
+    },
+    {
+      "id": "b1-vocabulary-07-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „combination”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kuleć, kuśtykać"
+        },
+        {
+          "id": "b",
+          "text": "naprawiać się, naprawiać"
+        },
+        {
+          "id": "c",
+          "text": "pośredni, średni"
+        },
+        {
+          "id": "d",
+          "text": "mieszanina, kombinacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„combination” (rzeczownik, poziom B1) oznacza po polsku „mieszanina, kombinacja”."
+    },
+    {
+      "id": "b1-vocabulary-07-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „comedian”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "b",
+          "text": "minimalizować"
+        },
+        {
+          "id": "c",
+          "text": "wysyłać pocztą, wysyłać"
+        },
+        {
+          "id": "d",
+          "text": "komik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„comedian” (rzeczownik, poziom B1) oznacza po polsku „komik”."
+    },
+    {
+      "id": "b1-vocabulary-07-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „imaginary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyimaginowany"
+        },
+        {
+          "id": "b",
+          "text": "trumna"
+        },
+        {
+          "id": "c",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "d",
+          "text": "robiący wrażenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„imaginary” (przymiotnik, poziom B1) oznacza po polsku „wyimaginowany”."
+    },
+    {
+      "id": "b1-vocabulary-07-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „impressive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(człowiek) szczupły"
+        },
+        {
+          "id": "b",
+          "text": "prowadzenie, przeprowadzanie"
+        },
+        {
+          "id": "c",
+          "text": "wniosek"
+        },
+        {
+          "id": "d",
+          "text": "robiący wrażenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„impressive” (przymiotnik, poziom B1) oznacza po polsku „robiący wrażenie”."
+    },
+    {
+      "id": "b1-vocabulary-07-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lock”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaufanie, wiara"
+        },
+        {
+          "id": "b",
+          "text": "zamykać na zamek, zamykać"
+        },
+        {
+          "id": "c",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "d",
+          "text": "skład"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lock” (czasownik, poziom B1) oznacza po polsku „zamykać na zamek, zamykać”."
+    },
+    {
+      "id": "b1-vocabulary-07-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cod”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niewinny"
+        },
+        {
+          "id": "b",
+          "text": "przemyślenie, rozważenie"
+        },
+        {
+          "id": "c",
+          "text": "dorsz"
+        },
+        {
+          "id": "d",
+          "text": "wysyłać pocztą, wysyłać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cod” (rzeczownik, poziom B1) oznacza po polsku „dorsz”."
+    },
+    {
+      "id": "b1-vocabulary-07-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „coffin”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komik"
+        },
+        {
+          "id": "b",
+          "text": "trumna"
+        },
+        {
+          "id": "c",
+          "text": "towarzysz"
+        },
+        {
+          "id": "d",
+          "text": "negocjować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„coffin” (rzeczownik, poziom B1) oznacza po polsku „trumna”."
+    },
+    {
+      "id": "b1-vocabulary-07-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „inconvenient”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niewygodny, niedogodny"
+        },
+        {
+          "id": "b",
+          "text": "konflikt, sprzeczność"
+        },
+        {
+          "id": "c",
+          "text": "ochrona przyrody, ochrona"
+        },
+        {
+          "id": "d",
+          "text": "przemysłowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„inconvenient” (przymiotnik, poziom B1) oznacza po polsku „niewygodny, niedogodny”."
+    },
+    {
+      "id": "b1-vocabulary-07-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „immediate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "natychmiastowy"
+        },
+        {
+          "id": "b",
+          "text": "na całe życie, na życie"
+        },
+        {
+          "id": "c",
+          "text": "wspominać"
+        },
+        {
+          "id": "d",
+          "text": "trumna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„immediate” (przymiotnik, poziom B1) oznacza po polsku „natychmiastowy”."
+    },
+    {
+      "id": "b1-vocabulary-07-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „collar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "soczysty"
+        },
+        {
+          "id": "b",
+          "text": "kołnierzyk"
+        },
+        {
+          "id": "c",
+          "text": "utrzymywać"
+        },
+        {
+          "id": "d",
+          "text": "rozmyślać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„collar” (rzeczownik, poziom B1) oznacza po polsku „kołnierzyk”."
+    },
+    {
+      "id": "b1-vocabulary-07-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „locate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pośredni"
+        },
+        {
+          "id": "b",
+          "text": "wynajdować"
+        },
+        {
+          "id": "c",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "d",
+          "text": "uwaga, komentarz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„locate” (czasownik, poziom B1) oznacza po polsku „wynajdować”."
+    },
+    {
+      "id": "b1-vocabulary-07-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „light”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trumna"
+        },
+        {
+          "id": "b",
+          "text": "zapalać"
+        },
+        {
+          "id": "c",
+          "text": "uwaga, komentarz"
+        },
+        {
+          "id": "d",
+          "text": "przemyślenie, rozważenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„light” (czasownik, poziom B1) oznacza po polsku „zapalać”."
+    },
+    {
+      "id": "b1-vocabulary-07-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „limp”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "b",
+          "text": "wypuszczać na rynek"
+        },
+        {
+          "id": "c",
+          "text": "pośredni"
+        },
+        {
+          "id": "d",
+          "text": "kuleć, kuśtykać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„limp” (czasownik, poziom B1) oznacza po polsku „kuleć, kuśtykać”."
+    },
+    {
+      "id": "b1-vocabulary-07-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „columnist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "felietonista"
+        },
+        {
+          "id": "b",
+          "text": "przedstawiać, opowiadać"
+        },
+        {
+          "id": "c",
+          "text": "(dywan, podstawy) kłaść, położyć"
+        },
+        {
+          "id": "d",
+          "text": "zraniony"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„columnist” (rzeczownik, poziom B1) oznacza po polsku „felietonista”."
+    },
+    {
+      "id": "b1-vocabulary-07-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „humorous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kuleć, kuśtykać"
+        },
+        {
+          "id": "b",
+          "text": "komplement"
+        },
+        {
+          "id": "c",
+          "text": "humorystyczny, zabawny"
+        },
+        {
+          "id": "d",
+          "text": "niepoprawny, niewłaściwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„humorous” (przymiotnik, poziom B1) oznacza po polsku „humorystyczny, zabawny”."
+    },
+    {
+      "id": "b1-vocabulary-07-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mail”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "humorystyczny, zabawny"
+        },
+        {
+          "id": "b",
+          "text": "zazdrosny"
+        },
+        {
+          "id": "c",
+          "text": "tłuc"
+        },
+        {
+          "id": "d",
+          "text": "wysyłać pocztą, wysyłać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mail” (czasownik, poziom B1) oznacza po polsku „wysyłać pocztą, wysyłać”."
+    },
+    {
+      "id": "b1-vocabulary-07-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „incorrect”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niepoprawny, niewłaściwy"
+        },
+        {
+          "id": "b",
+          "text": "pośredni, średni"
+        },
+        {
+          "id": "c",
+          "text": "komik"
+        },
+        {
+          "id": "d",
+          "text": "zajmować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„incorrect” (przymiotnik, poziom B1) oznacza po polsku „niepoprawny, niewłaściwy”."
+    },
+    {
+      "id": "b1-vocabulary-07-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „liberate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zauważać"
+        },
+        {
+          "id": "b",
+          "text": "uzupełnienie, uwydatnienie"
+        },
+        {
+          "id": "c",
+          "text": "ochrona przyrody, ochrona"
+        },
+        {
+          "id": "d",
+          "text": "uwalniać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„liberate” (czasownik, poziom B1) oznacza po polsku „uwalniać”."
+    },
+    {
+      "id": "b1-vocabulary-07-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „improper”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uwaga, komentarz"
+        },
+        {
+          "id": "b",
+          "text": "niewłaściwy"
+        },
+        {
+          "id": "c",
+          "text": "zamykać na zamek, zamykać"
+        },
+        {
+          "id": "d",
+          "text": "prześladować, uciskać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„improper” (przymiotnik, poziom B1) oznacza po polsku „niewłaściwy”."
+    },
+    {
+      "id": "b1-vocabulary-07-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „collapse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(dywan, podstawy) kłaść, położyć"
+        },
+        {
+          "id": "b",
+          "text": "wniosek"
+        },
+        {
+          "id": "c",
+          "text": "pojęcie"
+        },
+        {
+          "id": "d",
+          "text": "(budynku) zawalenie się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„collapse” (rzeczownik, poziom B1) oznacza po polsku „(budynku) zawalenie się”."
+    },
+    {
+      "id": "b1-vocabulary-07-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lay”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(dywan, podstawy) kłaść, położyć"
+        },
+        {
+          "id": "b",
+          "text": "obserwować"
+        },
+        {
+          "id": "c",
+          "text": "wniosek"
+        },
+        {
+          "id": "d",
+          "text": "konkurent"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lay” (czasownik, poziom B1) oznacza po polsku „(dywan, podstawy) kłaść, położyć”."
+    },
+    {
+      "id": "b1-vocabulary-07-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lessen”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zmniejszać się, zmniejszać"
+        },
+        {
+          "id": "b",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "c",
+          "text": "uwaga, komentarz"
+        },
+        {
+          "id": "d",
+          "text": "spowodować, powodować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lessen” (czasownik, poziom B1) oznacza po polsku „zmniejszać się, zmniejszać”."
+    },
+    {
+      "id": "b1-vocabulary-07-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „comparison”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "porównanie"
+        },
+        {
+          "id": "b",
+          "text": "zdarzać się, następować"
+        },
+        {
+          "id": "c",
+          "text": "przedstawiać, opowiadać"
+        },
+        {
+          "id": "d",
+          "text": "nieuchronny, nie do uniknięcia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„comparison” (rzeczownik, poziom B1) oznacza po polsku „porównanie”."
+    },
+    {
+      "id": "b1-vocabulary-07-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „memorize”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spowodować, powodować"
+        },
+        {
+          "id": "b",
+          "text": "konflikt, sprzeczność"
+        },
+        {
+          "id": "c",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "d",
+          "text": "zapamiętywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„memorize” (czasownik, poziom B1) oznacza po polsku „zapamiętywać”."
+    },
+    {
+      "id": "b1-vocabulary-07-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komik"
+        },
+        {
+          "id": "b",
+          "text": "boleć po stracie, boleć, nosić żałobę"
+        },
+        {
+          "id": "c",
+          "text": "naprawiać się, naprawiać"
+        },
+        {
+          "id": "d",
+          "text": "nieuchronny, nie do uniknięcia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mend” (czasownik, poziom B1) oznacza po polsku „naprawiać się, naprawiać”."
+    },
+    {
+      "id": "b1-vocabulary-07-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „competitor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapamiętywać"
+        },
+        {
+          "id": "b",
+          "text": "wniosek"
+        },
+        {
+          "id": "c",
+          "text": "konkurent"
+        },
+        {
+          "id": "d",
+          "text": "pojęcie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„competitor” (rzeczownik, poziom B1) oznacza po polsku „konkurent”."
+    },
+    {
+      "id": "b1-vocabulary-07-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „meditate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyimaginowany"
+        },
+        {
+          "id": "b",
+          "text": "rozmyślać"
+        },
+        {
+          "id": "c",
+          "text": "legalny"
+        },
+        {
+          "id": "d",
+          "text": "trwały"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„meditate” (czasownik, poziom B1) oznacza po polsku „rozmyślać”."
+    },
+    {
+      "id": "b1-vocabulary-07-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „incredible”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uzupełnienie, uwydatnienie"
+        },
+        {
+          "id": "b",
+          "text": "niewiarygodny, niebywały"
+        },
+        {
+          "id": "c",
+          "text": "kuleć, kuśtykać"
+        },
+        {
+          "id": "d",
+          "text": "obserwować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„incredible” (przymiotnik, poziom B1) oznacza po polsku „niewiarygodny, niebywały”."
+    },
+    {
+      "id": "b1-vocabulary-07-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mash”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tłuc"
+        },
+        {
+          "id": "b",
+          "text": "trumna"
+        },
+        {
+          "id": "c",
+          "text": "wygoda"
+        },
+        {
+          "id": "d",
+          "text": "kompromis"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mash” (czasownik, poziom B1) oznacza po polsku „tłuc”."
+    },
+    {
+      "id": "b1-vocabulary-07-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „comfort”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieuchronny, nie do uniknięcia"
+        },
+        {
+          "id": "b",
+          "text": "zauważać"
+        },
+        {
+          "id": "c",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "d",
+          "text": "wygoda"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„comfort” (rzeczownik, poziom B1) oznacza po polsku „wygoda”."
+    },
+    {
+      "id": "b1-vocabulary-07-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „inevitable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieuchronny, nie do uniknięcia"
+        },
+        {
+          "id": "b",
+          "text": "intensywny"
+        },
+        {
+          "id": "c",
+          "text": "trwały"
+        },
+        {
+          "id": "d",
+          "text": "niewiarygodny, niebywały"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„inevitable” (przymiotnik, poziom B1) oznacza po polsku „nieuchronny, nie do uniknięcia”."
+    },
+    {
+      "id": "b1-vocabulary-07-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „melt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utrzymywać"
+        },
+        {
+          "id": "b",
+          "text": "niewłaściwy"
+        },
+        {
+          "id": "c",
+          "text": "(myśli) odpowiadać"
+        },
+        {
+          "id": "d",
+          "text": "topnieć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„melt” (czasownik, poziom B1) oznacza po polsku „topnieć”."
+    },
+    {
+      "id": "b1-vocabulary-07-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „innocent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niewygodny, niedogodny"
+        },
+        {
+          "id": "b",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "c",
+          "text": "niewinny"
+        },
+        {
+          "id": "d",
+          "text": "uwalniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„innocent” (przymiotnik, poziom B1) oznacza po polsku „niewinny”."
+    },
+    {
+      "id": "b1-vocabulary-07-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „command”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komedia"
+        },
+        {
+          "id": "b",
+          "text": "(np. w wojsku) rozkaz"
+        },
+        {
+          "id": "c",
+          "text": "przeważać"
+        },
+        {
+          "id": "d",
+          "text": "niepoprawny, niewłaściwy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„command” (rzeczownik, poziom B1) oznacza po polsku „(np. w wojsku) rozkaz”."
+    },
+    {
+      "id": "b1-vocabulary-07-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „maintain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utrzymywać"
+        },
+        {
+          "id": "b",
+          "text": "spowodować, powodować"
+        },
+        {
+          "id": "c",
+          "text": "przemyślenie, rozważenie"
+        },
+        {
+          "id": "d",
+          "text": "niewinny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„maintain” (czasownik, poziom B1) oznacza po polsku „utrzymywać”."
+    },
+    {
+      "id": "b1-vocabulary-07-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „indirect”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mordować"
+        },
+        {
+          "id": "b",
+          "text": "modyfikować"
+        },
+        {
+          "id": "c",
+          "text": "(człowiek) szczupły"
+        },
+        {
+          "id": "d",
+          "text": "pośredni"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„indirect” (przymiotnik, poziom B1) oznacza po polsku „pośredni”."
+    },
+    {
+      "id": "b1-vocabulary-07-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „informative”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spółgłoska"
+        },
+        {
+          "id": "b",
+          "text": "informacyjny, pouczający"
+        },
+        {
+          "id": "c",
+          "text": "ochrona przyrody, ochrona"
+        },
+        {
+          "id": "d",
+          "text": "(np. w wojsku) rozkaz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„informative” (przymiotnik, poziom B1) oznacza po polsku „informacyjny, pouczający”."
+    },
+    {
+      "id": "b1-vocabulary-07-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „match”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(myśli) odpowiadać"
+        },
+        {
+          "id": "b",
+          "text": "zaufanie, wiara"
+        },
+        {
+          "id": "c",
+          "text": "wyimaginowany"
+        },
+        {
+          "id": "d",
+          "text": "humorystyczny, zabawny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„match” (czasownik, poziom B1) oznacza po polsku „(myśli) odpowiadać”."
+    },
+    {
+      "id": "b1-vocabulary-07-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „independent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezależny"
+        },
+        {
+          "id": "b",
+          "text": "tłuc"
+        },
+        {
+          "id": "c",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "d",
+          "text": "wygoda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„independent” (przymiotnik, poziom B1) oznacza po polsku „niezależny”."
+    },
+    {
+      "id": "b1-vocabulary-07-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „comment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "węgiel"
+        },
+        {
+          "id": "b",
+          "text": "uwaga, komentarz"
+        },
+        {
+          "id": "c",
+          "text": "zaufanie, wiara"
+        },
+        {
+          "id": "d",
+          "text": "mieszanina, kombinacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„comment” (rzeczownik, poziom B1) oznacza po polsku „uwaga, komentarz”."
+    },
+    {
+      "id": "b1-vocabulary-07-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „companion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trumna"
+        },
+        {
+          "id": "b",
+          "text": "towarzysz"
+        },
+        {
+          "id": "c",
+          "text": "zajmować"
+        },
+        {
+          "id": "d",
+          "text": "spowodować, powodować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„companion” (rzeczownik, poziom B1) oznacza po polsku „towarzysz”."
+    },
+    {
+      "id": "b1-vocabulary-07-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „comma”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przecinek"
+        },
+        {
+          "id": "b",
+          "text": "skład"
+        },
+        {
+          "id": "c",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "d",
+          "text": "(dywan, podstawy) kłaść, położyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„comma” (rzeczownik, poziom B1) oznacza po polsku „przecinek”."
+    },
+    {
+      "id": "b1-vocabulary-07-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „market”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedstawiać, opowiadać"
+        },
+        {
+          "id": "b",
+          "text": "wysyłać pocztą, wysyłać"
+        },
+        {
+          "id": "c",
+          "text": "utrzymywać"
+        },
+        {
+          "id": "d",
+          "text": "wypuszczać na rynek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„market” (czasownik, poziom B1) oznacza po polsku „wypuszczać na rynek”."
+    },
+    {
+      "id": "b1-vocabulary-07-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „comedy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zajmować"
+        },
+        {
+          "id": "b",
+          "text": "wypuszczać na rynek"
+        },
+        {
+          "id": "c",
+          "text": "komedia"
+        },
+        {
+          "id": "d",
+          "text": "pomyłka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„comedy” (rzeczownik, poziom B1) oznacza po polsku „komedia”."
+    },
+    {
+      "id": "b1-vocabulary-07-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „comet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kometa"
+        },
+        {
+          "id": "b",
+          "text": "zapalać"
+        },
+        {
+          "id": "c",
+          "text": "pośredni, średni"
+        },
+        {
+          "id": "d",
+          "text": "nieuchronny, nie do uniknięcia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„comet” (rzeczownik, poziom B1) oznacza po polsku „kometa”."
+    },
+    {
+      "id": "b1-vocabulary-07-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „individual”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "indywidualny, osobisty"
+        },
+        {
+          "id": "b",
+          "text": "węgiel"
+        },
+        {
+          "id": "c",
+          "text": "towarzysz"
+        },
+        {
+          "id": "d",
+          "text": "przecinek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„individual” (przymiotnik, poziom B1) oznacza po polsku „indywidualny, osobisty”."
+    },
+    {
+      "id": "b1-vocabulary-07-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „industrial”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wspominać"
+        },
+        {
+          "id": "b",
+          "text": "pomyłka"
+        },
+        {
+          "id": "c",
+          "text": "przemysłowy"
+        },
+        {
+          "id": "d",
+          "text": "ochrona przyrody, ochrona"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„industrial” (przymiotnik, poziom B1) oznacza po polsku „przemysłowy”."
+    },
+    {
+      "id": "b1-vocabulary-07-051",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „insane”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "natychmiastowy"
+        },
+        {
+          "id": "b",
+          "text": "szalony"
+        },
+        {
+          "id": "c",
+          "text": "uzupełnienie, uwydatnienie"
+        },
+        {
+          "id": "d",
+          "text": "trwały"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„insane” (przymiotnik, poziom B1) oznacza po polsku „szalony”."
+    },
+    {
+      "id": "b1-vocabulary-07-052",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „minimize”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaabsorbowany"
+        },
+        {
+          "id": "b",
+          "text": "rozmyślać"
+        },
+        {
+          "id": "c",
+          "text": "minimalizować"
+        },
+        {
+          "id": "d",
+          "text": "dorsz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„minimize” (czasownik, poziom B1) oznacza po polsku „minimalizować”."
+    },
+    {
+      "id": "b1-vocabulary-07-053",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mourn”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boleć po stracie, boleć, nosić żałobę"
+        },
+        {
+          "id": "b",
+          "text": "wygoda"
+        },
+        {
+          "id": "c",
+          "text": "komik"
+        },
+        {
+          "id": "d",
+          "text": "nieregularny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mourn” (czasownik, poziom B1) oznacza po polsku „boleć po stracie, boleć, nosić żałobę”."
+    },
+    {
+      "id": "b1-vocabulary-07-054",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „narrate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konflikt, sprzeczność"
+        },
+        {
+          "id": "b",
+          "text": "przedstawiać, opowiadać"
+        },
+        {
+          "id": "c",
+          "text": "wilgotny"
+        },
+        {
+          "id": "d",
+          "text": "utrzymywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„narrate” (czasownik, poziom B1) oznacza po polsku „przedstawiać, opowiadać”."
+    },
+    {
+      "id": "b1-vocabulary-07-055",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jealous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zazdrosny"
+        },
+        {
+          "id": "b",
+          "text": "zapamiętywać"
+        },
+        {
+          "id": "c",
+          "text": "boleć po stracie, boleć, nosić żałobę"
+        },
+        {
+          "id": "d",
+          "text": "szalony"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„jealous” (przymiotnik, poziom B1) oznacza po polsku „zazdrosny”."
+    },
+    {
+      "id": "b1-vocabulary-07-056",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „involved”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wilgotny"
+        },
+        {
+          "id": "b",
+          "text": "zaabsorbowany"
+        },
+        {
+          "id": "c",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "d",
+          "text": "komplement"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„involved” (przymiotnik, poziom B1) oznacza po polsku „zaabsorbowany”."
+    },
+    {
+      "id": "b1-vocabulary-07-057",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „concept”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uzupełnienie, uwydatnienie"
+        },
+        {
+          "id": "b",
+          "text": "pojęcie"
+        },
+        {
+          "id": "c",
+          "text": "konflikt, sprzeczność"
+        },
+        {
+          "id": "d",
+          "text": "zaufanie, wiara"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„concept” (rzeczownik, poziom B1) oznacza po polsku „pojęcie”."
+    },
+    {
+      "id": "b1-vocabulary-07-058",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „compliment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "informacyjny, pouczający"
+        },
+        {
+          "id": "b",
+          "text": "komplement"
+        },
+        {
+          "id": "c",
+          "text": "(człowiek) szczupły"
+        },
+        {
+          "id": "d",
+          "text": "prowadzenie, przeprowadzanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„compliment” (rzeczownik, poziom B1) oznacza po polsku „komplement”."
+    },
+    {
+      "id": "b1-vocabulary-07-059",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „modify”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieuchronny, nie do uniknięcia"
+        },
+        {
+          "id": "b",
+          "text": "przecinek"
+        },
+        {
+          "id": "c",
+          "text": "modyfikować"
+        },
+        {
+          "id": "d",
+          "text": "spółgłoska"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„modify” (czasownik, poziom B1) oznacza po polsku „modyfikować”."
+    },
+    {
+      "id": "b1-vocabulary-07-060",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mention”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "naprawiać się, naprawiać"
+        },
+        {
+          "id": "b",
+          "text": "wynajdować"
+        },
+        {
+          "id": "c",
+          "text": "niewygodny, niedogodny"
+        },
+        {
+          "id": "d",
+          "text": "wspominać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mention” (czasownik, poziom B1) oznacza po polsku „wspominać”."
+    },
+    {
+      "id": "b1-vocabulary-07-061",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „intense”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieregularny"
+        },
+        {
+          "id": "b",
+          "text": "gwałtowny, silny"
+        },
+        {
+          "id": "c",
+          "text": "prowadzenie, przeprowadzanie"
+        },
+        {
+          "id": "d",
+          "text": "wilgotny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„intense” (przymiotnik, poziom B1) oznacza po polsku „gwałtowny, silny”."
+    },
+    {
+      "id": "b1-vocabulary-07-062",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „intensive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prowadzenie, przeprowadzanie"
+        },
+        {
+          "id": "b",
+          "text": "(myśli) odpowiadać"
+        },
+        {
+          "id": "c",
+          "text": "humorystyczny, zabawny"
+        },
+        {
+          "id": "d",
+          "text": "intensywny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„intensive” (przymiotnik, poziom B1) oznacza po polsku „intensywny”."
+    },
+    {
+      "id": "b1-vocabulary-07-063",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „irregular”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wypuszczać na rynek"
+        },
+        {
+          "id": "b",
+          "text": "zapamiętywać"
+        },
+        {
+          "id": "c",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "d",
+          "text": "nieregularny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„irregular” (przymiotnik, poziom B1) oznacza po polsku „nieregularny”."
+    },
+    {
+      "id": "b1-vocabulary-07-064",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „negotiate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przecinek"
+        },
+        {
+          "id": "b",
+          "text": "na całe życie, na życie"
+        },
+        {
+          "id": "c",
+          "text": "negocjować"
+        },
+        {
+          "id": "d",
+          "text": "gwałtowny, silny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„negotiate” (czasownik, poziom B1) oznacza po polsku „negocjować”."
+    },
+    {
+      "id": "b1-vocabulary-07-065",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „murder”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konkurent"
+        },
+        {
+          "id": "b",
+          "text": "dorsz"
+        },
+        {
+          "id": "c",
+          "text": "mordować"
+        },
+        {
+          "id": "d",
+          "text": "niepoprawny, niewłaściwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„murder” (czasownik, poziom B1) oznacza po polsku „mordować”."
+    },
+    {
+      "id": "b1-vocabulary-07-066",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mislead”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uzupełnienie, uwydatnienie"
+        },
+        {
+          "id": "b",
+          "text": "dorsz"
+        },
+        {
+          "id": "c",
+          "text": "mylić, wprowadzać w błąd"
+        },
+        {
+          "id": "d",
+          "text": "kometa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mislead” (czasownik, poziom B1) oznacza po polsku „mylić, wprowadzać w błąd”."
+    },
+    {
+      "id": "b1-vocabulary-07-067",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „motivate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozmyślać"
+        },
+        {
+          "id": "b",
+          "text": "niewygodny, niedogodny"
+        },
+        {
+          "id": "c",
+          "text": "natychmiastowy"
+        },
+        {
+          "id": "d",
+          "text": "spowodować, powodować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„motivate” (czasownik, poziom B1) oznacza po polsku „spowodować, powodować”."
+    },
+    {
+      "id": "b1-vocabulary-07-068",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „composition”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wniosek"
+        },
+        {
+          "id": "b",
+          "text": "skład"
+        },
+        {
+          "id": "c",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "d",
+          "text": "wspominać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„composition” (rzeczownik, poziom B1) oznacza po polsku „skład”."
+    },
+    {
+      "id": "b1-vocabulary-07-069",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „concentration”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "legalny"
+        },
+        {
+          "id": "b",
+          "text": "koncentracja, skupienie się, skupienie"
+        },
+        {
+          "id": "c",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "d",
+          "text": "natychmiastowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„concentration” (rzeczownik, poziom B1) oznacza po polsku „koncentracja, skupienie się, skupienie”."
+    },
+    {
+      "id": "b1-vocabulary-07-070",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „internal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wewnętrzny"
+        },
+        {
+          "id": "b",
+          "text": "konkurent"
+        },
+        {
+          "id": "c",
+          "text": "(myśli) odpowiadać"
+        },
+        {
+          "id": "d",
+          "text": "dorsz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„internal” (przymiotnik, poziom B1) oznacza po polsku „wewnętrzny”."
+    },
+    {
+      "id": "b1-vocabulary-07-071",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „compound”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieuchronny, nie do uniknięcia"
+        },
+        {
+          "id": "b",
+          "text": "humorystyczny, zabawny"
+        },
+        {
+          "id": "c",
+          "text": "zdarzać się, następować"
+        },
+        {
+          "id": "d",
+          "text": "teren zagrodzony, teren, podwórze"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„compound” (rzeczownik, poziom B1) oznacza po polsku „teren zagrodzony, teren, podwórze”."
+    },
+    {
+      "id": "b1-vocabulary-07-072",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „compromise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(np. w wojsku) rozkaz"
+        },
+        {
+          "id": "b",
+          "text": "komplement"
+        },
+        {
+          "id": "c",
+          "text": "zamykać na zamek, zamykać"
+        },
+        {
+          "id": "d",
+          "text": "kompromis"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„compromise” (rzeczownik, poziom B1) oznacza po polsku „kompromis”."
+    },
+    {
+      "id": "b1-vocabulary-07-073",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „intermediate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "b",
+          "text": "pośredni, średni"
+        },
+        {
+          "id": "c",
+          "text": "niewygodny, niedogodny"
+        },
+        {
+          "id": "d",
+          "text": "niezależny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„intermediate” (przymiotnik, poziom B1) oznacza po polsku „pośredni, średni”."
+    },
+    {
+      "id": "b1-vocabulary-07-074",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „conclusion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapalać"
+        },
+        {
+          "id": "b",
+          "text": "przecinek"
+        },
+        {
+          "id": "c",
+          "text": "wniosek"
+        },
+        {
+          "id": "d",
+          "text": "węgiel"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„conclusion” (rzeczownik, poziom B1) oznacza po polsku „wniosek”."
+    },
+    {
+      "id": "b1-vocabulary-07-075",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „complement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "topnieć"
+        },
+        {
+          "id": "b",
+          "text": "uzupełnienie, uwydatnienie"
+        },
+        {
+          "id": "c",
+          "text": "niezależny"
+        },
+        {
+          "id": "d",
+          "text": "mylić, wprowadzać w błąd"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„complement” (rzeczownik, poziom B1) oznacza po polsku „uzupełnienie, uwydatnienie”."
+    },
+    {
+      "id": "b1-vocabulary-07-076",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „consideration”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przemyślenie, rozważenie"
+        },
+        {
+          "id": "b",
+          "text": "wniosek"
+        },
+        {
+          "id": "c",
+          "text": "zraniony"
+        },
+        {
+          "id": "d",
+          "text": "legalny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„consideration” (rzeczownik, poziom B1) oznacza po polsku „przemyślenie, rozważenie”."
+    },
+    {
+      "id": "b1-vocabulary-07-077",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lead”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedstawiać, opowiadać"
+        },
+        {
+          "id": "b",
+          "text": "kuleć, kuśtykać"
+        },
+        {
+          "id": "c",
+          "text": "prześladować, uciskać"
+        },
+        {
+          "id": "d",
+          "text": "(głos, instrument) prowadzący, wiodący"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lead” (przymiotnik, poziom B1) oznacza po polsku „(głos, instrument) prowadzący, wiodący”."
+    },
+    {
+      "id": "b1-vocabulary-07-078",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „confusion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "robiący wrażenie"
+        },
+        {
+          "id": "b",
+          "text": "pomyłka"
+        },
+        {
+          "id": "c",
+          "text": "uwaga, komentarz"
+        },
+        {
+          "id": "d",
+          "text": "zraniony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„confusion” (rzeczownik, poziom B1) oznacza po polsku „pomyłka”."
+    },
+    {
+      "id": "b1-vocabulary-07-079",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „joint”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wspólny"
+        },
+        {
+          "id": "b",
+          "text": "gwałtowny, silny"
+        },
+        {
+          "id": "c",
+          "text": "prowadzenie, przeprowadzanie"
+        },
+        {
+          "id": "d",
+          "text": "kometa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„joint” (przymiotnik, poziom B1) oznacza po polsku „wspólny”."
+    },
+    {
+      "id": "b1-vocabulary-07-080",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „occupy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdarzać się, następować"
+        },
+        {
+          "id": "b",
+          "text": "kometa"
+        },
+        {
+          "id": "c",
+          "text": "zajmować"
+        },
+        {
+          "id": "d",
+          "text": "modyfikować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„occupy” (czasownik, poziom B1) oznacza po polsku „zajmować”."
+    },
+    {
+      "id": "b1-vocabulary-07-081",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „conservation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wniosek"
+        },
+        {
+          "id": "b",
+          "text": "wyimaginowany"
+        },
+        {
+          "id": "c",
+          "text": "ochrona przyrody, ochrona"
+        },
+        {
+          "id": "d",
+          "text": "porównanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„conservation” (rzeczownik, poziom B1) oznacza po polsku „ochrona przyrody, ochrona”."
+    },
+    {
+      "id": "b1-vocabulary-07-082",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „confidence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaufanie, wiara"
+        },
+        {
+          "id": "b",
+          "text": "wspólny"
+        },
+        {
+          "id": "c",
+          "text": "indywidualny, osobisty"
+        },
+        {
+          "id": "d",
+          "text": "nieuchronny, nie do uniknięcia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„confidence” (rzeczownik, poziom B1) oznacza po polsku „zaufanie, wiara”."
+    },
+    {
+      "id": "b1-vocabulary-07-083",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „oppress”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(budynku) zawalenie się"
+        },
+        {
+          "id": "b",
+          "text": "zapalać"
+        },
+        {
+          "id": "c",
+          "text": "zazdrosny"
+        },
+        {
+          "id": "d",
+          "text": "prześladować, uciskać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„oppress” (czasownik, poziom B1) oznacza po polsku „prześladować, uciskać”."
+    },
+    {
+      "id": "b1-vocabulary-07-084",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lifelong”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamykać na zamek, zamykać"
+        },
+        {
+          "id": "b",
+          "text": "wewnętrzny"
+        },
+        {
+          "id": "c",
+          "text": "na całe życie, na życie"
+        },
+        {
+          "id": "d",
+          "text": "obserwować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lifelong” (przymiotnik, poziom B1) oznacza po polsku „na całe życie, na życie”."
+    },
+    {
+      "id": "b1-vocabulary-07-085",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „observe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "b",
+          "text": "obserwować"
+        },
+        {
+          "id": "c",
+          "text": "pośredni"
+        },
+        {
+          "id": "d",
+          "text": "przemyślenie, rozważenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„observe” (czasownik, poziom B1) oznacza po polsku „obserwować”."
+    },
+    {
+      "id": "b1-vocabulary-07-086",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lawful”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wygoda"
+        },
+        {
+          "id": "b",
+          "text": "(np. w wojsku) rozkaz"
+        },
+        {
+          "id": "c",
+          "text": "legalny"
+        },
+        {
+          "id": "d",
+          "text": "zraniony"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lawful” (przymiotnik, poziom B1) oznacza po polsku „legalny”."
+    },
+    {
+      "id": "b1-vocabulary-07-087",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „consonant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "robiący wrażenie"
+        },
+        {
+          "id": "b",
+          "text": "negocjować"
+        },
+        {
+          "id": "c",
+          "text": "spółgłoska"
+        },
+        {
+          "id": "d",
+          "text": "niewinny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„consonant” (rzeczownik, poziom B1) oznacza po polsku „spółgłoska”."
+    },
+    {
+      "id": "b1-vocabulary-07-088",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „conduct”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kompromis"
+        },
+        {
+          "id": "b",
+          "text": "prowadzenie, przeprowadzanie"
+        },
+        {
+          "id": "c",
+          "text": "zauważać"
+        },
+        {
+          "id": "d",
+          "text": "nieuchronny, nie do uniknięcia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„conduct” (rzeczownik, poziom B1) oznacza po polsku „prowadzenie, przeprowadzanie”."
+    },
+    {
+      "id": "b1-vocabulary-07-089",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „juicy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tłuc"
+        },
+        {
+          "id": "b",
+          "text": "węgiel"
+        },
+        {
+          "id": "c",
+          "text": "zmniejszać się, zmniejszać"
+        },
+        {
+          "id": "d",
+          "text": "soczysty"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„juicy” (przymiotnik, poziom B1) oznacza po polsku „soczysty”."
+    },
+    {
+      "id": "b1-vocabulary-07-090",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lean”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyimaginowany"
+        },
+        {
+          "id": "b",
+          "text": "ochrona przyrody, ochrona"
+        },
+        {
+          "id": "c",
+          "text": "wilgotny"
+        },
+        {
+          "id": "d",
+          "text": "(człowiek) szczupły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lean” (przymiotnik, poziom B1) oznacza po polsku „(człowiek) szczupły”."
+    },
+    {
+      "id": "b1-vocabulary-07-091",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „outweigh”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koncentracja, skupienie się, skupienie"
+        },
+        {
+          "id": "b",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "c",
+          "text": "osiągać, uzyskiwać"
+        },
+        {
+          "id": "d",
+          "text": "przeważać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„outweigh” (czasownik, poziom B1) oznacza po polsku „przeważać”."
+    },
+    {
+      "id": "b1-vocabulary-07-092",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leading”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiodący, czołowy"
+        },
+        {
+          "id": "b",
+          "text": "mylić, wprowadzać w błąd"
+        },
+        {
+          "id": "c",
+          "text": "obserwować"
+        },
+        {
+          "id": "d",
+          "text": "konkurent"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„leading” (przymiotnik, poziom B1) oznacza po polsku „wiodący, czołowy”."
+    },
+    {
+      "id": "b1-vocabulary-07-093",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „confirmation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "b",
+          "text": "potwierdzenie"
+        },
+        {
+          "id": "c",
+          "text": "minimalizować"
+        },
+        {
+          "id": "d",
+          "text": "przemyślenie, rozważenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„confirmation” (rzeczownik, poziom B1) oznacza po polsku „potwierdzenie”."
+    },
+    {
+      "id": "b1-vocabulary-07-094",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „notice”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zauważać"
+        },
+        {
+          "id": "b",
+          "text": "(np. w wojsku) rozkaz"
+        },
+        {
+          "id": "c",
+          "text": "(budynku) zawalenie się"
+        },
+        {
+          "id": "d",
+          "text": "na całe życie, na życie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„notice” (czasownik, poziom B1) oznacza po polsku „zauważać”."
+    },
+    {
+      "id": "b1-vocabulary-07-095",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „obtain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boleć po stracie, boleć, nosić żałobę"
+        },
+        {
+          "id": "b",
+          "text": "osiągać, uzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "wspominać"
+        },
+        {
+          "id": "d",
+          "text": "przemysłowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„obtain” (czasownik, poziom B1) oznacza po polsku „osiągać, uzyskiwać”."
+    },
+    {
+      "id": "b1-vocabulary-07-096",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „legal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boleć po stracie, boleć, nosić żałobę"
+        },
+        {
+          "id": "b",
+          "text": "zdarzać się, następować"
+        },
+        {
+          "id": "c",
+          "text": "legalny"
+        },
+        {
+          "id": "d",
+          "text": "informacyjny, pouczający"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„legal” (przymiotnik, poziom B1) oznacza po polsku „legalny”."
+    },
+    {
+      "id": "b1-vocabulary-07-097",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „occur”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "humorystyczny, zabawny"
+        },
+        {
+          "id": "b",
+          "text": "mylić, wprowadzać w błąd"
+        },
+        {
+          "id": "c",
+          "text": "zdarzać się, następować"
+        },
+        {
+          "id": "d",
+          "text": "niepoprawny, niewłaściwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„occur” (czasownik, poziom B1) oznacza po polsku „zdarzać się, następować”."
+    },
+    {
+      "id": "b1-vocabulary-07-098",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nurse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "węgiel"
+        },
+        {
+          "id": "b",
+          "text": "pojęcie"
+        },
+        {
+          "id": "c",
+          "text": "pielęgnować"
+        },
+        {
+          "id": "d",
+          "text": "zapamiętywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nurse” (czasownik, poziom B1) oznacza po polsku „pielęgnować”."
+    },
+    {
+      "id": "b1-vocabulary-07-099",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „conflict”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ochrona przyrody, ochrona"
+        },
+        {
+          "id": "b",
+          "text": "(myśli) odpowiadać"
+        },
+        {
+          "id": "c",
+          "text": "konflikt, sprzeczność"
+        },
+        {
+          "id": "d",
+          "text": "pojęcie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„conflict” (rzeczownik, poziom B1) oznacza po polsku „konflikt, sprzeczność”."
+    },
+    {
+      "id": "b1-vocabulary-07-100",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lasting”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trwały"
+        },
+        {
+          "id": "b",
+          "text": "gwałtowny, silny"
+        },
+        {
+          "id": "c",
+          "text": "kompromis"
+        },
+        {
+          "id": "d",
+          "text": "teren zagrodzony, teren, podwórze"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lasting” (przymiotnik, poziom B1) oznacza po polsku „trwały”."
+    }
+  ]
+}

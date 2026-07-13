@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-vocabulary-15",
+    "name": "B2 — słownictwo 15"
+  },
+  "questions": [
+    {
+      "id": "b2-vocabulary-15-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rafter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krokiew"
+        },
+        {
+          "id": "b",
+          "text": "piaskowiec"
+        },
+        {
+          "id": "c",
+          "text": "cisza, spokój"
+        },
+        {
+          "id": "d",
+          "text": "żebro"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rafter” (rzeczownik, poziom B2) oznacza po polsku „krokiew”."
+    },
+    {
+      "id": "b2-vocabulary-15-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rainbow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oddychanie"
+        },
+        {
+          "id": "b",
+          "text": "relaks, odprężenie się"
+        },
+        {
+          "id": "c",
+          "text": "tęcza"
+        },
+        {
+          "id": "d",
+          "text": "rebeliant"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rainbow” (rzeczownik, poziom B2) oznacza po polsku „tęcza”."
+    },
+    {
+      "id": "b2-vocabulary-15-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „quote”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przypomnienie"
+        },
+        {
+          "id": "b",
+          "text": "brzeg, krawędź"
+        },
+        {
+          "id": "c",
+          "text": "zastąpienie"
+        },
+        {
+          "id": "d",
+          "text": "(autora) przytoczenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„quote” (rzeczownik, poziom B2) oznacza po polsku „(autora) przytoczenie”."
+    },
+    {
+      "id": "b2-vocabulary-15-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rebel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "represja"
+        },
+        {
+          "id": "b",
+          "text": "rekreacja"
+        },
+        {
+          "id": "c",
+          "text": "zapach, aromat"
+        },
+        {
+          "id": "d",
+          "text": "rebeliant"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rebel” (rzeczownik, poziom B2) oznacza po polsku „rebeliant”."
+    },
+    {
+      "id": "b2-vocabulary-15-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rainstorm”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "schronienie"
+        },
+        {
+          "id": "b",
+          "text": "oberwanie chmury"
+        },
+        {
+          "id": "c",
+          "text": "próba"
+        },
+        {
+          "id": "d",
+          "text": "trasa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rainstorm” (rzeczownik, poziom B2) oznacza po polsku „oberwanie chmury”."
+    },
+    {
+      "id": "b2-vocabulary-15-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ranger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strażnik leśny"
+        },
+        {
+          "id": "b",
+          "text": "uwaga"
+        },
+        {
+          "id": "c",
+          "text": "represja"
+        },
+        {
+          "id": "d",
+          "text": "wiec"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ranger” (rzeczownik, poziom B2) oznacza po polsku „strażnik leśny”."
+    },
+    {
+      "id": "b2-vocabulary-15-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ramp”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trasa"
+        },
+        {
+          "id": "b",
+          "text": "rampa, podjazd"
+        },
+        {
+          "id": "c",
+          "text": "rodzina królewska"
+        },
+        {
+          "id": "d",
+          "text": "sprzedawczyni, pośredniczka handlowa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ramp” (rzeczownik, poziom B2) oznacza po polsku „rampa, podjazd”."
+    },
+    {
+      "id": "b2-vocabulary-15-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „quiet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cisza, spokój"
+        },
+        {
+          "id": "b",
+          "text": "odwrót"
+        },
+        {
+          "id": "c",
+          "text": "trzcina"
+        },
+        {
+          "id": "d",
+          "text": "rebeliant"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„quiet” (rzeczownik, poziom B2) oznacza po polsku „cisza, spokój”."
+    },
+    {
+      "id": "b2-vocabulary-15-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „query”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oszczędnośći, oszczędność"
+        },
+        {
+          "id": "b",
+          "text": "przepis kulinarny, przepis"
+        },
+        {
+          "id": "c",
+          "text": "ulga"
+        },
+        {
+          "id": "d",
+          "text": "zapytanie, zakwestionowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„query” (rzeczownik, poziom B2) oznacza po polsku „zapytanie, zakwestionowanie”."
+    },
+    {
+      "id": "b2-vocabulary-15-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ravage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(lit) mędrzec"
+        },
+        {
+          "id": "b",
+          "text": "(also ravages) spustoszenia"
+        },
+        {
+          "id": "c",
+          "text": "opłata za wynajęcie, czynsz"
+        },
+        {
+          "id": "d",
+          "text": "detalista"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ravage” (rzeczownik, poziom B2) oznacza po polsku „(also ravages) spustoszenia”."
+    },
+    {
+      "id": "b2-vocabulary-15-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „quotation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brzeg, krawędź"
+        },
+        {
+          "id": "b",
+          "text": "trasa"
+        },
+        {
+          "id": "c",
+          "text": "cytat"
+        },
+        {
+          "id": "d",
+          "text": "(autora) przytoczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„quotation” (rzeczownik, poziom B2) oznacza po polsku „cytat”."
+    },
+    {
+      "id": "b2-vocabulary-15-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rack”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rakieta"
+        },
+        {
+          "id": "b",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "c",
+          "text": "półka na bagaże, półka"
+        },
+        {
+          "id": "d",
+          "text": "emerytura"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rack” (rzeczownik, poziom B2) oznacza po polsku „półka na bagaże, półka”."
+    },
+    {
+      "id": "b2-vocabulary-15-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „qualification”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykształcenie"
+        },
+        {
+          "id": "b",
+          "text": "rezolucja"
+        },
+        {
+          "id": "c",
+          "text": "włóczyć się, wędrować"
+        },
+        {
+          "id": "d",
+          "text": "przepis kulinarny, przepis"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„qualification” (rzeczownik, poziom B2) oznacza po polsku „wykształcenie”."
+    },
+    {
+      "id": "b2-vocabulary-15-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rally”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiec"
+        },
+        {
+          "id": "b",
+          "text": "ograniczenie"
+        },
+        {
+          "id": "c",
+          "text": "rezydencja"
+        },
+        {
+          "id": "d",
+          "text": "odświeżać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rally” (rzeczownik, poziom B2) oznacza po polsku „wiec”."
+    },
+    {
+      "id": "b2-vocabulary-15-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „radar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "b",
+          "text": "rasista"
+        },
+        {
+          "id": "c",
+          "text": "rytuał"
+        },
+        {
+          "id": "d",
+          "text": "radar"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„radar” (rzeczownik, poziom B2) oznacza po polsku „radar”."
+    },
+    {
+      "id": "b2-vocabulary-15-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „racism”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rasizm"
+        },
+        {
+          "id": "b",
+          "text": "nosorożec"
+        },
+        {
+          "id": "c",
+          "text": "stały mieszkaniec, mieszkaniec"
+        },
+        {
+          "id": "d",
+          "text": "zapach, aromat"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„racism” (rzeczownik, poziom B2) oznacza po polsku „rasizm”."
+    },
+    {
+      "id": "b2-vocabulary-15-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rape”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reżym"
+        },
+        {
+          "id": "b",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "c",
+          "text": "blizna, szrama"
+        },
+        {
+          "id": "d",
+          "text": "gwałt"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rape” (rzeczownik, poziom B2) oznacza po polsku „gwałt”."
+    },
+    {
+      "id": "b2-vocabulary-15-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „racist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(autora) przytoczenie"
+        },
+        {
+          "id": "b",
+          "text": "rewelacja"
+        },
+        {
+          "id": "c",
+          "text": "rasista"
+        },
+        {
+          "id": "d",
+          "text": "dochód"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„racist” (rzeczownik, poziom B2) oznacza po polsku „rasista”."
+    },
+    {
+      "id": "b2-vocabulary-15-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „quarrel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzeczka"
+        },
+        {
+          "id": "b",
+          "text": "współlokator"
+        },
+        {
+          "id": "c",
+          "text": "zapytanie, zakwestionowanie"
+        },
+        {
+          "id": "d",
+          "text": "kwarantanna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„quarrel” (rzeczownik, poziom B2) oznacza po polsku „sprzeczka”."
+    },
+    {
+      "id": "b2-vocabulary-15-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rag”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "instalacja sanitarna"
+        },
+        {
+          "id": "b",
+          "text": "opór"
+        },
+        {
+          "id": "c",
+          "text": "ograniczenie"
+        },
+        {
+          "id": "d",
+          "text": "szmata"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rag” (rzeczownik, poziom B2) oznacza po polsku „szmata”."
+    },
+    {
+      "id": "b2-vocabulary-15-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rattle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ceremoniał, obrzęd"
+        },
+        {
+          "id": "b",
+          "text": "rebeliant"
+        },
+        {
+          "id": "c",
+          "text": "włóczyć się, wędrować"
+        },
+        {
+          "id": "d",
+          "text": "stukot, stukanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rattle” (rzeczownik, poziom B2) oznacza po polsku „stukot, stukanie”."
+    },
+    {
+      "id": "b2-vocabulary-15-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ram”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reforma, reformowanie"
+        },
+        {
+          "id": "b",
+          "text": "grzbiet, krawędź"
+        },
+        {
+          "id": "c",
+          "text": "tryk, baran"
+        },
+        {
+          "id": "d",
+          "text": "trasa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ram” (rzeczownik, poziom B2) oznacza po polsku „tryk, baran”."
+    },
+    {
+      "id": "b2-vocabulary-15-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „quarantine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rebeliant"
+        },
+        {
+          "id": "b",
+          "text": "wiec"
+        },
+        {
+          "id": "c",
+          "text": "uciekinier, uchodźca"
+        },
+        {
+          "id": "d",
+          "text": "kwarantanna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„quarantine” (rzeczownik, poziom B2) oznacza po polsku „kwarantanna”."
+    },
+    {
+      "id": "b2-vocabulary-15-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „radical”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żebro"
+        },
+        {
+          "id": "b",
+          "text": "zapach, aromat"
+        },
+        {
+          "id": "c",
+          "text": "radykał"
+        },
+        {
+          "id": "d",
+          "text": "jeździec"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„radical” (rzeczownik, poziom B2) oznacza po polsku „radykał”."
+    },
+    {
+      "id": "b2-vocabulary-15-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reaction”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reżym"
+        },
+        {
+          "id": "b",
+          "text": "relaks, odprężenie się"
+        },
+        {
+          "id": "c",
+          "text": "rezolucja"
+        },
+        {
+          "id": "d",
+          "text": "reakcja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„reaction” (rzeczownik, poziom B2) oznacza po polsku „reakcja”."
+    },
+    {
+      "id": "b2-vocabulary-15-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rental”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywienie"
+        },
+        {
+          "id": "b",
+          "text": "opłata za wynajęcie, czynsz"
+        },
+        {
+          "id": "c",
+          "text": "szmata"
+        },
+        {
+          "id": "d",
+          "text": "dochód"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rental” (rzeczownik, poziom B2) oznacza po polsku „opłata za wynajęcie, czynsz”."
+    },
+    {
+      "id": "b2-vocabulary-15-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recognition”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodruk, wydanie niezmienione, wydanie"
+        },
+        {
+          "id": "b",
+          "text": "rozpoznanie"
+        },
+        {
+          "id": "c",
+          "text": "ograniczenie"
+        },
+        {
+          "id": "d",
+          "text": "półka na bagaże, półka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„recognition” (rzeczownik, poziom B2) oznacza po polsku „rozpoznanie”."
+    },
+    {
+      "id": "b2-vocabulary-15-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recession”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodruk, wydanie niezmienione, wydanie"
+        },
+        {
+          "id": "b",
+          "text": "ożywienie"
+        },
+        {
+          "id": "c",
+          "text": "recesja"
+        },
+        {
+          "id": "d",
+          "text": "szmata"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„recession” (rzeczownik, poziom B2) oznacza po polsku „recesja”."
+    },
+    {
+      "id": "b2-vocabulary-15-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „refrain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "schronienie"
+        },
+        {
+          "id": "b",
+          "text": "refren"
+        },
+        {
+          "id": "c",
+          "text": "strażnik leśny"
+        },
+        {
+          "id": "d",
+          "text": "skandal"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„refrain” (rzeczownik, poziom B2) oznacza po polsku „refren”."
+    },
+    {
+      "id": "b2-vocabulary-15-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relief”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzmocnienie"
+        },
+        {
+          "id": "b",
+          "text": "uwaga"
+        },
+        {
+          "id": "c",
+          "text": "ulga"
+        },
+        {
+          "id": "d",
+          "text": "(autora) przytoczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„relief” (rzeczownik, poziom B2) oznacza po polsku „ulga”."
+    },
+    {
+      "id": "b2-vocabulary-15-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recipe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodruk, wydanie niezmienione, wydanie"
+        },
+        {
+          "id": "b",
+          "text": "relaks, odprężenie się"
+        },
+        {
+          "id": "c",
+          "text": "ożywienie"
+        },
+        {
+          "id": "d",
+          "text": "przepis kulinarny, przepis"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„recipe” (rzeczownik, poziom B2) oznacza po polsku „przepis kulinarny, przepis”."
+    },
+    {
+      "id": "b2-vocabulary-15-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reminder”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reakcja"
+        },
+        {
+          "id": "b",
+          "text": "rekreacja"
+        },
+        {
+          "id": "c",
+          "text": "przypomnienie"
+        },
+        {
+          "id": "d",
+          "text": "(autora) przytoczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reminder” (rzeczownik, poziom B2) oznacza po polsku „przypomnienie”."
+    },
+    {
+      "id": "b2-vocabulary-15-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recreation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "b",
+          "text": "pobory, pensja"
+        },
+        {
+          "id": "c",
+          "text": "wspomnienie"
+        },
+        {
+          "id": "d",
+          "text": "rekreacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„recreation” (rzeczownik, poziom B2) oznacza po polsku „rekreacja”."
+    },
+    {
+      "id": "b2-vocabulary-15-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opłata za wynajęcie, czynsz"
+        },
+        {
+          "id": "b",
+          "text": "relikt"
+        },
+        {
+          "id": "c",
+          "text": "reforma, reformowanie"
+        },
+        {
+          "id": "d",
+          "text": "żebro"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„relic” (rzeczownik, poziom B2) oznacza po polsku „relikt”."
+    },
+    {
+      "id": "b2-vocabulary-15-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recollection”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "schronienie"
+        },
+        {
+          "id": "b",
+          "text": "grzbiet, krawędź"
+        },
+        {
+          "id": "c",
+          "text": "wspomnienie"
+        },
+        {
+          "id": "d",
+          "text": "cześć, czczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„recollection” (rzeczownik, poziom B2) oznacza po polsku „wspomnienie”."
+    },
+    {
+      "id": "b2-vocabulary-15-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reform”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "b",
+          "text": "reforma, reformowanie"
+        },
+        {
+          "id": "c",
+          "text": "żal, ubolewanie"
+        },
+        {
+          "id": "d",
+          "text": "grzbiet, krawędź"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reform” (rzeczownik, poziom B2) oznacza po polsku „reforma, reformowanie”."
+    },
+    {
+      "id": "b2-vocabulary-15-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reinforcement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "półka na bagaże, półka"
+        },
+        {
+          "id": "b",
+          "text": "wzmocnienie"
+        },
+        {
+          "id": "c",
+          "text": "rodzina królewska"
+        },
+        {
+          "id": "d",
+          "text": "sprzedawczyni, pośredniczka handlowa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reinforcement” (rzeczownik, poziom B2) oznacza po polsku „wzmocnienie”."
+    },
+    {
+      "id": "b2-vocabulary-15-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recommendation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rekomendacja"
+        },
+        {
+          "id": "b",
+          "text": "cytat"
+        },
+        {
+          "id": "c",
+          "text": "dywanik"
+        },
+        {
+          "id": "d",
+          "text": "(autora) przytoczenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„recommendation” (rzeczownik, poziom B2) oznacza po polsku „rekomendacja”."
+    },
+    {
+      "id": "b2-vocabulary-15-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relaxation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uwaga"
+        },
+        {
+          "id": "b",
+          "text": "rezydencja"
+        },
+        {
+          "id": "c",
+          "text": "rafineria"
+        },
+        {
+          "id": "d",
+          "text": "relaks, odprężenie się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„relaxation” (rzeczownik, poziom B2) oznacza po polsku „relaks, odprężenie się”."
+    },
+    {
+      "id": "b2-vocabulary-15-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reference”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) odniesienie, aluzja"
+        },
+        {
+          "id": "b",
+          "text": "rewelacja"
+        },
+        {
+          "id": "c",
+          "text": "rozpoznanie"
+        },
+        {
+          "id": "d",
+          "text": "włóczyć się, wędrować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„reference” (rzeczownik, poziom B2) oznacza po polsku „(form) odniesienie, aluzja”."
+    },
+    {
+      "id": "b2-vocabulary-15-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „remark”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uwaga"
+        },
+        {
+          "id": "b",
+          "text": "relikt"
+        },
+        {
+          "id": "c",
+          "text": "replika, kopia"
+        },
+        {
+          "id": "d",
+          "text": "nosorożec"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„remark” (rzeczownik, poziom B2) oznacza po polsku „uwaga”."
+    },
+    {
+      "id": "b2-vocabulary-15-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „regret”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zastąpienie"
+        },
+        {
+          "id": "b",
+          "text": "gruz"
+        },
+        {
+          "id": "c",
+          "text": "żal, ubolewanie"
+        },
+        {
+          "id": "d",
+          "text": "opłata za wynajęcie, czynsz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„regret” (rzeczownik, poziom B2) oznacza po polsku „żal, ubolewanie”."
+    },
+    {
+      "id": "b2-vocabulary-15-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rehearsal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykształcenie"
+        },
+        {
+          "id": "b",
+          "text": "ulga"
+        },
+        {
+          "id": "c",
+          "text": "próba"
+        },
+        {
+          "id": "d",
+          "text": "(autora) przytoczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rehearsal” (rzeczownik, poziom B2) oznacza po polsku „próba”."
+    },
+    {
+      "id": "b2-vocabulary-15-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „refuge”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zemsta"
+        },
+        {
+          "id": "b",
+          "text": "schronienie"
+        },
+        {
+          "id": "c",
+          "text": "relaks, odprężenie się"
+        },
+        {
+          "id": "d",
+          "text": "instalacja sanitarna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„refuge” (rzeczownik, poziom B2) oznacza po polsku „schronienie”."
+    },
+    {
+      "id": "b2-vocabulary-15-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „repertoire”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "repertuar"
+        },
+        {
+          "id": "b",
+          "text": "zastąpienie"
+        },
+        {
+          "id": "c",
+          "text": "ceremoniał, obrzęd"
+        },
+        {
+          "id": "d",
+          "text": "oszczędnośći, oszczędność"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„repertoire” (rzeczownik, poziom B2) oznacza po polsku „repertuar”."
+    },
+    {
+      "id": "b2-vocabulary-15-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „refinery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opłata za wynajęcie, czynsz"
+        },
+        {
+          "id": "b",
+          "text": "detalista"
+        },
+        {
+          "id": "c",
+          "text": "rafineria"
+        },
+        {
+          "id": "d",
+          "text": "ograniczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„refinery” (rzeczownik, poziom B2) oznacza po polsku „rafineria”."
+    },
+    {
+      "id": "b2-vocabulary-15-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „regime”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepis kulinarny, przepis"
+        },
+        {
+          "id": "b",
+          "text": "pobory, pensja"
+        },
+        {
+          "id": "c",
+          "text": "reżym"
+        },
+        {
+          "id": "d",
+          "text": "trzcina"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„regime” (rzeczownik, poziom B2) oznacza po polsku „reżym”."
+    },
+    {
+      "id": "b2-vocabulary-15-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trzcina"
+        },
+        {
+          "id": "b",
+          "text": "przypomnienie"
+        },
+        {
+          "id": "c",
+          "text": "odświeżać"
+        },
+        {
+          "id": "d",
+          "text": "zastąpienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„reed” (rzeczownik, poziom B2) oznacza po polsku „trzcina”."
+    },
+    {
+      "id": "b2-vocabulary-15-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „refresh”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strażnik leśny"
+        },
+        {
+          "id": "b",
+          "text": "dochód"
+        },
+        {
+          "id": "c",
+          "text": "przypomnienie"
+        },
+        {
+          "id": "d",
+          "text": "odświeżać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„refresh” (rzeczownik, poziom B2) oznacza po polsku „odświeżać”."
+    },
+    {
+      "id": "b2-vocabulary-15-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „refugee”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rebeliant"
+        },
+        {
+          "id": "b",
+          "text": "uciekinier, uchodźca"
+        },
+        {
+          "id": "c",
+          "text": "refren"
+        },
+        {
+          "id": "d",
+          "text": "wspomnienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„refugee” (rzeczownik, poziom B2) oznacza po polsku „uciekinier, uchodźca”."
+    },
+    {
+      "id": "b2-vocabulary-15-051",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „respiration”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rewolucja"
+        },
+        {
+          "id": "b",
+          "text": "powtórzenie"
+        },
+        {
+          "id": "c",
+          "text": "oddychanie"
+        },
+        {
+          "id": "d",
+          "text": "ograniczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„respiration” (rzeczownik, poziom B2) oznacza po polsku „oddychanie”."
+    },
+    {
+      "id": "b2-vocabulary-15-052",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reprint”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brzeg, krawędź"
+        },
+        {
+          "id": "b",
+          "text": "pobory, pensja"
+        },
+        {
+          "id": "c",
+          "text": "dodruk, wydanie niezmienione, wydanie"
+        },
+        {
+          "id": "d",
+          "text": "instalacja sanitarna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reprint” (rzeczownik, poziom B2) oznacza po polsku „dodruk, wydanie niezmienione, wydanie”."
+    },
+    {
+      "id": "b2-vocabulary-15-053",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „revival”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "recesja"
+        },
+        {
+          "id": "b",
+          "text": "ożywienie"
+        },
+        {
+          "id": "c",
+          "text": "trzcina"
+        },
+        {
+          "id": "d",
+          "text": "prawo głosu, coś do powiedzenia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„revival” (rzeczownik, poziom B2) oznacza po polsku „ożywienie”."
+    },
+    {
+      "id": "b2-vocabulary-15-054",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „residence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rytuał"
+        },
+        {
+          "id": "b",
+          "text": "odwrót"
+        },
+        {
+          "id": "c",
+          "text": "rezydencja"
+        },
+        {
+          "id": "d",
+          "text": "strażnik leśny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„residence” (rzeczownik, poziom B2) oznacza po polsku „rezydencja”."
+    },
+    {
+      "id": "b2-vocabulary-15-055",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „revenge”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "relikt"
+        },
+        {
+          "id": "b",
+          "text": "cisza, spokój"
+        },
+        {
+          "id": "c",
+          "text": "zemsta"
+        },
+        {
+          "id": "d",
+          "text": "prawo głosu, coś do powiedzenia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„revenge” (rzeczownik, poziom B2) oznacza po polsku „zemsta”."
+    },
+    {
+      "id": "b2-vocabulary-15-056",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „retreat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odwrót"
+        },
+        {
+          "id": "b",
+          "text": "tryk, baran"
+        },
+        {
+          "id": "c",
+          "text": "wiec"
+        },
+        {
+          "id": "d",
+          "text": "żebro"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„retreat” (rzeczownik, poziom B2) oznacza po polsku „odwrót”."
+    },
+    {
+      "id": "b2-vocabulary-15-057",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „repetition”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rampa, podjazd"
+        },
+        {
+          "id": "b",
+          "text": "opłata za wynajęcie, czynsz"
+        },
+        {
+          "id": "c",
+          "text": "powtórzenie"
+        },
+        {
+          "id": "d",
+          "text": "rewelacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„repetition” (rzeczownik, poziom B2) oznacza po polsku „powtórzenie”."
+    },
+    {
+      "id": "b2-vocabulary-15-058",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rhinoceros”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rekreacja"
+        },
+        {
+          "id": "b",
+          "text": "stały mieszkaniec, mieszkaniec"
+        },
+        {
+          "id": "c",
+          "text": "nosorożec"
+        },
+        {
+          "id": "d",
+          "text": "(lit) mędrzec"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rhinoceros” (rzeczownik, poziom B2) oznacza po polsku „nosorożec”."
+    },
+    {
+      "id": "b2-vocabulary-15-059",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „replica”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykształcenie"
+        },
+        {
+          "id": "b",
+          "text": "replika, kopia"
+        },
+        {
+          "id": "c",
+          "text": "recesja"
+        },
+        {
+          "id": "d",
+          "text": "trasa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„replica” (rzeczownik, poziom B2) oznacza po polsku „replika, kopia”."
+    },
+    {
+      "id": "b2-vocabulary-15-060",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „riddle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zagadka"
+        },
+        {
+          "id": "b",
+          "text": "rakieta"
+        },
+        {
+          "id": "c",
+          "text": "żal, ubolewanie"
+        },
+        {
+          "id": "d",
+          "text": "rywal, konkurent"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„riddle” (rzeczownik, poziom B2) oznacza po polsku „zagadka”."
+    },
+    {
+      "id": "b2-vocabulary-15-061",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reverence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(autora) przytoczenie"
+        },
+        {
+          "id": "b",
+          "text": "cytat"
+        },
+        {
+          "id": "c",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "d",
+          "text": "trzcina"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reverence” (rzeczownik, poziom B2) oznacza po polsku „cześć, czczenie”."
+    },
+    {
+      "id": "b2-vocabulary-15-062",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rib”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rampa, podjazd"
+        },
+        {
+          "id": "b",
+          "text": "żebro"
+        },
+        {
+          "id": "c",
+          "text": "odświeżać"
+        },
+        {
+          "id": "d",
+          "text": "odwrót"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rib” (rzeczownik, poziom B2) oznacza po polsku „żebro”."
+    },
+    {
+      "id": "b2-vocabulary-15-063",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „replacement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rasizm"
+        },
+        {
+          "id": "b",
+          "text": "żal, ubolewanie"
+        },
+        {
+          "id": "c",
+          "text": "zastąpienie"
+        },
+        {
+          "id": "d",
+          "text": "krokiew"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„replacement” (rzeczownik, poziom B2) oznacza po polsku „zastąpienie”."
+    },
+    {
+      "id": "b2-vocabulary-15-064",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „retina”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywienie"
+        },
+        {
+          "id": "b",
+          "text": "rakieta"
+        },
+        {
+          "id": "c",
+          "text": "siatkówka"
+        },
+        {
+          "id": "d",
+          "text": "ulga"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„retina” (rzeczownik, poziom B2) oznacza po polsku „siatkówka”."
+    },
+    {
+      "id": "b2-vocabulary-15-065",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „revolution”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skandal"
+        },
+        {
+          "id": "b",
+          "text": "rewolucja"
+        },
+        {
+          "id": "c",
+          "text": "refren"
+        },
+        {
+          "id": "d",
+          "text": "nosorożec"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„revolution” (rzeczownik, poziom B2) oznacza po polsku „rewolucja”."
+    },
+    {
+      "id": "b2-vocabulary-15-066",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „retirement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "emerytura"
+        },
+        {
+          "id": "b",
+          "text": "żal, ubolewanie"
+        },
+        {
+          "id": "c",
+          "text": "(also ravages) spustoszenia"
+        },
+        {
+          "id": "d",
+          "text": "stały mieszkaniec, mieszkaniec"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„retirement” (rzeczownik, poziom B2) oznacza po polsku „emerytura”."
+    },
+    {
+      "id": "b2-vocabulary-15-067",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „revenue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trasa"
+        },
+        {
+          "id": "b",
+          "text": "siatkówka"
+        },
+        {
+          "id": "c",
+          "text": "dochód"
+        },
+        {
+          "id": "d",
+          "text": "reforma, reformowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„revenue” (rzeczownik, poziom B2) oznacza po polsku „dochód”."
+    },
+    {
+      "id": "b2-vocabulary-15-068",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „repression”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzedawczyni, pośredniczka handlowa"
+        },
+        {
+          "id": "b",
+          "text": "kwarantanna"
+        },
+        {
+          "id": "c",
+          "text": "represja"
+        },
+        {
+          "id": "d",
+          "text": "rekreacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„repression” (rzeczownik, poziom B2) oznacza po polsku „represja”."
+    },
+    {
+      "id": "b2-vocabulary-15-069",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „resolution”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "schronienie"
+        },
+        {
+          "id": "b",
+          "text": "ulga"
+        },
+        {
+          "id": "c",
+          "text": "rezolucja"
+        },
+        {
+          "id": "d",
+          "text": "cytat"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„resolution” (rzeczownik, poziom B2) oznacza po polsku „rezolucja”."
+    },
+    {
+      "id": "b2-vocabulary-15-070",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „retailer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strażnik leśny"
+        },
+        {
+          "id": "b",
+          "text": "tęcza"
+        },
+        {
+          "id": "c",
+          "text": "detalista"
+        },
+        {
+          "id": "d",
+          "text": "rozpoznanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„retailer” (rzeczownik, poziom B2) oznacza po polsku „detalista”."
+    },
+    {
+      "id": "b2-vocabulary-15-071",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „resistance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezolucja"
+        },
+        {
+          "id": "b",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "c",
+          "text": "wspomnienie"
+        },
+        {
+          "id": "d",
+          "text": "opór"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„resistance” (rzeczownik, poziom B2) oznacza po polsku „opór”."
+    },
+    {
+      "id": "b2-vocabulary-15-072",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „restriction”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reżym"
+        },
+        {
+          "id": "b",
+          "text": "ograniczenie"
+        },
+        {
+          "id": "c",
+          "text": "rafineria"
+        },
+        {
+          "id": "d",
+          "text": "zastąpienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„restriction” (rzeczownik, poziom B2) oznacza po polsku „ograniczenie”."
+    },
+    {
+      "id": "b2-vocabulary-15-073",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „resignation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) odniesienie, aluzja"
+        },
+        {
+          "id": "b",
+          "text": "uwaga"
+        },
+        {
+          "id": "c",
+          "text": "wiec"
+        },
+        {
+          "id": "d",
+          "text": "wypowiedzenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„resignation” (rzeczownik, poziom B2) oznacza po polsku „wypowiedzenie”."
+    },
+    {
+      "id": "b2-vocabulary-15-074",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „resident”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powtórzenie"
+        },
+        {
+          "id": "b",
+          "text": "rodzina królewska"
+        },
+        {
+          "id": "c",
+          "text": "stały mieszkaniec, mieszkaniec"
+        },
+        {
+          "id": "d",
+          "text": "zastąpienie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„resident” (rzeczownik, poziom B2) oznacza po polsku „stały mieszkaniec, mieszkaniec”."
+    },
+    {
+      "id": "b2-vocabulary-15-075",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „revelation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rewelacja"
+        },
+        {
+          "id": "b",
+          "text": "rekomendacja"
+        },
+        {
+          "id": "c",
+          "text": "rekreacja"
+        },
+        {
+          "id": "d",
+          "text": "rodzina królewska"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„revelation” (rzeczownik, poziom B2) oznacza po polsku „rewelacja”."
+    },
+    {
+      "id": "b2-vocabulary-15-076",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapach, aromat"
+        },
+        {
+          "id": "b",
+          "text": "prawo głosu, coś do powiedzenia"
+        },
+        {
+          "id": "c",
+          "text": "uwaga"
+        },
+        {
+          "id": "d",
+          "text": "wspomnienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„scent” (rzeczownik, poziom B2) oznacza po polsku „zapach, aromat”."
+    },
+    {
+      "id": "b2-vocabulary-15-077",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rocket”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cześć, czczenie"
+        },
+        {
+          "id": "b",
+          "text": "trasa"
+        },
+        {
+          "id": "c",
+          "text": "stukot, stukanie"
+        },
+        {
+          "id": "d",
+          "text": "rakieta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rocket” (rzeczownik, poziom B2) oznacza po polsku „rakieta”."
+    },
+    {
+      "id": "b2-vocabulary-15-078",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepis kulinarny, przepis"
+        },
+        {
+          "id": "b",
+          "text": "blizna, szrama"
+        },
+        {
+          "id": "c",
+          "text": "ceremoniał, obrzęd"
+        },
+        {
+          "id": "d",
+          "text": "ulga"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„scar” (rzeczownik, poziom B2) oznacza po polsku „blizna, szrama”."
+    },
+    {
+      "id": "b2-vocabulary-15-079",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rider”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przypomnienie"
+        },
+        {
+          "id": "b",
+          "text": "jeździec"
+        },
+        {
+          "id": "c",
+          "text": "zapytanie, zakwestionowanie"
+        },
+        {
+          "id": "d",
+          "text": "półka na bagaże, półka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rider” (rzeczownik, poziom B2) oznacza po polsku „jeździec”."
+    },
+    {
+      "id": "b2-vocabulary-15-080",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „route”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "recesja"
+        },
+        {
+          "id": "b",
+          "text": "gruz"
+        },
+        {
+          "id": "c",
+          "text": "szmata"
+        },
+        {
+          "id": "d",
+          "text": "trasa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„route” (rzeczownik, poziom B2) oznacza po polsku „trasa”."
+    },
+    {
+      "id": "b2-vocabulary-15-081",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „savings”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pobory, pensja"
+        },
+        {
+          "id": "b",
+          "text": "rezydencja"
+        },
+        {
+          "id": "c",
+          "text": "oszczędnośći, oszczędność"
+        },
+        {
+          "id": "d",
+          "text": "rewelacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„savings” (rzeczownik, poziom B2) oznacza po polsku „oszczędnośći, oszczędność”."
+    },
+    {
+      "id": "b2-vocabulary-15-082",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezydencja"
+        },
+        {
+          "id": "b",
+          "text": "brzeg, krawędź"
+        },
+        {
+          "id": "c",
+          "text": "wzmocnienie"
+        },
+        {
+          "id": "d",
+          "text": "ceremoniał, obrzęd"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rite” (rzeczownik, poziom B2) oznacza po polsku „ceremoniał, obrzęd”."
+    },
+    {
+      "id": "b2-vocabulary-15-083",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „saleswoman”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dywanik"
+        },
+        {
+          "id": "b",
+          "text": "sprzedawczyni, pośredniczka handlowa"
+        },
+        {
+          "id": "c",
+          "text": "kwarantanna"
+        },
+        {
+          "id": "d",
+          "text": "szmata"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„saleswoman” (rzeczownik, poziom B2) oznacza po polsku „sprzedawczyni, pośredniczka handlowa”."
+    },
+    {
+      "id": "b2-vocabulary-15-084",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sanitation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pobory, pensja"
+        },
+        {
+          "id": "b",
+          "text": "zwisać, obwisać"
+        },
+        {
+          "id": "c",
+          "text": "instalacja sanitarna"
+        },
+        {
+          "id": "d",
+          "text": "rozpoznanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sanitation” (rzeczownik, poziom B2) oznacza po polsku „instalacja sanitarna”."
+    },
+    {
+      "id": "b2-vocabulary-15-085",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „salary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(lit) mędrzec"
+        },
+        {
+          "id": "b",
+          "text": "dochód"
+        },
+        {
+          "id": "c",
+          "text": "grzbiet, krawędź"
+        },
+        {
+          "id": "d",
+          "text": "pobory, pensja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„salary” (rzeczownik, poziom B2) oznacza po polsku „pobory, pensja”."
+    },
+    {
+      "id": "b2-vocabulary-15-086",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rubble”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezolucja"
+        },
+        {
+          "id": "b",
+          "text": "gruz"
+        },
+        {
+          "id": "c",
+          "text": "zastąpienie"
+        },
+        {
+          "id": "d",
+          "text": "wspomnienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rubble” (rzeczownik, poziom B2) oznacza po polsku „gruz”."
+    },
+    {
+      "id": "b2-vocabulary-15-087",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rim”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "detalista"
+        },
+        {
+          "id": "b",
+          "text": "jeździec"
+        },
+        {
+          "id": "c",
+          "text": "brzeg, krawędź"
+        },
+        {
+          "id": "d",
+          "text": "uwaga"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rim” (rzeczownik, poziom B2) oznacza po polsku „brzeg, krawędź”."
+    },
+    {
+      "id": "b2-vocabulary-15-088",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „say”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozpoznanie"
+        },
+        {
+          "id": "b",
+          "text": "tryk, baran"
+        },
+        {
+          "id": "c",
+          "text": "prawo głosu, coś do powiedzenia"
+        },
+        {
+          "id": "d",
+          "text": "detalista"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„say” (rzeczownik, poziom B2) oznacza po polsku „prawo głosu, coś do powiedzenia”."
+    },
+    {
+      "id": "b2-vocabulary-15-089",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scarlet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oberwanie chmury"
+        },
+        {
+          "id": "b",
+          "text": "detalista"
+        },
+        {
+          "id": "c",
+          "text": "uwaga"
+        },
+        {
+          "id": "d",
+          "text": "szkarłat"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„scarlet” (rzeczownik, poziom B2) oznacza po polsku „szkarłat”."
+    },
+    {
+      "id": "b2-vocabulary-15-090",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „roam”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywienie"
+        },
+        {
+          "id": "b",
+          "text": "włóczyć się, wędrować"
+        },
+        {
+          "id": "c",
+          "text": "refren"
+        },
+        {
+          "id": "d",
+          "text": "próba"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„roam” (rzeczownik, poziom B2) oznacza po polsku „włóczyć się, wędrować”."
+    },
+    {
+      "id": "b2-vocabulary-15-091",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „roommate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "współlokator"
+        },
+        {
+          "id": "b",
+          "text": "reżym"
+        },
+        {
+          "id": "c",
+          "text": "rodzina królewska"
+        },
+        {
+          "id": "d",
+          "text": "rezydencja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„roommate” (rzeczownik, poziom B2) oznacza po polsku „współlokator”."
+    },
+    {
+      "id": "b2-vocabulary-15-092",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ritual”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rytuał"
+        },
+        {
+          "id": "b",
+          "text": "sprzeczka"
+        },
+        {
+          "id": "c",
+          "text": "rewelacja"
+        },
+        {
+          "id": "d",
+          "text": "siatkówka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ritual” (rzeczownik, poziom B2) oznacza po polsku „rytuał”."
+    },
+    {
+      "id": "b2-vocabulary-15-093",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rug”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rywal, konkurent"
+        },
+        {
+          "id": "b",
+          "text": "cisza, spokój"
+        },
+        {
+          "id": "c",
+          "text": "dywanik"
+        },
+        {
+          "id": "d",
+          "text": "sprzedawczyni, pośredniczka handlowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rug” (rzeczownik, poziom B2) oznacza po polsku „dywanik”."
+    },
+    {
+      "id": "b2-vocabulary-15-094",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sag”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwisać, obwisać"
+        },
+        {
+          "id": "b",
+          "text": "oberwanie chmury"
+        },
+        {
+          "id": "c",
+          "text": "szmata"
+        },
+        {
+          "id": "d",
+          "text": "relikt"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sag” (rzeczownik, poziom B2) oznacza po polsku „zwisać, obwisać”."
+    },
+    {
+      "id": "b2-vocabulary-15-095",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siatkówka"
+        },
+        {
+          "id": "b",
+          "text": "półka na bagaże, półka"
+        },
+        {
+          "id": "c",
+          "text": "(lit) mędrzec"
+        },
+        {
+          "id": "d",
+          "text": "kwarantanna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sage” (rzeczownik, poziom B2) oznacza po polsku „(lit) mędrzec”."
+    },
+    {
+      "id": "b2-vocabulary-15-096",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scandal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodruk, wydanie niezmienione, wydanie"
+        },
+        {
+          "id": "b",
+          "text": "strażnik leśny"
+        },
+        {
+          "id": "c",
+          "text": "skandal"
+        },
+        {
+          "id": "d",
+          "text": "sprzedawczyni, pośredniczka handlowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„scandal” (rzeczownik, poziom B2) oznacza po polsku „skandal”."
+    },
+    {
+      "id": "b2-vocabulary-15-097",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rival”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(lit) mędrzec"
+        },
+        {
+          "id": "b",
+          "text": "uwaga"
+        },
+        {
+          "id": "c",
+          "text": "sprzeczka"
+        },
+        {
+          "id": "d",
+          "text": "rywal, konkurent"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rival” (rzeczownik, poziom B2) oznacza po polsku „rywal, konkurent”."
+    },
+    {
+      "id": "b2-vocabulary-15-098",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ridge”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "blizna, szrama"
+        },
+        {
+          "id": "b",
+          "text": "nosorożec"
+        },
+        {
+          "id": "c",
+          "text": "rekreacja"
+        },
+        {
+          "id": "d",
+          "text": "grzbiet, krawędź"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ridge” (rzeczownik, poziom B2) oznacza po polsku „grzbiet, krawędź”."
+    },
+    {
+      "id": "b2-vocabulary-15-099",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sandstone”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piaskowiec"
+        },
+        {
+          "id": "b",
+          "text": "reforma, reformowanie"
+        },
+        {
+          "id": "c",
+          "text": "brzeg, krawędź"
+        },
+        {
+          "id": "d",
+          "text": "refren"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sandstone” (rzeczownik, poziom B2) oznacza po polsku „piaskowiec”."
+    },
+    {
+      "id": "b2-vocabulary-15-100",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „royalty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rampa, podjazd"
+        },
+        {
+          "id": "b",
+          "text": "rodzina królewska"
+        },
+        {
+          "id": "c",
+          "text": "uwaga"
+        },
+        {
+          "id": "d",
+          "text": "(form) odniesienie, aluzja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„royalty” (rzeczownik, poziom B2) oznacza po polsku „rodzina królewska”."
+    }
+  ]
+}

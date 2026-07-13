@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-vocabulary-10",
+    "name": "B1 — słownictwo 10"
+  },
+  "questions": [
+    {
+      "id": "b1-vocabulary-10-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „permanent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wydanie"
+        },
+        {
+          "id": "b",
+          "text": "praktyczny"
+        },
+        {
+          "id": "c",
+          "text": "dumny"
+        },
+        {
+          "id": "d",
+          "text": "trwały"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„permanent” (przymiotnik, poziom B1) oznacza po polsku „trwały”."
+    },
+    {
+      "id": "b1-vocabulary-10-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ecology”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyposażenie, ekwipunek, sprzęt"
+        },
+        {
+          "id": "b",
+          "text": "ekologia"
+        },
+        {
+          "id": "c",
+          "text": "dobrze prosperujący"
+        },
+        {
+          "id": "d",
+          "text": "nakłady, wydatki"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ecology” (rzeczownik, poziom B1) oznacza po polsku „ekologia”."
+    },
+    {
+      "id": "b1-vocabulary-10-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „duty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obowiązek"
+        },
+        {
+          "id": "b",
+          "text": "nadmiar"
+        },
+        {
+          "id": "c",
+          "text": "rasowy"
+        },
+        {
+          "id": "d",
+          "text": "zadowolony"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„duty” (rzeczownik, poziom B1) oznacza po polsku „obowiązek”."
+    },
+    {
+      "id": "b1-vocabulary-10-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dustbin”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dojrzały"
+        },
+        {
+          "id": "b",
+          "text": "kosz na śmieci"
+        },
+        {
+          "id": "c",
+          "text": "egzamin"
+        },
+        {
+          "id": "d",
+          "text": "spotkanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dustbin” (rzeczownik, poziom B1) oznacza po polsku „kosz na śmieci”."
+    },
+    {
+      "id": "b1-vocabulary-10-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dynasty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dynastia"
+        },
+        {
+          "id": "b",
+          "text": "łokieć"
+        },
+        {
+          "id": "c",
+          "text": "ekologia"
+        },
+        {
+          "id": "d",
+          "text": "kropka, plamka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dynasty” (rzeczownik, poziom B1) oznacza po polsku „dynastia”."
+    },
+    {
+      "id": "b1-vocabulary-10-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dump”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Anglik"
+        },
+        {
+          "id": "b",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        },
+        {
+          "id": "c",
+          "text": "rasowy"
+        },
+        {
+          "id": "d",
+          "text": "elektron"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dump” (rzeczownik, poziom B1) oznacza po polsku „(nieform) wysypisko śmieci, wysypisko”."
+    },
+    {
+      "id": "b1-vocabulary-10-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „peculiar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prędki"
+        },
+        {
+          "id": "b",
+          "text": "emocja, uczucie"
+        },
+        {
+          "id": "c",
+          "text": "osobliwy, szczególny"
+        },
+        {
+          "id": "d",
+          "text": "doskonałość, przodowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„peculiar” (przymiotnik, poziom B1) oznacza po polsku „osobliwy, szczególny”."
+    },
+    {
+      "id": "b1-vocabulary-10-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „practical”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "praktyczny"
+        },
+        {
+          "id": "b",
+          "text": "wyposażenie, ekwipunek, sprzęt"
+        },
+        {
+          "id": "c",
+          "text": "wykwalifikowany, dyplomowany"
+        },
+        {
+          "id": "d",
+          "text": "groteskowy, śmieszny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„practical” (przymiotnik, poziom B1) oznacza po polsku „praktyczny”."
+    },
+    {
+      "id": "b1-vocabulary-10-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „economy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trujący"
+        },
+        {
+          "id": "b",
+          "text": "cesarz, imperator"
+        },
+        {
+          "id": "c",
+          "text": "czysty"
+        },
+        {
+          "id": "d",
+          "text": "gospodarka, ekonomia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„economy” (rzeczownik, poziom B1) oznacza po polsku „gospodarka, ekonomia”."
+    },
+    {
+      "id": "b1-vocabulary-10-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „plain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(przedmiot) nieozdobny"
+        },
+        {
+          "id": "b",
+          "text": "pozorny, złudny"
+        },
+        {
+          "id": "c",
+          "text": "sceniczny, widowiskowy"
+        },
+        {
+          "id": "d",
+          "text": "dynastia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„plain” (przymiotnik, poziom B1) oznacza po polsku „(przedmiot) nieozdobny”."
+    },
+    {
+      "id": "b1-vocabulary-10-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „edge”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krawędź, brzeg"
+        },
+        {
+          "id": "b",
+          "text": "elektryczność"
+        },
+        {
+          "id": "c",
+          "text": "mieszkalny, mieszkaniowy"
+        },
+        {
+          "id": "d",
+          "text": "element, składnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„edge” (rzeczownik, poziom B1) oznacza po polsku „krawędź, brzeg”."
+    },
+    {
+      "id": "b1-vocabulary-10-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dot”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        },
+        {
+          "id": "b",
+          "text": "prymitywny"
+        },
+        {
+          "id": "c",
+          "text": "kropka, plamka"
+        },
+        {
+          "id": "d",
+          "text": "ekstaza, zachwyt"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dot” (rzeczownik, poziom B1) oznacza po polsku „kropka, plamka”."
+    },
+    {
+      "id": "b1-vocabulary-10-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „precious”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drogocenny"
+        },
+        {
+          "id": "b",
+          "text": "artysta kabaretowy"
+        },
+        {
+          "id": "c",
+          "text": "wieczność"
+        },
+        {
+          "id": "d",
+          "text": "pewny, niezawodny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„precious” (przymiotnik, poziom B1) oznacza po polsku „drogocenny”."
+    },
+    {
+      "id": "b1-vocabulary-10-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pregnant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dumny"
+        },
+        {
+          "id": "b",
+          "text": "pewny, niezawodny"
+        },
+        {
+          "id": "c",
+          "text": "entuzjasta"
+        },
+        {
+          "id": "d",
+          "text": "ciężarny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pregnant” (przymiotnik, poziom B1) oznacza po polsku „ciężarny”."
+    },
+    {
+      "id": "b1-vocabulary-10-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „poisonous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trujący"
+        },
+        {
+          "id": "b",
+          "text": "stosunkowy, relatywny"
+        },
+        {
+          "id": "c",
+          "text": "imperium, cesarstwo"
+        },
+        {
+          "id": "d",
+          "text": "nakłady, wydatki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„poisonous” (przymiotnik, poziom B1) oznacza po polsku „trujący”."
+    },
+    {
+      "id": "b1-vocabulary-10-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „penniless”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "entuzjasta"
+        },
+        {
+          "id": "b",
+          "text": "wyjście, wyjazd"
+        },
+        {
+          "id": "c",
+          "text": "bez grosza"
+        },
+        {
+          "id": "d",
+          "text": "produktywny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„penniless” (przymiotnik, poziom B1) oznacza po polsku „bez grosza”."
+    },
+    {
+      "id": "b1-vocabulary-10-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „possessive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaborczy"
+        },
+        {
+          "id": "b",
+          "text": "emocja, uczucie"
+        },
+        {
+          "id": "c",
+          "text": "egzaminator"
+        },
+        {
+          "id": "d",
+          "text": "zatrudnienie, praca"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„possessive” (przymiotnik, poziom B1) oznacza po polsku „zaborczy”."
+    },
+    {
+      "id": "b1-vocabulary-10-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „positive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ochroniarz przyrody, ochroniarz, ekolog"
+        },
+        {
+          "id": "b",
+          "text": "absolutnie pewny"
+        },
+        {
+          "id": "c",
+          "text": "krawędź, brzeg"
+        },
+        {
+          "id": "d",
+          "text": "zatrudnienie, praca"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„positive” (przymiotnik, poziom B1) oznacza po polsku „absolutnie pewny”."
+    },
+    {
+      "id": "b1-vocabulary-10-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „duvet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pierzyna"
+        },
+        {
+          "id": "b",
+          "text": "nierówny"
+        },
+        {
+          "id": "c",
+          "text": "gospodarka, ekonomia"
+        },
+        {
+          "id": "d",
+          "text": "obowiązek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„duvet” (rzeczownik, poziom B1) oznacza po polsku „pierzyna”."
+    },
+    {
+      "id": "b1-vocabulary-10-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „persuasive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "istota, podstawa"
+        },
+        {
+          "id": "b",
+          "text": "dojrzały"
+        },
+        {
+          "id": "c",
+          "text": "przekonujący"
+        },
+        {
+          "id": "d",
+          "text": "encyklopedia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„persuasive” (przymiotnik, poziom B1) oznacza po polsku „przekonujący”."
+    },
+    {
+      "id": "b1-vocabulary-10-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „edition”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "wyjście, wyjazd"
+        },
+        {
+          "id": "c",
+          "text": "wydanie"
+        },
+        {
+          "id": "d",
+          "text": "sceniczny, widowiskowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„edition” (rzeczownik, poziom B1) oznacza po polsku „wydanie”."
+    },
+    {
+      "id": "b1-vocabulary-10-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ecstasy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wróg"
+        },
+        {
+          "id": "b",
+          "text": "pozorny, złudny"
+        },
+        {
+          "id": "c",
+          "text": "ekstaza, zachwyt"
+        },
+        {
+          "id": "d",
+          "text": "nadmiar"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ecstasy” (rzeczownik, poziom B1) oznacza po polsku „ekstaza, zachwyt”."
+    },
+    {
+      "id": "b1-vocabulary-10-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prepared”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "produktywny"
+        },
+        {
+          "id": "b",
+          "text": "przygotowany"
+        },
+        {
+          "id": "c",
+          "text": "dynastia"
+        },
+        {
+          "id": "d",
+          "text": "kropka, plamka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„prepared” (przymiotnik, poziom B1) oznacza po polsku „przygotowany”."
+    },
+    {
+      "id": "b1-vocabulary-10-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „doze”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "równość"
+        },
+        {
+          "id": "b",
+          "text": "przygotowany"
+        },
+        {
+          "id": "c",
+          "text": "drzemka"
+        },
+        {
+          "id": "d",
+          "text": "sceniczny, widowiskowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„doze” (rzeczownik, poziom B1) oznacza po polsku „drzemka”."
+    },
+    {
+      "id": "b1-vocabulary-10-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „phantom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybory"
+        },
+        {
+          "id": "b",
+          "text": "kropka, plamka"
+        },
+        {
+          "id": "c",
+          "text": "równość"
+        },
+        {
+          "id": "d",
+          "text": "pozorny, złudny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„phantom” (przymiotnik, poziom B1) oznacza po polsku „pozorny, złudny”."
+    },
+    {
+      "id": "b1-vocabulary-10-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „protective”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ochronny"
+        },
+        {
+          "id": "b",
+          "text": "element, składnik"
+        },
+        {
+          "id": "c",
+          "text": "założenie"
+        },
+        {
+          "id": "d",
+          "text": "zgłoszenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„protective” (przymiotnik, poziom B1) oznacza po polsku „ochronny”."
+    },
+    {
+      "id": "b1-vocabulary-10-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „empire”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "imperium, cesarstwo"
+        },
+        {
+          "id": "b",
+          "text": "spotkanie"
+        },
+        {
+          "id": "c",
+          "text": "pewny, niezawodny"
+        },
+        {
+          "id": "d",
+          "text": "rozmiar"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„empire” (rzeczownik, poziom B1) oznacza po polsku „imperium, cesarstwo”."
+    },
+    {
+      "id": "b1-vocabulary-10-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „election”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadowolony"
+        },
+        {
+          "id": "b",
+          "text": "wykwalifikowany, dyplomowany"
+        },
+        {
+          "id": "c",
+          "text": "era, okres"
+        },
+        {
+          "id": "d",
+          "text": "wybory"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„election” (rzeczownik, poziom B1) oznacza po polsku „wybory”."
+    },
+    {
+      "id": "b1-vocabulary-10-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „employment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "praktyczny"
+        },
+        {
+          "id": "b",
+          "text": "elektryczność"
+        },
+        {
+          "id": "c",
+          "text": "święty"
+        },
+        {
+          "id": "d",
+          "text": "zatrudnienie, praca"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„employment” (rzeczownik, poziom B1) oznacza po polsku „zatrudnienie, praca”."
+    },
+    {
+      "id": "b1-vocabulary-10-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „elbow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łokieć"
+        },
+        {
+          "id": "b",
+          "text": "dobrze prosperujący"
+        },
+        {
+          "id": "c",
+          "text": "trwały"
+        },
+        {
+          "id": "d",
+          "text": "groteskowy, śmieszny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„elbow” (rzeczownik, poziom B1) oznacza po polsku „łokieć”."
+    },
+    {
+      "id": "b1-vocabulary-10-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „quality”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jakość"
+        },
+        {
+          "id": "b",
+          "text": "radość"
+        },
+        {
+          "id": "c",
+          "text": "krawędź, brzeg"
+        },
+        {
+          "id": "d",
+          "text": "entuzjasta"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„quality” (przymiotnik, poziom B1) oznacza po polsku „jakość”."
+    },
+    {
+      "id": "b1-vocabulary-10-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „primitive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prymitywny"
+        },
+        {
+          "id": "b",
+          "text": "elektron"
+        },
+        {
+          "id": "c",
+          "text": "praktyczny"
+        },
+        {
+          "id": "d",
+          "text": "prędki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„primitive” (przymiotnik, poziom B1) oznacza po polsku „prymitywny”."
+    },
+    {
+      "id": "b1-vocabulary-10-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prosperous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dobrze prosperujący"
+        },
+        {
+          "id": "b",
+          "text": "nierówny"
+        },
+        {
+          "id": "c",
+          "text": "wykwalifikowany, dyplomowany"
+        },
+        {
+          "id": "d",
+          "text": "dumny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prosperous” (przymiotnik, poziom B1) oznacza po polsku „dobrze prosperujący”."
+    },
+    {
+      "id": "b1-vocabulary-10-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „proud”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zepsuty, zgniły"
+        },
+        {
+          "id": "b",
+          "text": "sceniczny, widowiskowy"
+        },
+        {
+          "id": "c",
+          "text": "dumny"
+        },
+        {
+          "id": "d",
+          "text": "racjonalny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„proud” (przymiotnik, poziom B1) oznacza po polsku „dumny”."
+    },
+    {
+      "id": "b1-vocabulary-10-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „productive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trwały"
+        },
+        {
+          "id": "b",
+          "text": "produktywny"
+        },
+        {
+          "id": "c",
+          "text": "rozsądny"
+        },
+        {
+          "id": "d",
+          "text": "elektryczność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„productive” (przymiotnik, poziom B1) oznacza po polsku „produktywny”."
+    },
+    {
+      "id": "b1-vocabulary-10-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „embarrassment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pofałdowany"
+        },
+        {
+          "id": "b",
+          "text": "jakość"
+        },
+        {
+          "id": "c",
+          "text": "prędki"
+        },
+        {
+          "id": "d",
+          "text": "zakłopotanie, skrępowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„embarrassment” (rzeczownik, poziom B1) oznacza po polsku „zakłopotanie, skrępowanie”."
+    },
+    {
+      "id": "b1-vocabulary-10-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „encounter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "religijny"
+        },
+        {
+          "id": "b",
+          "text": "dojrzały"
+        },
+        {
+          "id": "c",
+          "text": "spotkanie"
+        },
+        {
+          "id": "d",
+          "text": "rzadki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„encounter” (rzeczownik, poziom B1) oznacza po polsku „spotkanie”."
+    },
+    {
+      "id": "b1-vocabulary-10-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „electron”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektron"
+        },
+        {
+          "id": "b",
+          "text": "ważny"
+        },
+        {
+          "id": "c",
+          "text": "bez grosza"
+        },
+        {
+          "id": "d",
+          "text": "szacowny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„electron” (rzeczownik, poziom B1) oznacza po polsku „elektron”."
+    },
+    {
+      "id": "b1-vocabulary-10-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „emotion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "emocja, uczucie"
+        },
+        {
+          "id": "c",
+          "text": "święty"
+        },
+        {
+          "id": "d",
+          "text": "praktyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„emotion” (rzeczownik, poziom B1) oznacza po polsku „emocja, uczucie”."
+    },
+    {
+      "id": "b1-vocabulary-10-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „psychological”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "psychologiczny"
+        },
+        {
+          "id": "b",
+          "text": "emocja, uczucie"
+        },
+        {
+          "id": "c",
+          "text": "wróg"
+        },
+        {
+          "id": "d",
+          "text": "istnienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„psychological” (przymiotnik, poziom B1) oznacza po polsku „psychologiczny”."
+    },
+    {
+      "id": "b1-vocabulary-10-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „qualified”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "wykwalifikowany, dyplomowany"
+        },
+        {
+          "id": "c",
+          "text": "drogocenny"
+        },
+        {
+          "id": "d",
+          "text": "dumny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„qualified” (przymiotnik, poziom B1) oznacza po polsku „wykwalifikowany, dyplomowany”."
+    },
+    {
+      "id": "b1-vocabulary-10-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „encyclopedia”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prymitywny"
+        },
+        {
+          "id": "b",
+          "text": "przygotowany"
+        },
+        {
+          "id": "c",
+          "text": "bez grosza"
+        },
+        {
+          "id": "d",
+          "text": "encyklopedia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„encyclopedia” (rzeczownik, poziom B1) oznacza po polsku „encyklopedia”."
+    },
+    {
+      "id": "b1-vocabulary-10-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „emperor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cesarz, imperator"
+        },
+        {
+          "id": "b",
+          "text": "ekologia"
+        },
+        {
+          "id": "c",
+          "text": "elektryczność"
+        },
+        {
+          "id": "d",
+          "text": "zgłoszenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„emperor” (rzeczownik, poziom B1) oznacza po polsku „cesarz, imperator”."
+    },
+    {
+      "id": "b1-vocabulary-10-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „previous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poprzedni"
+        },
+        {
+          "id": "b",
+          "text": "rasowy"
+        },
+        {
+          "id": "c",
+          "text": "stosunkowy, relatywny"
+        },
+        {
+          "id": "d",
+          "text": "elektron"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„previous” (przymiotnik, poziom B1) oznacza po polsku „poprzedni”."
+    },
+    {
+      "id": "b1-vocabulary-10-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „electricity”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektryczność"
+        },
+        {
+          "id": "b",
+          "text": "ważny"
+        },
+        {
+          "id": "c",
+          "text": "realistyczny"
+        },
+        {
+          "id": "d",
+          "text": "encyklopedia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„electricity” (rzeczownik, poziom B1) oznacza po polsku „elektryczność”."
+    },
+    {
+      "id": "b1-vocabulary-10-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „emphasis”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cesarz, imperator"
+        },
+        {
+          "id": "b",
+          "text": "znaczenie, nacisk"
+        },
+        {
+          "id": "c",
+          "text": "artysta kabaretowy"
+        },
+        {
+          "id": "d",
+          "text": "eksperyment, doświadczenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„emphasis” (rzeczownik, poziom B1) oznacza po polsku „znaczenie, nacisk”."
+    },
+    {
+      "id": "b1-vocabulary-10-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „public”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zgłoszenie"
+        },
+        {
+          "id": "b",
+          "text": "(poparcie, opinia) powszechny"
+        },
+        {
+          "id": "c",
+          "text": "pofałdowany"
+        },
+        {
+          "id": "d",
+          "text": "zaborczy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„public” (przymiotnik, poziom B1) oznacza po polsku „(poparcie, opinia) powszechny”."
+    },
+    {
+      "id": "b1-vocabulary-10-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „element”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "element, składnik"
+        },
+        {
+          "id": "b",
+          "text": "radość"
+        },
+        {
+          "id": "c",
+          "text": "absolutnie pewny"
+        },
+        {
+          "id": "d",
+          "text": "religijny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„element” (rzeczownik, poziom B1) oznacza po polsku „element, składnik”."
+    },
+    {
+      "id": "b1-vocabulary-10-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prominent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nadmiar"
+        },
+        {
+          "id": "b",
+          "text": "pofałdowany"
+        },
+        {
+          "id": "c",
+          "text": "ważny"
+        },
+        {
+          "id": "d",
+          "text": "rozsądny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„prominent” (przymiotnik, poziom B1) oznacza po polsku „ważny”."
+    },
+    {
+      "id": "b1-vocabulary-10-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "czysty"
+        },
+        {
+          "id": "c",
+          "text": "egzaminator"
+        },
+        {
+          "id": "d",
+          "text": "krawędź, brzeg"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pure” (przymiotnik, poziom B1) oznacza po polsku „czysty”."
+    },
+    {
+      "id": "b1-vocabulary-10-051",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „enthusiasm”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poprzedni"
+        },
+        {
+          "id": "b",
+          "text": "istnienie"
+        },
+        {
+          "id": "c",
+          "text": "pozorny, złudny"
+        },
+        {
+          "id": "d",
+          "text": "entuzjazm"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„enthusiasm” (rzeczownik, poziom B1) oznacza po polsku „entuzjazm”."
+    },
+    {
+      "id": "b1-vocabulary-10-052",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „engine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "silnik"
+        },
+        {
+          "id": "b",
+          "text": "trwały"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        },
+        {
+          "id": "d",
+          "text": "Anglik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„engine” (rzeczownik, poziom B1) oznacza po polsku „silnik”."
+    },
+    {
+      "id": "b1-vocabulary-10-053",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „enjoyment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radość"
+        },
+        {
+          "id": "b",
+          "text": "rozsądny"
+        },
+        {
+          "id": "c",
+          "text": "spotkanie"
+        },
+        {
+          "id": "d",
+          "text": "eksplozja, wybuch"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„enjoyment” (rzeczownik, poziom B1) oznacza po polsku „radość”."
+    },
+    {
+      "id": "b1-vocabulary-10-054",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „entry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radość"
+        },
+        {
+          "id": "b",
+          "text": "trujący"
+        },
+        {
+          "id": "c",
+          "text": "zgłoszenie"
+        },
+        {
+          "id": "d",
+          "text": "praktyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„entry” (rzeczownik, poziom B1) oznacza po polsku „zgłoszenie”."
+    },
+    {
+      "id": "b1-vocabulary-10-055",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „entertainer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pierzyna"
+        },
+        {
+          "id": "b",
+          "text": "istnienie"
+        },
+        {
+          "id": "c",
+          "text": "artysta kabaretowy"
+        },
+        {
+          "id": "d",
+          "text": "obowiązek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„entertainer” (rzeczownik, poziom B1) oznacza po polsku „artysta kabaretowy”."
+    },
+    {
+      "id": "b1-vocabulary-10-056",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „religious”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rzadki"
+        },
+        {
+          "id": "b",
+          "text": "zakłopotanie, skrępowanie"
+        },
+        {
+          "id": "c",
+          "text": "religijny"
+        },
+        {
+          "id": "d",
+          "text": "zgłoszenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„religious” (przymiotnik, poziom B1) oznacza po polsku „religijny”."
+    },
+    {
+      "id": "b1-vocabulary-10-057",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „enemy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciężarny"
+        },
+        {
+          "id": "b",
+          "text": "wyposażenie, ekwipunek, sprzęt"
+        },
+        {
+          "id": "c",
+          "text": "wróg"
+        },
+        {
+          "id": "d",
+          "text": "wydanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„enemy” (rzeczownik, poziom B1) oznacza po polsku „wróg”."
+    },
+    {
+      "id": "b1-vocabulary-10-058",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reliable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "psychologiczny"
+        },
+        {
+          "id": "b",
+          "text": "pewny, niezawodny"
+        },
+        {
+          "id": "c",
+          "text": "(poparcie, opinia) powszechny"
+        },
+        {
+          "id": "d",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reliable” (przymiotnik, poziom B1) oznacza po polsku „pewny, niezawodny”."
+    },
+    {
+      "id": "b1-vocabulary-10-059",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rapid”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "imperium, cesarstwo"
+        },
+        {
+          "id": "b",
+          "text": "ekstaza, zachwyt"
+        },
+        {
+          "id": "c",
+          "text": "prędki"
+        },
+        {
+          "id": "d",
+          "text": "entuzjasta"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rapid” (przymiotnik, poziom B1) oznacza po polsku „prędki”."
+    },
+    {
+      "id": "b1-vocabulary-10-060",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rational”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "racjonalny"
+        },
+        {
+          "id": "b",
+          "text": "rozmiar"
+        },
+        {
+          "id": "c",
+          "text": "entuzjazm"
+        },
+        {
+          "id": "d",
+          "text": "religijny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rational” (przymiotnik, poziom B1) oznacza po polsku „racjonalny”."
+    },
+    {
+      "id": "b1-vocabulary-10-061",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „enthusiast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jakość"
+        },
+        {
+          "id": "b",
+          "text": "entuzjasta"
+        },
+        {
+          "id": "c",
+          "text": "pewny, niezawodny"
+        },
+        {
+          "id": "d",
+          "text": "realistyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„enthusiast” (rzeczownik, poziom B1) oznacza po polsku „entuzjasta”."
+    },
+    {
+      "id": "b1-vocabulary-10-062",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reasonable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Anglik"
+        },
+        {
+          "id": "b",
+          "text": "zatrudnienie, praca"
+        },
+        {
+          "id": "c",
+          "text": "rozsądny"
+        },
+        {
+          "id": "d",
+          "text": "realistyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reasonable” (przymiotnik, poziom B1) oznacza po polsku „rozsądny”."
+    },
+    {
+      "id": "b1-vocabulary-10-063",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „equipment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyposażenie, ekwipunek, sprzęt"
+        },
+        {
+          "id": "b",
+          "text": "inżynieria"
+        },
+        {
+          "id": "c",
+          "text": "Anglik"
+        },
+        {
+          "id": "d",
+          "text": "praktyczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„equipment” (rzeczownik, poziom B1) oznacza po polsku „wyposażenie, ekwipunek, sprzęt”."
+    },
+    {
+      "id": "b1-vocabulary-10-064",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „remarkable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "racjonalny"
+        },
+        {
+          "id": "c",
+          "text": "zakłopotanie, skrępowanie"
+        },
+        {
+          "id": "d",
+          "text": "godny uwagi, zadziwiający"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„remarkable” (przymiotnik, poziom B1) oznacza po polsku „godny uwagi, zadziwiający”."
+    },
+    {
+      "id": "b1-vocabulary-10-065",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rare”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "egzamin"
+        },
+        {
+          "id": "b",
+          "text": "założenie"
+        },
+        {
+          "id": "c",
+          "text": "szacowny"
+        },
+        {
+          "id": "d",
+          "text": "rzadki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rare” (przymiotnik, poziom B1) oznacza po polsku „rzadki”."
+    },
+    {
+      "id": "b1-vocabulary-10-066",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „regional”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znaczenie, nacisk"
+        },
+        {
+          "id": "b",
+          "text": "regionalny, rejonowy"
+        },
+        {
+          "id": "c",
+          "text": "element, składnik"
+        },
+        {
+          "id": "d",
+          "text": "zakłopotanie, skrępowanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„regional” (przymiotnik, poziom B1) oznacza po polsku „regionalny, rejonowy”."
+    },
+    {
+      "id": "b1-vocabulary-10-067",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „engineering”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inżynieria"
+        },
+        {
+          "id": "b",
+          "text": "istota, podstawa"
+        },
+        {
+          "id": "c",
+          "text": "wieczność"
+        },
+        {
+          "id": "d",
+          "text": "Anglik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„engineering” (rzeczownik, poziom B1) oznacza po polsku „inżynieria”."
+    },
+    {
+      "id": "b1-vocabulary-10-068",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „equality”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "równość"
+        },
+        {
+          "id": "b",
+          "text": "wykwalifikowany, dyplomowany"
+        },
+        {
+          "id": "c",
+          "text": "zgłoszenie"
+        },
+        {
+          "id": "d",
+          "text": "ciężarny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„equality” (rzeczownik, poziom B1) oznacza po polsku „równość”."
+    },
+    {
+      "id": "b1-vocabulary-10-069",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relative”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stosunkowy, relatywny"
+        },
+        {
+          "id": "b",
+          "text": "Anglik"
+        },
+        {
+          "id": "c",
+          "text": "święty"
+        },
+        {
+          "id": "d",
+          "text": "(przedmiot) nieozdobny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„relative” (przymiotnik, poziom B1) oznacza po polsku „stosunkowy, relatywny”."
+    },
+    {
+      "id": "b1-vocabulary-10-070",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „respectable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szacowny"
+        },
+        {
+          "id": "b",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        },
+        {
+          "id": "c",
+          "text": "drogocenny"
+        },
+        {
+          "id": "d",
+          "text": "gospodarka, ekonomia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„respectable” (przymiotnik, poziom B1) oznacza po polsku „szacowny”."
+    },
+    {
+      "id": "b1-vocabulary-10-071",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „racial”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szacowny"
+        },
+        {
+          "id": "b",
+          "text": "elektron"
+        },
+        {
+          "id": "c",
+          "text": "rzadki"
+        },
+        {
+          "id": "d",
+          "text": "rasowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„racial” (przymiotnik, poziom B1) oznacza po polsku „rasowy”."
+    },
+    {
+      "id": "b1-vocabulary-10-072",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „environmentalist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radość"
+        },
+        {
+          "id": "b",
+          "text": "ochroniarz przyrody, ochroniarz, ekolog"
+        },
+        {
+          "id": "c",
+          "text": "produktywny"
+        },
+        {
+          "id": "d",
+          "text": "kropka, plamka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„environmentalist” (rzeczownik, poziom B1) oznacza po polsku „ochroniarz przyrody, ochroniarz, ekolog”."
+    },
+    {
+      "id": "b1-vocabulary-10-073",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „residential”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wydanie"
+        },
+        {
+          "id": "b",
+          "text": "mieszkalny, mieszkaniowy"
+        },
+        {
+          "id": "c",
+          "text": "istota, podstawa"
+        },
+        {
+          "id": "d",
+          "text": "egzamin"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„residential” (przymiotnik, poziom B1) oznacza po polsku „mieszkalny, mieszkaniowy”."
+    },
+    {
+      "id": "b1-vocabulary-10-074",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „Englishman”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "święty"
+        },
+        {
+          "id": "b",
+          "text": "mieszkalny, mieszkaniowy"
+        },
+        {
+          "id": "c",
+          "text": "Anglik"
+        },
+        {
+          "id": "d",
+          "text": "eksplozja, wybuch"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„Englishman” (rzeczownik, poziom B1) oznacza po polsku „Anglik”."
+    },
+    {
+      "id": "b1-vocabulary-10-075",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „realistic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "regionalny, rejonowy"
+        },
+        {
+          "id": "b",
+          "text": "(poparcie, opinia) powszechny"
+        },
+        {
+          "id": "c",
+          "text": "znaczenie, nacisk"
+        },
+        {
+          "id": "d",
+          "text": "realistyczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„realistic” (przymiotnik, poziom B1) oznacza po polsku „realistyczny”."
+    },
+    {
+      "id": "b1-vocabulary-10-076",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gospodarka, ekonomia"
+        },
+        {
+          "id": "b",
+          "text": "trujący"
+        },
+        {
+          "id": "c",
+          "text": "kosz na śmieci"
+        },
+        {
+          "id": "d",
+          "text": "wyjście, wyjazd"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„exit” (rzeczownik, poziom B1) oznacza po polsku „wyjście, wyjazd”."
+    },
+    {
+      "id": "b1-vocabulary-10-077",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „responsible”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiedzialny"
+        },
+        {
+          "id": "b",
+          "text": "wróg"
+        },
+        {
+          "id": "c",
+          "text": "podniecenie, ekscytacja"
+        },
+        {
+          "id": "d",
+          "text": "groteskowy, śmieszny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„responsible” (przymiotnik, poziom B1) oznacza po polsku „odpowiedzialny”."
+    },
+    {
+      "id": "b1-vocabulary-10-078",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „extent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "artysta kabaretowy"
+        },
+        {
+          "id": "b",
+          "text": "rozmiar"
+        },
+        {
+          "id": "c",
+          "text": "elektryczność"
+        },
+        {
+          "id": "d",
+          "text": "emocja, uczucie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„extent” (rzeczownik, poziom B1) oznacza po polsku „rozmiar”."
+    },
+    {
+      "id": "b1-vocabulary-10-079",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „experiment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "eksplozja, wybuch"
+        },
+        {
+          "id": "b",
+          "text": "eksperyment, doświadczenie"
+        },
+        {
+          "id": "c",
+          "text": "racjonalny"
+        },
+        {
+          "id": "d",
+          "text": "trujący"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„experiment” (rzeczownik, poziom B1) oznacza po polsku „eksperyment, doświadczenie”."
+    },
+    {
+      "id": "b1-vocabulary-10-080",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rough”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(przedmiot) nieozdobny"
+        },
+        {
+          "id": "b",
+          "text": "nierówny"
+        },
+        {
+          "id": "c",
+          "text": "wystraszony, bojący się"
+        },
+        {
+          "id": "d",
+          "text": "osobliwy, szczególny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rough” (przymiotnik, poziom B1) oznacza po polsku „nierówny”."
+    },
+    {
+      "id": "b1-vocabulary-10-081",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scared”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wystraszony, bojący się"
+        },
+        {
+          "id": "b",
+          "text": "rozsądny"
+        },
+        {
+          "id": "c",
+          "text": "praktyczny"
+        },
+        {
+          "id": "d",
+          "text": "wybory"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„scared” (przymiotnik, poziom B1) oznacza po polsku „wystraszony, bojący się”."
+    },
+    {
+      "id": "b1-vocabulary-10-082",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „examiner”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kosz na śmieci"
+        },
+        {
+          "id": "b",
+          "text": "przygotowany"
+        },
+        {
+          "id": "c",
+          "text": "egzaminator"
+        },
+        {
+          "id": "d",
+          "text": "ważny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„examiner” (rzeczownik, poziom B1) oznacza po polsku „egzaminator”."
+    },
+    {
+      "id": "b1-vocabulary-10-083",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „existence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekologia"
+        },
+        {
+          "id": "b",
+          "text": "wyposażenie, ekwipunek, sprzęt"
+        },
+        {
+          "id": "c",
+          "text": "istnienie"
+        },
+        {
+          "id": "d",
+          "text": "elektryczność"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„existence” (rzeczownik, poziom B1) oznacza po polsku „istnienie”."
+    },
+    {
+      "id": "b1-vocabulary-10-084",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sacred”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "święty"
+        },
+        {
+          "id": "b",
+          "text": "obowiązek"
+        },
+        {
+          "id": "c",
+          "text": "wystraszony, bojący się"
+        },
+        {
+          "id": "d",
+          "text": "zaborczy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sacred” (przymiotnik, poziom B1) oznacza po polsku „święty”."
+    },
+    {
+      "id": "b1-vocabulary-10-085",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „era”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(nieform) wysypisko śmieci, wysypisko"
+        },
+        {
+          "id": "b",
+          "text": "era, okres"
+        },
+        {
+          "id": "c",
+          "text": "realistyczny"
+        },
+        {
+          "id": "d",
+          "text": "zadowolony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„era” (rzeczownik, poziom B1) oznacza po polsku „era, okres”."
+    },
+    {
+      "id": "b1-vocabulary-10-086",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „essence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "święty"
+        },
+        {
+          "id": "b",
+          "text": "wróg"
+        },
+        {
+          "id": "c",
+          "text": "istota, podstawa"
+        },
+        {
+          "id": "d",
+          "text": "szacowny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„essence” (rzeczownik, poziom B1) oznacza po polsku „istota, podstawa”."
+    },
+    {
+      "id": "b1-vocabulary-10-087",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „satisfied”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadowolony"
+        },
+        {
+          "id": "b",
+          "text": "element, składnik"
+        },
+        {
+          "id": "c",
+          "text": "zakłopotanie, skrępowanie"
+        },
+        {
+          "id": "d",
+          "text": "łokieć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„satisfied” (przymiotnik, poziom B1) oznacza po polsku „zadowolony”."
+    },
+    {
+      "id": "b1-vocabulary-10-088",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „establishment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znaczenie, nacisk"
+        },
+        {
+          "id": "b",
+          "text": "elektron"
+        },
+        {
+          "id": "c",
+          "text": "założenie"
+        },
+        {
+          "id": "d",
+          "text": "zatrudnienie, praca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„establishment” (rzeczownik, poziom B1) oznacza po polsku „założenie”."
+    },
+    {
+      "id": "b1-vocabulary-10-089",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „eternity”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczność"
+        },
+        {
+          "id": "b",
+          "text": "nakłady, wydatki"
+        },
+        {
+          "id": "c",
+          "text": "godny uwagi, zadziwiający"
+        },
+        {
+          "id": "d",
+          "text": "czysty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„eternity” (rzeczownik, poziom B1) oznacza po polsku „wieczność”."
+    },
+    {
+      "id": "b1-vocabulary-10-090",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „excess”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nadmiar"
+        },
+        {
+          "id": "b",
+          "text": "silnik"
+        },
+        {
+          "id": "c",
+          "text": "religijny"
+        },
+        {
+          "id": "d",
+          "text": "nierówny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„excess” (rzeczownik, poziom B1) oznacza po polsku „nadmiar”."
+    },
+    {
+      "id": "b1-vocabulary-10-091",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ridiculous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "doskonałość, przodowanie"
+        },
+        {
+          "id": "b",
+          "text": "zepsuty, zgniły"
+        },
+        {
+          "id": "c",
+          "text": "prymitywny"
+        },
+        {
+          "id": "d",
+          "text": "groteskowy, śmieszny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ridiculous” (przymiotnik, poziom B1) oznacza po polsku „groteskowy, śmieszny”."
+    },
+    {
+      "id": "b1-vocabulary-10-092",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „examination”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjście, wyjazd"
+        },
+        {
+          "id": "b",
+          "text": "egzamin"
+        },
+        {
+          "id": "c",
+          "text": "ochronny"
+        },
+        {
+          "id": "d",
+          "text": "dynastia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„examination” (rzeczownik, poziom B1) oznacza po polsku „egzamin”."
+    },
+    {
+      "id": "b1-vocabulary-10-093",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ripe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dojrzały"
+        },
+        {
+          "id": "b",
+          "text": "era, okres"
+        },
+        {
+          "id": "c",
+          "text": "istota, podstawa"
+        },
+        {
+          "id": "d",
+          "text": "silnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ripe” (przymiotnik, poziom B1) oznacza po polsku „dojrzały”."
+    },
+    {
+      "id": "b1-vocabulary-10-094",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rolling”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kosz na śmieci"
+        },
+        {
+          "id": "b",
+          "text": "(przedmiot) nieozdobny"
+        },
+        {
+          "id": "c",
+          "text": "pofałdowany"
+        },
+        {
+          "id": "d",
+          "text": "zatrudnienie, praca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rolling” (przymiotnik, poziom B1) oznacza po polsku „pofałdowany”."
+    },
+    {
+      "id": "b1-vocabulary-10-095",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „excitement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inżynieria"
+        },
+        {
+          "id": "b",
+          "text": "rasowy"
+        },
+        {
+          "id": "c",
+          "text": "dobrze prosperujący"
+        },
+        {
+          "id": "d",
+          "text": "podniecenie, ekscytacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„excitement” (rzeczownik, poziom B1) oznacza po polsku „podniecenie, ekscytacja”."
+    },
+    {
+      "id": "b1-vocabulary-10-096",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „expense”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nakłady, wydatki"
+        },
+        {
+          "id": "b",
+          "text": "elektron"
+        },
+        {
+          "id": "c",
+          "text": "imperium, cesarstwo"
+        },
+        {
+          "id": "d",
+          "text": "bez grosza"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„expense” (rzeczownik, poziom B1) oznacza po polsku „nakłady, wydatki”."
+    },
+    {
+      "id": "b1-vocabulary-10-097",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rotten”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zepsuty, zgniły"
+        },
+        {
+          "id": "b",
+          "text": "jakość"
+        },
+        {
+          "id": "c",
+          "text": "silnik"
+        },
+        {
+          "id": "d",
+          "text": "wybory"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rotten” (przymiotnik, poziom B1) oznacza po polsku „zepsuty, zgniły”."
+    },
+    {
+      "id": "b1-vocabulary-10-098",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „explosion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "eksplozja, wybuch"
+        },
+        {
+          "id": "b",
+          "text": "egzaminator"
+        },
+        {
+          "id": "c",
+          "text": "prędki"
+        },
+        {
+          "id": "d",
+          "text": "istota, podstawa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„explosion” (rzeczownik, poziom B1) oznacza po polsku „eksplozja, wybuch”."
+    },
+    {
+      "id": "b1-vocabulary-10-099",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scenic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sceniczny, widowiskowy"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedzialny"
+        },
+        {
+          "id": "c",
+          "text": "groteskowy, śmieszny"
+        },
+        {
+          "id": "d",
+          "text": "szacowny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„scenic” (przymiotnik, poziom B1) oznacza po polsku „sceniczny, widowiskowy”."
+    },
+    {
+      "id": "b1-vocabulary-10-100",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „excellence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drogocenny"
+        },
+        {
+          "id": "b",
+          "text": "ekologia"
+        },
+        {
+          "id": "c",
+          "text": "doskonałość, przodowanie"
+        },
+        {
+          "id": "d",
+          "text": "zadowolony"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„excellence” (rzeczownik, poziom B1) oznacza po polsku „doskonałość, przodowanie”."
+    }
+  ]
+}

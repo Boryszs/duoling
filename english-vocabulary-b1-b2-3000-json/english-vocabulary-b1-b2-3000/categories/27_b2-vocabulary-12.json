@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-vocabulary-12",
+    "name": "B2 — słownictwo 12"
+  },
+  "questions": [
+    {
+      "id": "b2-vocabulary-12-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „input”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wprowadzanie"
+        },
+        {
+          "id": "b",
+          "text": "sposób"
+        },
+        {
+          "id": "c",
+          "text": "nicpoń"
+        },
+        {
+          "id": "d",
+          "text": "jubiler"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„input” (rzeczownik, poziom B2) oznacza po polsku „wprowadzanie”."
+    },
+    {
+      "id": "b2-vocabulary-12-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „institution”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "masaż"
+        },
+        {
+          "id": "b",
+          "text": "proces sądowy, postępowanie sądowe"
+        },
+        {
+          "id": "c",
+          "text": "instytucja"
+        },
+        {
+          "id": "d",
+          "text": "biegłość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„institution” (rzeczownik, poziom B2) oznacza po polsku „instytucja”."
+    },
+    {
+      "id": "b2-vocabulary-12-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jog”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trucht"
+        },
+        {
+          "id": "b",
+          "text": "wprowadzanie"
+        },
+        {
+          "id": "c",
+          "text": "oświetlenie"
+        },
+        {
+          "id": "d",
+          "text": "biegłość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„jog” (rzeczownik, poziom B2) oznacza po polsku „trucht”."
+    },
+    {
+      "id": "b2-vocabulary-12-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „islander”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jubiler"
+        },
+        {
+          "id": "b",
+          "text": "sąd przysięgłych"
+        },
+        {
+          "id": "c",
+          "text": "wyspiarz"
+        },
+        {
+          "id": "d",
+          "text": "tłumacz ustny, tłumacz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„islander” (rzeczownik, poziom B2) oznacza po polsku „wyspiarz”."
+    },
+    {
+      "id": "b2-vocabulary-12-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „irritation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pracownik fizyczny, pracownik"
+        },
+        {
+          "id": "b",
+          "text": "głęboka wiedza, wiedza"
+        },
+        {
+          "id": "c",
+          "text": "irytacja"
+        },
+        {
+          "id": "d",
+          "text": "smycz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„irritation” (rzeczownik, poziom B2) oznacza po polsku „irytacja”."
+    },
+    {
+      "id": "b2-vocabulary-12-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „intrusion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzierżawa, najem"
+        },
+        {
+          "id": "b",
+          "text": "ulotka"
+        },
+        {
+          "id": "c",
+          "text": "mentor"
+        },
+        {
+          "id": "d",
+          "text": "najście"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„intrusion” (rzeczownik, poziom B2) oznacza po polsku „najście”."
+    },
+    {
+      "id": "b2-vocabulary-12-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „intruder”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "intruz, natręt"
+        },
+        {
+          "id": "b",
+          "text": "laser"
+        },
+        {
+          "id": "c",
+          "text": "smycz"
+        },
+        {
+          "id": "d",
+          "text": "pralnia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„intruder” (rzeczownik, poziom B2) oznacza po polsku „intruz, natręt”."
+    },
+    {
+      "id": "b2-vocabulary-12-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „instinct”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "masakra"
+        },
+        {
+          "id": "b",
+          "text": "instynkt"
+        },
+        {
+          "id": "c",
+          "text": "wprowadzanie"
+        },
+        {
+          "id": "d",
+          "text": "pracownik fizyczny, pracownik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„instinct” (rzeczownik, poziom B2) oznacza po polsku „instynkt”."
+    },
+    {
+      "id": "b2-vocabulary-12-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jeweller”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożyczka, kredyt bankowy, kredyt"
+        },
+        {
+          "id": "b",
+          "text": "fuzja"
+        },
+        {
+          "id": "c",
+          "text": "jubiler"
+        },
+        {
+          "id": "d",
+          "text": "kangur"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„jeweller” (rzeczownik, poziom B2) oznacza po polsku „jubiler”."
+    },
+    {
+      "id": "b2-vocabulary-12-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „investor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaangażowanie"
+        },
+        {
+          "id": "b",
+          "text": "pokrywka"
+        },
+        {
+          "id": "c",
+          "text": "(wojsk) major"
+        },
+        {
+          "id": "d",
+          "text": "inwestor"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„investor” (rzeczownik, poziom B2) oznacza po polsku „inwestor”."
+    },
+    {
+      "id": "b2-vocabulary-12-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „interruption”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przerwanie"
+        },
+        {
+          "id": "b",
+          "text": "śmieci"
+        },
+        {
+          "id": "c",
+          "text": "produkcja"
+        },
+        {
+          "id": "d",
+          "text": "mango"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„interruption” (rzeczownik, poziom B2) oznacza po polsku „przerwanie”."
+    },
+    {
+      "id": "b2-vocabulary-12-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „injection”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sposób"
+        },
+        {
+          "id": "b",
+          "text": "tłumacz ustny, tłumacz"
+        },
+        {
+          "id": "c",
+          "text": "zastrzyk"
+        },
+        {
+          "id": "d",
+          "text": "zaangażowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„injection” (rzeczownik, poziom B2) oznacza po polsku „zastrzyk”."
+    },
+    {
+      "id": "b2-vocabulary-12-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „inventor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mauzoleum"
+        },
+        {
+          "id": "b",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "c",
+          "text": "wynalazca"
+        },
+        {
+          "id": "d",
+          "text": "najście"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„inventor” (rzeczownik, poziom B2) oznacza po polsku „wynalazca”."
+    },
+    {
+      "id": "b2-vocabulary-12-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „innovation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cudzysłów"
+        },
+        {
+          "id": "b",
+          "text": "innowacja"
+        },
+        {
+          "id": "c",
+          "text": "masaż"
+        },
+        {
+          "id": "d",
+          "text": "lekarstwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„innovation” (rzeczownik, poziom B2) oznacza po polsku „innowacja”."
+    },
+    {
+      "id": "b2-vocabulary-12-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „interpretation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "proces sądowy, postępowanie sądowe"
+        },
+        {
+          "id": "b",
+          "text": "sąd przysięgłych"
+        },
+        {
+          "id": "c",
+          "text": "interpretacja"
+        },
+        {
+          "id": "d",
+          "text": "gospodyni"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„interpretation” (rzeczownik, poziom B2) oznacza po polsku „interpretacja”."
+    },
+    {
+      "id": "b2-vocabulary-12-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „investment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inwestowanie"
+        },
+        {
+          "id": "b",
+          "text": "zastrzyk"
+        },
+        {
+          "id": "c",
+          "text": "laser"
+        },
+        {
+          "id": "d",
+          "text": "melodia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„investment” (rzeczownik, poziom B2) oznacza po polsku „inwestowanie”."
+    },
+    {
+      "id": "b2-vocabulary-12-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jaw”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kończyna, odnóże"
+        },
+        {
+          "id": "b",
+          "text": "wprowadzanie"
+        },
+        {
+          "id": "c",
+          "text": "szczęka, żuchwa"
+        },
+        {
+          "id": "d",
+          "text": "wnętrze"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„jaw” (rzeczownik, poziom B2) oznacza po polsku „szczęka, żuchwa”."
+    },
+    {
+      "id": "b2-vocabulary-12-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „involvement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezydencja"
+        },
+        {
+          "id": "b",
+          "text": "zaangażowanie"
+        },
+        {
+          "id": "c",
+          "text": "intruz, natręt"
+        },
+        {
+          "id": "d",
+          "text": "legislatura"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„involvement” (rzeczownik, poziom B2) oznacza po polsku „zaangażowanie”."
+    },
+    {
+      "id": "b2-vocabulary-12-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „insult”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nicpoń"
+        },
+        {
+          "id": "b",
+          "text": "producent"
+        },
+        {
+          "id": "c",
+          "text": "obraza"
+        },
+        {
+          "id": "d",
+          "text": "sposób"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„insult” (rzeczownik, poziom B2) oznacza po polsku „obraza”."
+    },
+    {
+      "id": "b2-vocabulary-12-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „intersection”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "b",
+          "text": "dozorca"
+        },
+        {
+          "id": "c",
+          "text": "słowa pieśni, słowa"
+        },
+        {
+          "id": "d",
+          "text": "pan"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„intersection” (rzeczownik, poziom B2) oznacza po polsku „skrzyżowanie”."
+    },
+    {
+      "id": "b2-vocabulary-12-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „interior”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "b",
+          "text": "prowadzący dochodzenie"
+        },
+        {
+          "id": "c",
+          "text": "wnętrze"
+        },
+        {
+          "id": "d",
+          "text": "fuzja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„interior” (rzeczownik, poziom B2) oznacza po polsku „wnętrze”."
+    },
+    {
+      "id": "b2-vocabulary-12-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „inspector”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oświetlenie"
+        },
+        {
+          "id": "b",
+          "text": "inspektor"
+        },
+        {
+          "id": "c",
+          "text": "całe życie, życie"
+        },
+        {
+          "id": "d",
+          "text": "przerwanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„inspector” (rzeczownik, poziom B2) oznacza po polsku „inspektor”."
+    },
+    {
+      "id": "b2-vocabulary-12-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „investigator”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "innowacja"
+        },
+        {
+          "id": "b",
+          "text": "dozorca"
+        },
+        {
+          "id": "c",
+          "text": "prowadzący dochodzenie"
+        },
+        {
+          "id": "d",
+          "text": "rezydencja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„investigator” (rzeczownik, poziom B2) oznacza po polsku „prowadzący dochodzenie”."
+    },
+    {
+      "id": "b2-vocabulary-12-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „interpreter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "masakra"
+        },
+        {
+          "id": "b",
+          "text": "tłumacz ustny, tłumacz"
+        },
+        {
+          "id": "c",
+          "text": "ulotka"
+        },
+        {
+          "id": "d",
+          "text": "śmieci"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„interpreter” (rzeczownik, poziom B2) oznacza po polsku „tłumacz ustny, tłumacz”."
+    },
+    {
+      "id": "b2-vocabulary-12-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „inverted commas”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "najście"
+        },
+        {
+          "id": "b",
+          "text": "umiar, powściągliwość"
+        },
+        {
+          "id": "c",
+          "text": "ustawodawstwo, prawodawstwo"
+        },
+        {
+          "id": "d",
+          "text": "cudzysłów"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„inverted commas” (rzeczownik, poziom B2) oznacza po polsku „cudzysłów”."
+    },
+    {
+      "id": "b2-vocabulary-12-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leap”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynalazca"
+        },
+        {
+          "id": "b",
+          "text": "instytucja"
+        },
+        {
+          "id": "c",
+          "text": "najście"
+        },
+        {
+          "id": "d",
+          "text": "skok"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„leap” (rzeczownik, poziom B2) oznacza po polsku „skok”."
+    },
+    {
+      "id": "b2-vocabulary-12-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „laser”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "b",
+          "text": "hall, westybul"
+        },
+        {
+          "id": "c",
+          "text": "laser"
+        },
+        {
+          "id": "d",
+          "text": "zaangażowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„laser” (rzeczownik, poziom B2) oznacza po polsku „laser”."
+    },
+    {
+      "id": "b2-vocabulary-12-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lawn”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "etykieta"
+        },
+        {
+          "id": "b",
+          "text": "pracownik fizyczny, pracownik"
+        },
+        {
+          "id": "c",
+          "text": "trawnik"
+        },
+        {
+          "id": "d",
+          "text": "przeciek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lawn” (rzeczownik, poziom B2) oznacza po polsku „trawnik”."
+    },
+    {
+      "id": "b2-vocabulary-12-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leaflet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ulotka"
+        },
+        {
+          "id": "b",
+          "text": "smycz"
+        },
+        {
+          "id": "c",
+          "text": "posłaniec"
+        },
+        {
+          "id": "d",
+          "text": "masaż"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„leaflet” (rzeczownik, poziom B2) oznacza po polsku „ulotka”."
+    },
+    {
+      "id": "b2-vocabulary-12-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jump”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "towary, towar"
+        },
+        {
+          "id": "b",
+          "text": "laser"
+        },
+        {
+          "id": "c",
+          "text": "dzierżawa, najem"
+        },
+        {
+          "id": "d",
+          "text": "skok"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„jump” (rzeczownik, poziom B2) oznacza po polsku „skok”."
+    },
+    {
+      "id": "b2-vocabulary-12-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „keeper”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pan"
+        },
+        {
+          "id": "b",
+          "text": "producent"
+        },
+        {
+          "id": "c",
+          "text": "dozorca"
+        },
+        {
+          "id": "d",
+          "text": "lawa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„keeper” (rzeczownik, poziom B2) oznacza po polsku „dozorca”."
+    },
+    {
+      "id": "b2-vocabulary-12-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „landlady”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "instynkt"
+        },
+        {
+          "id": "b",
+          "text": "całe życie, życie"
+        },
+        {
+          "id": "c",
+          "text": "głęboka wiedza, wiedza"
+        },
+        {
+          "id": "d",
+          "text": "gospodyni"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„landlady” (rzeczownik, poziom B2) oznacza po polsku „gospodyni”."
+    },
+    {
+      "id": "b2-vocabulary-12-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „kerosene”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prowadzący dochodzenie"
+        },
+        {
+          "id": "b",
+          "text": "mentor"
+        },
+        {
+          "id": "c",
+          "text": "hall, westybul"
+        },
+        {
+          "id": "d",
+          "text": "nafta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„kerosene” (rzeczownik, poziom B2) oznacza po polsku „nafta”."
+    },
+    {
+      "id": "b2-vocabulary-12-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lawsuit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeciek"
+        },
+        {
+          "id": "b",
+          "text": "ulotka"
+        },
+        {
+          "id": "c",
+          "text": "śmieci"
+        },
+        {
+          "id": "d",
+          "text": "proces sądowy, postępowanie sądowe"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lawsuit” (rzeczownik, poziom B2) oznacza po polsku „proces sądowy, postępowanie sądowe”."
+    },
+    {
+      "id": "b2-vocabulary-12-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leak”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zastrzyk"
+        },
+        {
+          "id": "b",
+          "text": "nicpoń"
+        },
+        {
+          "id": "c",
+          "text": "przeciek"
+        },
+        {
+          "id": "d",
+          "text": "legislatura"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„leak” (rzeczownik, poziom B2) oznacza po polsku „przeciek”."
+    },
+    {
+      "id": "b2-vocabulary-12-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „kangaroo”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "smycz"
+        },
+        {
+          "id": "b",
+          "text": "obraza"
+        },
+        {
+          "id": "c",
+          "text": "kangur"
+        },
+        {
+          "id": "d",
+          "text": "mentor"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„kangaroo” (rzeczownik, poziom B2) oznacza po polsku „kangur”."
+    },
+    {
+      "id": "b2-vocabulary-12-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „landslide”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sposób"
+        },
+        {
+          "id": "b",
+          "text": "ustawodawstwo, prawodawstwo"
+        },
+        {
+          "id": "c",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "d",
+          "text": "instynkt"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„landslide” (rzeczownik, poziom B2) oznacza po polsku „miażdżące zwycięstwo”."
+    },
+    {
+      "id": "b2-vocabulary-12-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „labourer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skok"
+        },
+        {
+          "id": "b",
+          "text": "pracownik fizyczny, pracownik"
+        },
+        {
+          "id": "c",
+          "text": "pan"
+        },
+        {
+          "id": "d",
+          "text": "jubiler"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„labourer” (rzeczownik, poziom B2) oznacza po polsku „pracownik fizyczny, pracownik”."
+    },
+    {
+      "id": "b2-vocabulary-12-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „layabout”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "producent"
+        },
+        {
+          "id": "b",
+          "text": "nicpoń"
+        },
+        {
+          "id": "c",
+          "text": "trawnik"
+        },
+        {
+          "id": "d",
+          "text": "etykieta"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„layabout” (rzeczownik, poziom B2) oznacza po polsku „nicpoń”."
+    },
+    {
+      "id": "b2-vocabulary-12-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „label”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "etykieta"
+        },
+        {
+          "id": "b",
+          "text": "śmieci"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) kumpel"
+        },
+        {
+          "id": "d",
+          "text": "komputer przenośny, przenośny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„label” (rzeczownik, poziom B2) oznacza po polsku „etykieta”."
+    },
+    {
+      "id": "b2-vocabulary-12-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lark”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inspektor"
+        },
+        {
+          "id": "b",
+          "text": "komputer przenośny, przenośny"
+        },
+        {
+          "id": "c",
+          "text": "skowronek"
+        },
+        {
+          "id": "d",
+          "text": "pralnia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lark” (rzeczownik, poziom B2) oznacza po polsku „skowronek”."
+    },
+    {
+      "id": "b2-vocabulary-12-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lap”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(miejsce) kolana"
+        },
+        {
+          "id": "b",
+          "text": "melodia"
+        },
+        {
+          "id": "c",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "d",
+          "text": "len"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lap” (rzeczownik, poziom B2) oznacza po polsku „(miejsce) kolana”."
+    },
+    {
+      "id": "b2-vocabulary-12-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lava”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "umiar, powściągliwość"
+        },
+        {
+          "id": "b",
+          "text": "pomnik"
+        },
+        {
+          "id": "c",
+          "text": "lawa"
+        },
+        {
+          "id": "d",
+          "text": "tłumacz ustny, tłumacz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lava” (rzeczownik, poziom B2) oznacza po polsku „lawa”."
+    },
+    {
+      "id": "b2-vocabulary-12-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jury”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fuzja"
+        },
+        {
+          "id": "b",
+          "text": "tłumacz ustny, tłumacz"
+        },
+        {
+          "id": "c",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "d",
+          "text": "sąd przysięgłych"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„jury” (rzeczownik, poziom B2) oznacza po polsku „sąd przysięgłych”."
+    },
+    {
+      "id": "b2-vocabulary-12-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „journalism”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trucht"
+        },
+        {
+          "id": "b",
+          "text": "dziennikarstwo"
+        },
+        {
+          "id": "c",
+          "text": "len"
+        },
+        {
+          "id": "d",
+          "text": "proces sądowy, postępowanie sądowe"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„journalism” (rzeczownik, poziom B2) oznacza po polsku „dziennikarstwo”."
+    },
+    {
+      "id": "b2-vocabulary-12-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „learning”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "b",
+          "text": "głęboka wiedza, wiedza"
+        },
+        {
+          "id": "c",
+          "text": "choroba"
+        },
+        {
+          "id": "d",
+          "text": "por"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„learning” (rzeczownik, poziom B2) oznacza po polsku „głęboka wiedza, wiedza”."
+    },
+    {
+      "id": "b2-vocabulary-12-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „landing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podest"
+        },
+        {
+          "id": "b",
+          "text": "por"
+        },
+        {
+          "id": "c",
+          "text": "produkcja"
+        },
+        {
+          "id": "d",
+          "text": "ustawodawstwo, prawodawstwo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„landing” (rzeczownik, poziom B2) oznacza po polsku „podest”."
+    },
+    {
+      "id": "b2-vocabulary-12-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „juror”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "członek sądu przysięgłego"
+        },
+        {
+          "id": "b",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "c",
+          "text": "legenda"
+        },
+        {
+          "id": "d",
+          "text": "jubiler"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„juror” (rzeczownik, poziom B2) oznacza po polsku „członek sądu przysięgłego”."
+    },
+    {
+      "id": "b2-vocabulary-12-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „laptop”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komputer przenośny, przenośny"
+        },
+        {
+          "id": "b",
+          "text": "szaleństwo"
+        },
+        {
+          "id": "c",
+          "text": "masaż"
+        },
+        {
+          "id": "d",
+          "text": "słuchacz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„laptop” (rzeczownik, poziom B2) oznacza po polsku „komputer przenośny, przenośny”."
+    },
+    {
+      "id": "b2-vocabulary-12-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „laundry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jubiler"
+        },
+        {
+          "id": "b",
+          "text": "melodia"
+        },
+        {
+          "id": "c",
+          "text": "pralnia"
+        },
+        {
+          "id": "d",
+          "text": "ulotka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„laundry” (rzeczownik, poziom B2) oznacza po polsku „pralnia”."
+    },
+    {
+      "id": "b2-vocabulary-12-051",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lighting”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczęka, żuchwa"
+        },
+        {
+          "id": "b",
+          "text": "instytucja"
+        },
+        {
+          "id": "c",
+          "text": "towary, towar"
+        },
+        {
+          "id": "d",
+          "text": "oświetlenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lighting” (rzeczownik, poziom B2) oznacza po polsku „oświetlenie”."
+    },
+    {
+      "id": "b2-vocabulary-12-052",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lyrics”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożyczka, kredyt bankowy, kredyt"
+        },
+        {
+          "id": "b",
+          "text": "pokrywka"
+        },
+        {
+          "id": "c",
+          "text": "malaria"
+        },
+        {
+          "id": "d",
+          "text": "słowa pieśni, słowa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lyrics” (rzeczownik, poziom B2) oznacza po polsku „słowa pieśni, słowa”."
+    },
+    {
+      "id": "b2-vocabulary-12-053",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leek”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słowa pieśni, słowa"
+        },
+        {
+          "id": "b",
+          "text": "por"
+        },
+        {
+          "id": "c",
+          "text": "melodia"
+        },
+        {
+          "id": "d",
+          "text": "instynkt"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„leek” (rzeczownik, poziom B2) oznacza po polsku „por”."
+    },
+    {
+      "id": "b2-vocabulary-12-054",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lifetime”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezydencja"
+        },
+        {
+          "id": "b",
+          "text": "prowadzący dochodzenie"
+        },
+        {
+          "id": "c",
+          "text": "tłumacz ustny, tłumacz"
+        },
+        {
+          "id": "d",
+          "text": "całe życie, życie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lifetime” (rzeczownik, poziom B2) oznacza po polsku „całe życie, życie”."
+    },
+    {
+      "id": "b2-vocabulary-12-055",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „legislature”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "legislatura"
+        },
+        {
+          "id": "b",
+          "text": "producent"
+        },
+        {
+          "id": "c",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "d",
+          "text": "smycz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„legislature” (rzeczownik, poziom B2) oznacza po polsku „legislatura”."
+    },
+    {
+      "id": "b2-vocabulary-12-056",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „loan”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykładowca, docent"
+        },
+        {
+          "id": "b",
+          "text": "mauzoleum"
+        },
+        {
+          "id": "c",
+          "text": "pożyczka, kredyt bankowy, kredyt"
+        },
+        {
+          "id": "d",
+          "text": "prowadzący dochodzenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„loan” (rzeczownik, poziom B2) oznacza po polsku „pożyczka, kredyt bankowy, kredyt”."
+    },
+    {
+      "id": "b2-vocabulary-12-057",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „living”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzierżawa, najem"
+        },
+        {
+          "id": "b",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "c",
+          "text": "wykładowca, docent"
+        },
+        {
+          "id": "d",
+          "text": "smycz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„living” (rzeczownik, poziom B2) oznacza po polsku „utrzymanie”."
+    },
+    {
+      "id": "b2-vocabulary-12-058",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „liner”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hall, westybul"
+        },
+        {
+          "id": "b",
+          "text": "liniowiec, statek transatlantycki"
+        },
+        {
+          "id": "c",
+          "text": "irytacja"
+        },
+        {
+          "id": "d",
+          "text": "rezydencja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„liner” (rzeczownik, poziom B2) oznacza po polsku „liniowiec, statek transatlantycki”."
+    },
+    {
+      "id": "b2-vocabulary-12-059",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lobby”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lawa"
+        },
+        {
+          "id": "b",
+          "text": "hall, westybul"
+        },
+        {
+          "id": "c",
+          "text": "podest"
+        },
+        {
+          "id": "d",
+          "text": "litość, miłosierdzie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lobby” (rzeczownik, poziom B2) oznacza po polsku „hall, westybul”."
+    },
+    {
+      "id": "b2-vocabulary-12-060",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leopard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "litość, miłosierdzie"
+        },
+        {
+          "id": "b",
+          "text": "tłumacz ustny, tłumacz"
+        },
+        {
+          "id": "c",
+          "text": "lampart"
+        },
+        {
+          "id": "d",
+          "text": "melodia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„leopard” (rzeczownik, poziom B2) oznacza po polsku „lampart”."
+    },
+    {
+      "id": "b2-vocabulary-12-061",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „limb”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nicpoń"
+        },
+        {
+          "id": "b",
+          "text": "proces sądowy, postępowanie sądowe"
+        },
+        {
+          "id": "c",
+          "text": "kończyna, odnóże"
+        },
+        {
+          "id": "d",
+          "text": "szaleństwo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„limb” (rzeczownik, poziom B2) oznacza po polsku „kończyna, odnóże”."
+    },
+    {
+      "id": "b2-vocabulary-12-062",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mango”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "śmieci"
+        },
+        {
+          "id": "b",
+          "text": "mango"
+        },
+        {
+          "id": "c",
+          "text": "biegłość"
+        },
+        {
+          "id": "d",
+          "text": "rezydencja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mango” (rzeczownik, poziom B2) oznacza po polsku „mango”."
+    },
+    {
+      "id": "b2-vocabulary-12-063",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lecturer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ulotka"
+        },
+        {
+          "id": "b",
+          "text": "masaż"
+        },
+        {
+          "id": "c",
+          "text": "kangur"
+        },
+        {
+          "id": "d",
+          "text": "wykładowca, docent"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lecturer” (rzeczownik, poziom B2) oznacza po polsku „wykładowca, docent”."
+    },
+    {
+      "id": "b2-vocabulary-12-064",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „legend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "całe życie, życie"
+        },
+        {
+          "id": "b",
+          "text": "len"
+        },
+        {
+          "id": "c",
+          "text": "legenda"
+        },
+        {
+          "id": "d",
+          "text": "cudzysłów"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„legend” (rzeczownik, poziom B2) oznacza po polsku „legenda”."
+    },
+    {
+      "id": "b2-vocabulary-12-065",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „malady”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "margines"
+        },
+        {
+          "id": "b",
+          "text": "laser"
+        },
+        {
+          "id": "c",
+          "text": "skowronek"
+        },
+        {
+          "id": "d",
+          "text": "choroba"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„malady” (rzeczownik, poziom B2) oznacza po polsku „choroba”."
+    },
+    {
+      "id": "b2-vocabulary-12-066",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „linen”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obraza"
+        },
+        {
+          "id": "b",
+          "text": "len"
+        },
+        {
+          "id": "c",
+          "text": "skok"
+        },
+        {
+          "id": "d",
+          "text": "por"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„linen” (rzeczownik, poziom B2) oznacza po polsku „len”."
+    },
+    {
+      "id": "b2-vocabulary-12-067",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leash”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "b",
+          "text": "intruz, natręt"
+        },
+        {
+          "id": "c",
+          "text": "smycz"
+        },
+        {
+          "id": "d",
+          "text": "zastrzyk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„leash” (rzeczownik, poziom B2) oznacza po polsku „smycz”."
+    },
+    {
+      "id": "b2-vocabulary-12-068",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „listener”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "legislatura"
+        },
+        {
+          "id": "b",
+          "text": "gospodyni"
+        },
+        {
+          "id": "c",
+          "text": "słuchacz"
+        },
+        {
+          "id": "d",
+          "text": "wynalazca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„listener” (rzeczownik, poziom B2) oznacza po polsku „słuchacz”."
+    },
+    {
+      "id": "b2-vocabulary-12-069",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „major”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "posłaniec"
+        },
+        {
+          "id": "b",
+          "text": "dozorca"
+        },
+        {
+          "id": "c",
+          "text": "(wojsk) major"
+        },
+        {
+          "id": "d",
+          "text": "melodia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„major” (rzeczownik, poziom B2) oznacza po polsku „(wojsk) major”."
+    },
+    {
+      "id": "b2-vocabulary-12-070",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „litter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pralnia"
+        },
+        {
+          "id": "b",
+          "text": "wnętrze"
+        },
+        {
+          "id": "c",
+          "text": "śmieci"
+        },
+        {
+          "id": "d",
+          "text": "utrzymanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„litter” (rzeczownik, poziom B2) oznacza po polsku „śmieci”."
+    },
+    {
+      "id": "b2-vocabulary-12-071",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „legislation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziennikarstwo"
+        },
+        {
+          "id": "b",
+          "text": "sąd przysięgłych"
+        },
+        {
+          "id": "c",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "d",
+          "text": "ustawodawstwo, prawodawstwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„legislation” (rzeczownik, poziom B2) oznacza po polsku „ustawodawstwo, prawodawstwo”."
+    },
+    {
+      "id": "b2-vocabulary-12-072",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lease”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lampart"
+        },
+        {
+          "id": "b",
+          "text": "dzierżawa, najem"
+        },
+        {
+          "id": "c",
+          "text": "biegłość"
+        },
+        {
+          "id": "d",
+          "text": "dziennikarstwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lease” (rzeczownik, poziom B2) oznacza po polsku „dzierżawa, najem”."
+    },
+    {
+      "id": "b2-vocabulary-12-073",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lid”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mentor"
+        },
+        {
+          "id": "b",
+          "text": "cudzysłów"
+        },
+        {
+          "id": "c",
+          "text": "zaangażowanie"
+        },
+        {
+          "id": "d",
+          "text": "pokrywka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lid” (rzeczownik, poziom B2) oznacza po polsku „pokrywka”."
+    },
+    {
+      "id": "b2-vocabulary-12-074",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „malaria”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "litość, miłosierdzie"
+        },
+        {
+          "id": "b",
+          "text": "malaria"
+        },
+        {
+          "id": "c",
+          "text": "słuchacz"
+        },
+        {
+          "id": "d",
+          "text": "komputer przenośny, przenośny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„malaria” (rzeczownik, poziom B2) oznacza po polsku „malaria”."
+    },
+    {
+      "id": "b2-vocabulary-12-075",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „madness”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "smycz"
+        },
+        {
+          "id": "b",
+          "text": "skok"
+        },
+        {
+          "id": "c",
+          "text": "jubiler"
+        },
+        {
+          "id": "d",
+          "text": "szaleństwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„madness” (rzeczownik, poziom B2) oznacza po polsku „szaleństwo”."
+    },
+    {
+      "id": "b2-vocabulary-12-076",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „massacre”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gospodyni"
+        },
+        {
+          "id": "b",
+          "text": "masakra"
+        },
+        {
+          "id": "c",
+          "text": "instytucja"
+        },
+        {
+          "id": "d",
+          "text": "szczęka, żuchwa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„massacre” (rzeczownik, poziom B2) oznacza po polsku „masakra”."
+    },
+    {
+      "id": "b2-vocabulary-12-077",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „merchandise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wprowadzanie"
+        },
+        {
+          "id": "b",
+          "text": "towary, towar"
+        },
+        {
+          "id": "c",
+          "text": "trucht"
+        },
+        {
+          "id": "d",
+          "text": "ulotka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„merchandise” (rzeczownik, poziom B2) oznacza po polsku „towary, towar”."
+    },
+    {
+      "id": "b2-vocabulary-12-078",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mentor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "masakra"
+        },
+        {
+          "id": "b",
+          "text": "mentor"
+        },
+        {
+          "id": "c",
+          "text": "wykładowca, docent"
+        },
+        {
+          "id": "d",
+          "text": "najście"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mentor” (rzeczownik, poziom B2) oznacza po polsku „mentor”."
+    },
+    {
+      "id": "b2-vocabulary-12-079",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „margin”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(miejsce) kolana"
+        },
+        {
+          "id": "b",
+          "text": "środki masowego przekazu"
+        },
+        {
+          "id": "c",
+          "text": "margines"
+        },
+        {
+          "id": "d",
+          "text": "zastrzyk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„margin” (rzeczownik, poziom B2) oznacza po polsku „margines”."
+    },
+    {
+      "id": "b2-vocabulary-12-080",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „massage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marketing"
+        },
+        {
+          "id": "b",
+          "text": "masaż"
+        },
+        {
+          "id": "c",
+          "text": "pracownik fizyczny, pracownik"
+        },
+        {
+          "id": "d",
+          "text": "inwestor"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„massage” (rzeczownik, poziom B2) oznacza po polsku „masaż”."
+    },
+    {
+      "id": "b2-vocabulary-12-081",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „merger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pan"
+        },
+        {
+          "id": "b",
+          "text": "fuzja"
+        },
+        {
+          "id": "c",
+          "text": "mentor"
+        },
+        {
+          "id": "d",
+          "text": "słuchacz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„merger” (rzeczownik, poziom B2) oznacza po polsku „fuzja”."
+    },
+    {
+      "id": "b2-vocabulary-12-082",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mausoleum”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mauzoleum"
+        },
+        {
+          "id": "b",
+          "text": "kangur"
+        },
+        {
+          "id": "c",
+          "text": "wyspiarz"
+        },
+        {
+          "id": "d",
+          "text": "środki masowego przekazu"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mausoleum” (rzeczownik, poziom B2) oznacza po polsku „mauzoleum”."
+    },
+    {
+      "id": "b2-vocabulary-12-083",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeciek"
+        },
+        {
+          "id": "b",
+          "text": "posłaniec"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) kumpel"
+        },
+        {
+          "id": "d",
+          "text": "przerwanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mate” (rzeczownik, poziom B2) oznacza po polsku „(nieform) kumpel”."
+    },
+    {
+      "id": "b2-vocabulary-12-084",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „manufacture”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynalazca"
+        },
+        {
+          "id": "b",
+          "text": "produkcja"
+        },
+        {
+          "id": "c",
+          "text": "wyspiarz"
+        },
+        {
+          "id": "d",
+          "text": "przeciek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„manufacture” (rzeczownik, poziom B2) oznacza po polsku „produkcja”."
+    },
+    {
+      "id": "b2-vocabulary-12-085",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mercy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "litość, miłosierdzie"
+        },
+        {
+          "id": "b",
+          "text": "por"
+        },
+        {
+          "id": "c",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "d",
+          "text": "choroba"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mercy” (rzeczownik, poziom B2) oznacza po polsku „litość, miłosierdzie”."
+    },
+    {
+      "id": "b2-vocabulary-12-086",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mask”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sposób"
+        },
+        {
+          "id": "b",
+          "text": "głęboka wiedza, wiedza"
+        },
+        {
+          "id": "c",
+          "text": "prowadzący dochodzenie"
+        },
+        {
+          "id": "d",
+          "text": "maska"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mask” (rzeczownik, poziom B2) oznacza po polsku „maska”."
+    },
+    {
+      "id": "b2-vocabulary-12-087",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „medication”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekarstwo"
+        },
+        {
+          "id": "b",
+          "text": "legislatura"
+        },
+        {
+          "id": "c",
+          "text": "skowronek"
+        },
+        {
+          "id": "d",
+          "text": "laser"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„medication” (rzeczownik, poziom B2) oznacza po polsku „lekarstwo”."
+    },
+    {
+      "id": "b2-vocabulary-12-088",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „messenger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "posłaniec"
+        },
+        {
+          "id": "b",
+          "text": "utrzymanie"
+        },
+        {
+          "id": "c",
+          "text": "smycz"
+        },
+        {
+          "id": "d",
+          "text": "ulotka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„messenger” (rzeczownik, poziom B2) oznacza po polsku „posłaniec”."
+    },
+    {
+      "id": "b2-vocabulary-12-089",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mansion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezydencja"
+        },
+        {
+          "id": "b",
+          "text": "szczęka, żuchwa"
+        },
+        {
+          "id": "c",
+          "text": "lampart"
+        },
+        {
+          "id": "d",
+          "text": "inwestowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mansion” (rzeczownik, poziom B2) oznacza po polsku „rezydencja”."
+    },
+    {
+      "id": "b2-vocabulary-12-090",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „marathon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezydencja"
+        },
+        {
+          "id": "b",
+          "text": "nicpoń"
+        },
+        {
+          "id": "c",
+          "text": "maraton"
+        },
+        {
+          "id": "d",
+          "text": "biegłość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„marathon” (rzeczownik, poziom B2) oznacza po polsku „maraton”."
+    },
+    {
+      "id": "b2-vocabulary-12-091",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „means”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "intruz, natręt"
+        },
+        {
+          "id": "b",
+          "text": "ulotka"
+        },
+        {
+          "id": "c",
+          "text": "wynalazca"
+        },
+        {
+          "id": "d",
+          "text": "sposób"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„means” (rzeczownik, poziom B2) oznacza po polsku „sposób”."
+    },
+    {
+      "id": "b2-vocabulary-12-092",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „master”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "irytacja"
+        },
+        {
+          "id": "b",
+          "text": "intruz, natręt"
+        },
+        {
+          "id": "c",
+          "text": "pokrywka"
+        },
+        {
+          "id": "d",
+          "text": "pan"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„master” (rzeczownik, poziom B2) oznacza po polsku „pan”."
+    },
+    {
+      "id": "b2-vocabulary-12-093",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „media”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przerwanie"
+        },
+        {
+          "id": "b",
+          "text": "środki masowego przekazu"
+        },
+        {
+          "id": "c",
+          "text": "miażdżące zwycięstwo"
+        },
+        {
+          "id": "d",
+          "text": "pralnia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„media” (rzeczownik, poziom B2) oznacza po polsku „środki masowego przekazu”."
+    },
+    {
+      "id": "b2-vocabulary-12-094",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „masterpiece”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oświetlenie"
+        },
+        {
+          "id": "b",
+          "text": "arcydzieło"
+        },
+        {
+          "id": "c",
+          "text": "gospodyni"
+        },
+        {
+          "id": "d",
+          "text": "maraton"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„masterpiece” (rzeczownik, poziom B2) oznacza po polsku „arcydzieło”."
+    },
+    {
+      "id": "b2-vocabulary-12-095",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mastery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "legenda"
+        },
+        {
+          "id": "b",
+          "text": "masaż"
+        },
+        {
+          "id": "c",
+          "text": "biegłość"
+        },
+        {
+          "id": "d",
+          "text": "zastrzyk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mastery” (rzeczownik, poziom B2) oznacza po polsku „biegłość”."
+    },
+    {
+      "id": "b2-vocabulary-12-096",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „memorial”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomnik"
+        },
+        {
+          "id": "b",
+          "text": "obraza"
+        },
+        {
+          "id": "c",
+          "text": "smycz"
+        },
+        {
+          "id": "d",
+          "text": "mango"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„memorial” (rzeczownik, poziom B2) oznacza po polsku „pomnik”."
+    },
+    {
+      "id": "b2-vocabulary-12-097",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „manufacturer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "komputer przenośny, przenośny"
+        },
+        {
+          "id": "b",
+          "text": "pomnik"
+        },
+        {
+          "id": "c",
+          "text": "fuzja"
+        },
+        {
+          "id": "d",
+          "text": "producent"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„manufacturer” (rzeczownik, poziom B2) oznacza po polsku „producent”."
+    },
+    {
+      "id": "b2-vocabulary-12-098",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mean”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trawnik"
+        },
+        {
+          "id": "b",
+          "text": "umiar, powściągliwość"
+        },
+        {
+          "id": "c",
+          "text": "produkcja"
+        },
+        {
+          "id": "d",
+          "text": "jubiler"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mean” (rzeczownik, poziom B2) oznacza po polsku „umiar, powściągliwość”."
+    },
+    {
+      "id": "b2-vocabulary-12-099",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „melody”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lampart"
+        },
+        {
+          "id": "b",
+          "text": "obraza"
+        },
+        {
+          "id": "c",
+          "text": "melodia"
+        },
+        {
+          "id": "d",
+          "text": "pożyczka, kredyt bankowy, kredyt"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„melody” (rzeczownik, poziom B2) oznacza po polsku „melodia”."
+    },
+    {
+      "id": "b2-vocabulary-12-100",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „marketing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marketing"
+        },
+        {
+          "id": "b",
+          "text": "masakra"
+        },
+        {
+          "id": "c",
+          "text": "proces sądowy, postępowanie sądowe"
+        },
+        {
+          "id": "d",
+          "text": "dziennikarstwo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„marketing” (rzeczownik, poziom B2) oznacza po polsku „marketing”."
+    }
+  ]
+}

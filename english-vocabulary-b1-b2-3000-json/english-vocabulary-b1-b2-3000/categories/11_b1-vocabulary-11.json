@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-vocabulary-11",
+    "name": "B1 — słownictwo 11"
+  },
+  "questions": [
+    {
+      "id": "b1-vocabulary-11-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fantasy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "faks"
+        },
+        {
+          "id": "b",
+          "text": "fantazjowanie"
+        },
+        {
+          "id": "c",
+          "text": "fontanna"
+        },
+        {
+          "id": "d",
+          "text": "wina, poczucie winy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fantasy” (rzeczownik, poziom B1) oznacza po polsku „fantazjowanie”."
+    },
+    {
+      "id": "b1-vocabulary-11-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ferry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prom"
+        },
+        {
+          "id": "b",
+          "text": "fryzjer"
+        },
+        {
+          "id": "c",
+          "text": "lud"
+        },
+        {
+          "id": "d",
+          "text": "żyrafa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ferry” (rzeczownik, poziom B1) oznacza po polsku „prom”."
+    },
+    {
+      "id": "b1-vocabulary-11-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „eyesight”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siedlisko, habitat"
+        },
+        {
+          "id": "b",
+          "text": "wzrok"
+        },
+        {
+          "id": "c",
+          "text": "sos"
+        },
+        {
+          "id": "d",
+          "text": "smak"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„eyesight” (rzeczownik, poziom B1) oznacza po polsku „wzrok”."
+    },
+    {
+      "id": "b1-vocabulary-11-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „filling”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plomba"
+        },
+        {
+          "id": "b",
+          "text": "rolnictwo, gospodarka"
+        },
+        {
+          "id": "c",
+          "text": "fryzjer"
+        },
+        {
+          "id": "d",
+          "text": "lud"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„filling” (rzeczownik, poziom B1) oznacza po polsku „plomba”."
+    },
+    {
+      "id": "b1-vocabulary-11-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fax”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sierść"
+        },
+        {
+          "id": "b",
+          "text": "absolwent"
+        },
+        {
+          "id": "c",
+          "text": "fundament"
+        },
+        {
+          "id": "d",
+          "text": "faks"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fax” (rzeczownik, poziom B1) oznacza po polsku „faks”."
+    },
+    {
+      "id": "b1-vocabulary-11-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „filter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "filtr"
+        },
+        {
+          "id": "b",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        },
+        {
+          "id": "c",
+          "text": "rolnictwo, gospodarka"
+        },
+        {
+          "id": "d",
+          "text": "wzrost, zysk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„filter” (rzeczownik, poziom B1) oznacza po polsku „filtr”."
+    },
+    {
+      "id": "b1-vocabulary-11-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „farming”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "suknia"
+        },
+        {
+          "id": "b",
+          "text": "rezultat, stwierdzenie"
+        },
+        {
+          "id": "c",
+          "text": "rolnictwo, gospodarka"
+        },
+        {
+          "id": "d",
+          "text": "frustracja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„farming” (rzeczownik, poziom B1) oznacza po polsku „rolnictwo, gospodarka”."
+    },
+    {
+      "id": "b1-vocabulary-11-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „feast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fontanna"
+        },
+        {
+          "id": "b",
+          "text": "nowy student, nowy"
+        },
+        {
+          "id": "c",
+          "text": "przyjęcie, uczta"
+        },
+        {
+          "id": "d",
+          "text": "siedlisko, habitat"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„feast” (rzeczownik, poziom B1) oznacza po polsku „przyjęcie, uczta”."
+    },
+    {
+      "id": "b1-vocabulary-11-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „extinction”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymarcie"
+        },
+        {
+          "id": "b",
+          "text": "czoło"
+        },
+        {
+          "id": "c",
+          "text": "wzrok"
+        },
+        {
+          "id": "d",
+          "text": "frustracja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„extinction” (rzeczownik, poziom B1) oznacza po polsku „wymarcie”."
+    },
+    {
+      "id": "b1-vocabulary-11-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „failure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gest"
+        },
+        {
+          "id": "b",
+          "text": "gimnastyka"
+        },
+        {
+          "id": "c",
+          "text": "niepowodzenie"
+        },
+        {
+          "id": "d",
+          "text": "mróz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„failure” (rzeczownik, poziom B1) oznacza po polsku „niepowodzenie”."
+    },
+    {
+      "id": "b1-vocabulary-11-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „finger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "palec"
+        },
+        {
+          "id": "b",
+          "text": "zakończenie studiów, zakończenie"
+        },
+        {
+          "id": "c",
+          "text": "fantazjowanie"
+        },
+        {
+          "id": "d",
+          "text": "formuła, wzór"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„finger” (rzeczownik, poziom B1) oznacza po polsku „palec”."
+    },
+    {
+      "id": "b1-vocabulary-11-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „farmland”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gracz w golfa"
+        },
+        {
+          "id": "b",
+          "text": "ziemia uprawna"
+        },
+        {
+          "id": "c",
+          "text": "(BR) wesołe miasteczko"
+        },
+        {
+          "id": "d",
+          "text": "suknia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„farmland” (rzeczownik, poziom B1) oznacza po polsku „ziemia uprawna”."
+    },
+    {
+      "id": "b1-vocabulary-11-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „finding”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezultat, stwierdzenie"
+        },
+        {
+          "id": "b",
+          "text": "młotek, młot"
+        },
+        {
+          "id": "c",
+          "text": "prognoza"
+        },
+        {
+          "id": "d",
+          "text": "gen"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„finding” (rzeczownik, poziom B1) oznacza po polsku „rezultat, stwierdzenie”."
+    },
+    {
+      "id": "b1-vocabulary-11-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „extra”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rzut oka, spojrzenie"
+        },
+        {
+          "id": "b",
+          "text": "wdzięczność"
+        },
+        {
+          "id": "c",
+          "text": "dodatek"
+        },
+        {
+          "id": "d",
+          "text": "stado"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„extra” (rzeczownik, poziom B1) oznacza po polsku „dodatek”."
+    },
+    {
+      "id": "b1-vocabulary-11-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „firework”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogień sztuczny, fajerwerk"
+        },
+        {
+          "id": "b",
+          "text": "palec"
+        },
+        {
+          "id": "c",
+          "text": "suszarka do włosów, suszarka"
+        },
+        {
+          "id": "d",
+          "text": "gimnastyka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„firework” (rzeczownik, poziom B1) oznacza po polsku „ogień sztuczny, fajerwerk”."
+    },
+    {
+      "id": "b1-vocabulary-11-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fifth”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plomba"
+        },
+        {
+          "id": "b",
+          "text": "piąty"
+        },
+        {
+          "id": "c",
+          "text": "geologia"
+        },
+        {
+          "id": "d",
+          "text": "gimnastyka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fifth” (rzeczownik, poziom B1) oznacza po polsku „piąty”."
+    },
+    {
+      "id": "b1-vocabulary-11-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fair”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "suszarka do włosów, suszarka"
+        },
+        {
+          "id": "b",
+          "text": "siedlisko, habitat"
+        },
+        {
+          "id": "c",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        },
+        {
+          "id": "d",
+          "text": "(BR) wesołe miasteczko"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fair” (rzeczownik, poziom B1) oznacza po polsku „(BR) wesołe miasteczko”."
+    },
+    {
+      "id": "b1-vocabulary-11-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „farewell”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strój"
+        },
+        {
+          "id": "b",
+          "text": "bogini"
+        },
+        {
+          "id": "c",
+          "text": "pożegnanie"
+        },
+        {
+          "id": "d",
+          "text": "format"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„farewell” (rzeczownik, poziom B1) oznacza po polsku „pożegnanie”."
+    },
+    {
+      "id": "b1-vocabulary-11-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flavour”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fontanna"
+        },
+        {
+          "id": "b",
+          "text": "dotacja"
+        },
+        {
+          "id": "c",
+          "text": "smak"
+        },
+        {
+          "id": "d",
+          "text": "wina, poczucie winy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„flavour” (rzeczownik, poziom B1) oznacza po polsku „smak”."
+    },
+    {
+      "id": "b1-vocabulary-11-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flute”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nowy student, nowy"
+        },
+        {
+          "id": "b",
+          "text": "wykres, graf"
+        },
+        {
+          "id": "c",
+          "text": "flet"
+        },
+        {
+          "id": "d",
+          "text": "niepowodzenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„flute” (rzeczownik, poziom B1) oznacza po polsku „flet”."
+    },
+    {
+      "id": "b1-vocabulary-11-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flock”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymarcie"
+        },
+        {
+          "id": "b",
+          "text": "strój"
+        },
+        {
+          "id": "c",
+          "text": "strach, przestrach"
+        },
+        {
+          "id": "d",
+          "text": "stado"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„flock” (rzeczownik, poziom B1) oznacza po polsku „stado”."
+    },
+    {
+      "id": "b1-vocabulary-11-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „facility”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ruszt"
+        },
+        {
+          "id": "b",
+          "text": "lud"
+        },
+        {
+          "id": "c",
+          "text": "zdolność, łatwość"
+        },
+        {
+          "id": "d",
+          "text": "faks"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„facility” (rzeczownik, poziom B1) oznacza po polsku „zdolność, łatwość”."
+    },
+    {
+      "id": "b1-vocabulary-11-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fall”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymarcie"
+        },
+        {
+          "id": "b",
+          "text": "gest"
+        },
+        {
+          "id": "c",
+          "text": "pan młody"
+        },
+        {
+          "id": "d",
+          "text": "upadek, spadek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fall” (rzeczownik, poziom B1) oznacza po polsku „upadek, spadek”."
+    },
+    {
+      "id": "b1-vocabulary-11-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flu”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożegnanie"
+        },
+        {
+          "id": "b",
+          "text": "flet"
+        },
+        {
+          "id": "c",
+          "text": "grypa"
+        },
+        {
+          "id": "d",
+          "text": "rezultat, stwierdzenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„flu” (rzeczownik, poziom B1) oznacza po polsku „grypa”."
+    },
+    {
+      "id": "b1-vocabulary-11-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dwa tygodnie"
+        },
+        {
+          "id": "b",
+          "text": "potok"
+        },
+        {
+          "id": "c",
+          "text": "pismo odręczne"
+        },
+        {
+          "id": "d",
+          "text": "wykres, graf"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„flow” (rzeczownik, poziom B1) oznacza po polsku „potok”."
+    },
+    {
+      "id": "b1-vocabulary-11-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fur”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uścisk dłoni"
+        },
+        {
+          "id": "b",
+          "text": "sierść"
+        },
+        {
+          "id": "c",
+          "text": "grypa"
+        },
+        {
+          "id": "d",
+          "text": "wykres, graf"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fur” (rzeczownik, poziom B1) oznacza po polsku „sierść”."
+    },
+    {
+      "id": "b1-vocabulary-11-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „foot”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nowy student, nowy"
+        },
+        {
+          "id": "b",
+          "text": "pogrzeb"
+        },
+        {
+          "id": "c",
+          "text": "stopa"
+        },
+        {
+          "id": "d",
+          "text": "zakończenie studiów, zakończenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„foot” (rzeczownik, poziom B1) oznacza po polsku „stopa”."
+    },
+    {
+      "id": "b1-vocabulary-11-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „frustration”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "geografia"
+        },
+        {
+          "id": "b",
+          "text": "frustracja"
+        },
+        {
+          "id": "c",
+          "text": "szklarnia"
+        },
+        {
+          "id": "d",
+          "text": "wymarcie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„frustration” (rzeczownik, poziom B1) oznacza po polsku „frustracja”."
+    },
+    {
+      "id": "b1-vocabulary-11-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fortnight”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomoc"
+        },
+        {
+          "id": "b",
+          "text": "rzut oka, spojrzenie"
+        },
+        {
+          "id": "c",
+          "text": "zamrażarka, zamrażalnik"
+        },
+        {
+          "id": "d",
+          "text": "dwa tygodnie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fortnight” (rzeczownik, poziom B1) oznacza po polsku „dwa tygodnie”."
+    },
+    {
+      "id": "b1-vocabulary-11-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fragment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodatek"
+        },
+        {
+          "id": "b",
+          "text": "upadek, spadek"
+        },
+        {
+          "id": "c",
+          "text": "gracz w golfa"
+        },
+        {
+          "id": "d",
+          "text": "fragment"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fragment” (rzeczownik, poziom B1) oznacza po polsku „fragment”."
+    },
+    {
+      "id": "b1-vocabulary-11-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „frost”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mróz"
+        },
+        {
+          "id": "b",
+          "text": "wina, poczucie winy"
+        },
+        {
+          "id": "c",
+          "text": "prom"
+        },
+        {
+          "id": "d",
+          "text": "zdolność, łatwość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„frost” (rzeczownik, poziom B1) oznacza po polsku „mróz”."
+    },
+    {
+      "id": "b1-vocabulary-11-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „folk”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dżentelmen"
+        },
+        {
+          "id": "b",
+          "text": "lud"
+        },
+        {
+          "id": "c",
+          "text": "pożegnanie"
+        },
+        {
+          "id": "d",
+          "text": "dwa tygodnie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„folk” (rzeczownik, poziom B1) oznacza po polsku „lud”."
+    },
+    {
+      "id": "b1-vocabulary-11-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „forecast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zgrupowanie, grupa"
+        },
+        {
+          "id": "b",
+          "text": "gracz w golfa"
+        },
+        {
+          "id": "c",
+          "text": "patelnia"
+        },
+        {
+          "id": "d",
+          "text": "prognoza"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„forecast” (rzeczownik, poziom B1) oznacza po polsku „prognoza”."
+    },
+    {
+      "id": "b1-vocabulary-11-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fund”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        },
+        {
+          "id": "b",
+          "text": "sierść"
+        },
+        {
+          "id": "c",
+          "text": "(BR) wesołe miasteczko"
+        },
+        {
+          "id": "d",
+          "text": "flet"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fund” (rzeczownik, poziom B1) oznacza po polsku „(also funds) fundusze, fundusz, środki pieniężne”."
+    },
+    {
+      "id": "b1-vocabulary-11-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fright”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykres, graf"
+        },
+        {
+          "id": "b",
+          "text": "strach, przestrach"
+        },
+        {
+          "id": "c",
+          "text": "zamrażarka, zamrażalnik"
+        },
+        {
+          "id": "d",
+          "text": "stopa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fright” (rzeczownik, poziom B1) oznacza po polsku „strach, przestrach”."
+    },
+    {
+      "id": "b1-vocabulary-11-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „freezer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upadek, spadek"
+        },
+        {
+          "id": "b",
+          "text": "rezultat, stwierdzenie"
+        },
+        {
+          "id": "c",
+          "text": "prom"
+        },
+        {
+          "id": "d",
+          "text": "zamrażarka, zamrażalnik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„freezer” (rzeczownik, poziom B1) oznacza po polsku „zamrażarka, zamrażalnik”."
+    },
+    {
+      "id": "b1-vocabulary-11-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „frequency”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "smak"
+        },
+        {
+          "id": "b",
+          "text": "żyrafa"
+        },
+        {
+          "id": "c",
+          "text": "częstość"
+        },
+        {
+          "id": "d",
+          "text": "zdolność, łatwość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„frequency” (rzeczownik, poziom B1) oznacza po polsku „częstość”."
+    },
+    {
+      "id": "b1-vocabulary-11-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „funeral”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pogrzeb"
+        },
+        {
+          "id": "b",
+          "text": "zamrażarka, zamrażalnik"
+        },
+        {
+          "id": "c",
+          "text": "lud"
+        },
+        {
+          "id": "d",
+          "text": "fragment"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„funeral” (rzeczownik, poziom B1) oznacza po polsku „pogrzeb”."
+    },
+    {
+      "id": "b1-vocabulary-11-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fuel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paliwo"
+        },
+        {
+          "id": "b",
+          "text": "(BR) wesołe miasteczko"
+        },
+        {
+          "id": "c",
+          "text": "geografia"
+        },
+        {
+          "id": "d",
+          "text": "nowy student, nowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fuel” (rzeczownik, poziom B1) oznacza po polsku „paliwo”."
+    },
+    {
+      "id": "b1-vocabulary-11-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fountain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wina, poczucie winy"
+        },
+        {
+          "id": "b",
+          "text": "piąty"
+        },
+        {
+          "id": "c",
+          "text": "smak"
+        },
+        {
+          "id": "d",
+          "text": "fontanna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fountain” (rzeczownik, poziom B1) oznacza po polsku „fontanna”."
+    },
+    {
+      "id": "b1-vocabulary-11-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „formula”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "formuła, wzór"
+        },
+        {
+          "id": "b",
+          "text": "geologia"
+        },
+        {
+          "id": "c",
+          "text": "chusteczka do nosa, chusteczka"
+        },
+        {
+          "id": "d",
+          "text": "sos"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„formula” (rzeczownik, poziom B1) oznacza po polsku „formuła, wzór”."
+    },
+    {
+      "id": "b1-vocabulary-11-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fuss”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożegnanie"
+        },
+        {
+          "id": "b",
+          "text": "zamieszanie, zawracanie głowy, histeria"
+        },
+        {
+          "id": "c",
+          "text": "dżentelmen"
+        },
+        {
+          "id": "d",
+          "text": "częstość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fuss” (rzeczownik, poziom B1) oznacza po polsku „zamieszanie, zawracanie głowy, histeria”."
+    },
+    {
+      "id": "b1-vocabulary-11-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „freshman”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piąty"
+        },
+        {
+          "id": "b",
+          "text": "nowy student, nowy"
+        },
+        {
+          "id": "c",
+          "text": "mróz"
+        },
+        {
+          "id": "d",
+          "text": "rezultat, stwierdzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„freshman” (rzeczownik, poziom B1) oznacza po polsku „nowy student, nowy”."
+    },
+    {
+      "id": "b1-vocabulary-11-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gall”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bramkarz"
+        },
+        {
+          "id": "b",
+          "text": "absolwent"
+        },
+        {
+          "id": "c",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "d",
+          "text": "żółć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gall” (rzeczownik, poziom B1) oznacza po polsku „żółć”."
+    },
+    {
+      "id": "b1-vocabulary-11-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „foundation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żółć"
+        },
+        {
+          "id": "b",
+          "text": "strój"
+        },
+        {
+          "id": "c",
+          "text": "fundament"
+        },
+        {
+          "id": "d",
+          "text": "pożegnanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„foundation” (rzeczownik, poziom B1) oznacza po polsku „fundament”."
+    },
+    {
+      "id": "b1-vocabulary-11-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „forehead”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "flet"
+        },
+        {
+          "id": "b",
+          "text": "przewodnik turystyczny, przewodnik"
+        },
+        {
+          "id": "c",
+          "text": "czoło"
+        },
+        {
+          "id": "d",
+          "text": "suknia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„forehead” (rzeczownik, poziom B1) oznacza po polsku „czoło”."
+    },
+    {
+      "id": "b1-vocabulary-11-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzrost, zysk"
+        },
+        {
+          "id": "b",
+          "text": "bramkarz"
+        },
+        {
+          "id": "c",
+          "text": "ruszt"
+        },
+        {
+          "id": "d",
+          "text": "fantazjowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gain” (rzeczownik, poziom B1) oznacza po polsku „wzrost, zysk”."
+    },
+    {
+      "id": "b1-vocabulary-11-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „frying pan”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przemykać się, prześlizgiwać się"
+        },
+        {
+          "id": "b",
+          "text": "patelnia"
+        },
+        {
+          "id": "c",
+          "text": "funkcja, zadanie"
+        },
+        {
+          "id": "d",
+          "text": "przypuszczenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„frying pan” (rzeczownik, poziom B1) oznacza po polsku „patelnia”."
+    },
+    {
+      "id": "b1-vocabulary-11-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „function”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dwa tygodnie"
+        },
+        {
+          "id": "b",
+          "text": "wina, poczucie winy"
+        },
+        {
+          "id": "c",
+          "text": "gracz w golfa"
+        },
+        {
+          "id": "d",
+          "text": "funkcja, zadanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„function” (rzeczownik, poziom B1) oznacza po polsku „funkcja, zadanie”."
+    },
+    {
+      "id": "b1-vocabulary-11-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „format”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piąty"
+        },
+        {
+          "id": "b",
+          "text": "format"
+        },
+        {
+          "id": "c",
+          "text": "geografia"
+        },
+        {
+          "id": "d",
+          "text": "prom"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„format” (rzeczownik, poziom B1) oznacza po polsku „format”."
+    },
+    {
+      "id": "b1-vocabulary-11-051",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gossip”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pismo odręczne"
+        },
+        {
+          "id": "b",
+          "text": "lud"
+        },
+        {
+          "id": "c",
+          "text": "plotka"
+        },
+        {
+          "id": "d",
+          "text": "ruszt"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gossip” (rzeczownik, poziom B1) oznacza po polsku „plotka”."
+    },
+    {
+      "id": "b1-vocabulary-11-052",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „golfer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wdzięczność"
+        },
+        {
+          "id": "b",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        },
+        {
+          "id": "c",
+          "text": "smak"
+        },
+        {
+          "id": "d",
+          "text": "gracz w golfa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„golfer” (rzeczownik, poziom B1) oznacza po polsku „gracz w golfa”."
+    },
+    {
+      "id": "b1-vocabulary-11-053",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „giggle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sala gimnastyczna"
+        },
+        {
+          "id": "b",
+          "text": "fryzjer"
+        },
+        {
+          "id": "c",
+          "text": "ogień sztuczny, fajerwerk"
+        },
+        {
+          "id": "d",
+          "text": "chichot"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„giggle” (rzeczownik, poziom B1) oznacza po polsku „chichot”."
+    },
+    {
+      "id": "b1-vocabulary-11-054",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „graduation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prognoza"
+        },
+        {
+          "id": "b",
+          "text": "zakończenie studiów, zakończenie"
+        },
+        {
+          "id": "c",
+          "text": "zdolność, łatwość"
+        },
+        {
+          "id": "d",
+          "text": "chusteczka do nosa, chusteczka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„graduation” (rzeczownik, poziom B1) oznacza po polsku „zakończenie studiów, zakończenie”."
+    },
+    {
+      "id": "b1-vocabulary-11-055",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gap”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodatek"
+        },
+        {
+          "id": "b",
+          "text": "gen"
+        },
+        {
+          "id": "c",
+          "text": "przypuszczenie"
+        },
+        {
+          "id": "d",
+          "text": "przerwa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gap” (rzeczownik, poziom B1) oznacza po polsku „przerwa”."
+    },
+    {
+      "id": "b1-vocabulary-11-056",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „goddess”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chichot"
+        },
+        {
+          "id": "b",
+          "text": "zakończenie studiów, zakończenie"
+        },
+        {
+          "id": "c",
+          "text": "uścisk dłoni"
+        },
+        {
+          "id": "d",
+          "text": "bogini"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„goddess” (rzeczownik, poziom B1) oznacza po polsku „bogini”."
+    },
+    {
+      "id": "b1-vocabulary-11-057",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gorilla”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "goryl"
+        },
+        {
+          "id": "b",
+          "text": "zamrażarka, zamrażalnik"
+        },
+        {
+          "id": "c",
+          "text": "absolwent"
+        },
+        {
+          "id": "d",
+          "text": "(BR) wesołe miasteczko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gorilla” (rzeczownik, poziom B1) oznacza po polsku „goryl”."
+    },
+    {
+      "id": "b1-vocabulary-11-058",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „glance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykres, graf"
+        },
+        {
+          "id": "b",
+          "text": "gest"
+        },
+        {
+          "id": "c",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "d",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„glance” (rzeczownik, poziom B1) oznacza po polsku „spojrzenie”."
+    },
+    {
+      "id": "b1-vocabulary-11-059",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „governor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        },
+        {
+          "id": "b",
+          "text": "dżentelmen"
+        },
+        {
+          "id": "c",
+          "text": "gubernator"
+        },
+        {
+          "id": "d",
+          "text": "rezultat, stwierdzenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„governor” (rzeczownik, poziom B1) oznacza po polsku „gubernator”."
+    },
+    {
+      "id": "b1-vocabulary-11-060",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „glide”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezultat, stwierdzenie"
+        },
+        {
+          "id": "b",
+          "text": "fryzjer"
+        },
+        {
+          "id": "c",
+          "text": "bogini"
+        },
+        {
+          "id": "d",
+          "text": "przemykać się, prześlizgiwać się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„glide” (rzeczownik, poziom B1) oznacza po polsku „przemykać się, prześlizgiwać się”."
+    },
+    {
+      "id": "b1-vocabulary-11-061",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „graduate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przypuszczenie"
+        },
+        {
+          "id": "b",
+          "text": "zgrupowanie, grupa"
+        },
+        {
+          "id": "c",
+          "text": "absolwent"
+        },
+        {
+          "id": "d",
+          "text": "fundament"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„graduate” (rzeczownik, poziom B1) oznacza po polsku „absolwent”."
+    },
+    {
+      "id": "b1-vocabulary-11-062",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „goalkeeper”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sierść"
+        },
+        {
+          "id": "b",
+          "text": "bramkarz"
+        },
+        {
+          "id": "c",
+          "text": "czoło"
+        },
+        {
+          "id": "d",
+          "text": "rzut oka, spojrzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„goalkeeper” (rzeczownik, poziom B1) oznacza po polsku „bramkarz”."
+    },
+    {
+      "id": "b1-vocabulary-11-063",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „garment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potok"
+        },
+        {
+          "id": "b",
+          "text": "funkcja, zadanie"
+        },
+        {
+          "id": "c",
+          "text": "przemykać się, prześlizgiwać się"
+        },
+        {
+          "id": "d",
+          "text": "strój"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„garment” (rzeczownik, poziom B1) oznacza po polsku „strój”."
+    },
+    {
+      "id": "b1-vocabulary-11-064",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „giraffe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fontanna"
+        },
+        {
+          "id": "b",
+          "text": "żyrafa"
+        },
+        {
+          "id": "c",
+          "text": "potok"
+        },
+        {
+          "id": "d",
+          "text": "zakończenie studiów, zakończenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„giraffe” (rzeczownik, poziom B1) oznacza po polsku „żyrafa”."
+    },
+    {
+      "id": "b1-vocabulary-11-065",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gesture”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gest"
+        },
+        {
+          "id": "b",
+          "text": "sierść"
+        },
+        {
+          "id": "c",
+          "text": "ruszt"
+        },
+        {
+          "id": "d",
+          "text": "strach, przestrach"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gesture” (rzeczownik, poziom B1) oznacza po polsku „gest”."
+    },
+    {
+      "id": "b1-vocabulary-11-066",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „glimpse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grób"
+        },
+        {
+          "id": "b",
+          "text": "przewodnik turystyczny, przewodnik"
+        },
+        {
+          "id": "c",
+          "text": "uścisk dłoni"
+        },
+        {
+          "id": "d",
+          "text": "rzut oka, spojrzenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„glimpse” (rzeczownik, poziom B1) oznacza po polsku „rzut oka, spojrzenie”."
+    },
+    {
+      "id": "b1-vocabulary-11-067",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gown”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czoło"
+        },
+        {
+          "id": "b",
+          "text": "suknia"
+        },
+        {
+          "id": "c",
+          "text": "funkcja, zadanie"
+        },
+        {
+          "id": "d",
+          "text": "ziemia uprawna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„gown” (rzeczownik, poziom B1) oznacza po polsku „suknia”."
+    },
+    {
+      "id": "b1-vocabulary-11-068",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ginger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gest"
+        },
+        {
+          "id": "b",
+          "text": "pożegnanie"
+        },
+        {
+          "id": "c",
+          "text": "zamieszanie, zawracanie głowy, histeria"
+        },
+        {
+          "id": "d",
+          "text": "imbir"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ginger” (rzeczownik, poziom B1) oznacza po polsku „imbir”."
+    },
+    {
+      "id": "b1-vocabulary-11-069",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gene”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "faks"
+        },
+        {
+          "id": "b",
+          "text": "gen"
+        },
+        {
+          "id": "c",
+          "text": "przemykać się, prześlizgiwać się"
+        },
+        {
+          "id": "d",
+          "text": "strach, przestrach"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„gene” (rzeczownik, poziom B1) oznacza po polsku „gen”."
+    },
+    {
+      "id": "b1-vocabulary-11-070",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „geology”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "geologia"
+        },
+        {
+          "id": "b",
+          "text": "szklarnia"
+        },
+        {
+          "id": "c",
+          "text": "sława, chwała"
+        },
+        {
+          "id": "d",
+          "text": "funkcja, zadanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„geology” (rzeczownik, poziom B1) oznacza po polsku „geologia”."
+    },
+    {
+      "id": "b1-vocabulary-11-071",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gentleman”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dżentelmen"
+        },
+        {
+          "id": "b",
+          "text": "(BR) wesołe miasteczko"
+        },
+        {
+          "id": "c",
+          "text": "wdzięczność"
+        },
+        {
+          "id": "d",
+          "text": "faks"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gentleman” (rzeczownik, poziom B1) oznacza po polsku „dżentelmen”."
+    },
+    {
+      "id": "b1-vocabulary-11-072",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „glint”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzrok"
+        },
+        {
+          "id": "b",
+          "text": "rolnictwo, gospodarka"
+        },
+        {
+          "id": "c",
+          "text": "strach, przestrach"
+        },
+        {
+          "id": "d",
+          "text": "błysk, lśnienie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„glint” (rzeczownik, poziom B1) oznacza po polsku „błysk, lśnienie”."
+    },
+    {
+      "id": "b1-vocabulary-11-073",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „geography”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "suknia"
+        },
+        {
+          "id": "b",
+          "text": "zamrażarka, zamrażalnik"
+        },
+        {
+          "id": "c",
+          "text": "stado"
+        },
+        {
+          "id": "d",
+          "text": "geografia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„geography” (rzeczownik, poziom B1) oznacza po polsku „geografia”."
+    },
+    {
+      "id": "b1-vocabulary-11-074",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „glory”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sława, chwała"
+        },
+        {
+          "id": "b",
+          "text": "szklarnia"
+        },
+        {
+          "id": "c",
+          "text": "faks"
+        },
+        {
+          "id": "d",
+          "text": "stado"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„glory” (rzeczownik, poziom B1) oznacza po polsku „sława, chwała”."
+    },
+    {
+      "id": "b1-vocabulary-11-075",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „genetics”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zakończenie studiów, zakończenie"
+        },
+        {
+          "id": "b",
+          "text": "dwa tygodnie"
+        },
+        {
+          "id": "c",
+          "text": "genetyka"
+        },
+        {
+          "id": "d",
+          "text": "pomoc"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„genetics” (rzeczownik, poziom B1) oznacza po polsku „genetyka”."
+    },
+    {
+      "id": "b1-vocabulary-11-076",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „handwriting”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pismo odręczne"
+        },
+        {
+          "id": "b",
+          "text": "uścisk dłoni"
+        },
+        {
+          "id": "c",
+          "text": "sala gimnastyczna"
+        },
+        {
+          "id": "d",
+          "text": "żółć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„handwriting” (rzeczownik, poziom B1) oznacza po polsku „pismo odręczne”."
+    },
+    {
+      "id": "b1-vocabulary-11-077",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guidance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomoc"
+        },
+        {
+          "id": "b",
+          "text": "potok"
+        },
+        {
+          "id": "c",
+          "text": "zgrupowanie, grupa"
+        },
+        {
+          "id": "d",
+          "text": "ruszt"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„guidance” (rzeczownik, poziom B1) oznacza po polsku „pomoc”."
+    },
+    {
+      "id": "b1-vocabulary-11-078",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hairdryer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żółć"
+        },
+        {
+          "id": "b",
+          "text": "wdzięczność"
+        },
+        {
+          "id": "c",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "d",
+          "text": "suszarka do włosów, suszarka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hairdryer” (rzeczownik, poziom B1) oznacza po polsku „suszarka do włosów, suszarka”."
+    },
+    {
+      "id": "b1-vocabulary-11-079",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „handshake”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potok"
+        },
+        {
+          "id": "b",
+          "text": "bogini"
+        },
+        {
+          "id": "c",
+          "text": "uścisk dłoni"
+        },
+        {
+          "id": "d",
+          "text": "przyjęcie, uczta"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„handshake” (rzeczownik, poziom B1) oznacza po polsku „uścisk dłoni”."
+    },
+    {
+      "id": "b1-vocabulary-11-080",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hairdresser”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fryzjer"
+        },
+        {
+          "id": "b",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "c",
+          "text": "smak"
+        },
+        {
+          "id": "d",
+          "text": "dwa tygodnie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„hairdresser” (rzeczownik, poziom B1) oznacza po polsku „fryzjer”."
+    },
+    {
+      "id": "b1-vocabulary-11-081",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grouping”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przemykać się, prześlizgiwać się"
+        },
+        {
+          "id": "b",
+          "text": "zgrupowanie, grupa"
+        },
+        {
+          "id": "c",
+          "text": "wzrost, zysk"
+        },
+        {
+          "id": "d",
+          "text": "sława, chwała"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„grouping” (rzeczownik, poziom B1) oznacza po polsku „zgrupowanie, grupa”."
+    },
+    {
+      "id": "b1-vocabulary-11-082",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guilt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "geografia"
+        },
+        {
+          "id": "b",
+          "text": "wina, poczucie winy"
+        },
+        {
+          "id": "c",
+          "text": "dwa tygodnie"
+        },
+        {
+          "id": "d",
+          "text": "błysk, lśnienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„guilt” (rzeczownik, poziom B1) oznacza po polsku „wina, poczucie winy”."
+    },
+    {
+      "id": "b1-vocabulary-11-083",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hammer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "patelnia"
+        },
+        {
+          "id": "b",
+          "text": "młotek, młot"
+        },
+        {
+          "id": "c",
+          "text": "(producenta) gwarancja"
+        },
+        {
+          "id": "d",
+          "text": "czoło"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hammer” (rzeczownik, poziom B1) oznacza po polsku „młotek, młot”."
+    },
+    {
+      "id": "b1-vocabulary-11-084",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gratitude”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzrost"
+        },
+        {
+          "id": "b",
+          "text": "pan młody"
+        },
+        {
+          "id": "c",
+          "text": "żyrafa"
+        },
+        {
+          "id": "d",
+          "text": "wdzięczność"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gratitude” (rzeczownik, poziom B1) oznacza po polsku „wdzięczność”."
+    },
+    {
+      "id": "b1-vocabulary-11-085",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „growth”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "b",
+          "text": "wzrost"
+        },
+        {
+          "id": "c",
+          "text": "żółć"
+        },
+        {
+          "id": "d",
+          "text": "prognoza"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„growth” (rzeczownik, poziom B1) oznacza po polsku „wzrost”."
+    },
+    {
+      "id": "b1-vocabulary-11-086",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „graph”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żyrafa"
+        },
+        {
+          "id": "b",
+          "text": "siedlisko, habitat"
+        },
+        {
+          "id": "c",
+          "text": "zgrupowanie, grupa"
+        },
+        {
+          "id": "d",
+          "text": "wykres, graf"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„graph” (rzeczownik, poziom B1) oznacza po polsku „wykres, graf”."
+    },
+    {
+      "id": "b1-vocabulary-11-087",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gravy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sława, chwała"
+        },
+        {
+          "id": "b",
+          "text": "smak"
+        },
+        {
+          "id": "c",
+          "text": "sos"
+        },
+        {
+          "id": "d",
+          "text": "filtr"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gravy” (rzeczownik, poziom B1) oznacza po polsku „sos”."
+    },
+    {
+      "id": "b1-vocabulary-11-088",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guide”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "genetyka"
+        },
+        {
+          "id": "b",
+          "text": "geografia"
+        },
+        {
+          "id": "c",
+          "text": "przewodnik turystyczny, przewodnik"
+        },
+        {
+          "id": "d",
+          "text": "dodatek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„guide” (rzeczownik, poziom B1) oznacza po polsku „przewodnik turystyczny, przewodnik”."
+    },
+    {
+      "id": "b1-vocabulary-11-089",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gymnastics”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dwa tygodnie"
+        },
+        {
+          "id": "b",
+          "text": "zamrażarka, zamrażalnik"
+        },
+        {
+          "id": "c",
+          "text": "gimnastyka"
+        },
+        {
+          "id": "d",
+          "text": "absolwent"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gymnastics” (rzeczownik, poziom B1) oznacza po polsku „gimnastyka”."
+    },
+    {
+      "id": "b1-vocabulary-11-090",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gym”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sala gimnastyczna"
+        },
+        {
+          "id": "b",
+          "text": "rzut oka, spojrzenie"
+        },
+        {
+          "id": "c",
+          "text": "powitanie"
+        },
+        {
+          "id": "d",
+          "text": "dotacja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gym” (rzeczownik, poziom B1) oznacza po polsku „sala gimnastyczna”."
+    },
+    {
+      "id": "b1-vocabulary-11-091",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guess”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "suszarka do włosów, suszarka"
+        },
+        {
+          "id": "b",
+          "text": "przypuszczenie"
+        },
+        {
+          "id": "c",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "d",
+          "text": "rezultat, stwierdzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„guess” (rzeczownik, poziom B1) oznacza po polsku „przypuszczenie”."
+    },
+    {
+      "id": "b1-vocabulary-11-092",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „habitat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siedlisko, habitat"
+        },
+        {
+          "id": "b",
+          "text": "dżentelmen"
+        },
+        {
+          "id": "c",
+          "text": "plotka"
+        },
+        {
+          "id": "d",
+          "text": "strój"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„habitat” (rzeczownik, poziom B1) oznacza po polsku „siedlisko, habitat”."
+    },
+    {
+      "id": "b1-vocabulary-11-093",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „greeting”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piąty"
+        },
+        {
+          "id": "b",
+          "text": "sierść"
+        },
+        {
+          "id": "c",
+          "text": "wymarcie"
+        },
+        {
+          "id": "d",
+          "text": "powitanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„greeting” (rzeczownik, poziom B1) oznacza po polsku „powitanie”."
+    },
+    {
+      "id": "b1-vocabulary-11-094",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „greenhouse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pismo odręczne"
+        },
+        {
+          "id": "b",
+          "text": "szklarnia"
+        },
+        {
+          "id": "c",
+          "text": "ruszt"
+        },
+        {
+          "id": "d",
+          "text": "zakończenie studiów, zakończenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„greenhouse” (rzeczownik, poziom B1) oznacza po polsku „szklarnia”."
+    },
+    {
+      "id": "b1-vocabulary-11-095",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guarantee”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rzut oka, spojrzenie"
+        },
+        {
+          "id": "b",
+          "text": "zgrupowanie, grupa"
+        },
+        {
+          "id": "c",
+          "text": "(producenta) gwarancja"
+        },
+        {
+          "id": "d",
+          "text": "stado"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„guarantee” (rzeczownik, poziom B1) oznacza po polsku „(producenta) gwarancja”."
+    },
+    {
+      "id": "b1-vocabulary-11-096",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „handkerchief”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also funds) fundusze, fundusz, środki pieniężne"
+        },
+        {
+          "id": "b",
+          "text": "gimnastyka"
+        },
+        {
+          "id": "c",
+          "text": "suknia"
+        },
+        {
+          "id": "d",
+          "text": "chusteczka do nosa, chusteczka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„handkerchief” (rzeczownik, poziom B1) oznacza po polsku „chusteczka do nosa, chusteczka”."
+    },
+    {
+      "id": "b1-vocabulary-11-097",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grill”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(producenta) gwarancja"
+        },
+        {
+          "id": "b",
+          "text": "przypuszczenie"
+        },
+        {
+          "id": "c",
+          "text": "ruszt"
+        },
+        {
+          "id": "d",
+          "text": "lud"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„grill” (rzeczownik, poziom B1) oznacza po polsku „ruszt”."
+    },
+    {
+      "id": "b1-vocabulary-11-098",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „groom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "b",
+          "text": "paliwo"
+        },
+        {
+          "id": "c",
+          "text": "pan młody"
+        },
+        {
+          "id": "d",
+          "text": "prognoza"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„groom” (rzeczownik, poziom B1) oznacza po polsku „pan młody”."
+    },
+    {
+      "id": "b1-vocabulary-11-099",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grave”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyjęcie, uczta"
+        },
+        {
+          "id": "b",
+          "text": "gest"
+        },
+        {
+          "id": "c",
+          "text": "grób"
+        },
+        {
+          "id": "d",
+          "text": "przemykać się, prześlizgiwać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„grave” (rzeczownik, poziom B1) oznacza po polsku „grób”."
+    },
+    {
+      "id": "b1-vocabulary-11-100",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sos"
+        },
+        {
+          "id": "b",
+          "text": "nowy student, nowy"
+        },
+        {
+          "id": "c",
+          "text": "spojrzenie"
+        },
+        {
+          "id": "d",
+          "text": "dotacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„grant” (rzeczownik, poziom B1) oznacza po polsku „dotacja”."
+    }
+  ]
+}

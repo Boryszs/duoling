@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-vocabulary-04",
+    "name": "B1 — słownictwo 04"
+  },
+  "questions": [
+    {
+      "id": "b1-vocabulary-04-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „delightful”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "b",
+          "text": "bransoletka"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "d",
+          "text": "zachwycający, rozkoszny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„delightful” (przymiotnik, poziom B1) oznacza po polsku „zachwycający, rozkoszny”."
+    },
+    {
+      "id": "b1-vocabulary-04-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deaf”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nuda"
+        },
+        {
+          "id": "b",
+          "text": "wystawiać"
+        },
+        {
+          "id": "c",
+          "text": "kopać, wygrzebywać"
+        },
+        {
+          "id": "d",
+          "text": "głuchy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„deaf” (przymiotnik, poziom B1) oznacza po polsku „głuchy”."
+    },
+    {
+      "id": "b1-vocabulary-04-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „declare”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kopać, wygrzebywać"
+        },
+        {
+          "id": "b",
+          "text": "oznajmiać"
+        },
+        {
+          "id": "c",
+          "text": "przygnębiony"
+        },
+        {
+          "id": "d",
+          "text": "brokuły"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„declare” (czasownik, poziom B1) oznacza po polsku „oznajmiać”."
+    },
+    {
+      "id": "b1-vocabulary-04-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „date”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mosiądz"
+        },
+        {
+          "id": "b",
+          "text": "(wydarzenie) datować"
+        },
+        {
+          "id": "c",
+          "text": "odmienny, różnoraki"
+        },
+        {
+          "id": "d",
+          "text": "określony, sprecyzowany"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„date” (czasownik, poziom B1) oznacza po polsku „(wydarzenie) datować”."
+    },
+    {
+      "id": "b1-vocabulary-04-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „convey”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dramatyczny"
+        },
+        {
+          "id": "b",
+          "text": "odmienny, różnoraki"
+        },
+        {
+          "id": "c",
+          "text": "rumieniec"
+        },
+        {
+          "id": "d",
+          "text": "przekazywać, komunikować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„convey” (czasownik, poziom B1) oznacza po polsku „przekazywać, komunikować”."
+    },
+    {
+      "id": "b1-vocabulary-04-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „battle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasługiwać"
+        },
+        {
+          "id": "b",
+          "text": "bitwa, walka"
+        },
+        {
+          "id": "c",
+          "text": "dramatyczny"
+        },
+        {
+          "id": "d",
+          "text": "dewastować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„battle” (rzeczownik, poziom B1) oznacza po polsku „bitwa, walka”."
+    },
+    {
+      "id": "b1-vocabulary-04-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „definite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niszczycielski"
+        },
+        {
+          "id": "b",
+          "text": "określony, sprecyzowany"
+        },
+        {
+          "id": "c",
+          "text": "bezcłowy"
+        },
+        {
+          "id": "d",
+          "text": "definiować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„definite” (przymiotnik, poziom B1) oznacza po polsku „określony, sprecyzowany”."
+    },
+    {
+      "id": "b1-vocabulary-04-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „delicate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "delikatny"
+        },
+        {
+          "id": "b",
+          "text": "pozbawiać"
+        },
+        {
+          "id": "c",
+          "text": "obrzydliwy"
+        },
+        {
+          "id": "d",
+          "text": "broda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„delicate” (przymiotnik, poziom B1) oznacza po polsku „delikatny”."
+    },
+    {
+      "id": "b1-vocabulary-04-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „depressed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przygnębiony"
+        },
+        {
+          "id": "b",
+          "text": "dramatyczny"
+        },
+        {
+          "id": "c",
+          "text": "wiara, przekonanie"
+        },
+        {
+          "id": "d",
+          "text": "(also bothers) kłopoty, problem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„depressed” (przymiotnik, poziom B1) oznacza po polsku „przygnębiony”."
+    },
+    {
+      "id": "b1-vocabulary-04-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „convince”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oznajmiać"
+        },
+        {
+          "id": "b",
+          "text": "rozróżniać"
+        },
+        {
+          "id": "c",
+          "text": "zawierać"
+        },
+        {
+          "id": "d",
+          "text": "przekonywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„convince” (czasownik, poziom B1) oznacza po polsku „przekonywać”."
+    },
+    {
+      "id": "b1-vocabulary-04-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „basis”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zależny"
+        },
+        {
+          "id": "b",
+          "text": "podstawa"
+        },
+        {
+          "id": "c",
+          "text": "śmiertelny"
+        },
+        {
+          "id": "d",
+          "text": "poważny, zasadniczy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„basis” (rzeczownik, poziom B1) oznacza po polsku „podstawa”."
+    },
+    {
+      "id": "b1-vocabulary-04-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „consume”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konsumować"
+        },
+        {
+          "id": "b",
+          "text": "rumieniec"
+        },
+        {
+          "id": "c",
+          "text": "pracowity, staranny"
+        },
+        {
+          "id": "d",
+          "text": "chętny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„consume” (czasownik, poziom B1) oznacza po polsku „konsumować”."
+    },
+    {
+      "id": "b1-vocabulary-04-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „belief”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiara, przekonanie"
+        },
+        {
+          "id": "b",
+          "text": "audycja"
+        },
+        {
+          "id": "c",
+          "text": "chętny"
+        },
+        {
+          "id": "d",
+          "text": "poświęcać się, poświęcać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„belief” (rzeczownik, poziom B1) oznacza po polsku „wiara, przekonanie”."
+    },
+    {
+      "id": "b1-vocabulary-04-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „beast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odmienny, różnoraki"
+        },
+        {
+          "id": "b",
+          "text": "zwierzę"
+        },
+        {
+          "id": "c",
+          "text": "wystawiać"
+        },
+        {
+          "id": "d",
+          "text": "nuda"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„beast” (rzeczownik, poziom B1) oznacza po polsku „zwierzę”."
+    },
+    {
+      "id": "b1-vocabulary-04-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deadly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miejsce przy łóżku, przy łóżku"
+        },
+        {
+          "id": "b",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "c",
+          "text": "bóbr"
+        },
+        {
+          "id": "d",
+          "text": "śmiertelny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„deadly” (przymiotnik, poziom B1) oznacza po polsku „śmiertelny”."
+    },
+    {
+      "id": "b1-vocabulary-04-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „democratic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "delikatny"
+        },
+        {
+          "id": "b",
+          "text": "demokratyczny"
+        },
+        {
+          "id": "c",
+          "text": "broda"
+        },
+        {
+          "id": "d",
+          "text": "miejsce przy łóżku, przy łóżku"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„democratic” (przymiotnik, poziom B1) oznacza po polsku „demokratyczny”."
+    },
+    {
+      "id": "b1-vocabulary-04-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „contain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zawierać"
+        },
+        {
+          "id": "b",
+          "text": "dostarczać"
+        },
+        {
+          "id": "c",
+          "text": "brokuły"
+        },
+        {
+          "id": "d",
+          "text": "zachwycający, rozkoszny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„contain” (czasownik, poziom B1) oznacza po polsku „zawierać”."
+    },
+    {
+      "id": "b1-vocabulary-04-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) wymierzać"
+        },
+        {
+          "id": "b",
+          "text": "biskup"
+        },
+        {
+          "id": "c",
+          "text": "bitwa, walka"
+        },
+        {
+          "id": "d",
+          "text": "oznajmiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„deal” (czasownik, poziom B1) oznacza po polsku „(form) wymierzać”."
+    },
+    {
+      "id": "b1-vocabulary-04-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „beaver”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odjeżdżać"
+        },
+        {
+          "id": "b",
+          "text": "bóbr"
+        },
+        {
+          "id": "c",
+          "text": "topić się, tonąć"
+        },
+        {
+          "id": "d",
+          "text": "biologia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„beaver” (rzeczownik, poziom B1) oznacza po polsku „bóbr”."
+    },
+    {
+      "id": "b1-vocabulary-04-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dependent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektroniczny"
+        },
+        {
+          "id": "b",
+          "text": "przyczyniać się"
+        },
+        {
+          "id": "c",
+          "text": "zależny"
+        },
+        {
+          "id": "d",
+          "text": "elektryczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dependent” (przymiotnik, poziom B1) oznacza po polsku „zależny”."
+    },
+    {
+      "id": "b1-vocabulary-04-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „beard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarzut, potępienie"
+        },
+        {
+          "id": "b",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "c",
+          "text": "broda"
+        },
+        {
+          "id": "d",
+          "text": "cyfrowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„beard” (rzeczownik, poziom B1) oznacza po polsku „broda”."
+    },
+    {
+      "id": "b1-vocabulary-04-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bedside”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarzut, potępienie"
+        },
+        {
+          "id": "b",
+          "text": "miejsce przy łóżku, przy łóżku"
+        },
+        {
+          "id": "c",
+          "text": "więź"
+        },
+        {
+          "id": "d",
+          "text": "korzyść, pożytek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bedside” (rzeczownik, poziom B1) oznacza po polsku „miejsce przy łóżku, przy łóżku”."
+    },
+    {
+      "id": "b1-vocabulary-04-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „desperate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwierzę"
+        },
+        {
+          "id": "b",
+          "text": "poświęcać się, poświęcać"
+        },
+        {
+          "id": "c",
+          "text": "bransoletka"
+        },
+        {
+          "id": "d",
+          "text": "doprowadzony do ostateczności"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„desperate” (przymiotnik, poziom B1) oznacza po polsku „doprowadzony do ostateczności”."
+    },
+    {
+      "id": "b1-vocabulary-04-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „contribute”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "korzyść, pożytek"
+        },
+        {
+          "id": "b",
+          "text": "zachwycający, rozkoszny"
+        },
+        {
+          "id": "c",
+          "text": "przyczyniać się"
+        },
+        {
+          "id": "d",
+          "text": "głuchy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„contribute” (czasownik, poziom B1) oznacza po polsku „przyczyniać się”."
+    },
+    {
+      "id": "b1-vocabulary-04-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „benefit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "korzyść, pożytek"
+        },
+        {
+          "id": "b",
+          "text": "audycja"
+        },
+        {
+          "id": "c",
+          "text": "okaleczać"
+        },
+        {
+          "id": "d",
+          "text": "dostarczać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„benefit” (rzeczownik, poziom B1) oznacza po polsku „korzyść, pożytek”."
+    },
+    {
+      "id": "b1-vocabulary-04-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „diligent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "efektywny"
+        },
+        {
+          "id": "b",
+          "text": "pracowity, staranny"
+        },
+        {
+          "id": "c",
+          "text": "przyczyniać się"
+        },
+        {
+          "id": "d",
+          "text": "boks"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„diligent” (przymiotnik, poziom B1) oznacza po polsku „pracowity, staranny”."
+    },
+    {
+      "id": "b1-vocabulary-04-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dedicate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezcłowy"
+        },
+        {
+          "id": "b",
+          "text": "definiować"
+        },
+        {
+          "id": "c",
+          "text": "chętny"
+        },
+        {
+          "id": "d",
+          "text": "poświęcać się, poświęcać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dedicate” (czasownik, poziom B1) oznacza po polsku „poświęcać się, poświęcać”."
+    },
+    {
+      "id": "b1-vocabulary-04-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „define”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "definiować"
+        },
+        {
+          "id": "b",
+          "text": "wschodni"
+        },
+        {
+          "id": "c",
+          "text": "miejsce przy łóżku, przy łóżku"
+        },
+        {
+          "id": "d",
+          "text": "bitwa, walka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„define” (czasownik, poziom B1) oznacza po polsku „definiować”."
+    },
+    {
+      "id": "b1-vocabulary-04-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „demonstrate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bitwa, walka"
+        },
+        {
+          "id": "b",
+          "text": "wykazywać"
+        },
+        {
+          "id": "c",
+          "text": "topić się, tonąć"
+        },
+        {
+          "id": "d",
+          "text": "korzyść, pożytek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„demonstrate” (czasownik, poziom B1) oznacza po polsku „wykazywać”."
+    },
+    {
+      "id": "b1-vocabulary-04-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „delay”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "b",
+          "text": "zależny"
+        },
+        {
+          "id": "c",
+          "text": "zwierzę"
+        },
+        {
+          "id": "d",
+          "text": "opóźniać, zwlekać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„delay” (czasownik, poziom B1) oznacza po polsku „opóźniać, zwlekać”."
+    },
+    {
+      "id": "b1-vocabulary-04-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blame”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "okaleczać"
+        },
+        {
+          "id": "b",
+          "text": "podstawa"
+        },
+        {
+          "id": "c",
+          "text": "zarzut, potępienie"
+        },
+        {
+          "id": "d",
+          "text": "konsumować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blame” (rzeczownik, poziom B1) oznacza po polsku „zarzut, potępienie”."
+    },
+    {
+      "id": "b1-vocabulary-04-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bomb”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasługiwać"
+        },
+        {
+          "id": "b",
+          "text": "determinować"
+        },
+        {
+          "id": "c",
+          "text": "mosiądz"
+        },
+        {
+          "id": "d",
+          "text": "bomba, pocisk"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bomb” (rzeczownik, poziom B1) oznacza po polsku „bomba, pocisk”."
+    },
+    {
+      "id": "b1-vocabulary-04-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „distant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brokuły"
+        },
+        {
+          "id": "b",
+          "text": "odległy"
+        },
+        {
+          "id": "c",
+          "text": "pijany"
+        },
+        {
+          "id": "d",
+          "text": "kaleki, ułomny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distant” (przymiotnik, poziom B1) oznacza po polsku „odległy”."
+    },
+    {
+      "id": "b1-vocabulary-04-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bin”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oznajmiać"
+        },
+        {
+          "id": "b",
+          "text": "wiadro na śmieci, wiadro"
+        },
+        {
+          "id": "c",
+          "text": "nie cierpieć"
+        },
+        {
+          "id": "d",
+          "text": "ekonomiczny, gospodarczy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bin” (rzeczownik, poziom B1) oznacza po polsku „wiadro na śmieci, wiadro”."
+    },
+    {
+      "id": "b1-vocabulary-04-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „destructive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niszczycielski"
+        },
+        {
+          "id": "b",
+          "text": "usuwać, wymazywać"
+        },
+        {
+          "id": "c",
+          "text": "(form) wymierzać"
+        },
+        {
+          "id": "d",
+          "text": "wschodni"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„destructive” (przymiotnik, poziom B1) oznacza po polsku „niszczycielski”."
+    },
+    {
+      "id": "b1-vocabulary-04-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bond”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochodzić, wywodzić się"
+        },
+        {
+          "id": "b",
+          "text": "śmiertelny"
+        },
+        {
+          "id": "c",
+          "text": "zwierzę"
+        },
+        {
+          "id": "d",
+          "text": "więź"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bond” (rzeczownik, poziom B1) oznacza po polsku „więź”."
+    },
+    {
+      "id": "b1-vocabulary-04-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disabled”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwierzę"
+        },
+        {
+          "id": "b",
+          "text": "kaleki, ułomny"
+        },
+        {
+          "id": "c",
+          "text": "kształcić"
+        },
+        {
+          "id": "d",
+          "text": "przekazywać, komunikować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„disabled” (przymiotnik, poziom B1) oznacza po polsku „kaleki, ułomny”."
+    },
+    {
+      "id": "b1-vocabulary-04-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „defend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reżyserować"
+        },
+        {
+          "id": "b",
+          "text": "nuda"
+        },
+        {
+          "id": "c",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "d",
+          "text": "bronić"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„defend” (czasownik, poziom B1) oznacza po polsku „bronić”."
+    },
+    {
+      "id": "b1-vocabulary-04-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blessing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błogosławieństwo, dar Boży, dar"
+        },
+        {
+          "id": "b",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "c",
+          "text": "przekonywać"
+        },
+        {
+          "id": "d",
+          "text": "biskup"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„blessing” (rzeczownik, poziom B1) oznacza po polsku „błogosławieństwo, dar Boży, dar”."
+    },
+    {
+      "id": "b1-vocabulary-04-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blush”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rumieniec"
+        },
+        {
+          "id": "b",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "c",
+          "text": "pierś"
+        },
+        {
+          "id": "d",
+          "text": "doprowadzony do ostateczności"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„blush” (rzeczownik, poziom B1) oznacza po polsku „rumieniec”."
+    },
+    {
+      "id": "b1-vocabulary-04-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „biography”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekazywać, komunikować"
+        },
+        {
+          "id": "b",
+          "text": "nuda"
+        },
+        {
+          "id": "c",
+          "text": "biografia"
+        },
+        {
+          "id": "d",
+          "text": "bezcłowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„biography” (rzeczownik, poziom B1) oznacza po polsku „biografia”."
+    },
+    {
+      "id": "b1-vocabulary-04-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „delete”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "śmiertelny"
+        },
+        {
+          "id": "b",
+          "text": "demokratyczny"
+        },
+        {
+          "id": "c",
+          "text": "usuwać, wymazywać"
+        },
+        {
+          "id": "d",
+          "text": "(also bothers) kłopoty, problem"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„delete” (czasownik, poziom B1) oznacza po polsku „usuwać, wymazywać”."
+    },
+    {
+      "id": "b1-vocabulary-04-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deny”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nie cierpieć"
+        },
+        {
+          "id": "b",
+          "text": "zakurzony, zapylony"
+        },
+        {
+          "id": "c",
+          "text": "broda"
+        },
+        {
+          "id": "d",
+          "text": "zaprzeczać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„deny” (czasownik, poziom B1) oznacza po polsku „zaprzeczać”."
+    },
+    {
+      "id": "b1-vocabulary-04-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deliver”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostarczać"
+        },
+        {
+          "id": "b",
+          "text": "kaleki, ułomny"
+        },
+        {
+          "id": "c",
+          "text": "ekonomiczny, gospodarczy"
+        },
+        {
+          "id": "d",
+          "text": "miejsce przy łóżku, przy łóżku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„deliver” (czasownik, poziom B1) oznacza po polsku „dostarczać”."
+    },
+    {
+      "id": "b1-vocabulary-04-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „digital”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostarczać"
+        },
+        {
+          "id": "b",
+          "text": "granica, pogranicze"
+        },
+        {
+          "id": "c",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "d",
+          "text": "przekonywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„digital” (przymiotnik, poziom B1) oznacza po polsku „cyfrowy”."
+    },
+    {
+      "id": "b1-vocabulary-04-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disgusting”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "demokratyczny"
+        },
+        {
+          "id": "b",
+          "text": "biografia"
+        },
+        {
+          "id": "c",
+          "text": "obrzydliwy"
+        },
+        {
+          "id": "d",
+          "text": "okaleczać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disgusting” (przymiotnik, poziom B1) oznacza po polsku „obrzydliwy”."
+    },
+    {
+      "id": "b1-vocabulary-04-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bishop”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochodzić, wywodzić się"
+        },
+        {
+          "id": "b",
+          "text": "biskup"
+        },
+        {
+          "id": "c",
+          "text": "bóbr"
+        },
+        {
+          "id": "d",
+          "text": "bomba, pocisk"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bishop” (rzeczownik, poziom B1) oznacza po polsku „biskup”."
+    },
+    {
+      "id": "b1-vocabulary-04-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „diverse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odmienny, różnoraki"
+        },
+        {
+          "id": "b",
+          "text": "biografia"
+        },
+        {
+          "id": "c",
+          "text": "dewastować"
+        },
+        {
+          "id": "d",
+          "text": "obrzydliwy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„diverse” (przymiotnik, poziom B1) oznacza po polsku „odmienny, różnoraki”."
+    },
+    {
+      "id": "b1-vocabulary-04-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disastrous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "katastrofalny"
+        },
+        {
+          "id": "b",
+          "text": "poświęcać się, poświęcać"
+        },
+        {
+          "id": "c",
+          "text": "opóźniać, zwlekać"
+        },
+        {
+          "id": "d",
+          "text": "ekonomiczny, gospodarczy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disastrous” (przymiotnik, poziom B1) oznacza po polsku „katastrofalny”."
+    },
+    {
+      "id": "b1-vocabulary-04-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „biology”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyczyniać się"
+        },
+        {
+          "id": "b",
+          "text": "oznajmiać"
+        },
+        {
+          "id": "c",
+          "text": "biologia"
+        },
+        {
+          "id": "d",
+          "text": "poważny, zasadniczy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„biology” (rzeczownik, poziom B1) oznacza po polsku „biologia”."
+    },
+    {
+      "id": "b1-vocabulary-04-051",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „downward”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przełom"
+        },
+        {
+          "id": "b",
+          "text": "pracowity, staranny"
+        },
+        {
+          "id": "c",
+          "text": "w dół, na dół"
+        },
+        {
+          "id": "d",
+          "text": "mosiądz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„downward” (przymiotnik, poziom B1) oznacza po polsku „w dół, na dół”."
+    },
+    {
+      "id": "b1-vocabulary-04-052",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dusty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odmienny, różnoraki"
+        },
+        {
+          "id": "b",
+          "text": "zakurzony, zapylony"
+        },
+        {
+          "id": "c",
+          "text": "wydajny, efektywny"
+        },
+        {
+          "id": "d",
+          "text": "kopać, wygrzebywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dusty” (przymiotnik, poziom B1) oznacza po polsku „zakurzony, zapylony”."
+    },
+    {
+      "id": "b1-vocabulary-04-053",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bracelet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarzut, potępienie"
+        },
+        {
+          "id": "b",
+          "text": "efektywny"
+        },
+        {
+          "id": "c",
+          "text": "przekonywać"
+        },
+        {
+          "id": "d",
+          "text": "bransoletka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bracelet” (rzeczownik, poziom B1) oznacza po polsku „bransoletka”."
+    },
+    {
+      "id": "b1-vocabulary-04-054",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „direct”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biologia"
+        },
+        {
+          "id": "b",
+          "text": "dewastować"
+        },
+        {
+          "id": "c",
+          "text": "reżyserować"
+        },
+        {
+          "id": "d",
+          "text": "przekonywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„direct” (czasownik, poziom B1) oznacza po polsku „reżyserować”."
+    },
+    {
+      "id": "b1-vocabulary-04-055",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „depart”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boski"
+        },
+        {
+          "id": "b",
+          "text": "cegła"
+        },
+        {
+          "id": "c",
+          "text": "odjeżdżać"
+        },
+        {
+          "id": "d",
+          "text": "rozczarowywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„depart” (czasownik, poziom B1) oznacza po polsku „odjeżdżać”."
+    },
+    {
+      "id": "b1-vocabulary-04-056",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „derive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochodzić, wywodzić się"
+        },
+        {
+          "id": "b",
+          "text": "dostarczać"
+        },
+        {
+          "id": "c",
+          "text": "(also bothers) kłopoty, problem"
+        },
+        {
+          "id": "d",
+          "text": "głuchy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„derive” (czasownik, poziom B1) oznacza po polsku „pochodzić, wywodzić się”."
+    },
+    {
+      "id": "b1-vocabulary-04-057",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „duty-free”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezcłowy"
+        },
+        {
+          "id": "b",
+          "text": "efektywny"
+        },
+        {
+          "id": "c",
+          "text": "dostarczać"
+        },
+        {
+          "id": "d",
+          "text": "korzyść, pożytek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„duty-free” (przymiotnik, poziom B1) oznacza po polsku „bezcłowy”."
+    },
+    {
+      "id": "b1-vocabulary-04-058",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boredom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nuda"
+        },
+        {
+          "id": "b",
+          "text": "bomba, pocisk"
+        },
+        {
+          "id": "c",
+          "text": "błogosławieństwo, dar Boży, dar"
+        },
+        {
+          "id": "d",
+          "text": "bransoletka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„boredom” (rzeczownik, poziom B1) oznacza po polsku „nuda”."
+    },
+    {
+      "id": "b1-vocabulary-04-059",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bother”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykazywać"
+        },
+        {
+          "id": "b",
+          "text": "wiadro na śmieci, wiadro"
+        },
+        {
+          "id": "c",
+          "text": "miejsce przy łóżku, przy łóżku"
+        },
+        {
+          "id": "d",
+          "text": "(also bothers) kłopoty, problem"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bother” (rzeczownik, poziom B1) oznacza po polsku „(also bothers) kłopoty, problem”."
+    },
+    {
+      "id": "b1-vocabulary-04-060",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „drunk”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "b",
+          "text": "pijany"
+        },
+        {
+          "id": "c",
+          "text": "(also bothers) kłopoty, problem"
+        },
+        {
+          "id": "d",
+          "text": "wykazywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„drunk” (przymiotnik, poziom B1) oznacza po polsku „pijany”."
+    },
+    {
+      "id": "b1-vocabulary-04-061",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „booking”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nie cierpieć"
+        },
+        {
+          "id": "b",
+          "text": "kaleki, ułomny"
+        },
+        {
+          "id": "c",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "d",
+          "text": "dramatyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„booking” (rzeczownik, poziom B1) oznacza po polsku „rezerwacja”."
+    },
+    {
+      "id": "b1-vocabulary-04-062",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boxing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "b",
+          "text": "chętny"
+        },
+        {
+          "id": "c",
+          "text": "boks"
+        },
+        {
+          "id": "d",
+          "text": "usuwać, wymazywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„boxing” (rzeczownik, poziom B1) oznacza po polsku „boks”."
+    },
+    {
+      "id": "b1-vocabulary-04-063",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „border”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "granica, pogranicze"
+        },
+        {
+          "id": "b",
+          "text": "wiara, przekonanie"
+        },
+        {
+          "id": "c",
+          "text": "błogosławieństwo, dar Boży, dar"
+        },
+        {
+          "id": "d",
+          "text": "boom, koniunktura"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„border” (rzeczownik, poziom B1) oznacza po polsku „granica, pogranicze”."
+    },
+    {
+      "id": "b1-vocabulary-04-064",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deserve”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) wymierzać"
+        },
+        {
+          "id": "b",
+          "text": "okaleczać"
+        },
+        {
+          "id": "c",
+          "text": "zasługiwać"
+        },
+        {
+          "id": "d",
+          "text": "wschodni"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„deserve” (czasownik, poziom B1) oznacza po polsku „zasługiwać”."
+    },
+    {
+      "id": "b1-vocabulary-04-065",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „divine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boski"
+        },
+        {
+          "id": "b",
+          "text": "dostarczać"
+        },
+        {
+          "id": "c",
+          "text": "odjeżdżać"
+        },
+        {
+          "id": "d",
+          "text": "zachwycający, rozkoszny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„divine” (przymiotnik, poziom B1) oznacza po polsku „boski”."
+    },
+    {
+      "id": "b1-vocabulary-04-066",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „downstairs”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spokojny, łagodny"
+        },
+        {
+          "id": "b",
+          "text": "obrzydliwy"
+        },
+        {
+          "id": "c",
+          "text": "przełom"
+        },
+        {
+          "id": "d",
+          "text": "parterowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„downstairs” (przymiotnik, poziom B1) oznacza po polsku „parterowy”."
+    },
+    {
+      "id": "b1-vocabulary-04-067",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boot”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opóźniać, zwlekać"
+        },
+        {
+          "id": "b",
+          "text": "spokojny, łagodny"
+        },
+        {
+          "id": "c",
+          "text": "but, kozaczek"
+        },
+        {
+          "id": "d",
+          "text": "dewastować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„boot” (rzeczownik, poziom B1) oznacza po polsku „but, kozaczek”."
+    },
+    {
+      "id": "b1-vocabulary-04-068",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dramatic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chętny"
+        },
+        {
+          "id": "b",
+          "text": "dramatyczny"
+        },
+        {
+          "id": "c",
+          "text": "bomba, pocisk"
+        },
+        {
+          "id": "d",
+          "text": "niszczycielski"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dramatic” (przymiotnik, poziom B1) oznacza po polsku „dramatyczny”."
+    },
+    {
+      "id": "b1-vocabulary-04-069",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „determine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "determinować"
+        },
+        {
+          "id": "b",
+          "text": "poważny, zasadniczy"
+        },
+        {
+          "id": "c",
+          "text": "przełom"
+        },
+        {
+          "id": "d",
+          "text": "określony, sprecyzowany"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„determine” (czasownik, poziom B1) oznacza po polsku „determinować”."
+    },
+    {
+      "id": "b1-vocabulary-04-070",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deprive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odległy"
+        },
+        {
+          "id": "b",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "c",
+          "text": "wiadro na śmieci, wiadro"
+        },
+        {
+          "id": "d",
+          "text": "pozbawiać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„deprive” (czasownik, poziom B1) oznacza po polsku „pozbawiać”."
+    },
+    {
+      "id": "b1-vocabulary-04-071",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dull”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miejsce przy łóżku, przy łóżku"
+        },
+        {
+          "id": "b",
+          "text": "podstawa"
+        },
+        {
+          "id": "c",
+          "text": "zawierać"
+        },
+        {
+          "id": "d",
+          "text": "nudny, mdły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dull” (przymiotnik, poziom B1) oznacza po polsku „nudny, mdły”."
+    },
+    {
+      "id": "b1-vocabulary-04-072",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektryczny"
+        },
+        {
+          "id": "b",
+          "text": "wychowanie"
+        },
+        {
+          "id": "c",
+          "text": "błogosławieństwo, dar Boży, dar"
+        },
+        {
+          "id": "d",
+          "text": "okaleczać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„disable” (czasownik, poziom B1) oznacza po polsku „okaleczać”."
+    },
+    {
+      "id": "b1-vocabulary-04-073",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „devastate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biologia"
+        },
+        {
+          "id": "b",
+          "text": "dewastować"
+        },
+        {
+          "id": "c",
+          "text": "broda"
+        },
+        {
+          "id": "d",
+          "text": "parterowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„devastate” (czasownik, poziom B1) oznacza po polsku „dewastować”."
+    },
+    {
+      "id": "b1-vocabulary-04-074",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dig”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kaleki, ułomny"
+        },
+        {
+          "id": "b",
+          "text": "wydajny, efektywny"
+        },
+        {
+          "id": "c",
+          "text": "elektryczny"
+        },
+        {
+          "id": "d",
+          "text": "kopać, wygrzebywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dig” (czasownik, poziom B1) oznacza po polsku „kopać, wygrzebywać”."
+    },
+    {
+      "id": "b1-vocabulary-04-075",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) wymierzać"
+        },
+        {
+          "id": "b",
+          "text": "głuchy"
+        },
+        {
+          "id": "c",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "d",
+          "text": "wiadro na śmieci, wiadro"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„boom” (rzeczownik, poziom B1) oznacza po polsku „boom, koniunktura”."
+    },
+    {
+      "id": "b1-vocabulary-04-076",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „distinguish”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nuda"
+        },
+        {
+          "id": "b",
+          "text": "rozróżniać"
+        },
+        {
+          "id": "c",
+          "text": "przekonywać"
+        },
+        {
+          "id": "d",
+          "text": "topić się, tonąć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distinguish” (czasownik, poziom B1) oznacza po polsku „rozróżniać”."
+    },
+    {
+      "id": "b1-vocabulary-04-077",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „broccoli”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wystawiać"
+        },
+        {
+          "id": "b",
+          "text": "(also bothers) kłopoty, problem"
+        },
+        {
+          "id": "c",
+          "text": "rumieniec"
+        },
+        {
+          "id": "d",
+          "text": "brokuły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„broccoli” (rzeczownik, poziom B1) oznacza po polsku „brokuły”."
+    },
+    {
+      "id": "b1-vocabulary-04-078",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „discourage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) wymierzać"
+        },
+        {
+          "id": "b",
+          "text": "więź"
+        },
+        {
+          "id": "c",
+          "text": "korzyść, pożytek"
+        },
+        {
+          "id": "d",
+          "text": "zniechęcać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„discourage” (czasownik, poziom B1) oznacza po polsku „zniechęcać”."
+    },
+    {
+      "id": "b1-vocabulary-04-079",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brick”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "b",
+          "text": "cegła"
+        },
+        {
+          "id": "c",
+          "text": "rumieniec"
+        },
+        {
+          "id": "d",
+          "text": "elektryczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„brick” (rzeczownik, poziom B1) oznacza po polsku „cegła”."
+    },
+    {
+      "id": "b1-vocabulary-04-080",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „economic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konsumować"
+        },
+        {
+          "id": "b",
+          "text": "(also bothers) kłopoty, problem"
+        },
+        {
+          "id": "c",
+          "text": "ekonomiczny, gospodarczy"
+        },
+        {
+          "id": "d",
+          "text": "nuda"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„economic” (przymiotnik, poziom B1) oznacza po polsku „ekonomiczny, gospodarczy”."
+    },
+    {
+      "id": "b1-vocabulary-04-081",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „broadcast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cyfrowy"
+        },
+        {
+          "id": "b",
+          "text": "zwierzę"
+        },
+        {
+          "id": "c",
+          "text": "audycja"
+        },
+        {
+          "id": "d",
+          "text": "demokratyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„broadcast” (rzeczownik, poziom B1) oznacza po polsku „audycja”."
+    },
+    {
+      "id": "b1-vocabulary-04-082",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „display”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nudny, mdły"
+        },
+        {
+          "id": "b",
+          "text": "wystawiać"
+        },
+        {
+          "id": "c",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "d",
+          "text": "pochodzić, wywodzić się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„display” (czasownik, poziom B1) oznacza po polsku „wystawiać”."
+    },
+    {
+      "id": "b1-vocabulary-04-083",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „breath”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oddech"
+        },
+        {
+          "id": "b",
+          "text": "okaleczać"
+        },
+        {
+          "id": "c",
+          "text": "przekazywać, komunikować"
+        },
+        {
+          "id": "d",
+          "text": "zachwycający, rozkoszny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„breath” (rzeczownik, poziom B1) oznacza po polsku „oddech”."
+    },
+    {
+      "id": "b1-vocabulary-04-084",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „breast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oddech"
+        },
+        {
+          "id": "b",
+          "text": "zniechęcać"
+        },
+        {
+          "id": "c",
+          "text": "przygnębiony"
+        },
+        {
+          "id": "d",
+          "text": "pierś"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„breast” (rzeczownik, poziom B1) oznacza po polsku „pierś”."
+    },
+    {
+      "id": "b1-vocabulary-04-085",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „drown”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekazywać, komunikować"
+        },
+        {
+          "id": "b",
+          "text": "topić się, tonąć"
+        },
+        {
+          "id": "c",
+          "text": "boom, koniunktura"
+        },
+        {
+          "id": "d",
+          "text": "zaprzeczać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„drown” (czasownik, poziom B1) oznacza po polsku „topić się, tonąć”."
+    },
+    {
+      "id": "b1-vocabulary-04-086",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „electronic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zależny"
+        },
+        {
+          "id": "b",
+          "text": "elektryczny"
+        },
+        {
+          "id": "c",
+          "text": "efektywny"
+        },
+        {
+          "id": "d",
+          "text": "elektroniczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„electronic” (przymiotnik, poziom B1) oznacza po polsku „elektroniczny”."
+    },
+    {
+      "id": "b1-vocabulary-04-087",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „educate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niszczycielski"
+        },
+        {
+          "id": "b",
+          "text": "przekazywać, komunikować"
+        },
+        {
+          "id": "c",
+          "text": "zasługiwać"
+        },
+        {
+          "id": "d",
+          "text": "kształcić"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„educate” (czasownik, poziom B1) oznacza po polsku „kształcić”."
+    },
+    {
+      "id": "b1-vocabulary-04-088",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „breeding”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odległy"
+        },
+        {
+          "id": "b",
+          "text": "granica, pogranicze"
+        },
+        {
+          "id": "c",
+          "text": "dramatyczny"
+        },
+        {
+          "id": "d",
+          "text": "wychowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„breeding” (rzeczownik, poziom B1) oznacza po polsku „wychowanie”."
+    },
+    {
+      "id": "b1-vocabulary-04-089",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brass”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mosiądz"
+        },
+        {
+          "id": "b",
+          "text": "wystawiać"
+        },
+        {
+          "id": "c",
+          "text": "odmienny, różnoraki"
+        },
+        {
+          "id": "d",
+          "text": "(wydarzenie) datować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„brass” (rzeczownik, poziom B1) oznacza po polsku „mosiądz”."
+    },
+    {
+      "id": "b1-vocabulary-04-090",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „easy-going”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poświęcać się, poświęcać"
+        },
+        {
+          "id": "b",
+          "text": "dewastować"
+        },
+        {
+          "id": "c",
+          "text": "spokojny, łagodny"
+        },
+        {
+          "id": "d",
+          "text": "oznajmiać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„easy-going” (przymiotnik, poziom B1) oznacza po polsku „spokojny, łagodny”."
+    },
+    {
+      "id": "b1-vocabulary-04-091",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „eager”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kaleki, ułomny"
+        },
+        {
+          "id": "b",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "c",
+          "text": "chętny"
+        },
+        {
+          "id": "d",
+          "text": "głuchy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„eager” (przymiotnik, poziom B1) oznacza po polsku „chętny”."
+    },
+    {
+      "id": "b1-vocabulary-04-092",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „eastern”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezcłowy"
+        },
+        {
+          "id": "b",
+          "text": "pozbawiać"
+        },
+        {
+          "id": "c",
+          "text": "błogosławieństwo, dar Boży, dar"
+        },
+        {
+          "id": "d",
+          "text": "wschodni"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„eastern” (przymiotnik, poziom B1) oznacza po polsku „wschodni”."
+    },
+    {
+      "id": "b1-vocabulary-04-093",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dislike”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nie cierpieć"
+        },
+        {
+          "id": "b",
+          "text": "kształcić"
+        },
+        {
+          "id": "c",
+          "text": "delikatny"
+        },
+        {
+          "id": "d",
+          "text": "obrzydliwy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dislike” (czasownik, poziom B1) oznacza po polsku „nie cierpieć”."
+    },
+    {
+      "id": "b1-vocabulary-04-094",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „electrical”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elektryczny"
+        },
+        {
+          "id": "b",
+          "text": "przełom"
+        },
+        {
+          "id": "c",
+          "text": "zależny"
+        },
+        {
+          "id": "d",
+          "text": "przekonywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„electrical” (przymiotnik, poziom B1) oznacza po polsku „elektryczny”."
+    },
+    {
+      "id": "b1-vocabulary-04-095",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „efficient”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bronić"
+        },
+        {
+          "id": "b",
+          "text": "bezcłowy"
+        },
+        {
+          "id": "c",
+          "text": "wydajny, efektywny"
+        },
+        {
+          "id": "d",
+          "text": "broda"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„efficient” (przymiotnik, poziom B1) oznacza po polsku „wydajny, efektywny”."
+    },
+    {
+      "id": "b1-vocabulary-04-096",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „breakthrough”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nuda"
+        },
+        {
+          "id": "b",
+          "text": "chętny"
+        },
+        {
+          "id": "c",
+          "text": "przełom"
+        },
+        {
+          "id": "d",
+          "text": "biologia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„breakthrough” (rzeczownik, poziom B1) oznacza po polsku „przełom”."
+    },
+    {
+      "id": "b1-vocabulary-04-097",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disappoint”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also bothers) kłopoty, problem"
+        },
+        {
+          "id": "b",
+          "text": "granica, pogranicze"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "d",
+          "text": "nuda"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disappoint” (czasownik, poziom B1) oznacza po polsku „rozczarowywać”."
+    },
+    {
+      "id": "b1-vocabulary-04-098",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „distribute”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochodzić, wywodzić się"
+        },
+        {
+          "id": "b",
+          "text": "rozprowadzać"
+        },
+        {
+          "id": "c",
+          "text": "(wydarzenie) datować"
+        },
+        {
+          "id": "d",
+          "text": "rumieniec"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distribute” (czasownik, poziom B1) oznacza po polsku „rozprowadzać”."
+    },
+    {
+      "id": "b1-vocabulary-04-099",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „earnest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poważny, zasadniczy"
+        },
+        {
+          "id": "b",
+          "text": "okaleczać"
+        },
+        {
+          "id": "c",
+          "text": "miejsce przy łóżku, przy łóżku"
+        },
+        {
+          "id": "d",
+          "text": "pijany"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„earnest” (przymiotnik, poziom B1) oznacza po polsku „poważny, zasadniczy”."
+    },
+    {
+      "id": "b1-vocabulary-04-100",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „effective”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "określony, sprecyzowany"
+        },
+        {
+          "id": "b",
+          "text": "zasługiwać"
+        },
+        {
+          "id": "c",
+          "text": "zachwycający, rozkoszny"
+        },
+        {
+          "id": "d",
+          "text": "efektywny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„effective” (przymiotnik, poziom B1) oznacza po polsku „efektywny”."
+    }
+  ]
+}

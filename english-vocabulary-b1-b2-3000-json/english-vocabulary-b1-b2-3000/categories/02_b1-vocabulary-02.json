@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b1-vocabulary-02",
+    "name": "B1 — słownictwo 02"
+  },
+  "questions": [
+    {
+      "id": "b1-vocabulary-02-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „aid”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomoc"
+        },
+        {
+          "id": "b",
+          "text": "fabrycznie nowy"
+        },
+        {
+          "id": "c",
+          "text": "dostępny, osiągalny"
+        },
+        {
+          "id": "d",
+          "text": "grill"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„aid” (rzeczownik, poziom B1) oznacza po polsku „pomoc”."
+    },
+    {
+      "id": "b1-vocabulary-02-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „kindly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadyszany"
+        },
+        {
+          "id": "b",
+          "text": "wyznaczać"
+        },
+        {
+          "id": "c",
+          "text": "łaskawie"
+        },
+        {
+          "id": "d",
+          "text": "wstydzić się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„kindly” (przysłówek, poziom B1) oznacza po polsku „łaskawie”."
+    },
+    {
+      "id": "b1-vocabulary-02-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „arrange”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tylko, jedynie"
+        },
+        {
+          "id": "b",
+          "text": "atlantycki"
+        },
+        {
+          "id": "c",
+          "text": "organizować"
+        },
+        {
+          "id": "d",
+          "text": "mimo to"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„arrange” (czasownik, poziom B1) oznacza po polsku „organizować”."
+    },
+    {
+      "id": "b1-vocabulary-02-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „amazing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kąt"
+        },
+        {
+          "id": "b",
+          "text": "normalnie"
+        },
+        {
+          "id": "c",
+          "text": "zdumiewający"
+        },
+        {
+          "id": "d",
+          "text": "organizować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„amazing” (przymiotnik, poziom B1) oznacza po polsku „zdumiewający”."
+    },
+    {
+      "id": "b1-vocabulary-02-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „agenda”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łaskawie"
+        },
+        {
+          "id": "b",
+          "text": "atletyczny"
+        },
+        {
+          "id": "c",
+          "text": "zadyszany"
+        },
+        {
+          "id": "d",
+          "text": "rozkład dnia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„agenda” (rzeczownik, poziom B1) oznacza po polsku „rozkład dnia”."
+    },
+    {
+      "id": "b1-vocabulary-02-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „immediately”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w większości"
+        },
+        {
+          "id": "b",
+          "text": "mimo to"
+        },
+        {
+          "id": "c",
+          "text": "irytacja, rozzłoszczenie się"
+        },
+        {
+          "id": "d",
+          "text": "natychmiast"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„immediately” (przysłówek, poziom B1) oznacza po polsku „natychmiast”."
+    },
+    {
+      "id": "b1-vocabulary-02-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „indoors”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wewnątrz"
+        },
+        {
+          "id": "b",
+          "text": "najmniej"
+        },
+        {
+          "id": "c",
+          "text": "zdumiewający"
+        },
+        {
+          "id": "d",
+          "text": "(o przejściu) blokować, barykadować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„indoors” (przysłówek, poziom B1) oznacza po polsku „wewnątrz”."
+    },
+    {
+      "id": "b1-vocabulary-02-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lately”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "b",
+          "text": "naturalnie"
+        },
+        {
+          "id": "c",
+          "text": "ostatnio"
+        },
+        {
+          "id": "d",
+          "text": "kojarzyć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lately” (przysłówek, poziom B1) oznacza po polsku „ostatnio”."
+    },
+    {
+      "id": "b1-vocabulary-02-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „agriculture”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powstawać"
+        },
+        {
+          "id": "b",
+          "text": "goły"
+        },
+        {
+          "id": "c",
+          "text": "ożywiony"
+        },
+        {
+          "id": "d",
+          "text": "rolnictwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„agriculture” (rzeczownik, poziom B1) oznacza po polsku „rolnictwo”."
+    },
+    {
+      "id": "b1-vocabulary-02-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „arm”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "najmniej"
+        },
+        {
+          "id": "b",
+          "text": "karetka, ambulans"
+        },
+        {
+          "id": "c",
+          "text": "uznanie"
+        },
+        {
+          "id": "d",
+          "text": "ramię, ręka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„arm” (czasownik, poziom B1) oznacza po polsku „ramię, ręka”."
+    },
+    {
+      "id": "b1-vocabulary-02-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „annual”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inaczej"
+        },
+        {
+          "id": "b",
+          "text": "coroczny"
+        },
+        {
+          "id": "c",
+          "text": "gryźć, kąsać"
+        },
+        {
+          "id": "d",
+          "text": "pomocniczy, dodatkowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„annual” (przymiotnik, poziom B1) oznacza po polsku „coroczny”."
+    },
+    {
+      "id": "b1-vocabulary-02-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „artistic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odbijać"
+        },
+        {
+          "id": "b",
+          "text": "(o przejściu) blokować, barykadować"
+        },
+        {
+          "id": "c",
+          "text": "artystyczny"
+        },
+        {
+          "id": "d",
+          "text": "mrówka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„artistic” (przymiotnik, poziom B1) oznacza po polsku „artystyczny”."
+    },
+    {
+      "id": "b1-vocabulary-02-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „apparent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "naturalnie"
+        },
+        {
+          "id": "b",
+          "text": "niezręczny"
+        },
+        {
+          "id": "c",
+          "text": "pozorny"
+        },
+        {
+          "id": "d",
+          "text": "prośba o wybaczenie, przeprosiny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„apparent” (przymiotnik, poziom B1) oznacza po polsku „pozorny”."
+    },
+    {
+      "id": "b1-vocabulary-02-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „assign”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niepokój"
+        },
+        {
+          "id": "b",
+          "text": "niezręczny"
+        },
+        {
+          "id": "c",
+          "text": "wyznaczać"
+        },
+        {
+          "id": "d",
+          "text": "kąt"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„assign” (czasownik, poziom B1) oznacza po polsku „wyznaczać”."
+    },
+    {
+      "id": "b1-vocabulary-02-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „increasingly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aplauz, oklaski"
+        },
+        {
+          "id": "b",
+          "text": "coraz bardziej"
+        },
+        {
+          "id": "c",
+          "text": "tymczasem"
+        },
+        {
+          "id": "d",
+          "text": "niepokój"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„increasingly” (przysłówek, poziom B1) oznacza po polsku „coraz bardziej”."
+    },
+    {
+      "id": "b1-vocabulary-02-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „airline”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "linia lotnicza"
+        },
+        {
+          "id": "b",
+          "text": "gniew"
+        },
+        {
+          "id": "c",
+          "text": "ukochany"
+        },
+        {
+          "id": "d",
+          "text": "stawiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„airline” (rzeczownik, poziom B1) oznacza po polsku „linia lotnicza”."
+    },
+    {
+      "id": "b1-vocabulary-02-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „largely”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w większości"
+        },
+        {
+          "id": "b",
+          "text": "pozorny"
+        },
+        {
+          "id": "c",
+          "text": "szczególnie"
+        },
+        {
+          "id": "d",
+          "text": "mrówka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„largely” (przysłówek, poziom B1) oznacza po polsku „w większości”."
+    },
+    {
+      "id": "b1-vocabulary-02-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „agreement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "apetyt"
+        },
+        {
+          "id": "b",
+          "text": "prośba o wybaczenie, przeprosiny"
+        },
+        {
+          "id": "c",
+          "text": "umowa"
+        },
+        {
+          "id": "d",
+          "text": "analiza"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„agreement” (rzeczownik, poziom B1) oznacza po polsku „umowa”."
+    },
+    {
+      "id": "b1-vocabulary-02-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ambitious”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochwalać"
+        },
+        {
+          "id": "b",
+          "text": "małpa człekokształtna"
+        },
+        {
+          "id": "c",
+          "text": "przebojowy"
+        },
+        {
+          "id": "d",
+          "text": "najmniej"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ambitious” (przymiotnik, poziom B1) oznacza po polsku „przebojowy”."
+    },
+    {
+      "id": "b1-vocabulary-02-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „aim”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(co się podoba) atrakcja, urok"
+        },
+        {
+          "id": "b",
+          "text": "cel"
+        },
+        {
+          "id": "c",
+          "text": "rozkład dnia"
+        },
+        {
+          "id": "d",
+          "text": "naturalnie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„aim” (rzeczownik, poziom B1) oznacza po polsku „cel”."
+    },
+    {
+      "id": "b1-vocabulary-02-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „approve”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zabawny"
+        },
+        {
+          "id": "b",
+          "text": "krótki"
+        },
+        {
+          "id": "c",
+          "text": "zdumiewający"
+        },
+        {
+          "id": "d",
+          "text": "pochwalać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„approve” (czasownik, poziom B1) oznacza po polsku „pochwalać”."
+    },
+    {
+      "id": "b1-vocabulary-02-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „arise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tylko, jedynie"
+        },
+        {
+          "id": "b",
+          "text": "naturalnie"
+        },
+        {
+          "id": "c",
+          "text": "gorzki"
+        },
+        {
+          "id": "d",
+          "text": "powstawać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„arise” (czasownik, poziom B1) oznacza po polsku „powstawać”."
+    },
+    {
+      "id": "b1-vocabulary-02-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „amusing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "b",
+          "text": "zabawny"
+        },
+        {
+          "id": "c",
+          "text": "atletyczny"
+        },
+        {
+          "id": "d",
+          "text": "osobiście"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„amusing” (przymiotnik, poziom B1) oznacza po polsku „zabawny”."
+    },
+    {
+      "id": "b1-vocabulary-02-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „assist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niepokój"
+        },
+        {
+          "id": "b",
+          "text": "gniew"
+        },
+        {
+          "id": "c",
+          "text": "pomagać"
+        },
+        {
+          "id": "d",
+          "text": "oczywiście"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„assist” (czasownik, poziom B1) oznacza po polsku „pomagać”."
+    },
+    {
+      "id": "b1-vocabulary-02-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „animated”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywiony"
+        },
+        {
+          "id": "b",
+          "text": "ostatnio"
+        },
+        {
+          "id": "c",
+          "text": "odważny"
+        },
+        {
+          "id": "d",
+          "text": "jednak, niemniej"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„animated” (przymiotnik, poziom B1) oznacza po polsku „ożywiony”."
+    },
+    {
+      "id": "b1-vocabulary-02-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ashamed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochwalać"
+        },
+        {
+          "id": "b",
+          "text": "opierać się"
+        },
+        {
+          "id": "c",
+          "text": "umowa"
+        },
+        {
+          "id": "d",
+          "text": "wstydzić się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ashamed” (przymiotnik, poziom B1) oznacza po polsku „wstydzić się”."
+    },
+    {
+      "id": "b1-vocabulary-02-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „naturally”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochwalać"
+        },
+        {
+          "id": "b",
+          "text": "grill"
+        },
+        {
+          "id": "c",
+          "text": "łaskawie"
+        },
+        {
+          "id": "d",
+          "text": "naturalnie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„naturally” (przysłówek, poziom B1) oznacza po polsku „naturalnie”."
+    },
+    {
+      "id": "b1-vocabulary-02-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „athletic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "atletyczny"
+        },
+        {
+          "id": "b",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "c",
+          "text": "usiłować"
+        },
+        {
+          "id": "d",
+          "text": "kojarzyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„athletic” (przymiotnik, poziom B1) oznacza po polsku „atletyczny”."
+    },
+    {
+      "id": "b1-vocabulary-02-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „alphabet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "alfabet"
+        },
+        {
+          "id": "b",
+          "text": "ilość"
+        },
+        {
+          "id": "c",
+          "text": "mrówka"
+        },
+        {
+          "id": "d",
+          "text": "pomagać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„alphabet” (rzeczownik, poziom B1) oznacza po polsku „alfabet”."
+    },
+    {
+      "id": "b1-vocabulary-02-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nevertheless”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jednak, niemniej"
+        },
+        {
+          "id": "b",
+          "text": "natychmiast"
+        },
+        {
+          "id": "c",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "d",
+          "text": "w większości"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„nevertheless” (przysłówek, poziom B1) oznacza po polsku „jednak, niemniej”."
+    },
+    {
+      "id": "b1-vocabulary-02-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „associate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zabawny"
+        },
+        {
+          "id": "b",
+          "text": "prośba o wybaczenie, przeprosiny"
+        },
+        {
+          "id": "c",
+          "text": "kojarzyć"
+        },
+        {
+          "id": "d",
+          "text": "artystyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„associate” (czasownik, poziom B1) oznacza po polsku „kojarzyć”."
+    },
+    {
+      "id": "b1-vocabulary-02-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „attempt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasadniczo, przede wszystkim"
+        },
+        {
+          "id": "b",
+          "text": "krwawić"
+        },
+        {
+          "id": "c",
+          "text": "usiłować"
+        },
+        {
+          "id": "d",
+          "text": "stawiać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„attempt” (czasownik, poziom B1) oznacza po polsku „usiłować”."
+    },
+    {
+      "id": "b1-vocabulary-02-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „auxiliary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "coraz bardziej"
+        },
+        {
+          "id": "b",
+          "text": "pomocniczy, dodatkowy"
+        },
+        {
+          "id": "c",
+          "text": "stawiać"
+        },
+        {
+          "id": "d",
+          "text": "karetka, ambulans"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„auxiliary” (przymiotnik, poziom B1) oznacza po polsku „pomocniczy, dodatkowy”."
+    },
+    {
+      "id": "b1-vocabulary-02-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lightly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "beztrosko, lekkomyślnie"
+        },
+        {
+          "id": "b",
+          "text": "goły"
+        },
+        {
+          "id": "c",
+          "text": "kojarzyć"
+        },
+        {
+          "id": "d",
+          "text": "rozkład dnia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lightly” (przysłówek, poziom B1) oznacza po polsku „beztrosko, lekkomyślnie”."
+    },
+    {
+      "id": "b1-vocabulary-02-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „assume”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "małpa człekokształtna"
+        },
+        {
+          "id": "b",
+          "text": "błogosławić"
+        },
+        {
+          "id": "c",
+          "text": "zakładać, przypuszczać"
+        },
+        {
+          "id": "d",
+          "text": "gorzki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„assume” (czasownik, poziom B1) oznacza po polsku „zakładać, przypuszczać”."
+    },
+    {
+      "id": "b1-vocabulary-02-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „analysis”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "analiza"
+        },
+        {
+          "id": "b",
+          "text": "zdumiewający"
+        },
+        {
+          "id": "c",
+          "text": "powstawać"
+        },
+        {
+          "id": "d",
+          "text": "kojarzyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„analysis” (rzeczownik, poziom B1) oznacza po polsku „analiza”."
+    },
+    {
+      "id": "b1-vocabulary-02-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „least”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "atlantycki"
+        },
+        {
+          "id": "b",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "c",
+          "text": "wyznaczać"
+        },
+        {
+          "id": "d",
+          "text": "najmniej"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„least” (przysłówek, poziom B1) oznacza po polsku „najmniej”."
+    },
+    {
+      "id": "b1-vocabulary-02-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „atomic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tylko, jedynie"
+        },
+        {
+          "id": "b",
+          "text": "atomowy, nuklearny"
+        },
+        {
+          "id": "c",
+          "text": "organizować"
+        },
+        {
+          "id": "d",
+          "text": "naprzeciwko"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„atomic” (przymiotnik, poziom B1) oznacza po polsku „atomowy, nuklearny”."
+    },
+    {
+      "id": "b1-vocabulary-02-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „anger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gniew"
+        },
+        {
+          "id": "b",
+          "text": "gorzki"
+        },
+        {
+          "id": "c",
+          "text": "w większości"
+        },
+        {
+          "id": "d",
+          "text": "przyciągać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„anger” (rzeczownik, poziom B1) oznacza po polsku „gniew”."
+    },
+    {
+      "id": "b1-vocabulary-02-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „amount”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ilość"
+        },
+        {
+          "id": "b",
+          "text": "umowa"
+        },
+        {
+          "id": "c",
+          "text": "przyłączać, dołączać"
+        },
+        {
+          "id": "d",
+          "text": "cel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„amount” (rzeczownik, poziom B1) oznacza po polsku „ilość”."
+    },
+    {
+      "id": "b1-vocabulary-02-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „Atlantic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(np. w morzu) kąpać się"
+        },
+        {
+          "id": "b",
+          "text": "grill"
+        },
+        {
+          "id": "c",
+          "text": "atlantycki"
+        },
+        {
+          "id": "d",
+          "text": "opierać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„Atlantic” (przymiotnik, poziom B1) oznacza po polsku „atlantycki”."
+    },
+    {
+      "id": "b1-vocabulary-02-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „merely”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomocniczy, dodatkowy"
+        },
+        {
+          "id": "b",
+          "text": "tylko, jedynie"
+        },
+        {
+          "id": "c",
+          "text": "ślepy, niewidomy"
+        },
+        {
+          "id": "d",
+          "text": "normalnie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„merely” (przysłówek, poziom B1) oznacza po polsku „tylko, jedynie”."
+    },
+    {
+      "id": "b1-vocabulary-02-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „available”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyznaczać"
+        },
+        {
+          "id": "b",
+          "text": "inaczej"
+        },
+        {
+          "id": "c",
+          "text": "tymczasem"
+        },
+        {
+          "id": "d",
+          "text": "dostępny, osiągalny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„available” (przymiotnik, poziom B1) oznacza po polsku „dostępny, osiągalny”."
+    },
+    {
+      "id": "b1-vocabulary-02-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „allowance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jednak, niemniej"
+        },
+        {
+          "id": "b",
+          "text": "pozorny"
+        },
+        {
+          "id": "c",
+          "text": "zasiłek"
+        },
+        {
+          "id": "d",
+          "text": "dostępny, osiągalny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„allowance” (rzeczownik, poziom B1) oznacza po polsku „zasiłek”."
+    },
+    {
+      "id": "b1-vocabulary-02-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „attain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasiłek"
+        },
+        {
+          "id": "b",
+          "text": "osiągać"
+        },
+        {
+          "id": "c",
+          "text": "(co się podoba) atrakcja, urok"
+        },
+        {
+          "id": "d",
+          "text": "niezręczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„attain” (czasownik, poziom B1) oznacza po polsku „osiągać”."
+    },
+    {
+      "id": "b1-vocabulary-02-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „meanwhile”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "b",
+          "text": "prośba o wybaczenie, przeprosiny"
+        },
+        {
+          "id": "c",
+          "text": "tymczasem"
+        },
+        {
+          "id": "d",
+          "text": "niepokój"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„meanwhile” (przysłówek, poziom B1) oznacza po polsku „tymczasem”."
+    },
+    {
+      "id": "b1-vocabulary-02-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „attend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rolnictwo"
+        },
+        {
+          "id": "b",
+          "text": "alfabet"
+        },
+        {
+          "id": "c",
+          "text": "oczywiście"
+        },
+        {
+          "id": "d",
+          "text": "uczestniczyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„attend” (czasownik, poziom B1) oznacza po polsku „uczestniczyć”."
+    },
+    {
+      "id": "b1-vocabulary-02-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ambulance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grill"
+        },
+        {
+          "id": "b",
+          "text": "przebojowy"
+        },
+        {
+          "id": "c",
+          "text": "rolnictwo"
+        },
+        {
+          "id": "d",
+          "text": "karetka, ambulans"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ambulance” (rzeczownik, poziom B1) oznacza po polsku „karetka, ambulans”."
+    },
+    {
+      "id": "b1-vocabulary-02-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „moreover”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powstawać"
+        },
+        {
+          "id": "b",
+          "text": "(występ) ogłaszać, reklamować"
+        },
+        {
+          "id": "c",
+          "text": "co więcej"
+        },
+        {
+          "id": "d",
+          "text": "wewnątrz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„moreover” (przysłówek, poziom B1) oznacza po polsku „co więcej”."
+    },
+    {
+      "id": "b1-vocabulary-02-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „attach”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(występ) ogłaszać, reklamować"
+        },
+        {
+          "id": "b",
+          "text": "przyłączać, dołączać"
+        },
+        {
+          "id": "c",
+          "text": "atletyczny"
+        },
+        {
+          "id": "d",
+          "text": "krótki"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„attach” (czasownik, poziom B1) oznacza po polsku „przyłączać, dołączać”."
+    },
+    {
+      "id": "b1-vocabulary-02-051",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „anxiety”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zabawny"
+        },
+        {
+          "id": "b",
+          "text": "niepokój"
+        },
+        {
+          "id": "c",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "d",
+          "text": "gniew"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„anxiety” (rzeczownik, poziom B1) oznacza po polsku „niepokój”."
+    },
+    {
+      "id": "b1-vocabulary-02-052",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „opposite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagradzać"
+        },
+        {
+          "id": "b",
+          "text": "zasiłek"
+        },
+        {
+          "id": "c",
+          "text": "naprzeciwko"
+        },
+        {
+          "id": "d",
+          "text": "podanie, zgłoszenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„opposite” (przysłówek, poziom B1) oznacza po polsku „naprzeciwko”."
+    },
+    {
+      "id": "b1-vocabulary-02-053",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „beloved”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "b",
+          "text": "artystyczny"
+        },
+        {
+          "id": "c",
+          "text": "beztrosko, lekkomyślnie"
+        },
+        {
+          "id": "d",
+          "text": "ukochany"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„beloved” (przymiotnik, poziom B1) oznacza po polsku „ukochany”."
+    },
+    {
+      "id": "b1-vocabulary-02-054",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nonetheless”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mrówka"
+        },
+        {
+          "id": "b",
+          "text": "apetyt"
+        },
+        {
+          "id": "c",
+          "text": "tymczasem"
+        },
+        {
+          "id": "d",
+          "text": "mimo to"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nonetheless” (przysłówek, poziom B1) oznacza po polsku „mimo to”."
+    },
+    {
+      "id": "b1-vocabulary-02-055",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ape”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "małpa człekokształtna"
+        },
+        {
+          "id": "b",
+          "text": "najmniej"
+        },
+        {
+          "id": "c",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "d",
+          "text": "inaczej"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ape” (rzeczownik, poziom B1) oznacza po polsku „małpa człekokształtna”."
+    },
+    {
+      "id": "b1-vocabulary-02-056",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „barbecue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasiłek"
+        },
+        {
+          "id": "b",
+          "text": "grill"
+        },
+        {
+          "id": "c",
+          "text": "zabawny"
+        },
+        {
+          "id": "d",
+          "text": "artystyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„barbecue” (czasownik, poziom B1) oznacza po polsku „grill”."
+    },
+    {
+      "id": "b1-vocabulary-02-057",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „awkward”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezręczny"
+        },
+        {
+          "id": "b",
+          "text": "ostatnio"
+        },
+        {
+          "id": "c",
+          "text": "ramię, ręka"
+        },
+        {
+          "id": "d",
+          "text": "natychmiast"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„awkward” (przymiotnik, poziom B1) oznacza po polsku „niezręczny”."
+    },
+    {
+      "id": "b1-vocabulary-02-058",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „base”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opierać się"
+        },
+        {
+          "id": "b",
+          "text": "pochwalać"
+        },
+        {
+          "id": "c",
+          "text": "artystyczny"
+        },
+        {
+          "id": "d",
+          "text": "ślepy, niewidomy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„base” (czasownik, poziom B1) oznacza po polsku „opierać się”."
+    },
+    {
+      "id": "b1-vocabulary-02-059",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „animation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "osobiście"
+        },
+        {
+          "id": "b",
+          "text": "ożywienie"
+        },
+        {
+          "id": "c",
+          "text": "ramię, ręka"
+        },
+        {
+          "id": "d",
+          "text": "pomoc"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„animation” (rzeczownik, poziom B1) oznacza po polsku „ożywienie”."
+    },
+    {
+      "id": "b1-vocabulary-02-060",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bare”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w większości"
+        },
+        {
+          "id": "b",
+          "text": "mimo to"
+        },
+        {
+          "id": "c",
+          "text": "kojarzyć"
+        },
+        {
+          "id": "d",
+          "text": "goły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bare” (przymiotnik, poziom B1) oznacza po polsku „goły”."
+    },
+    {
+      "id": "b1-vocabulary-02-061",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "małpa człekokształtna"
+        },
+        {
+          "id": "b",
+          "text": "rozkład dnia"
+        },
+        {
+          "id": "c",
+          "text": "alfabet"
+        },
+        {
+          "id": "d",
+          "text": "mrówka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ant” (rzeczownik, poziom B1) oznacza po polsku „mrówka”."
+    },
+    {
+      "id": "b1-vocabulary-02-062",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „announcement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasiłek"
+        },
+        {
+          "id": "b",
+          "text": "ślepy, niewidomy"
+        },
+        {
+          "id": "c",
+          "text": "zawiadomienie"
+        },
+        {
+          "id": "d",
+          "text": "najmniej"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„announcement” (rzeczownik, poziom B1) oznacza po polsku „zawiadomienie”."
+    },
+    {
+      "id": "b1-vocabulary-02-063",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nowhere”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grill"
+        },
+        {
+          "id": "b",
+          "text": "pomocniczy, dodatkowy"
+        },
+        {
+          "id": "c",
+          "text": "(co się podoba) atrakcja, urok"
+        },
+        {
+          "id": "d",
+          "text": "nigdzie, donikąd"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nowhere” (przysłówek, poziom B1) oznacza po polsku „nigdzie, donikąd”."
+    },
+    {
+      "id": "b1-vocabulary-02-064",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „newly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "b",
+          "text": "nowo"
+        },
+        {
+          "id": "c",
+          "text": "pozorny"
+        },
+        {
+          "id": "d",
+          "text": "naprzeciwko"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„newly” (przysłówek, poziom B1) oznacza po polsku „nowo”."
+    },
+    {
+      "id": "b1-vocabulary-02-065",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bald”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grill"
+        },
+        {
+          "id": "b",
+          "text": "natychmiast"
+        },
+        {
+          "id": "c",
+          "text": "atomowy, nuklearny"
+        },
+        {
+          "id": "d",
+          "text": "łysy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bald” (przymiotnik, poziom B1) oznacza po polsku „łysy”."
+    },
+    {
+      "id": "b1-vocabulary-02-066",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomoc"
+        },
+        {
+          "id": "b",
+          "text": "niezręczny"
+        },
+        {
+          "id": "c",
+          "text": "(o przejściu) blokować, barykadować"
+        },
+        {
+          "id": "d",
+          "text": "podanie, zgłoszenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bar” (czasownik, poziom B1) oznacza po polsku „(o przejściu) blokować, barykadować”."
+    },
+    {
+      "id": "b1-vocabulary-02-067",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „attract”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mrówka"
+        },
+        {
+          "id": "b",
+          "text": "straszliwy"
+        },
+        {
+          "id": "c",
+          "text": "pomoc"
+        },
+        {
+          "id": "d",
+          "text": "przyciągać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„attract” (czasownik, poziom B1) oznacza po polsku „przyciągać”."
+    },
+    {
+      "id": "b1-vocabulary-02-068",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „awesome”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadyszany"
+        },
+        {
+          "id": "b",
+          "text": "krótki"
+        },
+        {
+          "id": "c",
+          "text": "apetyt"
+        },
+        {
+          "id": "d",
+          "text": "straszliwy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„awesome” (przymiotnik, poziom B1) oznacza po polsku „straszliwy”."
+    },
+    {
+      "id": "b1-vocabulary-02-069",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „normally”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "naturalnie"
+        },
+        {
+          "id": "b",
+          "text": "normalnie"
+        },
+        {
+          "id": "c",
+          "text": "karetka, ambulans"
+        },
+        {
+          "id": "d",
+          "text": "ukochany"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„normally” (przysłówek, poziom B1) oznacza po polsku „normalnie”."
+    },
+    {
+      "id": "b1-vocabulary-02-070",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „obviously”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oczywiście"
+        },
+        {
+          "id": "b",
+          "text": "nigdzie, donikąd"
+        },
+        {
+          "id": "c",
+          "text": "uznanie"
+        },
+        {
+          "id": "d",
+          "text": "jednak, niemniej"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„obviously” (przysłówek, poziom B1) oznacza po polsku „oczywiście”."
+    },
+    {
+      "id": "b1-vocabulary-02-071",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bilingual”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagradzać"
+        },
+        {
+          "id": "b",
+          "text": "dwujęzyczny"
+        },
+        {
+          "id": "c",
+          "text": "irytacja, rozzłoszczenie się"
+        },
+        {
+          "id": "d",
+          "text": "goły"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bilingual” (przymiotnik, poziom B1) oznacza po polsku „dwujęzyczny”."
+    },
+    {
+      "id": "b1-vocabulary-02-072",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "b",
+          "text": "ramię, ręka"
+        },
+        {
+          "id": "c",
+          "text": "odbijać"
+        },
+        {
+          "id": "d",
+          "text": "cel"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bat” (czasownik, poziom B1) oznacza po polsku „odbijać”."
+    },
+    {
+      "id": "b1-vocabulary-02-073",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „award”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fabrycznie nowy"
+        },
+        {
+          "id": "b",
+          "text": "w większości"
+        },
+        {
+          "id": "c",
+          "text": "organizować"
+        },
+        {
+          "id": "d",
+          "text": "nagradzać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„award” (czasownik, poziom B1) oznacza po polsku „nagradzać”."
+    },
+    {
+      "id": "b1-vocabulary-02-074",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „annoyance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "irytacja, rozzłoszczenie się"
+        },
+        {
+          "id": "b",
+          "text": "alfabet"
+        },
+        {
+          "id": "c",
+          "text": "naturalnie"
+        },
+        {
+          "id": "d",
+          "text": "mimo to"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„annoyance” (rzeczownik, poziom B1) oznacza po polsku „irytacja, rozzłoszczenie się”."
+    },
+    {
+      "id": "b1-vocabulary-02-075",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „angle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "usiłować"
+        },
+        {
+          "id": "b",
+          "text": "oczywiście"
+        },
+        {
+          "id": "c",
+          "text": "kąt"
+        },
+        {
+          "id": "d",
+          "text": "powstawać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„angle” (rzeczownik, poziom B1) oznacza po polsku „kąt”."
+    },
+    {
+      "id": "b1-vocabulary-02-076",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „particularly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stawiać"
+        },
+        {
+          "id": "b",
+          "text": "szczególnie"
+        },
+        {
+          "id": "c",
+          "text": "(np. w morzu) kąpać się"
+        },
+        {
+          "id": "d",
+          "text": "wewnątrz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„particularly” (przysłówek, poziom B1) oznacza po polsku „szczególnie”."
+    },
+    {
+      "id": "b1-vocabulary-02-077",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „personally”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "osobiście"
+        },
+        {
+          "id": "b",
+          "text": "wewnątrz"
+        },
+        {
+          "id": "c",
+          "text": "nigdzie, donikąd"
+        },
+        {
+          "id": "d",
+          "text": "małpa człekokształtna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„personally” (przysłówek, poziom B1) oznacza po polsku „osobiście”."
+    },
+    {
+      "id": "b1-vocabulary-02-078",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „application”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "linia lotnicza"
+        },
+        {
+          "id": "b",
+          "text": "ślepy, niewidomy"
+        },
+        {
+          "id": "c",
+          "text": "podanie, zgłoszenie"
+        },
+        {
+          "id": "d",
+          "text": "krótki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„application” (rzeczownik, poziom B1) oznacza po polsku „podanie, zgłoszenie”."
+    },
+    {
+      "id": "b1-vocabulary-02-079",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „breathless”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w większości"
+        },
+        {
+          "id": "b",
+          "text": "zadyszany"
+        },
+        {
+          "id": "c",
+          "text": "alfabet"
+        },
+        {
+          "id": "d",
+          "text": "pozorny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„breathless” (przymiotnik, poziom B1) oznacza po polsku „zadyszany”."
+    },
+    {
+      "id": "b1-vocabulary-02-080",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bathe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(np. w morzu) kąpać się"
+        },
+        {
+          "id": "b",
+          "text": "podanie, zgłoszenie"
+        },
+        {
+          "id": "c",
+          "text": "zadyszany"
+        },
+        {
+          "id": "d",
+          "text": "przebojowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bathe” (czasownik, poziom B1) oznacza po polsku „(np. w morzu) kąpać się”."
+    },
+    {
+      "id": "b1-vocabulary-02-081",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywiony"
+        },
+        {
+          "id": "b",
+          "text": "małpa człekokształtna"
+        },
+        {
+          "id": "c",
+          "text": "cel"
+        },
+        {
+          "id": "d",
+          "text": "gryźć, kąsać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bite” (czasownik, poziom B1) oznacza po polsku „gryźć, kąsać”."
+    },
+    {
+      "id": "b1-vocabulary-02-082",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „applause”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "osobiście"
+        },
+        {
+          "id": "b",
+          "text": "gorzki"
+        },
+        {
+          "id": "c",
+          "text": "łaskawie"
+        },
+        {
+          "id": "d",
+          "text": "aplauz, oklaski"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„applause” (rzeczownik, poziom B1) oznacza po polsku „aplauz, oklaski”."
+    },
+    {
+      "id": "b1-vocabulary-02-083",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „behave”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wewnątrz"
+        },
+        {
+          "id": "b",
+          "text": "ramię, ręka"
+        },
+        {
+          "id": "c",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "d",
+          "text": "(co się podoba) atrakcja, urok"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„behave” (czasownik, poziom B1) oznacza po polsku „zachowywać się”."
+    },
+    {
+      "id": "b1-vocabulary-02-084",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blind”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ślepy, niewidomy"
+        },
+        {
+          "id": "b",
+          "text": "przebojowy"
+        },
+        {
+          "id": "c",
+          "text": "alfabet"
+        },
+        {
+          "id": "d",
+          "text": "osiągać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„blind” (przymiotnik, poziom B1) oznacza po polsku „ślepy, niewidomy”."
+    },
+    {
+      "id": "b1-vocabulary-02-085",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „otherwise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inaczej"
+        },
+        {
+          "id": "b",
+          "text": "zasiłek"
+        },
+        {
+          "id": "c",
+          "text": "pomocniczy, dodatkowy"
+        },
+        {
+          "id": "d",
+          "text": "zawiadomienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„otherwise” (przysłówek, poziom B1) oznacza po polsku „inaczej”."
+    },
+    {
+      "id": "b1-vocabulary-02-086",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „appeal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "najmniej"
+        },
+        {
+          "id": "b",
+          "text": "ożywienie"
+        },
+        {
+          "id": "c",
+          "text": "(co się podoba) atrakcja, urok"
+        },
+        {
+          "id": "d",
+          "text": "tymczasem"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„appeal” (rzeczownik, poziom B1) oznacza po polsku „(co się podoba) atrakcja, urok”."
+    },
+    {
+      "id": "b1-vocabulary-02-087",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bill”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ramię, ręka"
+        },
+        {
+          "id": "b",
+          "text": "(występ) ogłaszać, reklamować"
+        },
+        {
+          "id": "c",
+          "text": "krwawić"
+        },
+        {
+          "id": "d",
+          "text": "(np. w morzu) kąpać się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bill” (czasownik, poziom B1) oznacza po polsku „(występ) ogłaszać, reklamować”."
+    },
+    {
+      "id": "b1-vocabulary-02-088",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bleed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "b",
+          "text": "na dworze"
+        },
+        {
+          "id": "c",
+          "text": "krwawić"
+        },
+        {
+          "id": "d",
+          "text": "organizować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bleed” (czasownik, poziom B1) oznacza po polsku „krwawić”."
+    },
+    {
+      "id": "b1-vocabulary-02-089",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brief”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krótki"
+        },
+        {
+          "id": "b",
+          "text": "gniew"
+        },
+        {
+          "id": "c",
+          "text": "mimo to"
+        },
+        {
+          "id": "d",
+          "text": "coraz bardziej"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„brief” (przymiotnik, poziom B1) oznacza po polsku „krótki”."
+    },
+    {
+      "id": "b1-vocabulary-02-090",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „outdoors”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inaczej"
+        },
+        {
+          "id": "b",
+          "text": "przyłączać, dołączać"
+        },
+        {
+          "id": "c",
+          "text": "na dworze"
+        },
+        {
+          "id": "d",
+          "text": "szczególnie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„outdoors” (przysłówek, poziom B1) oznacza po polsku „na dworze”."
+    },
+    {
+      "id": "b1-vocabulary-02-091",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „appetite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "irytacja, rozzłoszczenie się"
+        },
+        {
+          "id": "b",
+          "text": "apetyt"
+        },
+        {
+          "id": "c",
+          "text": "linia lotnicza"
+        },
+        {
+          "id": "d",
+          "text": "rozkład dnia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„appetite” (rzeczownik, poziom B1) oznacza po polsku „apetyt”."
+    },
+    {
+      "id": "b1-vocabulary-02-092",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „apology”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łaskawie"
+        },
+        {
+          "id": "b",
+          "text": "osiągać"
+        },
+        {
+          "id": "c",
+          "text": "nowo"
+        },
+        {
+          "id": "d",
+          "text": "prośba o wybaczenie, przeprosiny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„apology” (rzeczownik, poziom B1) oznacza po polsku „prośba o wybaczenie, przeprosiny”."
+    },
+    {
+      "id": "b1-vocabulary-02-093",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wewnątrz"
+        },
+        {
+          "id": "b",
+          "text": "stawiać"
+        },
+        {
+          "id": "c",
+          "text": "atletyczny"
+        },
+        {
+          "id": "d",
+          "text": "jednak, niemniej"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bet” (czasownik, poziom B1) oznacza po polsku „stawiać”."
+    },
+    {
+      "id": "b1-vocabulary-02-094",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bless”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "atletyczny"
+        },
+        {
+          "id": "b",
+          "text": "błogosławić"
+        },
+        {
+          "id": "c",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "d",
+          "text": "stawiać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bless” (czasownik, poziom B1) oznacza po polsku „błogosławić”."
+    },
+    {
+      "id": "b1-vocabulary-02-095",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brand-new”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przebojowy"
+        },
+        {
+          "id": "b",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "c",
+          "text": "zawiadomienie"
+        },
+        {
+          "id": "d",
+          "text": "fabrycznie nowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„brand-new” (przymiotnik, poziom B1) oznacza po polsku „fabrycznie nowy”."
+    },
+    {
+      "id": "b1-vocabulary-02-096",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „appreciation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "alfabet"
+        },
+        {
+          "id": "b",
+          "text": "wstydzić się"
+        },
+        {
+          "id": "c",
+          "text": "ostatnio"
+        },
+        {
+          "id": "d",
+          "text": "uznanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„appreciation” (rzeczownik, poziom B1) oznacza po polsku „uznanie”."
+    },
+    {
+      "id": "b1-vocabulary-02-097",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „positively”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "b",
+          "text": "coraz bardziej"
+        },
+        {
+          "id": "c",
+          "text": "krótki"
+        },
+        {
+          "id": "d",
+          "text": "pozorny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„positively” (przysłówek, poziom B1) oznacza po polsku „zdecydowanie”."
+    },
+    {
+      "id": "b1-vocabulary-02-098",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bitter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wewnątrz"
+        },
+        {
+          "id": "b",
+          "text": "gorzki"
+        },
+        {
+          "id": "c",
+          "text": "powstawać"
+        },
+        {
+          "id": "d",
+          "text": "(co się podoba) atrakcja, urok"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bitter” (przymiotnik, poziom B1) oznacza po polsku „gorzki”."
+    },
+    {
+      "id": "b1-vocabulary-02-099",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „primarily”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasadniczo, przede wszystkim"
+        },
+        {
+          "id": "b",
+          "text": "oczywiście"
+        },
+        {
+          "id": "c",
+          "text": "artystyczny"
+        },
+        {
+          "id": "d",
+          "text": "krwawić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„primarily” (przysłówek, poziom B1) oznacza po polsku „zasadniczo, przede wszystkim”."
+    },
+    {
+      "id": "b1-vocabulary-02-100",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bold”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdumiewający"
+        },
+        {
+          "id": "b",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "c",
+          "text": "odważny"
+        },
+        {
+          "id": "d",
+          "text": "łysy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bold” (przymiotnik, poziom B1) oznacza po polsku „odważny”."
+    }
+  ]
+}

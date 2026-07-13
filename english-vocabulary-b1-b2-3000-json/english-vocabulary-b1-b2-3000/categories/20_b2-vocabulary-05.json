@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-vocabulary-05",
+    "name": "B2 — słownictwo 05"
+  },
+  "questions": [
+    {
+      "id": "b2-vocabulary-05-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fictional”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skala stustopniowa Celsjusza, skala stustopniowa"
+        },
+        {
+          "id": "b",
+          "text": "piwnica"
+        },
+        {
+          "id": "c",
+          "text": "fikcyjny"
+        },
+        {
+          "id": "d",
+          "text": "punkt kontroli"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„fictional” (przymiotnik, poziom B2) oznacza po polsku „fikcyjny”."
+    },
+    {
+      "id": "b2-vocabulary-05-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lina, cuma"
+        },
+        {
+          "id": "b",
+          "text": "piwnica"
+        },
+        {
+          "id": "c",
+          "text": "ewidencjonować, włączać do akt, włączać"
+        },
+        {
+          "id": "d",
+          "text": "ogromny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cable” (rzeczownik, poziom B2) oznacza po polsku „lina, cuma”."
+    },
+    {
+      "id": "b2-vocabulary-05-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fear”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szafka, kredens"
+        },
+        {
+          "id": "b",
+          "text": "bać się"
+        },
+        {
+          "id": "c",
+          "text": "kanonik"
+        },
+        {
+          "id": "d",
+          "text": "metaforyczny, przenośny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fear” (czasownik, poziom B2) oznacza po polsku „bać się”."
+    },
+    {
+      "id": "b2-vocabulary-05-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „faulty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "honorować, uznawać"
+        },
+        {
+          "id": "b",
+          "text": "importować"
+        },
+        {
+          "id": "c",
+          "text": "uwalniać, zwalniać"
+        },
+        {
+          "id": "d",
+          "text": "wadliwy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„faulty” (przymiotnik, poziom B2) oznacza po polsku „wadliwy”."
+    },
+    {
+      "id": "b2-vocabulary-05-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „falter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "generalizować, uogólniać"
+        },
+        {
+          "id": "b",
+          "text": "ponury"
+        },
+        {
+          "id": "c",
+          "text": "funkcjonalny"
+        },
+        {
+          "id": "d",
+          "text": "krztusić się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„falter” (czasownik, poziom B2) oznacza po polsku „krztusić się”."
+    },
+    {
+      "id": "b2-vocabulary-05-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „canon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanonik"
+        },
+        {
+          "id": "b",
+          "text": "(obraz) oprawiać"
+        },
+        {
+          "id": "c",
+          "text": "gimnastyczny"
+        },
+        {
+          "id": "d",
+          "text": "przewidywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„canon” (rzeczownik, poziom B2) oznacza po polsku „kanonik”."
+    },
+    {
+      "id": "b2-vocabulary-05-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „candidate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "metaforyczny, przenośny"
+        },
+        {
+          "id": "b",
+          "text": "kandydat"
+        },
+        {
+          "id": "c",
+          "text": "nadchodzący"
+        },
+        {
+          "id": "d",
+          "text": "facet, gość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„candidate” (rzeczownik, poziom B2) oznacza po polsku „kandydat”."
+    },
+    {
+      "id": "b2-vocabulary-05-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „file”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "generalizować, uogólniać"
+        },
+        {
+          "id": "b",
+          "text": "sweter rozpinany, sweter"
+        },
+        {
+          "id": "c",
+          "text": "ewidencjonować, włączać do akt, włączać"
+        },
+        {
+          "id": "d",
+          "text": "zajadły"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„file” (czasownik, poziom B2) oznacza po polsku „ewidencjonować, włączać do akt, włączać”."
+    },
+    {
+      "id": "b2-vocabulary-05-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „facilitate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "synowski"
+        },
+        {
+          "id": "b",
+          "text": "ułatwiać"
+        },
+        {
+          "id": "c",
+          "text": "katalog"
+        },
+        {
+          "id": "d",
+          "text": "importować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„facilitate” (czasownik, poziom B2) oznacza po polsku „ułatwiać”."
+    },
+    {
+      "id": "b2-vocabulary-05-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „federal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ubóstwiać"
+        },
+        {
+          "id": "b",
+          "text": "federalny"
+        },
+        {
+          "id": "c",
+          "text": "trzepotać"
+        },
+        {
+          "id": "d",
+          "text": "podpis"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„federal” (przymiotnik, poziom B2) oznacza po polsku „federalny”."
+    },
+    {
+      "id": "b2-vocabulary-05-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „filial”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kawał"
+        },
+        {
+          "id": "b",
+          "text": "(taksówkę) zatrzymywać, przyzywać"
+        },
+        {
+          "id": "c",
+          "text": "synowski"
+        },
+        {
+          "id": "d",
+          "text": "podpis"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„filial” (przymiotnik, poziom B2) oznacza po polsku „synowski”."
+    },
+    {
+      "id": "b2-vocabulary-05-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „buzz”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brudny, obrzydliwy"
+        },
+        {
+          "id": "b",
+          "text": "importować"
+        },
+        {
+          "id": "c",
+          "text": "brzęczenie"
+        },
+        {
+          "id": "d",
+          "text": "kampania"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„buzz” (rzeczownik, poziom B2) oznacza po polsku „brzęczenie”."
+    },
+    {
+      "id": "b2-vocabulary-05-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „capability”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kandydat"
+        },
+        {
+          "id": "b",
+          "text": "jeniec"
+        },
+        {
+          "id": "c",
+          "text": "zdolności"
+        },
+        {
+          "id": "d",
+          "text": "przyjazny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„capability” (rzeczownik, poziom B2) oznacza po polsku „zdolności”."
+    },
+    {
+      "id": "b2-vocabulary-05-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flap”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieskazitelny"
+        },
+        {
+          "id": "b",
+          "text": "trzepotać"
+        },
+        {
+          "id": "c",
+          "text": "punkt kontroli"
+        },
+        {
+          "id": "d",
+          "text": "węgiel"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„flap” (czasownik, poziom B2) oznacza po polsku „trzepotać”."
+    },
+    {
+      "id": "b2-vocabulary-05-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „familiarize”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hospitalizować"
+        },
+        {
+          "id": "b",
+          "text": "prawdziwy, autentyczny"
+        },
+        {
+          "id": "c",
+          "text": "zaznajamiać się, zaznajamiać"
+        },
+        {
+          "id": "d",
+          "text": "szafka, kredens"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„familiarize” (czasownik, poziom B2) oznacza po polsku „zaznajamiać się, zaznajamiać”."
+    },
+    {
+      "id": "b2-vocabulary-05-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cabinet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brzęczenie"
+        },
+        {
+          "id": "b",
+          "text": "mroczny"
+        },
+        {
+          "id": "c",
+          "text": "fundamentalny, podstawowy"
+        },
+        {
+          "id": "d",
+          "text": "szafka, kredens"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cabinet” (rzeczownik, poziom B2) oznacza po polsku „szafka, kredens”."
+    },
+    {
+      "id": "b2-vocabulary-05-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cane”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyjazny"
+        },
+        {
+          "id": "b",
+          "text": "hospitalizować"
+        },
+        {
+          "id": "c",
+          "text": "trzcina"
+        },
+        {
+          "id": "d",
+          "text": "oszczędny, skromny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cane” (rzeczownik, poziom B2) oznacza po polsku „trzcina”."
+    },
+    {
+      "id": "b2-vocabulary-05-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „figurative”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also hush up) tuszować, uciszać"
+        },
+        {
+          "id": "b",
+          "text": "straszliwy"
+        },
+        {
+          "id": "c",
+          "text": "ilustrować"
+        },
+        {
+          "id": "d",
+          "text": "metaforyczny, przenośny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„figurative” (przymiotnik, poziom B2) oznacza po polsku „metaforyczny, przenośny”."
+    },
+    {
+      "id": "b2-vocabulary-05-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fellow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "facet, gość"
+        },
+        {
+          "id": "b",
+          "text": "narzucać"
+        },
+        {
+          "id": "c",
+          "text": "wiśnia, czereśnia"
+        },
+        {
+          "id": "d",
+          "text": "sweter rozpinany, sweter"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fellow” (przymiotnik, poziom B2) oznacza po polsku „facet, gość”."
+    },
+    {
+      "id": "b2-vocabulary-05-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fierce”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zajadły"
+        },
+        {
+          "id": "b",
+          "text": "nieskazitelny"
+        },
+        {
+          "id": "c",
+          "text": "synowski"
+        },
+        {
+          "id": "d",
+          "text": "podpis"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fierce” (przymiotnik, poziom B2) oznacza po polsku „zajadły”."
+    },
+    {
+      "id": "b2-vocabulary-05-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „explode”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "eksplodować, wybuchać"
+        },
+        {
+          "id": "b",
+          "text": "przyczyna"
+        },
+        {
+          "id": "c",
+          "text": "(lit) kaskada"
+        },
+        {
+          "id": "d",
+          "text": "fundamentalny, podstawowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„explode” (czasownik, poziom B2) oznacza po polsku „eksplodować, wybuchać”."
+    },
+    {
+      "id": "b2-vocabulary-05-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „caption”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cmentarz"
+        },
+        {
+          "id": "b",
+          "text": "podpis"
+        },
+        {
+          "id": "c",
+          "text": "skala stustopniowa Celsjusza, skala stustopniowa"
+        },
+        {
+          "id": "d",
+          "text": "kandydat"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„caption” (rzeczownik, poziom B2) oznacza po polsku „podpis”."
+    },
+    {
+      "id": "b2-vocabulary-05-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „feature”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trzcina"
+        },
+        {
+          "id": "b",
+          "text": "(o wystawie) prezentować"
+        },
+        {
+          "id": "c",
+          "text": "straszliwy"
+        },
+        {
+          "id": "d",
+          "text": "olśniewający, zachwycający, powabny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„feature” (czasownik, poziom B2) oznacza po polsku „(o wystawie) prezentować”."
+    },
+    {
+      "id": "b2-vocabulary-05-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fearsome”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "straszliwy"
+        },
+        {
+          "id": "b",
+          "text": "poniżać"
+        },
+        {
+          "id": "c",
+          "text": "oszczędny, skromny"
+        },
+        {
+          "id": "d",
+          "text": "ochraniać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fearsome” (przymiotnik, poziom B2) oznacza po polsku „straszliwy”."
+    },
+    {
+      "id": "b2-vocabulary-05-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „campaign”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kampania"
+        },
+        {
+          "id": "b",
+          "text": "jaskrawy, jarmarczny"
+        },
+        {
+          "id": "c",
+          "text": "punkt kontroli"
+        },
+        {
+          "id": "d",
+          "text": "katastrofa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„campaign” (rzeczownik, poziom B2) oznacza po polsku „kampania”."
+    },
+    {
+      "id": "b2-vocabulary-05-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „forthcoming”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(obraz) oprawiać"
+        },
+        {
+          "id": "b",
+          "text": "mroczny"
+        },
+        {
+          "id": "c",
+          "text": "nadchodzący"
+        },
+        {
+          "id": "d",
+          "text": "gloryfikować, wysławiać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„forthcoming” (przymiotnik, poziom B2) oznacza po polsku „nadchodzący”."
+    },
+    {
+      "id": "b2-vocabulary-05-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „generalize”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanonik"
+        },
+        {
+          "id": "b",
+          "text": "generalizować, uogólniać"
+        },
+        {
+          "id": "c",
+          "text": "zajadły"
+        },
+        {
+          "id": "d",
+          "text": "cmentarz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„generalize” (czasownik, poziom B2) oznacza po polsku „generalizować, uogólniać”."
+    },
+    {
+      "id": "b2-vocabulary-05-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „freak”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skala stustopniowa Celsjusza, skala stustopniowa"
+        },
+        {
+          "id": "b",
+          "text": "zajadły"
+        },
+        {
+          "id": "c",
+          "text": "dostawa żywności"
+        },
+        {
+          "id": "d",
+          "text": "dziwadło"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„freak” (czasownik, poziom B2) oznacza po polsku „dziwadło”."
+    },
+    {
+      "id": "b2-vocabulary-05-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „carnival”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziwadło"
+        },
+        {
+          "id": "b",
+          "text": "karnawał"
+        },
+        {
+          "id": "c",
+          "text": "narzucać"
+        },
+        {
+          "id": "d",
+          "text": "węgiel"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„carnival” (rzeczownik, poziom B2) oznacza po polsku „karnawał”."
+    },
+    {
+      "id": "b2-vocabulary-05-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cardboard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karnawał"
+        },
+        {
+          "id": "b",
+          "text": "tektura"
+        },
+        {
+          "id": "c",
+          "text": "ułatwiać"
+        },
+        {
+          "id": "d",
+          "text": "poniżać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cardboard” (rzeczownik, poziom B2) oznacza po polsku „tektura”."
+    },
+    {
+      "id": "b2-vocabulary-05-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „formidable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also hush up) tuszować, uciszać"
+        },
+        {
+          "id": "b",
+          "text": "groźny, trudny"
+        },
+        {
+          "id": "c",
+          "text": "kanonik"
+        },
+        {
+          "id": "d",
+          "text": "nieskazitelny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„formidable” (przymiotnik, poziom B2) oznacza po polsku „groźny, trudny”."
+    },
+    {
+      "id": "b2-vocabulary-05-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „free”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hospitalizować"
+        },
+        {
+          "id": "b",
+          "text": "uwalniać, zwalniać"
+        },
+        {
+          "id": "c",
+          "text": "dziwadło"
+        },
+        {
+          "id": "d",
+          "text": "dostawa żywności"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„free” (czasownik, poziom B2) oznacza po polsku „uwalniać, zwalniać”."
+    },
+    {
+      "id": "b2-vocabulary-05-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „captive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jeniec"
+        },
+        {
+          "id": "b",
+          "text": "hospitalizować"
+        },
+        {
+          "id": "c",
+          "text": "generalizować, uogólniać"
+        },
+        {
+          "id": "d",
+          "text": "podpis"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„captive” (rzeczownik, poziom B2) oznacza po polsku „jeniec”."
+    },
+    {
+      "id": "b2-vocabulary-05-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „foul”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brudny, obrzydliwy"
+        },
+        {
+          "id": "b",
+          "text": "giętki"
+        },
+        {
+          "id": "c",
+          "text": "lina, cuma"
+        },
+        {
+          "id": "d",
+          "text": "(also chips) (BR) frytki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„foul” (przymiotnik, poziom B2) oznacza po polsku „brudny, obrzydliwy”."
+    },
+    {
+      "id": "b2-vocabulary-05-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „glorify”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gloryfikować, wysławiać"
+        },
+        {
+          "id": "b",
+          "text": "(lit) kaskada"
+        },
+        {
+          "id": "c",
+          "text": "kawał"
+        },
+        {
+          "id": "d",
+          "text": "facet, gość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„glorify” (czasownik, poziom B2) oznacza po polsku „gloryfikować, wysławiać”."
+    },
+    {
+      "id": "b2-vocabulary-05-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cardigan”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sweter rozpinany, sweter"
+        },
+        {
+          "id": "b",
+          "text": "kanclerz"
+        },
+        {
+          "id": "c",
+          "text": "podpis"
+        },
+        {
+          "id": "d",
+          "text": "fundamentalny, podstawowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cardigan” (rzeczownik, poziom B2) oznacza po polsku „sweter rozpinany, sweter”."
+    },
+    {
+      "id": "b2-vocabulary-05-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fixed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "importować"
+        },
+        {
+          "id": "b",
+          "text": "ustalony, stały"
+        },
+        {
+          "id": "c",
+          "text": "cmentarz"
+        },
+        {
+          "id": "d",
+          "text": "ochraniać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fixed” (przymiotnik, poziom B2) oznacza po polsku „ustalony, stały”."
+    },
+    {
+      "id": "b2-vocabulary-05-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flee”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uciekać"
+        },
+        {
+          "id": "b",
+          "text": "brudny, obrzydliwy"
+        },
+        {
+          "id": "c",
+          "text": "wiśnia, czereśnia"
+        },
+        {
+          "id": "d",
+          "text": "zaświadczenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„flee” (czasownik, poziom B2) oznacza po polsku „uciekać”."
+    },
+    {
+      "id": "b2-vocabulary-05-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „found”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kampania"
+        },
+        {
+          "id": "b",
+          "text": "fundować, zakładać"
+        },
+        {
+          "id": "c",
+          "text": "hospitalizować"
+        },
+        {
+          "id": "d",
+          "text": "jaskrawy, jarmarczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„found” (czasownik, poziom B2) oznacza po polsku „fundować, zakładać”."
+    },
+    {
+      "id": "b2-vocabulary-05-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flawless”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stopniowy"
+        },
+        {
+          "id": "b",
+          "text": "opłakiwać, rozpaczać"
+        },
+        {
+          "id": "c",
+          "text": "pobożny"
+        },
+        {
+          "id": "d",
+          "text": "nieskazitelny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„flawless” (przymiotnik, poziom B2) oznacza po polsku „nieskazitelny”."
+    },
+    {
+      "id": "b2-vocabulary-05-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flip”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dorosły"
+        },
+        {
+          "id": "b",
+          "text": "ponury"
+        },
+        {
+          "id": "c",
+          "text": "kartkować"
+        },
+        {
+          "id": "d",
+          "text": "straszliwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„flip” (czasownik, poziom B2) oznacza po polsku „kartkować”."
+    },
+    {
+      "id": "b2-vocabulary-05-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fluid”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziwadło"
+        },
+        {
+          "id": "b",
+          "text": "płynny"
+        },
+        {
+          "id": "c",
+          "text": "opłakiwać, rozpaczać"
+        },
+        {
+          "id": "d",
+          "text": "krztusić się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fluid” (przymiotnik, poziom B2) oznacza po polsku „płynny”."
+    },
+    {
+      "id": "b2-vocabulary-05-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fiscal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "punkt kontroli"
+        },
+        {
+          "id": "b",
+          "text": "fiskalny, podatkowy"
+        },
+        {
+          "id": "c",
+          "text": "kanclerz"
+        },
+        {
+          "id": "d",
+          "text": "dostawa żywności"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fiscal” (przymiotnik, poziom B2) oznacza po polsku „fiskalny, podatkowy”."
+    },
+    {
+      "id": "b2-vocabulary-05-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „caravan”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zanurzać się, zanurzać"
+        },
+        {
+          "id": "b",
+          "text": "nieskazitelny"
+        },
+        {
+          "id": "c",
+          "text": "przyczepa kempingowa"
+        },
+        {
+          "id": "d",
+          "text": "prawdziwy, autentyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„caravan” (rzeczownik, poziom B2) oznacza po polsku „przyczepa kempingowa”."
+    },
+    {
+      "id": "b2-vocabulary-05-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „carbon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "węgiel"
+        },
+        {
+          "id": "b",
+          "text": "kandydat"
+        },
+        {
+          "id": "c",
+          "text": "tektura"
+        },
+        {
+          "id": "d",
+          "text": "unosić się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„carbon” (rzeczownik, poziom B2) oznacza po polsku „węgiel”."
+    },
+    {
+      "id": "b2-vocabulary-05-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „catalogue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "katalog"
+        },
+        {
+          "id": "b",
+          "text": "opłakiwać, rozpaczać"
+        },
+        {
+          "id": "c",
+          "text": "krztusić się"
+        },
+        {
+          "id": "d",
+          "text": "ułatwiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„catalogue” (rzeczownik, poziom B2) oznacza po polsku „katalog”."
+    },
+    {
+      "id": "b2-vocabulary-05-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „foresee”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewidywać"
+        },
+        {
+          "id": "b",
+          "text": "karnawał"
+        },
+        {
+          "id": "c",
+          "text": "groźny, trudny"
+        },
+        {
+          "id": "d",
+          "text": "ustalony, stały"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„foresee” (czasownik, poziom B2) oznacza po polsku „przewidywać”."
+    },
+    {
+      "id": "b2-vocabulary-05-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cascade”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podpis"
+        },
+        {
+          "id": "b",
+          "text": "zaświadczenie"
+        },
+        {
+          "id": "c",
+          "text": "(lit) kaskada"
+        },
+        {
+          "id": "d",
+          "text": "kartkować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cascade” (rzeczownik, poziom B2) oznacza po polsku „(lit) kaskada”."
+    },
+    {
+      "id": "b2-vocabulary-05-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „frame”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uwalniać, zwalniać"
+        },
+        {
+          "id": "b",
+          "text": "(obraz) oprawiać"
+        },
+        {
+          "id": "c",
+          "text": "narzucać"
+        },
+        {
+          "id": "d",
+          "text": "punkt kontroli"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„frame” (czasownik, poziom B2) oznacza po polsku „(obraz) oprawiać”."
+    },
+    {
+      "id": "b2-vocabulary-05-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flexible”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fundamentalny, podstawowy"
+        },
+        {
+          "id": "b",
+          "text": "zajadły"
+        },
+        {
+          "id": "c",
+          "text": "giętki"
+        },
+        {
+          "id": "d",
+          "text": "sufit"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„flexible” (przymiotnik, poziom B2) oznacza po polsku „giętki”."
+    },
+    {
+      "id": "b2-vocabulary-05-051",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „catalyst”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płynny"
+        },
+        {
+          "id": "b",
+          "text": "unosić się"
+        },
+        {
+          "id": "c",
+          "text": "katalizator"
+        },
+        {
+          "id": "d",
+          "text": "fiskalny, podatkowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„catalyst” (rzeczownik, poziom B2) oznacza po polsku „katalizator”."
+    },
+    {
+      "id": "b2-vocabulary-05-052",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podpis"
+        },
+        {
+          "id": "b",
+          "text": "prawdziwy, autentyczny"
+        },
+        {
+          "id": "c",
+          "text": "ochraniać"
+        },
+        {
+          "id": "d",
+          "text": "honorować, uznawać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„guard” (czasownik, poziom B2) oznacza po polsku „ochraniać”."
+    },
+    {
+      "id": "b2-vocabulary-05-053",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grieve”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opłakiwać, rozpaczać"
+        },
+        {
+          "id": "b",
+          "text": "olśniewający, zachwycający, powabny"
+        },
+        {
+          "id": "c",
+          "text": "metaforyczny, przenośny"
+        },
+        {
+          "id": "d",
+          "text": "jeniec"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„grieve” (czasownik, poziom B2) oznacza po polsku „opłakiwać, rozpaczać”."
+    },
+    {
+      "id": "b2-vocabulary-05-054",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cello”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanonik"
+        },
+        {
+          "id": "b",
+          "text": "(taksówkę) zatrzymywać, przyzywać"
+        },
+        {
+          "id": "c",
+          "text": "brudny, obrzydliwy"
+        },
+        {
+          "id": "d",
+          "text": "wiolonczela"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cello” (rzeczownik, poziom B2) oznacza po polsku „wiolonczela”."
+    },
+    {
+      "id": "b2-vocabulary-05-055",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hospitalize”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hospitalizować"
+        },
+        {
+          "id": "b",
+          "text": "mroczny"
+        },
+        {
+          "id": "c",
+          "text": "eksplodować, wybuchać"
+        },
+        {
+          "id": "d",
+          "text": "(o wystawie) prezentować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„hospitalize” (czasownik, poziom B2) oznacza po polsku „hospitalizować”."
+    },
+    {
+      "id": "b2-vocabulary-05-056",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „humiliate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skala stustopniowa Celsjusza, skala stustopniowa"
+        },
+        {
+          "id": "b",
+          "text": "poniżać"
+        },
+        {
+          "id": "c",
+          "text": "stopniowy"
+        },
+        {
+          "id": "d",
+          "text": "(o wystawie) prezentować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„humiliate” (czasownik, poziom B2) oznacza po polsku „poniżać”."
+    },
+    {
+      "id": "b2-vocabulary-05-057",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gaudy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hospitalizować"
+        },
+        {
+          "id": "b",
+          "text": "jaskrawy, jarmarczny"
+        },
+        {
+          "id": "c",
+          "text": "zaznajamiać się, zaznajamiać"
+        },
+        {
+          "id": "d",
+          "text": "zdolności"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„gaudy” (przymiotnik, poziom B2) oznacza po polsku „jaskrawy, jarmarczny”."
+    },
+    {
+      "id": "b2-vocabulary-05-058",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hail”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewidywać"
+        },
+        {
+          "id": "b",
+          "text": "kandydat"
+        },
+        {
+          "id": "c",
+          "text": "(taksówkę) zatrzymywać, przyzywać"
+        },
+        {
+          "id": "d",
+          "text": "kanclerz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„hail” (czasownik, poziom B2) oznacza po polsku „(taksówkę) zatrzymywać, przyzywać”."
+    },
+    {
+      "id": "b2-vocabulary-05-059",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „geographic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "straszliwy"
+        },
+        {
+          "id": "b",
+          "text": "opłakiwać, rozpaczać"
+        },
+        {
+          "id": "c",
+          "text": "brudny, obrzydliwy"
+        },
+        {
+          "id": "d",
+          "text": "geograficzny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„geographic” (przymiotnik, poziom B2) oznacza po polsku „geograficzny”."
+    },
+    {
+      "id": "b2-vocabulary-05-060",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „friendly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szafka, kredens"
+        },
+        {
+          "id": "b",
+          "text": "przyjazny"
+        },
+        {
+          "id": "c",
+          "text": "(lit) kaskada"
+        },
+        {
+          "id": "d",
+          "text": "sufit"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„friendly” (przymiotnik, poziom B2) oznacza po polsku „przyjazny”."
+    },
+    {
+      "id": "b2-vocabulary-05-061",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ceiling”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sufit"
+        },
+        {
+          "id": "b",
+          "text": "brzęczenie"
+        },
+        {
+          "id": "c",
+          "text": "węgiel"
+        },
+        {
+          "id": "d",
+          "text": "przyczyna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ceiling” (rzeczownik, poziom B2) oznacza po polsku „sufit”."
+    },
+    {
+      "id": "b2-vocabulary-05-062",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „honour”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "honorować, uznawać"
+        },
+        {
+          "id": "b",
+          "text": "metaforyczny, przenośny"
+        },
+        {
+          "id": "c",
+          "text": "unosić się"
+        },
+        {
+          "id": "d",
+          "text": "brzęczenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„honour” (czasownik, poziom B2) oznacza po polsku „honorować, uznawać”."
+    },
+    {
+      "id": "b2-vocabulary-05-063",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grade”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewidywać"
+        },
+        {
+          "id": "b",
+          "text": "federalny"
+        },
+        {
+          "id": "c",
+          "text": "(oceniać) klasyfikować"
+        },
+        {
+          "id": "d",
+          "text": "bać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„grade” (czasownik, poziom B2) oznacza po polsku „(oceniać) klasyfikować”."
+    },
+    {
+      "id": "b2-vocabulary-05-064",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „catastrophe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(obraz) oprawiać"
+        },
+        {
+          "id": "b",
+          "text": "kampania"
+        },
+        {
+          "id": "c",
+          "text": "katastrofa"
+        },
+        {
+          "id": "d",
+          "text": "dorosły"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„catastrophe” (rzeczownik, poziom B2) oznacza po polsku „katastrofa”."
+    },
+    {
+      "id": "b2-vocabulary-05-065",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cellar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gloryfikować, wysławiać"
+        },
+        {
+          "id": "b",
+          "text": "ogromny"
+        },
+        {
+          "id": "c",
+          "text": "zaznajamiać się, zaznajamiać"
+        },
+        {
+          "id": "d",
+          "text": "piwnica"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cellar” (rzeczownik, poziom B2) oznacza po polsku „piwnica”."
+    },
+    {
+      "id": "b2-vocabulary-05-066",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „functional”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "metaforyczny, przenośny"
+        },
+        {
+          "id": "b",
+          "text": "funkcjonalny"
+        },
+        {
+          "id": "c",
+          "text": "mroczny"
+        },
+        {
+          "id": "d",
+          "text": "ewidencjonować, włączać do akt, włączać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„functional” (przymiotnik, poziom B2) oznacza po polsku „funkcjonalny”."
+    },
+    {
+      "id": "b2-vocabulary-05-067",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fundamental”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fundować, zakładać"
+        },
+        {
+          "id": "b",
+          "text": "honorować, uznawać"
+        },
+        {
+          "id": "c",
+          "text": "fundamentalny, podstawowy"
+        },
+        {
+          "id": "d",
+          "text": "dorosły"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„fundamental” (przymiotnik, poziom B2) oznacza po polsku „fundamentalny, podstawowy”."
+    },
+    {
+      "id": "b2-vocabulary-05-068",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „furious”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "narzucać"
+        },
+        {
+          "id": "b",
+          "text": "fundamentalny, podstawowy"
+        },
+        {
+          "id": "c",
+          "text": "wściekły"
+        },
+        {
+          "id": "d",
+          "text": "mroczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„furious” (przymiotnik, poziom B2) oznacza po polsku „wściekły”."
+    },
+    {
+      "id": "b2-vocabulary-05-069",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „glamorous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "straszliwy"
+        },
+        {
+          "id": "b",
+          "text": "olśniewający, zachwycający, powabny"
+        },
+        {
+          "id": "c",
+          "text": "wadliwy"
+        },
+        {
+          "id": "d",
+          "text": "pobożny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„glamorous” (przymiotnik, poziom B2) oznacza po polsku „olśniewający, zachwycający, powabny”."
+    },
+    {
+      "id": "b2-vocabulary-05-070",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „genuine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piwnica"
+        },
+        {
+          "id": "b",
+          "text": "prawdziwy, autentyczny"
+        },
+        {
+          "id": "c",
+          "text": "opłakiwać, rozpaczać"
+        },
+        {
+          "id": "d",
+          "text": "fiskalny, podatkowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„genuine” (przymiotnik, poziom B2) oznacza po polsku „prawdziwy, autentyczny”."
+    },
+    {
+      "id": "b2-vocabulary-05-071",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cause”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fikcyjny"
+        },
+        {
+          "id": "b",
+          "text": "uciekać"
+        },
+        {
+          "id": "c",
+          "text": "trzepotać"
+        },
+        {
+          "id": "d",
+          "text": "przyczyna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cause” (rzeczownik, poziom B2) oznacza po polsku „przyczyna”."
+    },
+    {
+      "id": "b2-vocabulary-05-072",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cathedral”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(taksówkę) zatrzymywać, przyzywać"
+        },
+        {
+          "id": "b",
+          "text": "uwalniać, zwalniać"
+        },
+        {
+          "id": "c",
+          "text": "katedra"
+        },
+        {
+          "id": "d",
+          "text": "funkcjonalny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cathedral” (rzeczownik, poziom B2) oznacza po polsku „katedra”."
+    },
+    {
+      "id": "b2-vocabulary-05-073",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „frugal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawdziwy, autentyczny"
+        },
+        {
+          "id": "b",
+          "text": "oszczędny, skromny"
+        },
+        {
+          "id": "c",
+          "text": "gloryfikować, wysławiać"
+        },
+        {
+          "id": "d",
+          "text": "kanonik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„frugal” (przymiotnik, poziom B2) oznacza po polsku „oszczędny, skromny”."
+    },
+    {
+      "id": "b2-vocabulary-05-074",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hover”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also chips) (BR) frytki"
+        },
+        {
+          "id": "b",
+          "text": "ilustrować"
+        },
+        {
+          "id": "c",
+          "text": "unosić się"
+        },
+        {
+          "id": "d",
+          "text": "giętki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„hover” (czasownik, poziom B2) oznacza po polsku „unosić się”."
+    },
+    {
+      "id": "b2-vocabulary-05-075",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „catering”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostawa żywności"
+        },
+        {
+          "id": "b",
+          "text": "ustalony, stały"
+        },
+        {
+          "id": "c",
+          "text": "sugerować"
+        },
+        {
+          "id": "d",
+          "text": "zdolności"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„catering” (rzeczownik, poziom B2) oznacza po polsku „dostawa żywności”."
+    },
+    {
+      "id": "b2-vocabulary-05-076",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „godly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziwadło"
+        },
+        {
+          "id": "b",
+          "text": "gloryfikować, wysławiać"
+        },
+        {
+          "id": "c",
+          "text": "pobożny"
+        },
+        {
+          "id": "d",
+          "text": "wadliwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„godly” (przymiotnik, poziom B2) oznacza po polsku „pobożny”."
+    },
+    {
+      "id": "b2-vocabulary-05-077",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gymnastic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanclerz"
+        },
+        {
+          "id": "b",
+          "text": "punkt kontroli"
+        },
+        {
+          "id": "c",
+          "text": "gimnastyczny"
+        },
+        {
+          "id": "d",
+          "text": "jaskrawy, jarmarczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gymnastic” (przymiotnik, poziom B2) oznacza po polsku „gimnastyczny”."
+    },
+    {
+      "id": "b2-vocabulary-05-078",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cemetery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tektura"
+        },
+        {
+          "id": "b",
+          "text": "cmentarz"
+        },
+        {
+          "id": "c",
+          "text": "lina, cuma"
+        },
+        {
+          "id": "d",
+          "text": "trzepotać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cemetery” (rzeczownik, poziom B2) oznacza po polsku „cmentarz”."
+    },
+    {
+      "id": "b2-vocabulary-05-079",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chimney”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sweter rozpinany, sweter"
+        },
+        {
+          "id": "b",
+          "text": "komin"
+        },
+        {
+          "id": "c",
+          "text": "mroczny"
+        },
+        {
+          "id": "d",
+          "text": "dorosły"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„chimney” (rzeczownik, poziom B2) oznacza po polsku „komin”."
+    },
+    {
+      "id": "b2-vocabulary-05-080",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hush”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaznajamiać się, zaznajamiać"
+        },
+        {
+          "id": "b",
+          "text": "wiolonczela"
+        },
+        {
+          "id": "c",
+          "text": "(also hush up) tuszować, uciszać"
+        },
+        {
+          "id": "d",
+          "text": "kampania"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„hush” (czasownik, poziom B2) oznacza po polsku „(also hush up) tuszować, uciszać”."
+    },
+    {
+      "id": "b2-vocabulary-05-081",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „checkpoint”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "punkt kontroli"
+        },
+        {
+          "id": "b",
+          "text": "federalny"
+        },
+        {
+          "id": "c",
+          "text": "podpis"
+        },
+        {
+          "id": "d",
+          "text": "dorosły"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„checkpoint” (rzeczownik, poziom B2) oznacza po polsku „punkt kontroli”."
+    },
+    {
+      "id": "b2-vocabulary-05-082",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chunk”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdolności"
+        },
+        {
+          "id": "b",
+          "text": "eksplodować, wybuchać"
+        },
+        {
+          "id": "c",
+          "text": "kawał"
+        },
+        {
+          "id": "d",
+          "text": "(lit) kaskada"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„chunk” (rzeczownik, poziom B2) oznacza po polsku „kawał”."
+    },
+    {
+      "id": "b2-vocabulary-05-083",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „imply”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "katalog"
+        },
+        {
+          "id": "b",
+          "text": "ilustrować"
+        },
+        {
+          "id": "c",
+          "text": "lina, cuma"
+        },
+        {
+          "id": "d",
+          "text": "sugerować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„imply” (czasownik, poziom B2) oznacza po polsku „sugerować”."
+    },
+    {
+      "id": "b2-vocabulary-05-084",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „idolize”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ubóstwiać"
+        },
+        {
+          "id": "b",
+          "text": "honorować, uznawać"
+        },
+        {
+          "id": "c",
+          "text": "trzepotać"
+        },
+        {
+          "id": "d",
+          "text": "cmentarz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„idolize” (czasownik, poziom B2) oznacza po polsku „ubóstwiać”."
+    },
+    {
+      "id": "b2-vocabulary-05-085",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gradual”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaświadczenie"
+        },
+        {
+          "id": "b",
+          "text": "fundamentalny, podstawowy"
+        },
+        {
+          "id": "c",
+          "text": "zaznajamiać się, zaznajamiać"
+        },
+        {
+          "id": "d",
+          "text": "stopniowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gradual” (przymiotnik, poziom B2) oznacza po polsku „stopniowy”."
+    },
+    {
+      "id": "b2-vocabulary-05-086",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „immerse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zanurzać się, zanurzać"
+        },
+        {
+          "id": "b",
+          "text": "karnawał"
+        },
+        {
+          "id": "c",
+          "text": "podpis"
+        },
+        {
+          "id": "d",
+          "text": "facet, gość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„immerse” (czasownik, poziom B2) oznacza po polsku „zanurzać się, zanurzać”."
+    },
+    {
+      "id": "b2-vocabulary-05-087",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „identify”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piwnica"
+        },
+        {
+          "id": "b",
+          "text": "generalizować, uogólniać"
+        },
+        {
+          "id": "c",
+          "text": "fiskalny, podatkowy"
+        },
+        {
+          "id": "d",
+          "text": "identyfikować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„identify” (czasownik, poziom B2) oznacza po polsku „identyfikować”."
+    },
+    {
+      "id": "b2-vocabulary-05-088",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grown-up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "unosić się"
+        },
+        {
+          "id": "b",
+          "text": "dostawa żywności"
+        },
+        {
+          "id": "c",
+          "text": "zaznajamiać się, zaznajamiać"
+        },
+        {
+          "id": "d",
+          "text": "dorosły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„grown-up” (przymiotnik, poziom B2) oznacza po polsku „dorosły”."
+    },
+    {
+      "id": "b2-vocabulary-05-089",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grand”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "identyfikować"
+        },
+        {
+          "id": "b",
+          "text": "węgiel"
+        },
+        {
+          "id": "c",
+          "text": "kampania"
+        },
+        {
+          "id": "d",
+          "text": "(styl) imponujący"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„grand” (przymiotnik, poziom B2) oznacza po polsku „(styl) imponujący”."
+    },
+    {
+      "id": "b2-vocabulary-05-090",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „illustrate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piwnica"
+        },
+        {
+          "id": "b",
+          "text": "ilustrować"
+        },
+        {
+          "id": "c",
+          "text": "krztusić się"
+        },
+        {
+          "id": "d",
+          "text": "zaświadczenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„illustrate” (czasownik, poziom B2) oznacza po polsku „ilustrować”."
+    },
+    {
+      "id": "b2-vocabulary-05-091",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gross”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gimnastyczny"
+        },
+        {
+          "id": "b",
+          "text": "uciekać"
+        },
+        {
+          "id": "c",
+          "text": "ogromny"
+        },
+        {
+          "id": "d",
+          "text": "(obraz) oprawiać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gross” (przymiotnik, poziom B2) oznacza po polsku „ogromny”."
+    },
+    {
+      "id": "b2-vocabulary-05-092",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gloomy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostawa żywności"
+        },
+        {
+          "id": "b",
+          "text": "komin"
+        },
+        {
+          "id": "c",
+          "text": "mroczny"
+        },
+        {
+          "id": "d",
+          "text": "straszliwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„gloomy” (przymiotnik, poziom B2) oznacza po polsku „mroczny”."
+    },
+    {
+      "id": "b2-vocabulary-05-093",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chip”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cmentarz"
+        },
+        {
+          "id": "b",
+          "text": "zanurzać się, zanurzać"
+        },
+        {
+          "id": "c",
+          "text": "sugerować"
+        },
+        {
+          "id": "d",
+          "text": "(also chips) (BR) frytki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„chip” (rzeczownik, poziom B2) oznacza po polsku „(also chips) (BR) frytki”."
+    },
+    {
+      "id": "b2-vocabulary-05-094",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cherry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiśnia, czereśnia"
+        },
+        {
+          "id": "b",
+          "text": "ochraniać"
+        },
+        {
+          "id": "c",
+          "text": "honorować, uznawać"
+        },
+        {
+          "id": "d",
+          "text": "katalizator"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cherry” (rzeczownik, poziom B2) oznacza po polsku „wiśnia, czereśnia”."
+    },
+    {
+      "id": "b2-vocabulary-05-095",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chancellor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanclerz"
+        },
+        {
+          "id": "b",
+          "text": "(lit) kaskada"
+        },
+        {
+          "id": "c",
+          "text": "ogromny"
+        },
+        {
+          "id": "d",
+          "text": "gloryfikować, wysławiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„chancellor” (rzeczownik, poziom B2) oznacza po polsku „kanclerz”."
+    },
+    {
+      "id": "b2-vocabulary-05-096",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „centigrade”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(obraz) oprawiać"
+        },
+        {
+          "id": "b",
+          "text": "katalog"
+        },
+        {
+          "id": "c",
+          "text": "skala stustopniowa Celsjusza, skala stustopniowa"
+        },
+        {
+          "id": "d",
+          "text": "wadliwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„centigrade” (rzeczownik, poziom B2) oznacza po polsku „skala stustopniowa Celsjusza, skala stustopniowa”."
+    },
+    {
+      "id": "b2-vocabulary-05-097",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „impose”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also hush up) tuszować, uciszać"
+        },
+        {
+          "id": "b",
+          "text": "sufit"
+        },
+        {
+          "id": "c",
+          "text": "narzucać"
+        },
+        {
+          "id": "d",
+          "text": "fundować, zakładać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„impose” (czasownik, poziom B2) oznacza po polsku „narzucać”."
+    },
+    {
+      "id": "b2-vocabulary-05-098",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grim”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also chips) (BR) frytki"
+        },
+        {
+          "id": "b",
+          "text": "katastrofa"
+        },
+        {
+          "id": "c",
+          "text": "ponury"
+        },
+        {
+          "id": "d",
+          "text": "(oceniać) klasyfikować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„grim” (przymiotnik, poziom B2) oznacza po polsku „ponury”."
+    },
+    {
+      "id": "b2-vocabulary-05-099",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „import”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "importować"
+        },
+        {
+          "id": "b",
+          "text": "uwalniać, zwalniać"
+        },
+        {
+          "id": "c",
+          "text": "geograficzny"
+        },
+        {
+          "id": "d",
+          "text": "gloryfikować, wysławiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„import” (czasownik, poziom B2) oznacza po polsku „importować”."
+    },
+    {
+      "id": "b2-vocabulary-05-100",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „certificate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "geograficzny"
+        },
+        {
+          "id": "b",
+          "text": "brzęczenie"
+        },
+        {
+          "id": "c",
+          "text": "zaświadczenie"
+        },
+        {
+          "id": "d",
+          "text": "przyjazny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„certificate” (rzeczownik, poziom B2) oznacza po polsku „zaświadczenie”."
+    }
+  ]
+}

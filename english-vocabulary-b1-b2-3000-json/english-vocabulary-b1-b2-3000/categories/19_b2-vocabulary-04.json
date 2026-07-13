@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-vocabulary-04",
+    "name": "B2 — słownictwo 04"
+  },
+  "questions": [
+    {
+      "id": "b2-vocabulary-04-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bolt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wprowadzać w życie"
+        },
+        {
+          "id": "b",
+          "text": "popierać"
+        },
+        {
+          "id": "c",
+          "text": "ekwipować się, ekwipować, zaopatrywać się, zaopatrywać"
+        },
+        {
+          "id": "d",
+          "text": "śruba"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bolt” (rzeczownik, poziom B2) oznacza po polsku „śruba”."
+    },
+    {
+      "id": "b2-vocabulary-04-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „distract”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przechwalać się"
+        },
+        {
+          "id": "b",
+          "text": "odciągać"
+        },
+        {
+          "id": "c",
+          "text": "zły"
+        },
+        {
+          "id": "d",
+          "text": "rozradowany"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distract” (czasownik, poziom B2) oznacza po polsku „odciągać”."
+    },
+    {
+      "id": "b2-vocabulary-04-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disillusion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekraczać"
+        },
+        {
+          "id": "b",
+          "text": "wyrazisty"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "d",
+          "text": "ewoluować, przekształcać się, przekształcać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disillusion” (czasownik, poziom B2) oznacza po polsku „rozczarowywać”."
+    },
+    {
+      "id": "b2-vocabulary-04-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blindness”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepiękny"
+        },
+        {
+          "id": "b",
+          "text": "ślepota"
+        },
+        {
+          "id": "c",
+          "text": "wybuch"
+        },
+        {
+          "id": "d",
+          "text": "wyrazisty"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„blindness” (rzeczownik, poziom B2) oznacza po polsku „ślepota”."
+    },
+    {
+      "id": "b2-vocabulary-04-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bombard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bombardować"
+        },
+        {
+          "id": "b",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "c",
+          "text": "kwalifikujący się"
+        },
+        {
+          "id": "d",
+          "text": "tytułować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bombard” (rzeczownik, poziom B2) oznacza po polsku „bombardować”."
+    },
+    {
+      "id": "b2-vocabulary-04-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „displace”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wypierać"
+        },
+        {
+          "id": "b",
+          "text": "odwaga"
+        },
+        {
+          "id": "c",
+          "text": "ekstatyczny"
+        },
+        {
+          "id": "d",
+          "text": "oszczędny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„displace” (czasownik, poziom B2) oznacza po polsku „wypierać”."
+    },
+    {
+      "id": "b2-vocabulary-04-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disorganized”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dynamiczny"
+        },
+        {
+          "id": "b",
+          "text": "książeczka, broszura"
+        },
+        {
+          "id": "c",
+          "text": "ogarniać, pochłaniać"
+        },
+        {
+          "id": "d",
+          "text": "zdezorganizowany"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„disorganized” (przymiotnik, poziom B2) oznacza po polsku „zdezorganizowany”."
+    },
+    {
+      "id": "b2-vocabulary-04-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „distinguished”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ślepota"
+        },
+        {
+          "id": "b",
+          "text": "środek wybuchowy, materiał wybuchowy"
+        },
+        {
+          "id": "c",
+          "text": "bombardować"
+        },
+        {
+          "id": "d",
+          "text": "wybitny, znakomity"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„distinguished” (przymiotnik, poziom B2) oznacza po polsku „wybitny, znakomity”."
+    },
+    {
+      "id": "b2-vocabulary-04-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dissatisfied”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekraczać"
+        },
+        {
+          "id": "b",
+          "text": "niezadowolony"
+        },
+        {
+          "id": "c",
+          "text": "bokser"
+        },
+        {
+          "id": "d",
+          "text": "przepiękny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dissatisfied” (przymiotnik, poziom B2) oznacza po polsku „niezadowolony”."
+    },
+    {
+      "id": "b2-vocabulary-04-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disqualify”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyskwalifikować"
+        },
+        {
+          "id": "b",
+          "text": "popierać"
+        },
+        {
+          "id": "c",
+          "text": "rozległy"
+        },
+        {
+          "id": "d",
+          "text": "ogarniać, pochłaniać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disqualify” (czasownik, poziom B2) oznacza po polsku „dyskwalifikować”."
+    },
+    {
+      "id": "b2-vocabulary-04-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „divert”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bułka słodka, bułka"
+        },
+        {
+          "id": "b",
+          "text": "wyrazisty"
+        },
+        {
+          "id": "c",
+          "text": "kierować"
+        },
+        {
+          "id": "d",
+          "text": "ekwipować się, ekwipować, zaopatrywać się, zaopatrywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„divert” (czasownik, poziom B2) oznacza po polsku „kierować”."
+    },
+    {
+      "id": "b2-vocabulary-04-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blossom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczny, trwały"
+        },
+        {
+          "id": "b",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "c",
+          "text": "kwiat"
+        },
+        {
+          "id": "d",
+          "text": "popierać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blossom” (rzeczownik, poziom B2) oznacza po polsku „kwiat”."
+    },
+    {
+      "id": "b2-vocabulary-04-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bloodstream”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mieszanka"
+        },
+        {
+          "id": "b",
+          "text": "niezadowolony"
+        },
+        {
+          "id": "c",
+          "text": "wieczny, trwały"
+        },
+        {
+          "id": "d",
+          "text": "krwiobieg"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bloodstream” (rzeczownik, poziom B2) oznacza po polsku „krwiobieg”."
+    },
+    {
+      "id": "b2-vocabulary-04-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disorderly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elegancki"
+        },
+        {
+          "id": "b",
+          "text": "nieporządny"
+        },
+        {
+          "id": "c",
+          "text": "ewoluować, przekształcać się, przekształcać"
+        },
+        {
+          "id": "d",
+          "text": "wybitny, znakomity"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„disorderly” (przymiotnik, poziom B2) oznacza po polsku „nieporządny”."
+    },
+    {
+      "id": "b2-vocabulary-04-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „domestic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "egzotyczny"
+        },
+        {
+          "id": "b",
+          "text": "tytułować"
+        },
+        {
+          "id": "c",
+          "text": "poddawać egzekucji, tracić"
+        },
+        {
+          "id": "d",
+          "text": "krajowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„domestic” (przymiotnik, poziom B2) oznacza po polsku „krajowy”."
+    },
+    {
+      "id": "b2-vocabulary-04-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disrupt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przechwalać się"
+        },
+        {
+          "id": "b",
+          "text": "pomijać, nie włączać"
+        },
+        {
+          "id": "c",
+          "text": "popierać"
+        },
+        {
+          "id": "d",
+          "text": "przerywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„disrupt” (czasownik, poziom B2) oznacza po polsku „przerywać”."
+    },
+    {
+      "id": "b2-vocabulary-04-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „discriminate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rasa"
+        },
+        {
+          "id": "b",
+          "text": "okropny"
+        },
+        {
+          "id": "c",
+          "text": "kierować"
+        },
+        {
+          "id": "d",
+          "text": "rozróżniać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„discriminate” (czasownik, poziom B2) oznacza po polsku „rozróżniać”."
+    },
+    {
+      "id": "b2-vocabulary-04-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dispensable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przodować"
+        },
+        {
+          "id": "b",
+          "text": "oceniać"
+        },
+        {
+          "id": "c",
+          "text": "śruba"
+        },
+        {
+          "id": "d",
+          "text": "zbyteczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dispensable” (przymiotnik, poziom B2) oznacza po polsku „zbyteczny”."
+    },
+    {
+      "id": "b2-vocabulary-04-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wypierać"
+        },
+        {
+          "id": "b",
+          "text": "zazdrościć"
+        },
+        {
+          "id": "c",
+          "text": "mieszanka"
+        },
+        {
+          "id": "d",
+          "text": "oszczędny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blend” (rzeczownik, poziom B2) oznacza po polsku „mieszanka”."
+    },
+    {
+      "id": "b2-vocabulary-04-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dismiss”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bokser"
+        },
+        {
+          "id": "b",
+          "text": "odrzucać"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "d",
+          "text": "wyprostowany"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dismiss” (czasownik, poziom B2) oznacza po polsku „odrzucać”."
+    },
+    {
+      "id": "b2-vocabulary-04-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blaze”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tytułować"
+        },
+        {
+          "id": "b",
+          "text": "żywiołowy, niepohamowany"
+        },
+        {
+          "id": "c",
+          "text": "pożar"
+        },
+        {
+          "id": "d",
+          "text": "mieszanka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blaze” (rzeczownik, poziom B2) oznacza po polsku „pożar”."
+    },
+    {
+      "id": "b2-vocabulary-04-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybuch"
+        },
+        {
+          "id": "b",
+          "text": "(form) wykazywać"
+        },
+        {
+          "id": "c",
+          "text": "dziennikarz, dziennikarz radiowy, dziennikarz telewizyjny"
+        },
+        {
+          "id": "d",
+          "text": "nieporządny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„blast” (rzeczownik, poziom B2) oznacza po polsku „wybuch”."
+    },
+    {
+      "id": "b2-vocabulary-04-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dreadful”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "okropny"
+        },
+        {
+          "id": "b",
+          "text": "żywiołowy, niepohamowany"
+        },
+        {
+          "id": "c",
+          "text": "dynamiczny"
+        },
+        {
+          "id": "d",
+          "text": "przekazywać, ofiarowywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dreadful” (przymiotnik, poziom B2) oznacza po polsku „okropny”."
+    },
+    {
+      "id": "b2-vocabulary-04-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dreamy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymowny, elokwentny"
+        },
+        {
+          "id": "b",
+          "text": "bokser"
+        },
+        {
+          "id": "c",
+          "text": "bać się"
+        },
+        {
+          "id": "d",
+          "text": "marzycielski"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dreamy” (przymiotnik, poziom B2) oznacza po polsku „marzycielski”."
+    },
+    {
+      "id": "b2-vocabulary-04-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „down”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(człowiek) przygnębiony"
+        },
+        {
+          "id": "b",
+          "text": "ewoluować, przekształcać się, przekształcać"
+        },
+        {
+          "id": "c",
+          "text": "fatalny"
+        },
+        {
+          "id": "d",
+          "text": "wybuchać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„down” (przymiotnik, poziom B2) oznacza po polsku „(człowiek) przygnębiony”."
+    },
+    {
+      "id": "b2-vocabulary-04-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „elegant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siniak"
+        },
+        {
+          "id": "b",
+          "text": "kwalifikujący się"
+        },
+        {
+          "id": "c",
+          "text": "niezadowolony"
+        },
+        {
+          "id": "d",
+          "text": "elegancki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„elegant” (przymiotnik, poziom B2) oznacza po polsku „elegancki”."
+    },
+    {
+      "id": "b2-vocabulary-04-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dread”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "b",
+          "text": "bać się"
+        },
+        {
+          "id": "c",
+          "text": "zarządzający, wykonawczy"
+        },
+        {
+          "id": "d",
+          "text": "etniczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dread” (czasownik, poziom B2) oznacza po polsku „bać się”."
+    },
+    {
+      "id": "b2-vocabulary-04-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „employ”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "b",
+          "text": "odbicie się, odbicie, podskok"
+        },
+        {
+          "id": "c",
+          "text": "kwiat"
+        },
+        {
+          "id": "d",
+          "text": "popierać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„employ” (czasownik, poziom B2) oznacza po polsku „zatrudniać”."
+    },
+    {
+      "id": "b2-vocabulary-04-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „eloquent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kwalifikujący się"
+        },
+        {
+          "id": "b",
+          "text": "wybierać"
+        },
+        {
+          "id": "c",
+          "text": "wymowny, elokwentny"
+        },
+        {
+          "id": "d",
+          "text": "mieszanka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„eloquent” (przymiotnik, poziom B2) oznacza po polsku „wymowny, elokwentny”."
+    },
+    {
+      "id": "b2-vocabulary-04-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „doubt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczny, trwały"
+        },
+        {
+          "id": "b",
+          "text": "mieć wątpliwości, wątpić"
+        },
+        {
+          "id": "c",
+          "text": "przekraczać"
+        },
+        {
+          "id": "d",
+          "text": "podnosić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„doubt” (czasownik, poziom B2) oznacza po polsku „mieć wątpliwości, wątpić”."
+    },
+    {
+      "id": "b2-vocabulary-04-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dominate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bać się"
+        },
+        {
+          "id": "b",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "c",
+          "text": "zdominowywać, dominować nad"
+        },
+        {
+          "id": "d",
+          "text": "bombardować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dominate” (czasownik, poziom B2) oznacza po polsku „zdominowywać, dominować nad”."
+    },
+    {
+      "id": "b2-vocabulary-04-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bomber”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bombowiec"
+        },
+        {
+          "id": "b",
+          "text": "wybuch"
+        },
+        {
+          "id": "c",
+          "text": "niezadowolony"
+        },
+        {
+          "id": "d",
+          "text": "wyjątkowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bomber” (rzeczownik, poziom B2) oznacza po polsku „bombowiec”."
+    },
+    {
+      "id": "b2-vocabulary-04-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „booth”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieporządny"
+        },
+        {
+          "id": "b",
+          "text": "zdominowywać, dominować nad"
+        },
+        {
+          "id": "c",
+          "text": "tytułować"
+        },
+        {
+          "id": "d",
+          "text": "budka telefoniczna, budka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„booth” (rzeczownik, poziom B2) oznacza po polsku „budka telefoniczna, budka”."
+    },
+    {
+      "id": "b2-vocabulary-04-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bookmark”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zakładka"
+        },
+        {
+          "id": "b",
+          "text": "polepszać, zwiększać"
+        },
+        {
+          "id": "c",
+          "text": "wyrazisty"
+        },
+        {
+          "id": "d",
+          "text": "fantastyczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bookmark” (rzeczownik, poziom B2) oznacza po polsku „zakładka”."
+    },
+    {
+      "id": "b2-vocabulary-04-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „botany”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybierać"
+        },
+        {
+          "id": "b",
+          "text": "nieporządny"
+        },
+        {
+          "id": "c",
+          "text": "botanika"
+        },
+        {
+          "id": "d",
+          "text": "pochówek, pogrzeb"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„botany” (rzeczownik, poziom B2) oznacza po polsku „botanika”."
+    },
+    {
+      "id": "b2-vocabulary-04-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „enforce”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wprowadzać w życie"
+        },
+        {
+          "id": "b",
+          "text": "pożar"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "d",
+          "text": "oszczędny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„enforce” (czasownik, poziom B2) oznacza po polsku „wprowadzać w życie”."
+    },
+    {
+      "id": "b2-vocabulary-04-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „elect”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oszczędny"
+        },
+        {
+          "id": "b",
+          "text": "wybierać"
+        },
+        {
+          "id": "c",
+          "text": "przepiękny"
+        },
+        {
+          "id": "d",
+          "text": "wypierać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„elect” (czasownik, poziom B2) oznacza po polsku „wybierać”."
+    },
+    {
+      "id": "b2-vocabulary-04-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „endorse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "popierać"
+        },
+        {
+          "id": "b",
+          "text": "fatalny"
+        },
+        {
+          "id": "c",
+          "text": "przechwalać się"
+        },
+        {
+          "id": "d",
+          "text": "zapisywać się, zapisywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„endorse” (czasownik, poziom B2) oznacza po polsku „popierać”."
+    },
+    {
+      "id": "b2-vocabulary-04-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bracket”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "środek wybuchowy, materiał wybuchowy"
+        },
+        {
+          "id": "b",
+          "text": "mieć wątpliwości, wątpić"
+        },
+        {
+          "id": "c",
+          "text": "broszura, folder"
+        },
+        {
+          "id": "d",
+          "text": "nawias"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bracket” (rzeczownik, poziom B2) oznacza po polsku „nawias”."
+    },
+    {
+      "id": "b2-vocabulary-04-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „elemental”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekazywać, ofiarowywać"
+        },
+        {
+          "id": "b",
+          "text": "żywiołowy, niepohamowany"
+        },
+        {
+          "id": "c",
+          "text": "śruba"
+        },
+        {
+          "id": "d",
+          "text": "kierować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„elemental” (przymiotnik, poziom B2) oznacza po polsku „żywiołowy, niepohamowany”."
+    },
+    {
+      "id": "b2-vocabulary-04-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boxer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "budka telefoniczna, budka"
+        },
+        {
+          "id": "b",
+          "text": "bać się"
+        },
+        {
+          "id": "c",
+          "text": "bokser"
+        },
+        {
+          "id": "d",
+          "text": "odrzucać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„boxer” (rzeczownik, poziom B2) oznacza po polsku „bokser”."
+    },
+    {
+      "id": "b2-vocabulary-04-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „booklet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyprostowany"
+        },
+        {
+          "id": "b",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "c",
+          "text": "książeczka, broszura"
+        },
+        {
+          "id": "d",
+          "text": "przerywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„booklet” (rzeczownik, poziom B2) oznacza po polsku „książeczka, broszura”."
+    },
+    {
+      "id": "b2-vocabulary-04-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „economical”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oszczędny"
+        },
+        {
+          "id": "b",
+          "text": "podnosić"
+        },
+        {
+          "id": "c",
+          "text": "polepszać, zwiększać"
+        },
+        {
+          "id": "d",
+          "text": "(człowiek) przygnębiony"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„economical” (przymiotnik, poziom B2) oznacza po polsku „oszczędny”."
+    },
+    {
+      "id": "b2-vocabulary-04-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ecstatic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapisywać się, zapisywać"
+        },
+        {
+          "id": "b",
+          "text": "książeczka, broszura"
+        },
+        {
+          "id": "c",
+          "text": "dyskwalifikować"
+        },
+        {
+          "id": "d",
+          "text": "ekstatyczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ecstatic” (przymiotnik, poziom B2) oznacza po polsku „ekstatyczny”."
+    },
+    {
+      "id": "b2-vocabulary-04-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „eligible”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarządzający, wykonawczy"
+        },
+        {
+          "id": "b",
+          "text": "kwalifikujący się"
+        },
+        {
+          "id": "c",
+          "text": "ekstatyczny"
+        },
+        {
+          "id": "d",
+          "text": "fatalny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„eligible” (przymiotnik, poziom B2) oznacza po polsku „kwalifikujący się”."
+    },
+    {
+      "id": "b2-vocabulary-04-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „donate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapisywać się, zapisywać"
+        },
+        {
+          "id": "b",
+          "text": "dyskwalifikować"
+        },
+        {
+          "id": "c",
+          "text": "przekazywać, ofiarowywać"
+        },
+        {
+          "id": "d",
+          "text": "bać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„donate” (czasownik, poziom B2) oznacza po polsku „przekazywać, ofiarowywać”."
+    },
+    {
+      "id": "b2-vocabulary-04-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boost”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zazdrościć"
+        },
+        {
+          "id": "b",
+          "text": "żywiołowy, niepohamowany"
+        },
+        {
+          "id": "c",
+          "text": "zwiększenie"
+        },
+        {
+          "id": "d",
+          "text": "dyskwalifikować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„boost” (rzeczownik, poziom B2) oznacza po polsku „zwiększenie”."
+    },
+    {
+      "id": "b2-vocabulary-04-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dynamic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyprostowany"
+        },
+        {
+          "id": "b",
+          "text": "kwalifikujący się"
+        },
+        {
+          "id": "c",
+          "text": "wyspecjalizowany, specjalistyczny"
+        },
+        {
+          "id": "d",
+          "text": "dynamiczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dynamic” (przymiotnik, poziom B2) oznacza po polsku „dynamiczny”."
+    },
+    {
+      "id": "b2-vocabulary-04-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dumb”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "środek wybuchowy, materiał wybuchowy"
+        },
+        {
+          "id": "b",
+          "text": "krwiobieg"
+        },
+        {
+          "id": "c",
+          "text": "niemy"
+        },
+        {
+          "id": "d",
+          "text": "etniczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dumb” (przymiotnik, poziom B2) oznacza po polsku „niemy”."
+    },
+    {
+      "id": "b2-vocabulary-04-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bounce”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozradowany"
+        },
+        {
+          "id": "b",
+          "text": "pożar"
+        },
+        {
+          "id": "c",
+          "text": "siniak"
+        },
+        {
+          "id": "d",
+          "text": "odbicie się, odbicie, podskok"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bounce” (rzeczownik, poziom B2) oznacza po polsku „odbicie się, odbicie, podskok”."
+    },
+    {
+      "id": "b2-vocabulary-04-051",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „excessive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekwipować się, ekwipować, zaopatrywać się, zaopatrywać"
+        },
+        {
+          "id": "b",
+          "text": "wypierać"
+        },
+        {
+          "id": "c",
+          "text": "nadmierny"
+        },
+        {
+          "id": "d",
+          "text": "przerywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„excessive” (przymiotnik, poziom B2) oznacza po polsku „nadmierny”."
+    },
+    {
+      "id": "b2-vocabulary-04-052",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „envy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekstatyczny"
+        },
+        {
+          "id": "b",
+          "text": "zazdrościć"
+        },
+        {
+          "id": "c",
+          "text": "kwalifikujący się"
+        },
+        {
+          "id": "d",
+          "text": "ślepota"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„envy” (czasownik, poziom B2) oznacza po polsku „zazdrościć”."
+    },
+    {
+      "id": "b2-vocabulary-04-053",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ethnic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "administracja"
+        },
+        {
+          "id": "b",
+          "text": "etniczny"
+        },
+        {
+          "id": "c",
+          "text": "zapisywać się, zapisywać"
+        },
+        {
+          "id": "d",
+          "text": "zdezorganizowany"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ethnic” (przymiotnik, poziom B2) oznacza po polsku „etniczny”."
+    },
+    {
+      "id": "b2-vocabulary-04-054",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „breed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepiękny"
+        },
+        {
+          "id": "b",
+          "text": "etniczny"
+        },
+        {
+          "id": "c",
+          "text": "rasa"
+        },
+        {
+          "id": "d",
+          "text": "ogarniać, pochłaniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„breed” (rzeczownik, poziom B2) oznacza po polsku „rasa”."
+    },
+    {
+      "id": "b2-vocabulary-04-055",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „enhance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odwaga"
+        },
+        {
+          "id": "b",
+          "text": "kierować"
+        },
+        {
+          "id": "c",
+          "text": "wypierać"
+        },
+        {
+          "id": "d",
+          "text": "polepszać, zwiększać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„enhance” (czasownik, poziom B2) oznacza po polsku „polepszać, zwiększać”."
+    },
+    {
+      "id": "b2-vocabulary-04-056",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „enrol”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapisywać się, zapisywać"
+        },
+        {
+          "id": "b",
+          "text": "pochówek, pogrzeb"
+        },
+        {
+          "id": "c",
+          "text": "odbicie się, odbicie, podskok"
+        },
+        {
+          "id": "d",
+          "text": "odrzucać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„enrol” (czasownik, poziom B2) oznacza po polsku „zapisywać się, zapisywać”."
+    },
+    {
+      "id": "b2-vocabulary-04-057",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „erect”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyprostowany"
+        },
+        {
+          "id": "b",
+          "text": "wypierać"
+        },
+        {
+          "id": "c",
+          "text": "siniak"
+        },
+        {
+          "id": "d",
+          "text": "zwiększenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„erect” (przymiotnik, poziom B2) oznacza po polsku „wyprostowany”."
+    },
+    {
+      "id": "b2-vocabulary-04-058",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „evacuate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przechwalać się"
+        },
+        {
+          "id": "b",
+          "text": "zapisywać się, zapisywać"
+        },
+        {
+          "id": "c",
+          "text": "zbyteczny"
+        },
+        {
+          "id": "d",
+          "text": "ewakuować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„evacuate” (czasownik, poziom B2) oznacza po polsku „ewakuować”."
+    },
+    {
+      "id": "b2-vocabulary-04-059",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „broadcaster”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziennikarz, dziennikarz radiowy, dziennikarz telewizyjny"
+        },
+        {
+          "id": "b",
+          "text": "popierać"
+        },
+        {
+          "id": "c",
+          "text": "ekwipować się, ekwipować, zaopatrywać się, zaopatrywać"
+        },
+        {
+          "id": "d",
+          "text": "kwiat"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„broadcaster” (rzeczownik, poziom B2) oznacza po polsku „dziennikarz, dziennikarz radiowy, dziennikarz telewizyjny”."
+    },
+    {
+      "id": "b2-vocabulary-04-060",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brochure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bombowiec"
+        },
+        {
+          "id": "b",
+          "text": "dziennikarz, dziennikarz radiowy, dziennikarz telewizyjny"
+        },
+        {
+          "id": "c",
+          "text": "broszura, folder"
+        },
+        {
+          "id": "d",
+          "text": "wieczny, trwały"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„brochure” (rzeczownik, poziom B2) oznacza po polsku „broszura, folder”."
+    },
+    {
+      "id": "b2-vocabulary-04-061",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exotic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "egzotyczny"
+        },
+        {
+          "id": "b",
+          "text": "fantastyczny"
+        },
+        {
+          "id": "c",
+          "text": "bokser"
+        },
+        {
+          "id": "d",
+          "text": "zdominowywać, dominować nad"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„exotic” (przymiotnik, poziom B2) oznacza po polsku „egzotyczny”."
+    },
+    {
+      "id": "b2-vocabulary-04-062",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „erupt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "b",
+          "text": "pożar"
+        },
+        {
+          "id": "c",
+          "text": "wybuchać"
+        },
+        {
+          "id": "d",
+          "text": "(człowiek) przygnębiony"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„erupt” (czasownik, poziom B2) oznacza po polsku „wybuchać”."
+    },
+    {
+      "id": "b2-vocabulary-04-063",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „equip”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wprowadzać w życie"
+        },
+        {
+          "id": "b",
+          "text": "oceniać"
+        },
+        {
+          "id": "c",
+          "text": "ekwipować się, ekwipować, zaopatrywać się, zaopatrywać"
+        },
+        {
+          "id": "d",
+          "text": "(człowiek) przygnębiony"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„equip” (czasownik, poziom B2) oznacza po polsku „ekwipować się, ekwipować, zaopatrywać się, zaopatrywać”."
+    },
+    {
+      "id": "b2-vocabulary-04-064",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „everlasting”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "włamanie"
+        },
+        {
+          "id": "b",
+          "text": "podnosić"
+        },
+        {
+          "id": "c",
+          "text": "fatalny"
+        },
+        {
+          "id": "d",
+          "text": "wieczny, trwały"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„everlasting” (przymiotnik, poziom B2) oznacza po polsku „wieczny, trwały”."
+    },
+    {
+      "id": "b2-vocabulary-04-065",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „evaluate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oceniać"
+        },
+        {
+          "id": "b",
+          "text": "etniczny"
+        },
+        {
+          "id": "c",
+          "text": "rozczarowywać"
+        },
+        {
+          "id": "d",
+          "text": "niezadowolony"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„evaluate” (czasownik, poziom B2) oznacza po polsku „oceniać”."
+    },
+    {
+      "id": "b2-vocabulary-04-066",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brewery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "browar"
+        },
+        {
+          "id": "b",
+          "text": "rozradowany"
+        },
+        {
+          "id": "c",
+          "text": "dyskwalifikować"
+        },
+        {
+          "id": "d",
+          "text": "przekraczać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„brewery” (rzeczownik, poziom B2) oznacza po polsku „browar”."
+    },
+    {
+      "id": "b2-vocabulary-04-067",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „executive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwiększenie"
+        },
+        {
+          "id": "b",
+          "text": "dyskwalifikować"
+        },
+        {
+          "id": "c",
+          "text": "zarządzający, wykonawczy"
+        },
+        {
+          "id": "d",
+          "text": "ewoluować, przekształcać się, przekształcać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„executive” (przymiotnik, poziom B2) oznacza po polsku „zarządzający, wykonawczy”."
+    },
+    {
+      "id": "b2-vocabulary-04-068",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „evil”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fatalny"
+        },
+        {
+          "id": "b",
+          "text": "rozpad"
+        },
+        {
+          "id": "c",
+          "text": "pochówek, pogrzeb"
+        },
+        {
+          "id": "d",
+          "text": "zły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„evil” (przymiotnik, poziom B2) oznacza po polsku „zły”."
+    },
+    {
+      "id": "b2-vocabulary-04-069",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „breakdown”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekraczać"
+        },
+        {
+          "id": "b",
+          "text": "rozpad"
+        },
+        {
+          "id": "c",
+          "text": "broszura, folder"
+        },
+        {
+          "id": "d",
+          "text": "budka telefoniczna, budka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„breakdown” (rzeczownik, poziom B2) oznacza po polsku „rozpad”."
+    },
+    {
+      "id": "b2-vocabulary-04-070",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „entitle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przerywać"
+        },
+        {
+          "id": "b",
+          "text": "botanika"
+        },
+        {
+          "id": "c",
+          "text": "tytułować"
+        },
+        {
+          "id": "d",
+          "text": "bokser"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„entitle” (czasownik, poziom B2) oznacza po polsku „tytułować”."
+    },
+    {
+      "id": "b2-vocabulary-04-071",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „engulf”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dynamiczny"
+        },
+        {
+          "id": "b",
+          "text": "polepszać, zwiększać"
+        },
+        {
+          "id": "c",
+          "text": "dyskwalifikować"
+        },
+        {
+          "id": "d",
+          "text": "ogarniać, pochłaniać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„engulf” (czasownik, poziom B2) oznacza po polsku „ogarniać, pochłaniać”."
+    },
+    {
+      "id": "b2-vocabulary-04-072",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brother-in-law”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kwalifikujący się"
+        },
+        {
+          "id": "b",
+          "text": "bokser"
+        },
+        {
+          "id": "c",
+          "text": "ogarniać, pochłaniać"
+        },
+        {
+          "id": "d",
+          "text": "szwagier"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„brother-in-law” (rzeczownik, poziom B2) oznacza po polsku „szwagier”."
+    },
+    {
+      "id": "b2-vocabulary-04-073",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bravery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "włóczęga, tramp"
+        },
+        {
+          "id": "b",
+          "text": "odwaga"
+        },
+        {
+          "id": "c",
+          "text": "bombowiec"
+        },
+        {
+          "id": "d",
+          "text": "kierować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bravery” (rzeczownik, poziom B2) oznacza po polsku „odwaga”."
+    },
+    {
+      "id": "b2-vocabulary-04-074",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exceptional”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjątkowy"
+        },
+        {
+          "id": "b",
+          "text": "ekstatyczny"
+        },
+        {
+          "id": "c",
+          "text": "bombowiec"
+        },
+        {
+          "id": "d",
+          "text": "przekazywać, ofiarowywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„exceptional” (przymiotnik, poziom B2) oznacza po polsku „wyjątkowy”."
+    },
+    {
+      "id": "b2-vocabulary-04-075",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brag”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tytułować"
+        },
+        {
+          "id": "b",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "c",
+          "text": "nieporządny"
+        },
+        {
+          "id": "d",
+          "text": "przechwalać się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„brag” (rzeczownik, poziom B2) oznacza po polsku „przechwalać się”."
+    },
+    {
+      "id": "b2-vocabulary-04-076",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „excel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochówek, pogrzeb"
+        },
+        {
+          "id": "b",
+          "text": "fatalny"
+        },
+        {
+          "id": "c",
+          "text": "przodować"
+        },
+        {
+          "id": "d",
+          "text": "odciągać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„excel” (czasownik, poziom B2) oznacza po polsku „przodować”."
+    },
+    {
+      "id": "b2-vocabulary-04-077",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bum”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przerywać"
+        },
+        {
+          "id": "b",
+          "text": "włóczęga, tramp"
+        },
+        {
+          "id": "c",
+          "text": "administracja"
+        },
+        {
+          "id": "d",
+          "text": "zbyteczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bum” (rzeczownik, poziom B2) oznacza po polsku „włóczęga, tramp”."
+    },
+    {
+      "id": "b2-vocabulary-04-078",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exquisite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wykrzykiwać, zakrzykiwać"
+        },
+        {
+          "id": "b",
+          "text": "wybuchać"
+        },
+        {
+          "id": "c",
+          "text": "okropny"
+        },
+        {
+          "id": "d",
+          "text": "przepiękny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„exquisite” (przymiotnik, poziom B2) oznacza po polsku „przepiękny”."
+    },
+    {
+      "id": "b2-vocabulary-04-079",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bruise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(form) wykazywać"
+        },
+        {
+          "id": "b",
+          "text": "elegancki"
+        },
+        {
+          "id": "c",
+          "text": "mieć wątpliwości, wątpić"
+        },
+        {
+          "id": "d",
+          "text": "siniak"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bruise” (rzeczownik, poziom B2) oznacza po polsku „siniak”."
+    },
+    {
+      "id": "b2-vocabulary-04-080",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fatal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fatalny"
+        },
+        {
+          "id": "b",
+          "text": "podnosić"
+        },
+        {
+          "id": "c",
+          "text": "zderzak"
+        },
+        {
+          "id": "d",
+          "text": "ogarniać, pochłaniać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fatal” (przymiotnik, poziom B2) oznacza po polsku „fatalny”."
+    },
+    {
+      "id": "b2-vocabulary-04-081",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bureaucracy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "administracja"
+        },
+        {
+          "id": "b",
+          "text": "wyspecjalizowany, specjalistyczny"
+        },
+        {
+          "id": "c",
+          "text": "etniczny"
+        },
+        {
+          "id": "d",
+          "text": "przepiękny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bureaucracy” (rzeczownik, poziom B2) oznacza po polsku „administracja”."
+    },
+    {
+      "id": "b2-vocabulary-04-082",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exceed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "okropny"
+        },
+        {
+          "id": "b",
+          "text": "przekraczać"
+        },
+        {
+          "id": "c",
+          "text": "książeczka, broszura"
+        },
+        {
+          "id": "d",
+          "text": "budka telefoniczna, budka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„exceed” (czasownik, poziom B2) oznacza po polsku „przekraczać”."
+    },
+    {
+      "id": "b2-vocabulary-04-083",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exhibit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odciągać"
+        },
+        {
+          "id": "b",
+          "text": "ślepota"
+        },
+        {
+          "id": "c",
+          "text": "(form) wykazywać"
+        },
+        {
+          "id": "d",
+          "text": "polepszać, zwiększać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„exhibit” (czasownik, poziom B2) oznacza po polsku „(form) wykazywać”."
+    },
+    {
+      "id": "b2-vocabulary-04-084",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „extensive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozległy"
+        },
+        {
+          "id": "b",
+          "text": "szwagier"
+        },
+        {
+          "id": "c",
+          "text": "fatalny"
+        },
+        {
+          "id": "d",
+          "text": "pochówek, pogrzeb"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„extensive” (przymiotnik, poziom B2) oznacza po polsku „rozległy”."
+    },
+    {
+      "id": "b2-vocabulary-04-085",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „execute”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poddawać egzekucji, tracić"
+        },
+        {
+          "id": "b",
+          "text": "środek wybuchowy, materiał wybuchowy"
+        },
+        {
+          "id": "c",
+          "text": "bombowiec"
+        },
+        {
+          "id": "d",
+          "text": "wybitny, znakomity"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„execute” (czasownik, poziom B2) oznacza po polsku „poddawać egzekucji, tracić”."
+    },
+    {
+      "id": "b2-vocabulary-04-086",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „explosive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nawias"
+        },
+        {
+          "id": "b",
+          "text": "środek wybuchowy, materiał wybuchowy"
+        },
+        {
+          "id": "c",
+          "text": "książeczka, broszura"
+        },
+        {
+          "id": "d",
+          "text": "pożar"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„explosive” (przymiotnik, poziom B2) oznacza po polsku „środek wybuchowy, materiał wybuchowy”."
+    },
+    {
+      "id": "b2-vocabulary-04-087",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „burglary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekstatyczny"
+        },
+        {
+          "id": "b",
+          "text": "bombowiec"
+        },
+        {
+          "id": "c",
+          "text": "włamanie"
+        },
+        {
+          "id": "d",
+          "text": "odrzucać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„burglary” (rzeczownik, poziom B2) oznacza po polsku „włamanie”."
+    },
+    {
+      "id": "b2-vocabulary-04-088",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bun”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bombardować"
+        },
+        {
+          "id": "b",
+          "text": "wieczny, trwały"
+        },
+        {
+          "id": "c",
+          "text": "zderzak"
+        },
+        {
+          "id": "d",
+          "text": "bułka słodka, bułka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bun” (rzeczownik, poziom B2) oznacza po polsku „bułka słodka, bułka”."
+    },
+    {
+      "id": "b2-vocabulary-04-089",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „external”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szwagier"
+        },
+        {
+          "id": "b",
+          "text": "kierować"
+        },
+        {
+          "id": "c",
+          "text": "bułka słodka, bułka"
+        },
+        {
+          "id": "d",
+          "text": "zewnętrzny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„external” (przymiotnik, poziom B2) oznacza po polsku „zewnętrzny”."
+    },
+    {
+      "id": "b2-vocabulary-04-090",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bumper”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożar"
+        },
+        {
+          "id": "b",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "c",
+          "text": "zderzak"
+        },
+        {
+          "id": "d",
+          "text": "przechwalać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bumper” (rzeczownik, poziom B2) oznacza po polsku „zderzak”."
+    },
+    {
+      "id": "b2-vocabulary-04-091",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exalt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozpad"
+        },
+        {
+          "id": "b",
+          "text": "siniak"
+        },
+        {
+          "id": "c",
+          "text": "rozróżniać"
+        },
+        {
+          "id": "d",
+          "text": "podnosić"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„exalt” (czasownik, poziom B2) oznacza po polsku „podnosić”."
+    },
+    {
+      "id": "b2-vocabulary-04-092",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „expressive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybierać"
+        },
+        {
+          "id": "b",
+          "text": "oceniać"
+        },
+        {
+          "id": "c",
+          "text": "włamanie"
+        },
+        {
+          "id": "d",
+          "text": "wyrazisty"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„expressive” (przymiotnik, poziom B2) oznacza po polsku „wyrazisty”."
+    },
+    {
+      "id": "b2-vocabulary-04-093",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exultant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozradowany"
+        },
+        {
+          "id": "b",
+          "text": "dziennikarz, dziennikarz radiowy, dziennikarz telewizyjny"
+        },
+        {
+          "id": "c",
+          "text": "kierować"
+        },
+        {
+          "id": "d",
+          "text": "botanika"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„exultant” (przymiotnik, poziom B2) oznacza po polsku „rozradowany”."
+    },
+    {
+      "id": "b2-vocabulary-04-094",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „burial”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochówek, pogrzeb"
+        },
+        {
+          "id": "b",
+          "text": "poddawać egzekucji, tracić"
+        },
+        {
+          "id": "c",
+          "text": "nawias"
+        },
+        {
+          "id": "d",
+          "text": "administracja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„burial” (rzeczownik, poziom B2) oznacza po polsku „pochówek, pogrzeb”."
+    },
+    {
+      "id": "b2-vocabulary-04-095",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fabulous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozróżniać"
+        },
+        {
+          "id": "b",
+          "text": "śruba"
+        },
+        {
+          "id": "c",
+          "text": "bombowiec"
+        },
+        {
+          "id": "d",
+          "text": "fantastyczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fabulous” (przymiotnik, poziom B2) oznacza po polsku „fantastyczny”."
+    },
+    {
+      "id": "b2-vocabulary-04-096",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bud”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oceniać"
+        },
+        {
+          "id": "b",
+          "text": "bombowiec"
+        },
+        {
+          "id": "c",
+          "text": "pączek"
+        },
+        {
+          "id": "d",
+          "text": "zakładka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bud” (rzeczownik, poziom B2) oznacza po polsku „pączek”."
+    },
+    {
+      "id": "b2-vocabulary-04-097",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exclude”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "administracja"
+        },
+        {
+          "id": "b",
+          "text": "odrzucać"
+        },
+        {
+          "id": "c",
+          "text": "zderzak"
+        },
+        {
+          "id": "d",
+          "text": "pomijać, nie włączać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„exclude” (czasownik, poziom B2) oznacza po polsku „pomijać, nie włączać”."
+    },
+    {
+      "id": "b2-vocabulary-04-098",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exclaim”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdominowywać, dominować nad"
+        },
+        {
+          "id": "b",
+          "text": "budka telefoniczna, budka"
+        },
+        {
+          "id": "c",
+          "text": "pochówek, pogrzeb"
+        },
+        {
+          "id": "d",
+          "text": "wykrzykiwać, zakrzykiwać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„exclaim” (czasownik, poziom B2) oznacza po polsku „wykrzykiwać, zakrzykiwać”."
+    },
+    {
+      "id": "b2-vocabulary-04-099",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „evolve”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybuch"
+        },
+        {
+          "id": "b",
+          "text": "bokser"
+        },
+        {
+          "id": "c",
+          "text": "ewoluować, przekształcać się, przekształcać"
+        },
+        {
+          "id": "d",
+          "text": "przekazywać, ofiarowywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„evolve” (czasownik, poziom B2) oznacza po polsku „ewoluować, przekształcać się, przekształcać”."
+    },
+    {
+      "id": "b2-vocabulary-04-100",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „expert”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przerywać"
+        },
+        {
+          "id": "b",
+          "text": "wyspecjalizowany, specjalistyczny"
+        },
+        {
+          "id": "c",
+          "text": "szwagier"
+        },
+        {
+          "id": "d",
+          "text": "rozległy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„expert” (przymiotnik, poziom B2) oznacza po polsku „wyspecjalizowany, specjalistyczny”."
+    }
+  ]
+}

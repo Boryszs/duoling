@@ -1,0 +1,2408 @@
+{
+  "category": {
+    "id": "b2-vocabulary-09",
+    "name": "B2 — słownictwo 09"
+  },
+  "questions": [
+    {
+      "id": "b2-vocabulary-09-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „offshore”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "toczyć się, toczyć"
+        },
+        {
+          "id": "b",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "c",
+          "text": "reorganizować"
+        },
+        {
+          "id": "d",
+          "text": "odbrzegowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„offshore” (przymiotnik, poziom B2) oznacza po polsku „odbrzegowy”."
+    },
+    {
+      "id": "b2-vocabulary-09-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „odd”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziwny"
+        },
+        {
+          "id": "b",
+          "text": "nadmiarowy, większy niż zwykle"
+        },
+        {
+          "id": "c",
+          "text": "łatwość"
+        },
+        {
+          "id": "d",
+          "text": "niezadowolenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„odd” (przymiotnik, poziom B2) oznacza po polsku „dziwny”."
+    },
+    {
+      "id": "b2-vocabulary-09-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „resign”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezygnować"
+        },
+        {
+          "id": "b",
+          "text": "odbrzegowy"
+        },
+        {
+          "id": "c",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "d",
+          "text": "draperie, udrapowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„resign” (czasownik, poziom B2) oznacza po polsku „rezygnować”."
+    },
+    {
+      "id": "b2-vocabulary-09-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dispute”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zguba, zły los, los"
+        },
+        {
+          "id": "b",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "c",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "d",
+          "text": "nieporozumienie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dispute” (rzeczownik, poziom B2) oznacza po polsku „nieporozumienie”."
+    },
+    {
+      "id": "b2-vocabulary-09-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disposal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pozbywanie się, usuwanie"
+        },
+        {
+          "id": "b",
+          "text": "dokonywać przeglądu"
+        },
+        {
+          "id": "c",
+          "text": "patriotyczny"
+        },
+        {
+          "id": "d",
+          "text": "duszpasterski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disposal” (rzeczownik, poziom B2) oznacza po polsku „pozbywanie się, usuwanie”."
+    },
+    {
+      "id": "b2-vocabulary-09-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „obsessive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "draperie, udrapowanie"
+        },
+        {
+          "id": "b",
+          "text": "patriotyczny"
+        },
+        {
+          "id": "c",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "d",
+          "text": "wstępny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„obsessive” (przymiotnik, poziom B2) oznacza po polsku „obsesyjny”."
+    },
+    {
+      "id": "b2-vocabulary-09-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „objective”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "posłuszny"
+        },
+        {
+          "id": "b",
+          "text": "obiektywny"
+        },
+        {
+          "id": "c",
+          "text": "dok, basen portowy"
+        },
+        {
+          "id": "d",
+          "text": "rezygnować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„objective” (przymiotnik, poziom B2) oznacza po polsku „obiektywny”."
+    },
+    {
+      "id": "b2-vocabulary-09-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „repress”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieporozumienie"
+        },
+        {
+          "id": "b",
+          "text": "elegancki, modny"
+        },
+        {
+          "id": "c",
+          "text": "tłumić, zduszać"
+        },
+        {
+          "id": "d",
+          "text": "skamieniały"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„repress” (czasownik, poziom B2) oznacza po polsku „tłumić, zduszać”."
+    },
+    {
+      "id": "b2-vocabulary-09-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „review”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarobki"
+        },
+        {
+          "id": "b",
+          "text": "pozbywanie się, usuwanie"
+        },
+        {
+          "id": "c",
+          "text": "opcjonalny, do wyboru"
+        },
+        {
+          "id": "d",
+          "text": "dokonywać przeglądu"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„review” (czasownik, poziom B2) oznacza po polsku „dokonywać przeglądu”."
+    },
+    {
+      "id": "b2-vocabulary-09-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disposition”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "usposobienie"
+        },
+        {
+          "id": "b",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "c",
+          "text": "orzeł"
+        },
+        {
+          "id": "d",
+          "text": "obsesyjny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disposition” (rzeczownik, poziom B2) oznacza po polsku „usposobienie”."
+    },
+    {
+      "id": "b2-vocabulary-09-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „optional”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wstępny"
+        },
+        {
+          "id": "b",
+          "text": "opcjonalny, do wyboru"
+        },
+        {
+          "id": "c",
+          "text": "łatwość"
+        },
+        {
+          "id": "d",
+          "text": "susza"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„optional” (przymiotnik, poziom B2) oznacza po polsku „opcjonalny, do wyboru”."
+    },
+    {
+      "id": "b2-vocabulary-09-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „distraction”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tłumić, zduszać"
+        },
+        {
+          "id": "b",
+          "text": "roztargnienie, rozproszenie uwagi"
+        },
+        {
+          "id": "c",
+          "text": "dziwny"
+        },
+        {
+          "id": "d",
+          "text": "szokujący, wzburzający"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„distraction” (rzeczownik, poziom B2) oznacza po polsku „roztargnienie, rozproszenie uwagi”."
+    },
+    {
+      "id": "b2-vocabulary-09-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „research”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "donacja, dar"
+        },
+        {
+          "id": "b",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "c",
+          "text": "owalny"
+        },
+        {
+          "id": "d",
+          "text": "badać, prowadzić badania naukowe, prowadzić badania"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„research” (czasownik, poziom B2) oznacza po polsku „badać, prowadzić badania naukowe, prowadzić badania”."
+    },
+    {
+      "id": "b2-vocabulary-09-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „obedient”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogólny"
+        },
+        {
+          "id": "b",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "c",
+          "text": "posłuszny"
+        },
+        {
+          "id": "d",
+          "text": "doza, dawka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„obedient” (przymiotnik, poziom B2) oznacza po polsku „posłuszny”."
+    },
+    {
+      "id": "b2-vocabulary-09-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „optimistic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "optymistyczny"
+        },
+        {
+          "id": "b",
+          "text": "tłumić, zduszać"
+        },
+        {
+          "id": "c",
+          "text": "pocztowy"
+        },
+        {
+          "id": "d",
+          "text": "malowniczy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„optimistic” (przymiotnik, poziom B2) oznacza po polsku „optymistyczny”."
+    },
+    {
+      "id": "b2-vocabulary-09-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dissident”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezadowolenie"
+        },
+        {
+          "id": "b",
+          "text": "dysydent"
+        },
+        {
+          "id": "c",
+          "text": "rewolucjonizować"
+        },
+        {
+          "id": "d",
+          "text": "płynąć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dissident” (rzeczownik, poziom B2) oznacza po polsku „dysydent”."
+    },
+    {
+      "id": "b2-vocabulary-09-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „resume”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "donacja, dar"
+        },
+        {
+          "id": "b",
+          "text": "karzeł"
+        },
+        {
+          "id": "c",
+          "text": "szokujący, wzburzający"
+        },
+        {
+          "id": "d",
+          "text": "wznawiać, kontynuować się, kontynuować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„resume” (czasownik, poziom B2) oznacza po polsku „wznawiać, kontynuować się, kontynuować”."
+    },
+    {
+      "id": "b2-vocabulary-09-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „retrieve”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "b",
+          "text": "(BR nieform) wyrzucać z pracy, wyrzucać"
+        },
+        {
+          "id": "c",
+          "text": "pedantyczny"
+        },
+        {
+          "id": "d",
+          "text": "prestiżowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„retrieve” (czasownik, poziom B2) oznacza po polsku „odzyskiwać”."
+    },
+    {
+      "id": "b2-vocabulary-09-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „numerical”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "optymistyczny"
+        },
+        {
+          "id": "b",
+          "text": "upadek"
+        },
+        {
+          "id": "c",
+          "text": "nieporozumienie"
+        },
+        {
+          "id": "d",
+          "text": "liczbowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„numerical” (przymiotnik, poziom B2) oznacza po polsku „liczbowy”."
+    },
+    {
+      "id": "b2-vocabulary-09-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reverse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "redagować"
+        },
+        {
+          "id": "b",
+          "text": "susza"
+        },
+        {
+          "id": "c",
+          "text": "odwracać"
+        },
+        {
+          "id": "d",
+          "text": "bezcenny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reverse” (czasownik, poziom B2) oznacza po polsku „odwracać”."
+    },
+    {
+      "id": "b2-vocabulary-09-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „diversion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "b",
+          "text": "rozrywka, atrakcja"
+        },
+        {
+          "id": "c",
+          "text": "ożywiać się, ożywiać"
+        },
+        {
+          "id": "d",
+          "text": "zwisać, obwisać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„diversion” (rzeczownik, poziom B2) oznacza po polsku „rozrywka, atrakcja”."
+    },
+    {
+      "id": "b2-vocabulary-09-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dissatisfaction”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezadowolenie"
+        },
+        {
+          "id": "b",
+          "text": "nadmiarowy, większy niż zwykle"
+        },
+        {
+          "id": "c",
+          "text": "pocztowy"
+        },
+        {
+          "id": "d",
+          "text": "ekonomista"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dissatisfaction” (rzeczownik, poziom B2) oznacza po polsku „niezadowolenie”."
+    },
+    {
+      "id": "b2-vocabulary-09-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reorganize”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obracać się, kręcić się"
+        },
+        {
+          "id": "b",
+          "text": "zatłoczony"
+        },
+        {
+          "id": "c",
+          "text": "reorganizować"
+        },
+        {
+          "id": "d",
+          "text": "zapobiegawczy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reorganize” (czasownik, poziom B2) oznacza po polsku „reorganizować”."
+    },
+    {
+      "id": "b2-vocabulary-09-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disregard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zagraniczny"
+        },
+        {
+          "id": "b",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "lekceważenie, niezwracanie uwagi"
+        },
+        {
+          "id": "d",
+          "text": "nadmiarowy, większy niż zwykle"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disregard” (rzeczownik, poziom B2) oznacza po polsku „lekceważenie, niezwracanie uwagi”."
+    },
+    {
+      "id": "b2-vocabulary-09-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reprove”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ganić, strofować"
+        },
+        {
+          "id": "b",
+          "text": "liczbowy"
+        },
+        {
+          "id": "c",
+          "text": "ekolog"
+        },
+        {
+          "id": "d",
+          "text": "przejście, drzwi"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„reprove” (czasownik, poziom B2) oznacza po polsku „ganić, strofować”."
+    },
+    {
+      "id": "b2-vocabulary-09-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „roar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "owalny"
+        },
+        {
+          "id": "b",
+          "text": "ożywiać się, ożywiać"
+        },
+        {
+          "id": "c",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "d",
+          "text": "ryczeć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„roar” (czasownik, poziom B2) oznacza po polsku „ryczeć”."
+    },
+    {
+      "id": "b2-vocabulary-09-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „revolve”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szokujący, wzburzający"
+        },
+        {
+          "id": "b",
+          "text": "obracać się, kręcić się"
+        },
+        {
+          "id": "c",
+          "text": "rozrywka, atrakcja"
+        },
+        {
+          "id": "d",
+          "text": "pojedynek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„revolve” (czasownik, poziom B2) oznacza po polsku „obracać się, kręcić się”."
+    },
+    {
+      "id": "b2-vocabulary-09-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „passionate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "b",
+          "text": "zapamiętały"
+        },
+        {
+          "id": "c",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "d",
+          "text": "przejście, drzwi"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„passionate” (przymiotnik, poziom B2) oznacza po polsku „zapamiętały”."
+    },
+    {
+      "id": "b2-vocabulary-09-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rhyme”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "udawać"
+        },
+        {
+          "id": "b",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "c",
+          "text": "barwnik"
+        },
+        {
+          "id": "d",
+          "text": "panować, rządzić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rhyme” (czasownik, poziom B2) oznacza po polsku „rymować się, rymować”."
+    },
+    {
+      "id": "b2-vocabulary-09-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „divorce”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(zasobów) drenaż, odprowadzanie"
+        },
+        {
+          "id": "b",
+          "text": "rozwód"
+        },
+        {
+          "id": "c",
+          "text": "zwisać, obwisać"
+        },
+        {
+          "id": "d",
+          "text": "dysydent"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„divorce” (rzeczownik, poziom B2) oznacza po polsku „rozwód”."
+    },
+    {
+      "id": "b2-vocabulary-09-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „oral”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przesyłać do bufora"
+        },
+        {
+          "id": "b",
+          "text": "przejście, drzwi"
+        },
+        {
+          "id": "c",
+          "text": "ustny, oralny"
+        },
+        {
+          "id": "d",
+          "text": "nieporozumienie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„oral” (przymiotnik, poziom B2) oznacza po polsku „ustny, oralny”."
+    },
+    {
+      "id": "b2-vocabulary-09-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „division”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podział"
+        },
+        {
+          "id": "b",
+          "text": "ogólny"
+        },
+        {
+          "id": "c",
+          "text": "toczyć się, toczyć"
+        },
+        {
+          "id": "d",
+          "text": "przesyłać do bufora"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„division” (rzeczownik, poziom B2) oznacza po polsku „podział”."
+    },
+    {
+      "id": "b2-vocabulary-09-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „overseas”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekonomista"
+        },
+        {
+          "id": "b",
+          "text": "dziwny"
+        },
+        {
+          "id": "c",
+          "text": "sypialnia"
+        },
+        {
+          "id": "d",
+          "text": "zagraniczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„overseas” (przymiotnik, poziom B2) oznacza po polsku „zagraniczny”."
+    },
+    {
+      "id": "b2-vocabulary-09-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „overall”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezsensowny"
+        },
+        {
+          "id": "b",
+          "text": "wstępny"
+        },
+        {
+          "id": "c",
+          "text": "ogólny"
+        },
+        {
+          "id": "d",
+          "text": "donacja, dar"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„overall” (przymiotnik, poziom B2) oznacza po polsku „ogólny”."
+    },
+    {
+      "id": "b2-vocabulary-09-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „doorway”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reorganizować"
+        },
+        {
+          "id": "b",
+          "text": "liczbowy"
+        },
+        {
+          "id": "c",
+          "text": "opcjonalny, do wyboru"
+        },
+        {
+          "id": "d",
+          "text": "przejście, drzwi"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„doorway” (rzeczownik, poziom B2) oznacza po polsku „przejście, drzwi”."
+    },
+    {
+      "id": "b2-vocabulary-09-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „oval”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(also doubles) (sport) debel"
+        },
+        {
+          "id": "b",
+          "text": "owalny"
+        },
+        {
+          "id": "c",
+          "text": "roztargnienie, rozproszenie uwagi"
+        },
+        {
+          "id": "d",
+          "text": "doza, dawka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„oval” (przymiotnik, poziom B2) oznacza po polsku „owalny”."
+    },
+    {
+      "id": "b2-vocabulary-09-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „donkey”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zguba, zły los, los"
+        },
+        {
+          "id": "b",
+          "text": "dok, basen portowy"
+        },
+        {
+          "id": "c",
+          "text": "karzeł"
+        },
+        {
+          "id": "d",
+          "text": "osioł"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„donkey” (rzeczownik, poziom B2) oznacza po polsku „osioł”."
+    },
+    {
+      "id": "b2-vocabulary-09-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dormitory”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przesyłać do bufora"
+        },
+        {
+          "id": "b",
+          "text": "ekonomista"
+        },
+        {
+          "id": "c",
+          "text": "sypialnia"
+        },
+        {
+          "id": "d",
+          "text": "upadek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dormitory” (rzeczownik, poziom B2) oznacza po polsku „sypialnia”."
+    },
+    {
+      "id": "b2-vocabulary-09-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „roll”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obracać się, kręcić się"
+        },
+        {
+          "id": "b",
+          "text": "zwisać, obwisać"
+        },
+        {
+          "id": "c",
+          "text": "zarobki"
+        },
+        {
+          "id": "d",
+          "text": "toczyć się, toczyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„roll” (czasownik, poziom B2) oznacza po polsku „toczyć się, toczyć”."
+    },
+    {
+      "id": "b2-vocabulary-09-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dock”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potencjalny"
+        },
+        {
+          "id": "b",
+          "text": "zguba, zły los, los"
+        },
+        {
+          "id": "c",
+          "text": "duszpasterski"
+        },
+        {
+          "id": "d",
+          "text": "dok, basen portowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dock” (rzeczownik, poziom B2) oznacza po polsku „dok, basen portowy”."
+    },
+    {
+      "id": "b2-vocabulary-09-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „oversize”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nadmiarowy, większy niż zwykle"
+        },
+        {
+          "id": "b",
+          "text": "osioł"
+        },
+        {
+          "id": "c",
+          "text": "bezsensowny"
+        },
+        {
+          "id": "d",
+          "text": "zwisać, obwisać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„oversize” (przymiotnik, poziom B2) oznacza po polsku „nadmiarowy, większy niż zwykle”."
+    },
+    {
+      "id": "b2-vocabulary-09-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „packed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upadek"
+        },
+        {
+          "id": "b",
+          "text": "zatłoczony"
+        },
+        {
+          "id": "c",
+          "text": "lepszy"
+        },
+        {
+          "id": "d",
+          "text": "potencjalny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„packed” (przymiotnik, poziom B2) oznacza po polsku „zatłoczony”."
+    },
+    {
+      "id": "b2-vocabulary-09-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „row”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "roztargnienie, rozproszenie uwagi"
+        },
+        {
+          "id": "b",
+          "text": "(nieform) kłócić się"
+        },
+        {
+          "id": "c",
+          "text": "duplikat, kopia"
+        },
+        {
+          "id": "d",
+          "text": "rewolucjonizować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„row” (czasownik, poziom B2) oznacza po polsku „(nieform) kłócić się”."
+    },
+    {
+      "id": "b2-vocabulary-09-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „outside”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "b",
+          "text": "owalny"
+        },
+        {
+          "id": "c",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "d",
+          "text": "uporczywy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„outside” (przymiotnik, poziom B2) oznacza po polsku „zewnętrzny”."
+    },
+    {
+      "id": "b2-vocabulary-09-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „revolutionize”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rewolucjonizować"
+        },
+        {
+          "id": "b",
+          "text": "nieporozumienie"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) kłócić się"
+        },
+        {
+          "id": "d",
+          "text": "panować, rządzić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„revolutionize” (czasownik, poziom B2) oznacza po polsku „rewolucjonizować”."
+    },
+    {
+      "id": "b2-vocabulary-09-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „doom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ryczeć"
+        },
+        {
+          "id": "b",
+          "text": "przepowiadalny"
+        },
+        {
+          "id": "c",
+          "text": "(BR nieform) wyrzucać z pracy, wyrzucać"
+        },
+        {
+          "id": "d",
+          "text": "zguba, zły los, los"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„doom” (rzeczownik, poziom B2) oznacza po polsku „zguba, zły los, los”."
+    },
+    {
+      "id": "b2-vocabulary-09-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rip”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elegancki, modny"
+        },
+        {
+          "id": "b",
+          "text": "łatwość"
+        },
+        {
+          "id": "c",
+          "text": "rozdzierać, oddzierać"
+        },
+        {
+          "id": "d",
+          "text": "potężny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rip” (czasownik, poziom B2) oznacza po polsku „rozdzierać, oddzierać”."
+    },
+    {
+      "id": "b2-vocabulary-09-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „outrageous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "liczbowy"
+        },
+        {
+          "id": "b",
+          "text": "podział"
+        },
+        {
+          "id": "c",
+          "text": "szokujący, wzburzający"
+        },
+        {
+          "id": "d",
+          "text": "artykuł wstępny od redakcji, artykuł wstępny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„outrageous” (przymiotnik, poziom B2) oznacza po polsku „szokujący, wzburzający”."
+    },
+    {
+      "id": "b2-vocabulary-09-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „revive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywiać się, ożywiać"
+        },
+        {
+          "id": "b",
+          "text": "duszpasterski"
+        },
+        {
+          "id": "c",
+          "text": "szkic, wstępna wersja"
+        },
+        {
+          "id": "d",
+          "text": "bezsensowny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„revive” (czasownik, poziom B2) oznacza po polsku „ożywiać się, ożywiać”."
+    },
+    {
+      "id": "b2-vocabulary-09-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „donation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "liczbowy"
+        },
+        {
+          "id": "b",
+          "text": "pocztowy"
+        },
+        {
+          "id": "c",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "d",
+          "text": "donacja, dar"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„donation” (rzeczownik, poziom B2) oznacza po polsku „donacja, dar”."
+    },
+    {
+      "id": "b2-vocabulary-09-051",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dose”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "doza, dawka"
+        },
+        {
+          "id": "b",
+          "text": "przepowiadalny"
+        },
+        {
+          "id": "c",
+          "text": "obiektywny"
+        },
+        {
+          "id": "d",
+          "text": "zapamiętały"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dose” (rzeczownik, poziom B2) oznacza po polsku „doza, dawka”."
+    },
+    {
+      "id": "b2-vocabulary-09-052",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „double”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ożywiać się, ożywiać"
+        },
+        {
+          "id": "b",
+          "text": "zarobki"
+        },
+        {
+          "id": "c",
+          "text": "patriotyczny"
+        },
+        {
+          "id": "d",
+          "text": "(also doubles) (sport) debel"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„double” (rzeczownik, poziom B2) oznacza po polsku „(also doubles) (sport) debel”."
+    },
+    {
+      "id": "b2-vocabulary-09-053",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rule”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekonomista"
+        },
+        {
+          "id": "b",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "c",
+          "text": "reorganizować"
+        },
+        {
+          "id": "d",
+          "text": "rozrywka, atrakcja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rule” (czasownik, poziom B2) oznacza po polsku „panować, rządzić”."
+    },
+    {
+      "id": "b2-vocabulary-09-054",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „download”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gołąb"
+        },
+        {
+          "id": "b",
+          "text": "przesyłać do bufora"
+        },
+        {
+          "id": "c",
+          "text": "odwracać"
+        },
+        {
+          "id": "d",
+          "text": "potężny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„download” (rzeczownik, poziom B2) oznacza po polsku „przesyłać do bufora”."
+    },
+    {
+      "id": "b2-vocabulary-09-055",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dove”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zagraniczny"
+        },
+        {
+          "id": "b",
+          "text": "gołąb"
+        },
+        {
+          "id": "c",
+          "text": "wiano"
+        },
+        {
+          "id": "d",
+          "text": "wznawiać, kontynuować się, kontynuować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dove” (rzeczownik, poziom B2) oznacza po polsku „gołąb”."
+    },
+    {
+      "id": "b2-vocabulary-09-056",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „patriotic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potężny"
+        },
+        {
+          "id": "b",
+          "text": "potencjalny"
+        },
+        {
+          "id": "c",
+          "text": "patriotyczny"
+        },
+        {
+          "id": "d",
+          "text": "przejście, drzwi"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„patriotic” (przymiotnik, poziom B2) oznacza po polsku „patriotyczny”."
+    },
+    {
+      "id": "b2-vocabulary-09-057",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sack”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badać, prowadzić badania naukowe, prowadzić badania"
+        },
+        {
+          "id": "b",
+          "text": "dok, basen portowy"
+        },
+        {
+          "id": "c",
+          "text": "(BR nieform) wyrzucać z pracy, wyrzucać"
+        },
+        {
+          "id": "d",
+          "text": "dziwny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sack” (czasownik, poziom B2) oznacza po polsku „(BR nieform) wyrzucać z pracy, wyrzucać”."
+    },
+    {
+      "id": "b2-vocabulary-09-058",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sail”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pedantyczny"
+        },
+        {
+          "id": "b",
+          "text": "płynąć"
+        },
+        {
+          "id": "c",
+          "text": "pozbywanie się, usuwanie"
+        },
+        {
+          "id": "d",
+          "text": "dok, basen portowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sail” (czasownik, poziom B2) oznacza po polsku „płynąć”."
+    },
+    {
+      "id": "b2-vocabulary-09-059",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „posh”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "owalny"
+        },
+        {
+          "id": "b",
+          "text": "sypialnia"
+        },
+        {
+          "id": "c",
+          "text": "donacja, dar"
+        },
+        {
+          "id": "d",
+          "text": "elegancki, modny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„posh” (przymiotnik, poziom B2) oznacza po polsku „elegancki, modny”."
+    },
+    {
+      "id": "b2-vocabulary-09-060",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „postal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieporozumienie"
+        },
+        {
+          "id": "b",
+          "text": "pocztowy"
+        },
+        {
+          "id": "c",
+          "text": "potężny"
+        },
+        {
+          "id": "d",
+          "text": "pozbywanie się, usuwanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„postal” (przymiotnik, poziom B2) oznacza po polsku „pocztowy”."
+    },
+    {
+      "id": "b2-vocabulary-09-061",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „downfall”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "upadek"
+        },
+        {
+          "id": "b",
+          "text": "elegancki, modny"
+        },
+        {
+          "id": "c",
+          "text": "niezadowolenie"
+        },
+        {
+          "id": "d",
+          "text": "ustny, oralny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„downfall” (rzeczownik, poziom B2) oznacza po polsku „upadek”."
+    },
+    {
+      "id": "b2-vocabulary-09-062",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pedantic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badać, prowadzić badania naukowe, prowadzić badania"
+        },
+        {
+          "id": "b",
+          "text": "reorganizować"
+        },
+        {
+          "id": "c",
+          "text": "usposobienie"
+        },
+        {
+          "id": "d",
+          "text": "pedantyczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pedantic” (przymiotnik, poziom B2) oznacza po polsku „pedantyczny”."
+    },
+    {
+      "id": "b2-vocabulary-09-063",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „droop”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "doza, dawka"
+        },
+        {
+          "id": "b",
+          "text": "dysydent"
+        },
+        {
+          "id": "c",
+          "text": "zwisać, obwisać"
+        },
+        {
+          "id": "d",
+          "text": "toczyć się, toczyć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„droop” (rzeczownik, poziom B2) oznacza po polsku „zwisać, obwisać”."
+    },
+    {
+      "id": "b2-vocabulary-09-064",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „petty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieważny, drobny"
+        },
+        {
+          "id": "b",
+          "text": "pocztowy"
+        },
+        {
+          "id": "c",
+          "text": "rymować się, rymować"
+        },
+        {
+          "id": "d",
+          "text": "zguba, zły los, los"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„petty” (przymiotnik, poziom B2) oznacza po polsku „nieważny, drobny”."
+    },
+    {
+      "id": "b2-vocabulary-09-065",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „persistent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prestiżowy"
+        },
+        {
+          "id": "b",
+          "text": "obracać się, kręcić się"
+        },
+        {
+          "id": "c",
+          "text": "prezydencki"
+        },
+        {
+          "id": "d",
+          "text": "uporczywy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„persistent” (przymiotnik, poziom B2) oznacza po polsku „uporczywy”."
+    },
+    {
+      "id": "b2-vocabulary-09-066",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „drapery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karzeł"
+        },
+        {
+          "id": "b",
+          "text": "draperie, udrapowanie"
+        },
+        {
+          "id": "c",
+          "text": "zewnętrzny"
+        },
+        {
+          "id": "d",
+          "text": "dokonywać przeglądu"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„drapery” (rzeczownik, poziom B2) oznacza po polsku „draperie, udrapowanie”."
+    },
+    {
+      "id": "b2-vocabulary-09-067",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pastoral”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "duszpasterski"
+        },
+        {
+          "id": "b",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "c",
+          "text": "ryczeć"
+        },
+        {
+          "id": "d",
+          "text": "odwracać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pastoral” (przymiotnik, poziom B2) oznacza po polsku „duszpasterski”."
+    },
+    {
+      "id": "b2-vocabulary-09-068",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „drain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "(zasobów) drenaż, odprowadzanie"
+        },
+        {
+          "id": "b",
+          "text": "owalny"
+        },
+        {
+          "id": "c",
+          "text": "rozwód"
+        },
+        {
+          "id": "d",
+          "text": "pozbywanie się, usuwanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„drain” (rzeczownik, poziom B2) oznacza po polsku „(zasobów) drenaż, odprowadzanie”."
+    },
+    {
+      "id": "b2-vocabulary-09-069",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „picturesque”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reorganizować"
+        },
+        {
+          "id": "b",
+          "text": "malowniczy"
+        },
+        {
+          "id": "c",
+          "text": "pozbywanie się, usuwanie"
+        },
+        {
+          "id": "d",
+          "text": "potencjalny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„picturesque” (przymiotnik, poziom B2) oznacza po polsku „malowniczy”."
+    },
+    {
+      "id": "b2-vocabulary-09-070",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „draft”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozwód"
+        },
+        {
+          "id": "b",
+          "text": "patriotyczny"
+        },
+        {
+          "id": "c",
+          "text": "szkic, wstępna wersja"
+        },
+        {
+          "id": "d",
+          "text": "donacja, dar"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„draft” (rzeczownik, poziom B2) oznacza po polsku „szkic, wstępna wersja”."
+    },
+    {
+      "id": "b2-vocabulary-09-071",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dowry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obiektywny"
+        },
+        {
+          "id": "b",
+          "text": "prestiżowy"
+        },
+        {
+          "id": "c",
+          "text": "wiano"
+        },
+        {
+          "id": "d",
+          "text": "zwisać, obwisać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dowry” (rzeczownik, poziom B2) oznacza po polsku „wiano”."
+    },
+    {
+      "id": "b2-vocabulary-09-072",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „schedule”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepowiadalny"
+        },
+        {
+          "id": "b",
+          "text": "planować, przeznaczać"
+        },
+        {
+          "id": "c",
+          "text": "rozdzierać, oddzierać"
+        },
+        {
+          "id": "d",
+          "text": "nieważny, drobny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„schedule” (czasownik, poziom B2) oznacza po polsku „planować, przeznaczać”."
+    },
+    {
+      "id": "b2-vocabulary-09-073",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „petrified”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dysydent"
+        },
+        {
+          "id": "b",
+          "text": "skamieniały"
+        },
+        {
+          "id": "c",
+          "text": "doza, dawka"
+        },
+        {
+          "id": "d",
+          "text": "opcjonalny, do wyboru"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„petrified” (przymiotnik, poziom B2) oznacza po polsku „skamieniały”."
+    },
+    {
+      "id": "b2-vocabulary-09-074",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pointless”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozdzierać, oddzierać"
+        },
+        {
+          "id": "b",
+          "text": "bezsensowny"
+        },
+        {
+          "id": "c",
+          "text": "toczyć się, toczyć"
+        },
+        {
+          "id": "d",
+          "text": "płynąć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pointless” (przymiotnik, poziom B2) oznacza po polsku „bezsensowny”."
+    },
+    {
+      "id": "b2-vocabulary-09-075",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rub”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "barwnik"
+        },
+        {
+          "id": "b",
+          "text": "trzeć"
+        },
+        {
+          "id": "c",
+          "text": "ustny, oralny"
+        },
+        {
+          "id": "d",
+          "text": "roztargnienie, rozproszenie uwagi"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rub” (czasownik, poziom B2) oznacza po polsku „trzeć”."
+    },
+    {
+      "id": "b2-vocabulary-09-076",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ease”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pedantyczny"
+        },
+        {
+          "id": "b",
+          "text": "łatwość"
+        },
+        {
+          "id": "c",
+          "text": "płynąć"
+        },
+        {
+          "id": "d",
+          "text": "badać, prowadzić badania naukowe, prowadzić badania"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ease” (rzeczownik, poziom B2) oznacza po polsku „łatwość”."
+    },
+    {
+      "id": "b2-vocabulary-09-077",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „priceless”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obracać się, kręcić się"
+        },
+        {
+          "id": "b",
+          "text": "bezcenny"
+        },
+        {
+          "id": "c",
+          "text": "usposobienie"
+        },
+        {
+          "id": "d",
+          "text": "pedantyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„priceless” (przymiotnik, poziom B2) oznacza po polsku „bezcenny”."
+    },
+    {
+      "id": "b2-vocabulary-09-078",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „predicative”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "owalny"
+        },
+        {
+          "id": "b",
+          "text": "prezydencki"
+        },
+        {
+          "id": "c",
+          "text": "predykatywny"
+        },
+        {
+          "id": "d",
+          "text": "przejście, drzwi"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„predicative” (przymiotnik, poziom B2) oznacza po polsku „predykatywny”."
+    },
+    {
+      "id": "b2-vocabulary-09-079",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „drought”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "susza"
+        },
+        {
+          "id": "b",
+          "text": "dysydent"
+        },
+        {
+          "id": "c",
+          "text": "panować, rządzić"
+        },
+        {
+          "id": "d",
+          "text": "predykatywny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„drought” (rzeczownik, poziom B2) oznacza po polsku „susza”."
+    },
+    {
+      "id": "b2-vocabulary-09-080",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dwarf”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "malowniczy"
+        },
+        {
+          "id": "b",
+          "text": "karzeł"
+        },
+        {
+          "id": "c",
+          "text": "dok, basen portowy"
+        },
+        {
+          "id": "d",
+          "text": "redagować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dwarf” (rzeczownik, poziom B2) oznacza po polsku „karzeł”."
+    },
+    {
+      "id": "b2-vocabulary-09-081",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prehistoric”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prehistoryczny, prymitywny"
+        },
+        {
+          "id": "b",
+          "text": "podział"
+        },
+        {
+          "id": "c",
+          "text": "szokujący, wzburzający"
+        },
+        {
+          "id": "d",
+          "text": "ustny, oralny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prehistoric” (przymiotnik, poziom B2) oznacza po polsku „prehistoryczny, prymitywny”."
+    },
+    {
+      "id": "b2-vocabulary-09-082",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ecologist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dysydent"
+        },
+        {
+          "id": "b",
+          "text": "ekolog"
+        },
+        {
+          "id": "c",
+          "text": "duszpasterski"
+        },
+        {
+          "id": "d",
+          "text": "niezadowolenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ecologist” (rzeczownik, poziom B2) oznacza po polsku „ekolog”."
+    },
+    {
+      "id": "b2-vocabulary-09-083",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „potent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "b",
+          "text": "przepowiadalny"
+        },
+        {
+          "id": "c",
+          "text": "lekceważenie, niezwracanie uwagi"
+        },
+        {
+          "id": "d",
+          "text": "potężny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„potent” (przymiotnik, poziom B2) oznacza po polsku „potężny”."
+    },
+    {
+      "id": "b2-vocabulary-09-084",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „presidential”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsesyjny"
+        },
+        {
+          "id": "b",
+          "text": "ryczeć"
+        },
+        {
+          "id": "c",
+          "text": "prezydencki"
+        },
+        {
+          "id": "d",
+          "text": "upadek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„presidential” (przymiotnik, poziom B2) oznacza po polsku „prezydencki”."
+    },
+    {
+      "id": "b2-vocabulary-09-085",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „predictable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepowiadalny"
+        },
+        {
+          "id": "b",
+          "text": "pocztowy"
+        },
+        {
+          "id": "c",
+          "text": "doza, dawka"
+        },
+        {
+          "id": "d",
+          "text": "tłumić, zduszać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„predictable” (przymiotnik, poziom B2) oznacza po polsku „przepowiadalny”."
+    },
+    {
+      "id": "b2-vocabulary-09-086",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dye”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "barwnik"
+        },
+        {
+          "id": "b",
+          "text": "pozbywanie się, usuwanie"
+        },
+        {
+          "id": "c",
+          "text": "rezygnować"
+        },
+        {
+          "id": "d",
+          "text": "podział"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dye” (rzeczownik, poziom B2) oznacza po polsku „barwnik”."
+    },
+    {
+      "id": "b2-vocabulary-09-087",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „editorial”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łatwość"
+        },
+        {
+          "id": "b",
+          "text": "wiano"
+        },
+        {
+          "id": "c",
+          "text": "(nieform) kłócić się"
+        },
+        {
+          "id": "d",
+          "text": "artykuł wstępny od redakcji, artykuł wstępny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„editorial” (rzeczownik, poziom B2) oznacza po polsku „artykuł wstępny od redakcji, artykuł wstępny”."
+    },
+    {
+      "id": "b2-vocabulary-09-088",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „preventive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapobiegawczy"
+        },
+        {
+          "id": "b",
+          "text": "trzeć"
+        },
+        {
+          "id": "c",
+          "text": "(zasobów) drenaż, odprowadzanie"
+        },
+        {
+          "id": "d",
+          "text": "roztargnienie, rozproszenie uwagi"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„preventive” (przymiotnik, poziom B2) oznacza po polsku „zapobiegawczy”."
+    },
+    {
+      "id": "b2-vocabulary-09-089",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „duplicate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "duplikat, kopia"
+        },
+        {
+          "id": "b",
+          "text": "udawać"
+        },
+        {
+          "id": "c",
+          "text": "rozdzierać, oddzierać"
+        },
+        {
+          "id": "d",
+          "text": "odbrzegowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„duplicate” (rzeczownik, poziom B2) oznacza po polsku „duplikat, kopia”."
+    },
+    {
+      "id": "b2-vocabulary-09-090",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pretend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badać, prowadzić badania naukowe, prowadzić badania"
+        },
+        {
+          "id": "b",
+          "text": "płynąć"
+        },
+        {
+          "id": "c",
+          "text": "odwracać"
+        },
+        {
+          "id": "d",
+          "text": "udawać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pretend” (przymiotnik, poziom B2) oznacza po polsku „udawać”."
+    },
+    {
+      "id": "b2-vocabulary-09-091",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „preferable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rewolucjonizować"
+        },
+        {
+          "id": "b",
+          "text": "łatwość"
+        },
+        {
+          "id": "c",
+          "text": "lepszy"
+        },
+        {
+          "id": "d",
+          "text": "uporczywy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„preferable” (przymiotnik, poziom B2) oznacza po polsku „lepszy”."
+    },
+    {
+      "id": "b2-vocabulary-09-092",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prestigious”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prestiżowy"
+        },
+        {
+          "id": "b",
+          "text": "malowniczy"
+        },
+        {
+          "id": "c",
+          "text": "płynąć"
+        },
+        {
+          "id": "d",
+          "text": "podział"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prestigious” (przymiotnik, poziom B2) oznacza po polsku „prestiżowy”."
+    },
+    {
+      "id": "b2-vocabulary-09-093",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „preliminary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prezydencki"
+        },
+        {
+          "id": "b",
+          "text": "wstępny"
+        },
+        {
+          "id": "c",
+          "text": "artykuł wstępny od redakcji, artykuł wstępny"
+        },
+        {
+          "id": "d",
+          "text": "nieporozumienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„preliminary” (przymiotnik, poziom B2) oznacza po polsku „wstępny”."
+    },
+    {
+      "id": "b2-vocabulary-09-094",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „edit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wychowawca, nauczyciel"
+        },
+        {
+          "id": "b",
+          "text": "wstępny"
+        },
+        {
+          "id": "c",
+          "text": "redagować"
+        },
+        {
+          "id": "d",
+          "text": "niezadowolenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„edit” (rzeczownik, poziom B2) oznacza po polsku „redagować”."
+    },
+    {
+      "id": "b2-vocabulary-09-095",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „earnings”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zarobki"
+        },
+        {
+          "id": "b",
+          "text": "elegancki, modny"
+        },
+        {
+          "id": "c",
+          "text": "donacja, dar"
+        },
+        {
+          "id": "d",
+          "text": "płynąć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„earnings” (rzeczownik, poziom B2) oznacza po polsku „zarobki”."
+    },
+    {
+      "id": "b2-vocabulary-09-096",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „potential”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "orzeł"
+        },
+        {
+          "id": "b",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "potencjalny"
+        },
+        {
+          "id": "d",
+          "text": "ryczeć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„potential” (przymiotnik, poziom B2) oznacza po polsku „potencjalny”."
+    },
+    {
+      "id": "b2-vocabulary-09-097",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „eagle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "orzeł"
+        },
+        {
+          "id": "b",
+          "text": "gołąb"
+        },
+        {
+          "id": "c",
+          "text": "udawać"
+        },
+        {
+          "id": "d",
+          "text": "optymistyczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„eagle” (rzeczownik, poziom B2) oznacza po polsku „orzeł”."
+    },
+    {
+      "id": "b2-vocabulary-09-098",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „educator”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opcjonalny, do wyboru"
+        },
+        {
+          "id": "b",
+          "text": "dokonywać przeglądu"
+        },
+        {
+          "id": "c",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "d",
+          "text": "wychowawca, nauczyciel"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„educator” (rzeczownik, poziom B2) oznacza po polsku „wychowawca, nauczyciel”."
+    },
+    {
+      "id": "b2-vocabulary-09-099",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „economist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekonomista"
+        },
+        {
+          "id": "b",
+          "text": "odbrzegowy"
+        },
+        {
+          "id": "c",
+          "text": "draperie, udrapowanie"
+        },
+        {
+          "id": "d",
+          "text": "duszpasterski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„economist” (rzeczownik, poziom B2) oznacza po polsku „ekonomista”."
+    },
+    {
+      "id": "b2-vocabulary-09-100",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „duel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potencjalny"
+        },
+        {
+          "id": "b",
+          "text": "ekolog"
+        },
+        {
+          "id": "c",
+          "text": "odzyskiwać"
+        },
+        {
+          "id": "d",
+          "text": "pojedynek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„duel” (rzeczownik, poziom B2) oznacza po polsku „pojedynek”."
+    }
+  ]
+}
