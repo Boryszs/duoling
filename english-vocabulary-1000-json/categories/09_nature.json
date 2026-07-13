@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "nature",
+    "name": "Natura i krajobraz"
+  },
+  "questions": [
+    {
+      "id": "nature-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nature”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bagno"
+        },
+        {
+          "id": "b",
+          "text": "planeta"
+        },
+        {
+          "id": "c",
+          "text": "korzeń"
+        },
+        {
+          "id": "d",
+          "text": "natura"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nature” oznacza po polsku „natura”."
+    },
+    {
+      "id": "nature-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „forest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pole"
+        },
+        {
+          "id": "b",
+          "text": "rzeka"
+        },
+        {
+          "id": "c",
+          "text": "kwiat"
+        },
+        {
+          "id": "d",
+          "text": "las"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„forest” oznacza po polsku „las”."
+    },
+    {
+      "id": "nature-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tree”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "staw"
+        },
+        {
+          "id": "b",
+          "text": "morze"
+        },
+        {
+          "id": "c",
+          "text": "drzewo"
+        },
+        {
+          "id": "d",
+          "text": "krajobraz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„tree” oznacza po polsku „drzewo”."
+    },
+    {
+      "id": "nature-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „branch”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dolina"
+        },
+        {
+          "id": "b",
+          "text": "gałąź"
+        },
+        {
+          "id": "c",
+          "text": "klimat"
+        },
+        {
+          "id": "d",
+          "text": "pustynia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„branch” oznacza po polsku „gałąź”."
+    },
+    {
+      "id": "nature-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leaf”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pustynia"
+        },
+        {
+          "id": "b",
+          "text": "dżungla"
+        },
+        {
+          "id": "c",
+          "text": "wschód słońca"
+        },
+        {
+          "id": "d",
+          "text": "liść"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„leaf” oznacza po polsku „liść”."
+    },
+    {
+      "id": "nature-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „root”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "staw"
+        },
+        {
+          "id": "b",
+          "text": "korzeń"
+        },
+        {
+          "id": "c",
+          "text": "gwiazda"
+        },
+        {
+          "id": "d",
+          "text": "piasek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„root” oznacza po polsku „korzeń”."
+    },
+    {
+      "id": "nature-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flower”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jaskinia"
+        },
+        {
+          "id": "b",
+          "text": "kwiat"
+        },
+        {
+          "id": "c",
+          "text": "recykling"
+        },
+        {
+          "id": "d",
+          "text": "plaża"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„flower” oznacza po polsku „kwiat”."
+    },
+    {
+      "id": "nature-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grass”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "morze"
+        },
+        {
+          "id": "b",
+          "text": "trawa"
+        },
+        {
+          "id": "c",
+          "text": "drzewo"
+        },
+        {
+          "id": "d",
+          "text": "dzika przyroda"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„grass” oznacza po polsku „trawa”."
+    },
+    {
+      "id": "nature-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „field”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "morze"
+        },
+        {
+          "id": "b",
+          "text": "bagno"
+        },
+        {
+          "id": "c",
+          "text": "pole"
+        },
+        {
+          "id": "d",
+          "text": "dżungla"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„field” oznacza po polsku „pole”."
+    },
+    {
+      "id": "nature-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „meadow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "las"
+        },
+        {
+          "id": "b",
+          "text": "łąka"
+        },
+        {
+          "id": "c",
+          "text": "krajobraz"
+        },
+        {
+          "id": "d",
+          "text": "piasek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„meadow” oznacza po polsku „łąka”."
+    },
+    {
+      "id": "nature-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hill”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "księżyc"
+        },
+        {
+          "id": "b",
+          "text": "wzgórze"
+        },
+        {
+          "id": "c",
+          "text": "rzeka"
+        },
+        {
+          "id": "d",
+          "text": "wybrzeże"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hill” oznacza po polsku „wzgórze”."
+    },
+    {
+      "id": "nature-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mountain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "góra"
+        },
+        {
+          "id": "b",
+          "text": "wzgórze"
+        },
+        {
+          "id": "c",
+          "text": "staw"
+        },
+        {
+          "id": "d",
+          "text": "powietrze"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mountain” oznacza po polsku „góra”."
+    },
+    {
+      "id": "nature-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „valley”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "las"
+        },
+        {
+          "id": "b",
+          "text": "powietrze"
+        },
+        {
+          "id": "c",
+          "text": "pole"
+        },
+        {
+          "id": "d",
+          "text": "dolina"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„valley” oznacza po polsku „dolina”."
+    },
+    {
+      "id": "nature-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rock”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strumień"
+        },
+        {
+          "id": "b",
+          "text": "niebo"
+        },
+        {
+          "id": "c",
+          "text": "skała"
+        },
+        {
+          "id": "d",
+          "text": "jaskinia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rock” oznacza po polsku „skała”."
+    },
+    {
+      "id": "nature-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stone”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzika przyroda"
+        },
+        {
+          "id": "b",
+          "text": "klimat"
+        },
+        {
+          "id": "c",
+          "text": "kamień"
+        },
+        {
+          "id": "d",
+          "text": "ocean"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„stone” oznacza po polsku „kamień”."
+    },
+    {
+      "id": "nature-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cave”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "korzeń"
+        },
+        {
+          "id": "b",
+          "text": "dolina"
+        },
+        {
+          "id": "c",
+          "text": "dżungla"
+        },
+        {
+          "id": "d",
+          "text": "jaskinia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cave” oznacza po polsku „jaskinia”."
+    },
+    {
+      "id": "nature-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „river”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzika przyroda"
+        },
+        {
+          "id": "b",
+          "text": "wzgórze"
+        },
+        {
+          "id": "c",
+          "text": "liść"
+        },
+        {
+          "id": "d",
+          "text": "rzeka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„river” oznacza po polsku „rzeka”."
+    },
+    {
+      "id": "nature-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lake”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzika przyroda"
+        },
+        {
+          "id": "b",
+          "text": "korzeń"
+        },
+        {
+          "id": "c",
+          "text": "jezioro"
+        },
+        {
+          "id": "d",
+          "text": "liść"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lake” oznacza po polsku „jezioro”."
+    },
+    {
+      "id": "nature-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sea”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "środowisko"
+        },
+        {
+          "id": "b",
+          "text": "klimat"
+        },
+        {
+          "id": "c",
+          "text": "krajobraz"
+        },
+        {
+          "id": "d",
+          "text": "morze"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„sea” oznacza po polsku „morze”."
+    },
+    {
+      "id": "nature-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ocean”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strumień"
+        },
+        {
+          "id": "b",
+          "text": "woda źródlana"
+        },
+        {
+          "id": "c",
+          "text": "krajobraz"
+        },
+        {
+          "id": "d",
+          "text": "ocean"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ocean” oznacza po polsku „ocean”."
+    },
+    {
+      "id": "nature-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „waterfall”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ścieżka"
+        },
+        {
+          "id": "b",
+          "text": "krajobraz"
+        },
+        {
+          "id": "c",
+          "text": "wodospad"
+        },
+        {
+          "id": "d",
+          "text": "gałąź"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„waterfall” oznacza po polsku „wodospad”."
+    },
+    {
+      "id": "nature-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „island”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pole"
+        },
+        {
+          "id": "b",
+          "text": "wyspa"
+        },
+        {
+          "id": "c",
+          "text": "natura"
+        },
+        {
+          "id": "d",
+          "text": "góra"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„island” oznacza po polsku „wyspa”."
+    },
+    {
+      "id": "nature-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „beach”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niebo"
+        },
+        {
+          "id": "b",
+          "text": "plaża"
+        },
+        {
+          "id": "c",
+          "text": "wschód słońca"
+        },
+        {
+          "id": "d",
+          "text": "liść"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„beach” oznacza po polsku „plaża”."
+    },
+    {
+      "id": "nature-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „coast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachód słońca"
+        },
+        {
+          "id": "b",
+          "text": "wybrzeże"
+        },
+        {
+          "id": "c",
+          "text": "powietrze"
+        },
+        {
+          "id": "d",
+          "text": "niebo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„coast” oznacza po polsku „wybrzeże”."
+    },
+    {
+      "id": "nature-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „desert”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "księżyc"
+        },
+        {
+          "id": "b",
+          "text": "pustynia"
+        },
+        {
+          "id": "c",
+          "text": "wyspa"
+        },
+        {
+          "id": "d",
+          "text": "jezioro"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„desert” oznacza po polsku „pustynia”."
+    },
+    {
+      "id": "nature-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jungle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pole"
+        },
+        {
+          "id": "b",
+          "text": "ścieżka"
+        },
+        {
+          "id": "c",
+          "text": "dżungla"
+        },
+        {
+          "id": "d",
+          "text": "pustynia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„jungle” oznacza po polsku „dżungla”."
+    },
+    {
+      "id": "nature-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „swamp”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bagno"
+        },
+        {
+          "id": "b",
+          "text": "łąka"
+        },
+        {
+          "id": "c",
+          "text": "planeta"
+        },
+        {
+          "id": "d",
+          "text": "dzika przyroda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„swamp” oznacza po polsku „bagno”."
+    },
+    {
+      "id": "nature-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pond”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "środowisko"
+        },
+        {
+          "id": "b",
+          "text": "staw"
+        },
+        {
+          "id": "c",
+          "text": "gałąź"
+        },
+        {
+          "id": "d",
+          "text": "dzika przyroda"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pond” oznacza po polsku „staw”."
+    },
+    {
+      "id": "nature-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stream”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachód słońca"
+        },
+        {
+          "id": "b",
+          "text": "ogień"
+        },
+        {
+          "id": "c",
+          "text": "piasek"
+        },
+        {
+          "id": "d",
+          "text": "strumień"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„stream” oznacza po polsku „strumień”."
+    },
+    {
+      "id": "nature-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wave”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zanieczyszczenie"
+        },
+        {
+          "id": "b",
+          "text": "fala"
+        },
+        {
+          "id": "c",
+          "text": "piasek"
+        },
+        {
+          "id": "d",
+          "text": "staw"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„wave” oznacza po polsku „fala”."
+    },
+    {
+      "id": "nature-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sand”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "planeta"
+        },
+        {
+          "id": "b",
+          "text": "ocean"
+        },
+        {
+          "id": "c",
+          "text": "wzgórze"
+        },
+        {
+          "id": "d",
+          "text": "piasek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„sand” oznacza po polsku „piasek”."
+    },
+    {
+      "id": "nature-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „soil”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gleba"
+        },
+        {
+          "id": "b",
+          "text": "zanieczyszczenie"
+        },
+        {
+          "id": "c",
+          "text": "recykling"
+        },
+        {
+          "id": "d",
+          "text": "kamień"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„soil” oznacza po polsku „gleba”."
+    },
+    {
+      "id": "nature-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sky”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyspa"
+        },
+        {
+          "id": "b",
+          "text": "niebo"
+        },
+        {
+          "id": "c",
+          "text": "krajobraz"
+        },
+        {
+          "id": "d",
+          "text": "drzewo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sky” oznacza po polsku „niebo”."
+    },
+    {
+      "id": "nature-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sun”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzika przyroda"
+        },
+        {
+          "id": "b",
+          "text": "słońce"
+        },
+        {
+          "id": "c",
+          "text": "recykling"
+        },
+        {
+          "id": "d",
+          "text": "las"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sun” oznacza po polsku „słońce”."
+    },
+    {
+      "id": "nature-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „moon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jezioro"
+        },
+        {
+          "id": "b",
+          "text": "staw"
+        },
+        {
+          "id": "c",
+          "text": "słońce"
+        },
+        {
+          "id": "d",
+          "text": "księżyc"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„moon” oznacza po polsku „księżyc”."
+    },
+    {
+      "id": "nature-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „star”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzika przyroda"
+        },
+        {
+          "id": "b",
+          "text": "gwiazda"
+        },
+        {
+          "id": "c",
+          "text": "pustynia"
+        },
+        {
+          "id": "d",
+          "text": "kwiat"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„star” oznacza po polsku „gwiazda”."
+    },
+    {
+      "id": "nature-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „planet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gałąź"
+        },
+        {
+          "id": "b",
+          "text": "staw"
+        },
+        {
+          "id": "c",
+          "text": "planeta"
+        },
+        {
+          "id": "d",
+          "text": "strumień"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„planet” oznacza po polsku „planeta”."
+    },
+    {
+      "id": "nature-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „earth”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "Ziemia"
+        },
+        {
+          "id": "b",
+          "text": "pustynia"
+        },
+        {
+          "id": "c",
+          "text": "liść"
+        },
+        {
+          "id": "d",
+          "text": "pole"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„earth” oznacza po polsku „Ziemia”."
+    },
+    {
+      "id": "nature-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fire”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klimat"
+        },
+        {
+          "id": "b",
+          "text": "recykling"
+        },
+        {
+          "id": "c",
+          "text": "krajobraz"
+        },
+        {
+          "id": "d",
+          "text": "ogień"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fire” oznacza po polsku „ogień”."
+    },
+    {
+      "id": "nature-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „air”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łąka"
+        },
+        {
+          "id": "b",
+          "text": "trawa"
+        },
+        {
+          "id": "c",
+          "text": "powietrze"
+        },
+        {
+          "id": "d",
+          "text": "zanieczyszczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„air” oznacza po polsku „powietrze”."
+    },
+    {
+      "id": "nature-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „environment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zanieczyszczenie"
+        },
+        {
+          "id": "b",
+          "text": "wybrzeże"
+        },
+        {
+          "id": "c",
+          "text": "krajobraz"
+        },
+        {
+          "id": "d",
+          "text": "środowisko"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„environment” oznacza po polsku „środowisko”."
+    },
+    {
+      "id": "nature-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „climate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klimat"
+        },
+        {
+          "id": "b",
+          "text": "skała"
+        },
+        {
+          "id": "c",
+          "text": "Ziemia"
+        },
+        {
+          "id": "d",
+          "text": "wybrzeże"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„climate” oznacza po polsku „klimat”."
+    },
+    {
+      "id": "nature-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pollution”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ocean"
+        },
+        {
+          "id": "b",
+          "text": "środowisko"
+        },
+        {
+          "id": "c",
+          "text": "zanieczyszczenie"
+        },
+        {
+          "id": "d",
+          "text": "dzika przyroda"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pollution” oznacza po polsku „zanieczyszczenie”."
+    },
+    {
+      "id": "nature-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recycling”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "recykling"
+        },
+        {
+          "id": "b",
+          "text": "środowisko"
+        },
+        {
+          "id": "c",
+          "text": "staw"
+        },
+        {
+          "id": "d",
+          "text": "wodospad"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„recycling” oznacza po polsku „recykling”."
+    },
+    {
+      "id": "nature-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wildlife”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skała"
+        },
+        {
+          "id": "b",
+          "text": "dzika przyroda"
+        },
+        {
+          "id": "c",
+          "text": "natura"
+        },
+        {
+          "id": "d",
+          "text": "morze"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„wildlife” oznacza po polsku „dzika przyroda”."
+    },
+    {
+      "id": "nature-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „landscape”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wschód słońca"
+        },
+        {
+          "id": "b",
+          "text": "krajobraz"
+        },
+        {
+          "id": "c",
+          "text": "woda źródlana"
+        },
+        {
+          "id": "d",
+          "text": "morze"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„landscape” oznacza po polsku „krajobraz”."
+    },
+    {
+      "id": "nature-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „path”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ścieżka"
+        },
+        {
+          "id": "b",
+          "text": "plaża"
+        },
+        {
+          "id": "c",
+          "text": "fala"
+        },
+        {
+          "id": "d",
+          "text": "staw"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„path” oznacza po polsku „ścieżka”."
+    },
+    {
+      "id": "nature-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „spring water”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "korzeń"
+        },
+        {
+          "id": "b",
+          "text": "ogień"
+        },
+        {
+          "id": "c",
+          "text": "klimat"
+        },
+        {
+          "id": "d",
+          "text": "woda źródlana"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„spring water” oznacza po polsku „woda źródlana”."
+    },
+    {
+      "id": "nature-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sunrise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rzeka"
+        },
+        {
+          "id": "b",
+          "text": "dzika przyroda"
+        },
+        {
+          "id": "c",
+          "text": "wschód słońca"
+        },
+        {
+          "id": "d",
+          "text": "wzgórze"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sunrise” oznacza po polsku „wschód słońca”."
+    },
+    {
+      "id": "nature-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sunset”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "korzeń"
+        },
+        {
+          "id": "b",
+          "text": "zachód słońca"
+        },
+        {
+          "id": "c",
+          "text": "liść"
+        },
+        {
+          "id": "d",
+          "text": "księżyc"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sunset” oznacza po polsku „zachód słońca”."
+    }
+  ]
+}

@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "time_calendar",
+    "name": "Czas i kalendarz"
+  },
+  "questions": [
+    {
+      "id": "time_calendar-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „time”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czas"
+        },
+        {
+          "id": "b",
+          "text": "wiek"
+        },
+        {
+          "id": "c",
+          "text": "jutro"
+        },
+        {
+          "id": "d",
+          "text": "wrzesień"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„time” oznacza po polsku „czas”."
+    },
+    {
+      "id": "time_calendar-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „second”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "styczeń"
+        },
+        {
+          "id": "b",
+          "text": "dzień roboczy"
+        },
+        {
+          "id": "c",
+          "text": "północ"
+        },
+        {
+          "id": "d",
+          "text": "sekunda"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„second” oznacza po polsku „sekunda”."
+    },
+    {
+      "id": "time_calendar-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „minute”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wtorek"
+        },
+        {
+          "id": "b",
+          "text": "minuta"
+        },
+        {
+          "id": "c",
+          "text": "północ"
+        },
+        {
+          "id": "d",
+          "text": "sekunda"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„minute” oznacza po polsku „minuta”."
+    },
+    {
+      "id": "time_calendar-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hour”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "maj"
+        },
+        {
+          "id": "b",
+          "text": "dekada"
+        },
+        {
+          "id": "c",
+          "text": "wczoraj"
+        },
+        {
+          "id": "d",
+          "text": "godzina"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hour” oznacza po polsku „godzina”."
+    },
+    {
+      "id": "time_calendar-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „day”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piątek"
+        },
+        {
+          "id": "b",
+          "text": "dzień"
+        },
+        {
+          "id": "c",
+          "text": "roczny"
+        },
+        {
+          "id": "d",
+          "text": "luty"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„day” oznacza po polsku „dzień”."
+    },
+    {
+      "id": "time_calendar-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „week”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wrzesień"
+        },
+        {
+          "id": "b",
+          "text": "tydzień"
+        },
+        {
+          "id": "c",
+          "text": "sierpień"
+        },
+        {
+          "id": "d",
+          "text": "sekunda"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„week” oznacza po polsku „tydzień”."
+    },
+    {
+      "id": "time_calendar-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „month”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "minuta"
+        },
+        {
+          "id": "b",
+          "text": "miesiąc"
+        },
+        {
+          "id": "c",
+          "text": "niedziela"
+        },
+        {
+          "id": "d",
+          "text": "weekend"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„month” oznacza po polsku „miesiąc”."
+    },
+    {
+      "id": "time_calendar-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „year”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kalendarz"
+        },
+        {
+          "id": "b",
+          "text": "rok"
+        },
+        {
+          "id": "c",
+          "text": "minuta"
+        },
+        {
+          "id": "d",
+          "text": "dzień"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„year” oznacza po polsku „rok”."
+    },
+    {
+      "id": "time_calendar-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „decade”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miesiąc"
+        },
+        {
+          "id": "b",
+          "text": "sobota"
+        },
+        {
+          "id": "c",
+          "text": "rok"
+        },
+        {
+          "id": "d",
+          "text": "dekada"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„decade” oznacza po polsku „dekada”."
+    },
+    {
+      "id": "time_calendar-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „century”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rok"
+        },
+        {
+          "id": "b",
+          "text": "wiek"
+        },
+        {
+          "id": "c",
+          "text": "miesięczny"
+        },
+        {
+          "id": "d",
+          "text": "czerwiec"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„century” oznacza po polsku „wiek”."
+    },
+    {
+      "id": "time_calendar-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „morning”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "noc"
+        },
+        {
+          "id": "b",
+          "text": "rano"
+        },
+        {
+          "id": "c",
+          "text": "wczoraj"
+        },
+        {
+          "id": "d",
+          "text": "tydzień"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„morning” oznacza po polsku „rano”."
+    },
+    {
+      "id": "time_calendar-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „afternoon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "noc"
+        },
+        {
+          "id": "b",
+          "text": "popołudnie"
+        },
+        {
+          "id": "c",
+          "text": "wczoraj"
+        },
+        {
+          "id": "d",
+          "text": "kalendarz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„afternoon” oznacza po polsku „popołudnie”."
+    },
+    {
+      "id": "time_calendar-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „evening”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wtorek"
+        },
+        {
+          "id": "b",
+          "text": "lipiec"
+        },
+        {
+          "id": "c",
+          "text": "wieczór"
+        },
+        {
+          "id": "d",
+          "text": "dzień"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„evening” oznacza po polsku „wieczór”."
+    },
+    {
+      "id": "time_calendar-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „night”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "noc"
+        },
+        {
+          "id": "b",
+          "text": "zegar"
+        },
+        {
+          "id": "c",
+          "text": "grudzień"
+        },
+        {
+          "id": "d",
+          "text": "czas"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„night” oznacza po polsku „noc”."
+    },
+    {
+      "id": "time_calendar-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „midnight”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "północ"
+        },
+        {
+          "id": "b",
+          "text": "przeszłość"
+        },
+        {
+          "id": "c",
+          "text": "noc"
+        },
+        {
+          "id": "d",
+          "text": "codzienny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„midnight” oznacza po polsku „północ”."
+    },
+    {
+      "id": "time_calendar-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „noon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niedziela"
+        },
+        {
+          "id": "b",
+          "text": "środa"
+        },
+        {
+          "id": "c",
+          "text": "sierpień"
+        },
+        {
+          "id": "d",
+          "text": "południe"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„noon” oznacza po polsku „południe”."
+    },
+    {
+      "id": "time_calendar-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „today”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzisiaj"
+        },
+        {
+          "id": "b",
+          "text": "poniedziałek"
+        },
+        {
+          "id": "c",
+          "text": "wrzesień"
+        },
+        {
+          "id": "d",
+          "text": "czerwiec"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„today” oznacza po polsku „dzisiaj”."
+    },
+    {
+      "id": "time_calendar-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tomorrow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jutro"
+        },
+        {
+          "id": "b",
+          "text": "północ"
+        },
+        {
+          "id": "c",
+          "text": "marzec"
+        },
+        {
+          "id": "d",
+          "text": "tydzień"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„tomorrow” oznacza po polsku „jutro”."
+    },
+    {
+      "id": "time_calendar-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „yesterday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczór"
+        },
+        {
+          "id": "b",
+          "text": "wtorek"
+        },
+        {
+          "id": "c",
+          "text": "wczoraj"
+        },
+        {
+          "id": "d",
+          "text": "grudzień"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„yesterday” oznacza po polsku „wczoraj”."
+    },
+    {
+      "id": "time_calendar-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „weekday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kwiecień"
+        },
+        {
+          "id": "b",
+          "text": "poniedziałek"
+        },
+        {
+          "id": "c",
+          "text": "dzień roboczy"
+        },
+        {
+          "id": "d",
+          "text": "grudzień"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„weekday” oznacza po polsku „dzień roboczy”."
+    },
+    {
+      "id": "time_calendar-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „weekend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kwartał"
+        },
+        {
+          "id": "b",
+          "text": "marzec"
+        },
+        {
+          "id": "c",
+          "text": "weekend"
+        },
+        {
+          "id": "d",
+          "text": "dzień roboczy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„weekend” oznacza po polsku „weekend”."
+    },
+    {
+      "id": "time_calendar-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „Monday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieczór"
+        },
+        {
+          "id": "b",
+          "text": "czwartek"
+        },
+        {
+          "id": "c",
+          "text": "poniedziałek"
+        },
+        {
+          "id": "d",
+          "text": "popołudnie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„Monday” oznacza po polsku „poniedziałek”."
+    },
+    {
+      "id": "time_calendar-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „Tuesday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wtorek"
+        },
+        {
+          "id": "b",
+          "text": "popołudnie"
+        },
+        {
+          "id": "c",
+          "text": "tydzień"
+        },
+        {
+          "id": "d",
+          "text": "rano"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„Tuesday” oznacza po polsku „wtorek”."
+    },
+    {
+      "id": "time_calendar-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „Wednesday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "godzina"
+        },
+        {
+          "id": "b",
+          "text": "środa"
+        },
+        {
+          "id": "c",
+          "text": "tydzień"
+        },
+        {
+          "id": "d",
+          "text": "dekada"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„Wednesday” oznacza po polsku „środa”."
+    },
+    {
+      "id": "time_calendar-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „Thursday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czwartek"
+        },
+        {
+          "id": "b",
+          "text": "dzisiaj"
+        },
+        {
+          "id": "c",
+          "text": "czerwiec"
+        },
+        {
+          "id": "d",
+          "text": "przyszłość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„Thursday” oznacza po polsku „czwartek”."
+    },
+    {
+      "id": "time_calendar-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „Friday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "południe"
+        },
+        {
+          "id": "b",
+          "text": "piątek"
+        },
+        {
+          "id": "c",
+          "text": "przeszłość"
+        },
+        {
+          "id": "d",
+          "text": "marzec"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„Friday” oznacza po polsku „piątek”."
+    },
+    {
+      "id": "time_calendar-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „Saturday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miesięczny"
+        },
+        {
+          "id": "b",
+          "text": "styczeń"
+        },
+        {
+          "id": "c",
+          "text": "wieczór"
+        },
+        {
+          "id": "d",
+          "text": "sobota"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„Saturday” oznacza po polsku „sobota”."
+    },
+    {
+      "id": "time_calendar-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „Sunday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sekunda"
+        },
+        {
+          "id": "b",
+          "text": "kwiecień"
+        },
+        {
+          "id": "c",
+          "text": "sobota"
+        },
+        {
+          "id": "d",
+          "text": "niedziela"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„Sunday” oznacza po polsku „niedziela”."
+    },
+    {
+      "id": "time_calendar-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „January”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cotygodniowy"
+        },
+        {
+          "id": "b",
+          "text": "rok"
+        },
+        {
+          "id": "c",
+          "text": "styczeń"
+        },
+        {
+          "id": "d",
+          "text": "miesiąc"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„January” oznacza po polsku „styczeń”."
+    },
+    {
+      "id": "time_calendar-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „February”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "maj"
+        },
+        {
+          "id": "b",
+          "text": "roczny"
+        },
+        {
+          "id": "c",
+          "text": "luty"
+        },
+        {
+          "id": "d",
+          "text": "przeszłość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„February” oznacza po polsku „luty”."
+    },
+    {
+      "id": "time_calendar-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „March”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czerwiec"
+        },
+        {
+          "id": "b",
+          "text": "listopad"
+        },
+        {
+          "id": "c",
+          "text": "lipiec"
+        },
+        {
+          "id": "d",
+          "text": "marzec"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„March” oznacza po polsku „marzec”."
+    },
+    {
+      "id": "time_calendar-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „April”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rok"
+        },
+        {
+          "id": "b",
+          "text": "styczeń"
+        },
+        {
+          "id": "c",
+          "text": "listopad"
+        },
+        {
+          "id": "d",
+          "text": "kwiecień"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„April” oznacza po polsku „kwiecień”."
+    },
+    {
+      "id": "time_calendar-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „May”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "godzina"
+        },
+        {
+          "id": "b",
+          "text": "piątek"
+        },
+        {
+          "id": "c",
+          "text": "maj"
+        },
+        {
+          "id": "d",
+          "text": "niedziela"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„May” oznacza po polsku „maj”."
+    },
+    {
+      "id": "time_calendar-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „June”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cotygodniowy"
+        },
+        {
+          "id": "b",
+          "text": "piątek"
+        },
+        {
+          "id": "c",
+          "text": "czerwiec"
+        },
+        {
+          "id": "d",
+          "text": "codzienny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„June” oznacza po polsku „czerwiec”."
+    },
+    {
+      "id": "time_calendar-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „July”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "listopad"
+        },
+        {
+          "id": "b",
+          "text": "piątek"
+        },
+        {
+          "id": "c",
+          "text": "lipiec"
+        },
+        {
+          "id": "d",
+          "text": "przeszłość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„July” oznacza po polsku „lipiec”."
+    },
+    {
+      "id": "time_calendar-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „August”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "noc"
+        },
+        {
+          "id": "b",
+          "text": "dzień"
+        },
+        {
+          "id": "c",
+          "text": "sierpień"
+        },
+        {
+          "id": "d",
+          "text": "wiek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„August” oznacza po polsku „sierpień”."
+    },
+    {
+      "id": "time_calendar-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „September”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wrzesień"
+        },
+        {
+          "id": "b",
+          "text": "dzień"
+        },
+        {
+          "id": "c",
+          "text": "noc"
+        },
+        {
+          "id": "d",
+          "text": "rano"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„September” oznacza po polsku „wrzesień”."
+    },
+    {
+      "id": "time_calendar-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „October”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "październik"
+        },
+        {
+          "id": "b",
+          "text": "wtorek"
+        },
+        {
+          "id": "c",
+          "text": "czerwiec"
+        },
+        {
+          "id": "d",
+          "text": "godzina"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„October” oznacza po polsku „październik”."
+    },
+    {
+      "id": "time_calendar-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „November”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "listopad"
+        },
+        {
+          "id": "b",
+          "text": "wtorek"
+        },
+        {
+          "id": "c",
+          "text": "data"
+        },
+        {
+          "id": "d",
+          "text": "jutro"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„November” oznacza po polsku „listopad”."
+    },
+    {
+      "id": "time_calendar-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „December”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "luty"
+        },
+        {
+          "id": "b",
+          "text": "grudzień"
+        },
+        {
+          "id": "c",
+          "text": "tydzień"
+        },
+        {
+          "id": "d",
+          "text": "poniedziałek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„December” oznacza po polsku „grudzień”."
+    },
+    {
+      "id": "time_calendar-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „date”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niedziela"
+        },
+        {
+          "id": "b",
+          "text": "weekend"
+        },
+        {
+          "id": "c",
+          "text": "popołudnie"
+        },
+        {
+          "id": "d",
+          "text": "data"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„date” oznacza po polsku „data”."
+    },
+    {
+      "id": "time_calendar-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „calendar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "luty"
+        },
+        {
+          "id": "b",
+          "text": "wczoraj"
+        },
+        {
+          "id": "c",
+          "text": "październik"
+        },
+        {
+          "id": "d",
+          "text": "kalendarz"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„calendar” oznacza po polsku „kalendarz”."
+    },
+    {
+      "id": "time_calendar-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „clock”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poniedziałek"
+        },
+        {
+          "id": "b",
+          "text": "zegar"
+        },
+        {
+          "id": "c",
+          "text": "październik"
+        },
+        {
+          "id": "d",
+          "text": "dzień roboczy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„clock” oznacza po polsku „zegar”."
+    },
+    {
+      "id": "time_calendar-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „quarter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dekada"
+        },
+        {
+          "id": "b",
+          "text": "wczoraj"
+        },
+        {
+          "id": "c",
+          "text": "kwartał"
+        },
+        {
+          "id": "d",
+          "text": "noc"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„quarter” oznacza po polsku „kwartał”."
+    },
+    {
+      "id": "time_calendar-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „daily”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czwartek"
+        },
+        {
+          "id": "b",
+          "text": "codzienny"
+        },
+        {
+          "id": "c",
+          "text": "listopad"
+        },
+        {
+          "id": "d",
+          "text": "rano"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„daily” oznacza po polsku „codzienny”."
+    },
+    {
+      "id": "time_calendar-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „weekly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeszłość"
+        },
+        {
+          "id": "b",
+          "text": "kalendarz"
+        },
+        {
+          "id": "c",
+          "text": "cotygodniowy"
+        },
+        {
+          "id": "d",
+          "text": "piątek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„weekly” oznacza po polsku „cotygodniowy”."
+    },
+    {
+      "id": "time_calendar-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „monthly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lipiec"
+        },
+        {
+          "id": "b",
+          "text": "miesięczny"
+        },
+        {
+          "id": "c",
+          "text": "październik"
+        },
+        {
+          "id": "d",
+          "text": "czas"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„monthly” oznacza po polsku „miesięczny”."
+    },
+    {
+      "id": "time_calendar-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „annual”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzień roboczy"
+        },
+        {
+          "id": "b",
+          "text": "roczny"
+        },
+        {
+          "id": "c",
+          "text": "data"
+        },
+        {
+          "id": "d",
+          "text": "godzina"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„annual” oznacza po polsku „roczny”."
+    },
+    {
+      "id": "time_calendar-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „past”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zegar"
+        },
+        {
+          "id": "b",
+          "text": "przeszłość"
+        },
+        {
+          "id": "c",
+          "text": "popołudnie"
+        },
+        {
+          "id": "d",
+          "text": "codzienny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„past” oznacza po polsku „przeszłość”."
+    },
+    {
+      "id": "time_calendar-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „future”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wczoraj"
+        },
+        {
+          "id": "b",
+          "text": "przyszłość"
+        },
+        {
+          "id": "c",
+          "text": "północ"
+        },
+        {
+          "id": "d",
+          "text": "marzec"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„future” oznacza po polsku „przyszłość”."
+    }
+  ]
+}

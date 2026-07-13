@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "common_adjectives",
+    "name": "Najczęstsze przymiotniki"
+  },
+  "questions": [
+    {
+      "id": "common_adjectives-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „big”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wolny"
+        },
+        {
+          "id": "b",
+          "text": "różny"
+        },
+        {
+          "id": "c",
+          "text": "duży"
+        },
+        {
+          "id": "d",
+          "text": "stary"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„big” oznacza po polsku „duży”."
+    },
+    {
+      "id": "common_adjectives-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „small”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niemożliwy"
+        },
+        {
+          "id": "b",
+          "text": "krótki"
+        },
+        {
+          "id": "c",
+          "text": "gotowy"
+        },
+        {
+          "id": "d",
+          "text": "mały"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„small” oznacza po polsku „mały”."
+    },
+    {
+      "id": "common_adjectives-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „long”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nudny"
+        },
+        {
+          "id": "b",
+          "text": "stary"
+        },
+        {
+          "id": "c",
+          "text": "zdrowy"
+        },
+        {
+          "id": "d",
+          "text": "długi"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„long” oznacza po polsku „długi”."
+    },
+    {
+      "id": "common_adjectives-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „short”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krótki"
+        },
+        {
+          "id": "b",
+          "text": "niebezpieczny"
+        },
+        {
+          "id": "c",
+          "text": "dobry"
+        },
+        {
+          "id": "d",
+          "text": "sławny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„short” oznacza po polsku „krótki”."
+    },
+    {
+      "id": "common_adjectives-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „high”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brudny"
+        },
+        {
+          "id": "b",
+          "text": "wysoki"
+        },
+        {
+          "id": "c",
+          "text": "nowoczesny"
+        },
+        {
+          "id": "d",
+          "text": "możliwy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„high” oznacza po polsku „wysoki”."
+    },
+    {
+      "id": "common_adjectives-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „low”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "silny"
+        },
+        {
+          "id": "b",
+          "text": "różny"
+        },
+        {
+          "id": "c",
+          "text": "wysoki"
+        },
+        {
+          "id": "d",
+          "text": "niski"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„low” oznacza po polsku „niski”."
+    },
+    {
+      "id": "common_adjectives-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wide”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pełny"
+        },
+        {
+          "id": "b",
+          "text": "brudny"
+        },
+        {
+          "id": "c",
+          "text": "taki sam"
+        },
+        {
+          "id": "d",
+          "text": "szeroki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„wide” oznacza po polsku „szeroki”."
+    },
+    {
+      "id": "common_adjectives-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „narrow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sławny"
+        },
+        {
+          "id": "b",
+          "text": "wąski"
+        },
+        {
+          "id": "c",
+          "text": "piękny"
+        },
+        {
+          "id": "d",
+          "text": "długi"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„narrow” oznacza po polsku „wąski”."
+    },
+    {
+      "id": "common_adjectives-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „heavy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekki"
+        },
+        {
+          "id": "b",
+          "text": "ciężki"
+        },
+        {
+          "id": "c",
+          "text": "łatwy"
+        },
+        {
+          "id": "d",
+          "text": "dobry"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„heavy” oznacza po polsku „ciężki”."
+    },
+    {
+      "id": "common_adjectives-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „light”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łatwy"
+        },
+        {
+          "id": "b",
+          "text": "lekki"
+        },
+        {
+          "id": "c",
+          "text": "stary"
+        },
+        {
+          "id": "d",
+          "text": "wąski"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„light” oznacza po polsku „lekki”."
+    },
+    {
+      "id": "common_adjectives-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieprawidłowy"
+        },
+        {
+          "id": "b",
+          "text": "brzydki"
+        },
+        {
+          "id": "c",
+          "text": "słaby"
+        },
+        {
+          "id": "d",
+          "text": "szybki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fast” oznacza po polsku „szybki”."
+    },
+    {
+      "id": "common_adjectives-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „slow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biedny"
+        },
+        {
+          "id": "b",
+          "text": "interesujący"
+        },
+        {
+          "id": "c",
+          "text": "niemożliwy"
+        },
+        {
+          "id": "d",
+          "text": "powolny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„slow” oznacza po polsku „powolny”."
+    },
+    {
+      "id": "common_adjectives-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „old”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niebezpieczny"
+        },
+        {
+          "id": "b",
+          "text": "wczesny"
+        },
+        {
+          "id": "c",
+          "text": "zajęty"
+        },
+        {
+          "id": "d",
+          "text": "stary"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„old” oznacza po polsku „stary”."
+    },
+    {
+      "id": "common_adjectives-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „young”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łatwy"
+        },
+        {
+          "id": "b",
+          "text": "brudny"
+        },
+        {
+          "id": "c",
+          "text": "stary"
+        },
+        {
+          "id": "d",
+          "text": "młody"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„young” oznacza po polsku „młody”."
+    },
+    {
+      "id": "common_adjectives-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „new”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nowoczesny"
+        },
+        {
+          "id": "b",
+          "text": "nowy"
+        },
+        {
+          "id": "c",
+          "text": "wolny"
+        },
+        {
+          "id": "d",
+          "text": "popularny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„new” oznacza po polsku „nowy”."
+    },
+    {
+      "id": "common_adjectives-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „modern”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "popularny"
+        },
+        {
+          "id": "b",
+          "text": "nowoczesny"
+        },
+        {
+          "id": "c",
+          "text": "czysty"
+        },
+        {
+          "id": "d",
+          "text": "niski"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„modern” oznacza po polsku „nowoczesny”."
+    },
+    {
+      "id": "common_adjectives-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „good”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szeroki"
+        },
+        {
+          "id": "b",
+          "text": "późny"
+        },
+        {
+          "id": "c",
+          "text": "nowy"
+        },
+        {
+          "id": "d",
+          "text": "dobry"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„good” oznacza po polsku „dobry”."
+    },
+    {
+      "id": "common_adjectives-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bad”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wąski"
+        },
+        {
+          "id": "b",
+          "text": "zły"
+        },
+        {
+          "id": "c",
+          "text": "różny"
+        },
+        {
+          "id": "d",
+          "text": "silny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bad” oznacza po polsku „zły”."
+    },
+    {
+      "id": "common_adjectives-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „easy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niemożliwy"
+        },
+        {
+          "id": "b",
+          "text": "duży"
+        },
+        {
+          "id": "c",
+          "text": "zły"
+        },
+        {
+          "id": "d",
+          "text": "łatwy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„easy” oznacza po polsku „łatwy”."
+    },
+    {
+      "id": "common_adjectives-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „difficult”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawidłowy"
+        },
+        {
+          "id": "b",
+          "text": "czysty"
+        },
+        {
+          "id": "c",
+          "text": "szeroki"
+        },
+        {
+          "id": "d",
+          "text": "trudny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„difficult” oznacza po polsku „trudny”."
+    },
+    {
+      "id": "common_adjectives-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „important”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ważny"
+        },
+        {
+          "id": "b",
+          "text": "stary"
+        },
+        {
+          "id": "c",
+          "text": "różny"
+        },
+        {
+          "id": "d",
+          "text": "interesujący"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„important” oznacza po polsku „ważny”."
+    },
+    {
+      "id": "common_adjectives-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „interesting”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czysty"
+        },
+        {
+          "id": "b",
+          "text": "bogaty"
+        },
+        {
+          "id": "c",
+          "text": "interesujący"
+        },
+        {
+          "id": "d",
+          "text": "wolny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„interesting” oznacza po polsku „interesujący”."
+    },
+    {
+      "id": "common_adjectives-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boring”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "interesujący"
+        },
+        {
+          "id": "b",
+          "text": "nudny"
+        },
+        {
+          "id": "c",
+          "text": "szeroki"
+        },
+        {
+          "id": "d",
+          "text": "bezpieczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„boring” oznacza po polsku „nudny”."
+    },
+    {
+      "id": "common_adjectives-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „beautiful”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piękny"
+        },
+        {
+          "id": "b",
+          "text": "wysoki"
+        },
+        {
+          "id": "c",
+          "text": "silny"
+        },
+        {
+          "id": "d",
+          "text": "nudny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„beautiful” oznacza po polsku „piękny”."
+    },
+    {
+      "id": "common_adjectives-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ugly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekki"
+        },
+        {
+          "id": "b",
+          "text": "wąski"
+        },
+        {
+          "id": "c",
+          "text": "nudny"
+        },
+        {
+          "id": "d",
+          "text": "brzydki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ugly” oznacza po polsku „brzydki”."
+    },
+    {
+      "id": "common_adjectives-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „clean”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czysty"
+        },
+        {
+          "id": "b",
+          "text": "długi"
+        },
+        {
+          "id": "c",
+          "text": "wąski"
+        },
+        {
+          "id": "d",
+          "text": "ważny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„clean” oznacza po polsku „czysty”."
+    },
+    {
+      "id": "common_adjectives-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dirty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brudny"
+        },
+        {
+          "id": "b",
+          "text": "młody"
+        },
+        {
+          "id": "c",
+          "text": "nieprawidłowy"
+        },
+        {
+          "id": "d",
+          "text": "popularny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dirty” oznacza po polsku „brudny”."
+    },
+    {
+      "id": "common_adjectives-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „full”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zajęty"
+        },
+        {
+          "id": "b",
+          "text": "pełny"
+        },
+        {
+          "id": "c",
+          "text": "taki sam"
+        },
+        {
+          "id": "d",
+          "text": "zdrowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„full” oznacza po polsku „pełny”."
+    },
+    {
+      "id": "common_adjectives-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „empty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "interesujący"
+        },
+        {
+          "id": "b",
+          "text": "pusty"
+        },
+        {
+          "id": "c",
+          "text": "niemożliwy"
+        },
+        {
+          "id": "d",
+          "text": "brzydki"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„empty” oznacza po polsku „pusty”."
+    },
+    {
+      "id": "common_adjectives-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rich”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szybki"
+        },
+        {
+          "id": "b",
+          "text": "łatwy"
+        },
+        {
+          "id": "c",
+          "text": "możliwy"
+        },
+        {
+          "id": "d",
+          "text": "bogaty"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rich” oznacza po polsku „bogaty”."
+    },
+    {
+      "id": "common_adjectives-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „poor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wolny"
+        },
+        {
+          "id": "b",
+          "text": "biedny"
+        },
+        {
+          "id": "c",
+          "text": "niski"
+        },
+        {
+          "id": "d",
+          "text": "chory"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„poor” oznacza po polsku „biedny”."
+    },
+    {
+      "id": "common_adjectives-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „strong”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "interesujący"
+        },
+        {
+          "id": "b",
+          "text": "czysty"
+        },
+        {
+          "id": "c",
+          "text": "silny"
+        },
+        {
+          "id": "d",
+          "text": "krótki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„strong” oznacza po polsku „silny”."
+    },
+    {
+      "id": "common_adjectives-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „weak”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słaby"
+        },
+        {
+          "id": "b",
+          "text": "niski"
+        },
+        {
+          "id": "c",
+          "text": "nowoczesny"
+        },
+        {
+          "id": "d",
+          "text": "czysty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„weak” oznacza po polsku „słaby”."
+    },
+    {
+      "id": "common_adjectives-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „safe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezpieczny"
+        },
+        {
+          "id": "b",
+          "text": "prawidłowy"
+        },
+        {
+          "id": "c",
+          "text": "słaby"
+        },
+        {
+          "id": "d",
+          "text": "niski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„safe” oznacza po polsku „bezpieczny”."
+    },
+    {
+      "id": "common_adjectives-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dangerous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chory"
+        },
+        {
+          "id": "b",
+          "text": "ważny"
+        },
+        {
+          "id": "c",
+          "text": "niebezpieczny"
+        },
+        {
+          "id": "d",
+          "text": "ciężki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dangerous” oznacza po polsku „niebezpieczny”."
+    },
+    {
+      "id": "common_adjectives-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „healthy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wczesny"
+        },
+        {
+          "id": "b",
+          "text": "nowy"
+        },
+        {
+          "id": "c",
+          "text": "silny"
+        },
+        {
+          "id": "d",
+          "text": "zdrowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„healthy” oznacza po polsku „zdrowy”."
+    },
+    {
+      "id": "common_adjectives-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sick”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chory"
+        },
+        {
+          "id": "b",
+          "text": "ważny"
+        },
+        {
+          "id": "c",
+          "text": "szybki"
+        },
+        {
+          "id": "d",
+          "text": "wąski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sick” oznacza po polsku „chory”."
+    },
+    {
+      "id": "common_adjectives-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ready”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gotowy"
+        },
+        {
+          "id": "b",
+          "text": "bogaty"
+        },
+        {
+          "id": "c",
+          "text": "bezpieczny"
+        },
+        {
+          "id": "d",
+          "text": "młody"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ready” oznacza po polsku „gotowy”."
+    },
+    {
+      "id": "common_adjectives-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „busy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nudny"
+        },
+        {
+          "id": "b",
+          "text": "niski"
+        },
+        {
+          "id": "c",
+          "text": "chory"
+        },
+        {
+          "id": "d",
+          "text": "zajęty"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„busy” oznacza po polsku „zajęty”."
+    },
+    {
+      "id": "common_adjectives-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „free”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "duży"
+        },
+        {
+          "id": "b",
+          "text": "wolny"
+        },
+        {
+          "id": "c",
+          "text": "wąski"
+        },
+        {
+          "id": "d",
+          "text": "możliwy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„free” oznacza po polsku „wolny”."
+    },
+    {
+      "id": "common_adjectives-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „early”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biedny"
+        },
+        {
+          "id": "b",
+          "text": "ciężki"
+        },
+        {
+          "id": "c",
+          "text": "wczesny"
+        },
+        {
+          "id": "d",
+          "text": "gotowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„early” oznacza po polsku „wczesny”."
+    },
+    {
+      "id": "common_adjectives-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „late”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "późny"
+        },
+        {
+          "id": "b",
+          "text": "brudny"
+        },
+        {
+          "id": "c",
+          "text": "dobry"
+        },
+        {
+          "id": "d",
+          "text": "interesujący"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„late” oznacza po polsku „późny”."
+    },
+    {
+      "id": "common_adjectives-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „right”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zajęty"
+        },
+        {
+          "id": "b",
+          "text": "trudny"
+        },
+        {
+          "id": "c",
+          "text": "prawidłowy"
+        },
+        {
+          "id": "d",
+          "text": "mały"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„right” oznacza po polsku „prawidłowy”."
+    },
+    {
+      "id": "common_adjectives-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wrong”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pusty"
+        },
+        {
+          "id": "b",
+          "text": "krótki"
+        },
+        {
+          "id": "c",
+          "text": "nieprawidłowy"
+        },
+        {
+          "id": "d",
+          "text": "wąski"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„wrong” oznacza po polsku „nieprawidłowy”."
+    },
+    {
+      "id": "common_adjectives-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „same”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekki"
+        },
+        {
+          "id": "b",
+          "text": "wąski"
+        },
+        {
+          "id": "c",
+          "text": "taki sam"
+        },
+        {
+          "id": "d",
+          "text": "biedny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„same” oznacza po polsku „taki sam”."
+    },
+    {
+      "id": "common_adjectives-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „different”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brudny"
+        },
+        {
+          "id": "b",
+          "text": "różny"
+        },
+        {
+          "id": "c",
+          "text": "młody"
+        },
+        {
+          "id": "d",
+          "text": "zajęty"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„different” oznacza po polsku „różny”."
+    },
+    {
+      "id": "common_adjectives-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „possible”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "możliwy"
+        },
+        {
+          "id": "b",
+          "text": "niebezpieczny"
+        },
+        {
+          "id": "c",
+          "text": "czysty"
+        },
+        {
+          "id": "d",
+          "text": "brzydki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„possible” oznacza po polsku „możliwy”."
+    },
+    {
+      "id": "common_adjectives-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „impossible”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niebezpieczny"
+        },
+        {
+          "id": "b",
+          "text": "niemożliwy"
+        },
+        {
+          "id": "c",
+          "text": "chory"
+        },
+        {
+          "id": "d",
+          "text": "silny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„impossible” oznacza po polsku „niemożliwy”."
+    },
+    {
+      "id": "common_adjectives-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „popular”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chory"
+        },
+        {
+          "id": "b",
+          "text": "popularny"
+        },
+        {
+          "id": "c",
+          "text": "nowoczesny"
+        },
+        {
+          "id": "d",
+          "text": "zły"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„popular” oznacza po polsku „popularny”."
+    },
+    {
+      "id": "common_adjectives-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „famous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieprawidłowy"
+        },
+        {
+          "id": "b",
+          "text": "wolny"
+        },
+        {
+          "id": "c",
+          "text": "sławny"
+        },
+        {
+          "id": "d",
+          "text": "chory"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„famous” oznacza po polsku „sławny”."
+    }
+  ]
+}

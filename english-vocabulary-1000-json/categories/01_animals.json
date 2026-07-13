@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "animals",
+    "name": "Zwierzęta"
+  },
+  "questions": [
+    {
+      "id": "animals-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dog”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "orzeł"
+        },
+        {
+          "id": "b",
+          "text": "pies"
+        },
+        {
+          "id": "c",
+          "text": "koza"
+        },
+        {
+          "id": "d",
+          "text": "owca"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dog” oznacza po polsku „pies”."
+    },
+    {
+      "id": "animals-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krowa"
+        },
+        {
+          "id": "b",
+          "text": "kot"
+        },
+        {
+          "id": "c",
+          "text": "goryl"
+        },
+        {
+          "id": "d",
+          "text": "świnia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cat” oznacza po polsku „kot”."
+    },
+    {
+      "id": "animals-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „horse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żółw"
+        },
+        {
+          "id": "b",
+          "text": "pingwin"
+        },
+        {
+          "id": "c",
+          "text": "koń"
+        },
+        {
+          "id": "d",
+          "text": "dzik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„horse” oznacza po polsku „koń”."
+    },
+    {
+      "id": "animals-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "owca"
+        },
+        {
+          "id": "b",
+          "text": "jaszczurka"
+        },
+        {
+          "id": "c",
+          "text": "krowa"
+        },
+        {
+          "id": "d",
+          "text": "pająk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cow” oznacza po polsku „krowa”."
+    },
+    {
+      "id": "animals-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pig”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chomik"
+        },
+        {
+          "id": "b",
+          "text": "sowa"
+        },
+        {
+          "id": "c",
+          "text": "wąż"
+        },
+        {
+          "id": "d",
+          "text": "świnia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pig” oznacza po polsku „świnia”."
+    },
+    {
+      "id": "animals-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sheep”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "owca"
+        },
+        {
+          "id": "b",
+          "text": "żyrafa"
+        },
+        {
+          "id": "c",
+          "text": "żółw"
+        },
+        {
+          "id": "d",
+          "text": "wrona"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sheep” oznacza po polsku „owca”."
+    },
+    {
+      "id": "animals-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „goat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sowa"
+        },
+        {
+          "id": "b",
+          "text": "koza"
+        },
+        {
+          "id": "c",
+          "text": "orzeł"
+        },
+        {
+          "id": "d",
+          "text": "wróbel"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„goat” oznacza po polsku „koza”."
+    },
+    {
+      "id": "animals-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rabbit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "świnia"
+        },
+        {
+          "id": "b",
+          "text": "królik"
+        },
+        {
+          "id": "c",
+          "text": "tygrys"
+        },
+        {
+          "id": "d",
+          "text": "koza"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rabbit” oznacza po polsku „królik”."
+    },
+    {
+      "id": "animals-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mouse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mysz"
+        },
+        {
+          "id": "b",
+          "text": "kot"
+        },
+        {
+          "id": "c",
+          "text": "chomik"
+        },
+        {
+          "id": "d",
+          "text": "świnia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mouse” oznacza po polsku „mysz”."
+    },
+    {
+      "id": "animals-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczur"
+        },
+        {
+          "id": "b",
+          "text": "pająk"
+        },
+        {
+          "id": "c",
+          "text": "sowa"
+        },
+        {
+          "id": "d",
+          "text": "jeleń"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rat” oznacza po polsku „szczur”."
+    },
+    {
+      "id": "animals-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hamster”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczur"
+        },
+        {
+          "id": "b",
+          "text": "goryl"
+        },
+        {
+          "id": "c",
+          "text": "chomik"
+        },
+        {
+          "id": "d",
+          "text": "owca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„hamster” oznacza po polsku „chomik”."
+    },
+    {
+      "id": "animals-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guinea pig”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "świnka morska"
+        },
+        {
+          "id": "b",
+          "text": "koza"
+        },
+        {
+          "id": "c",
+          "text": "goryl"
+        },
+        {
+          "id": "d",
+          "text": "koń"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„guinea pig” oznacza po polsku „świnka morska”."
+    },
+    {
+      "id": "animals-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chicken”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kogut"
+        },
+        {
+          "id": "b",
+          "text": "jeleń"
+        },
+        {
+          "id": "c",
+          "text": "kurczak"
+        },
+        {
+          "id": "d",
+          "text": "pingwin"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„chicken” oznacza po polsku „kurczak”."
+    },
+    {
+      "id": "animals-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rooster”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pies"
+        },
+        {
+          "id": "b",
+          "text": "kogut"
+        },
+        {
+          "id": "c",
+          "text": "wilk"
+        },
+        {
+          "id": "d",
+          "text": "wrona"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rooster” oznacza po polsku „kogut”."
+    },
+    {
+      "id": "animals-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „duck”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kaczka"
+        },
+        {
+          "id": "b",
+          "text": "wilk"
+        },
+        {
+          "id": "c",
+          "text": "lew"
+        },
+        {
+          "id": "d",
+          "text": "pszczoła"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„duck” oznacza po polsku „kaczka”."
+    },
+    {
+      "id": "animals-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „goose”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słoń"
+        },
+        {
+          "id": "b",
+          "text": "wilk"
+        },
+        {
+          "id": "c",
+          "text": "gęś"
+        },
+        {
+          "id": "d",
+          "text": "rekin"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„goose” oznacza po polsku „gęś”."
+    },
+    {
+      "id": "animals-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „turkey”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "foka"
+        },
+        {
+          "id": "b",
+          "text": "mysz"
+        },
+        {
+          "id": "c",
+          "text": "lew"
+        },
+        {
+          "id": "d",
+          "text": "indyk"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„turkey” oznacza po polsku „indyk”."
+    },
+    {
+      "id": "animals-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pigeon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gęś"
+        },
+        {
+          "id": "b",
+          "text": "kaczka"
+        },
+        {
+          "id": "c",
+          "text": "gołąb"
+        },
+        {
+          "id": "d",
+          "text": "świnia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pigeon” oznacza po polsku „gołąb”."
+    },
+    {
+      "id": "animals-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sparrow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "małpa"
+        },
+        {
+          "id": "b",
+          "text": "wróbel"
+        },
+        {
+          "id": "c",
+          "text": "świnia"
+        },
+        {
+          "id": "d",
+          "text": "krokodyl"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sparrow” oznacza po polsku „wróbel”."
+    },
+    {
+      "id": "animals-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „eagle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jeleń"
+        },
+        {
+          "id": "b",
+          "text": "delfin"
+        },
+        {
+          "id": "c",
+          "text": "orzeł"
+        },
+        {
+          "id": "d",
+          "text": "lew"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„eagle” oznacza po polsku „orzeł”."
+    },
+    {
+      "id": "animals-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „owl”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krokodyl"
+        },
+        {
+          "id": "b",
+          "text": "gołąb"
+        },
+        {
+          "id": "c",
+          "text": "indyk"
+        },
+        {
+          "id": "d",
+          "text": "sowa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„owl” oznacza po polsku „sowa”."
+    },
+    {
+      "id": "animals-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „parrot”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "papuga"
+        },
+        {
+          "id": "b",
+          "text": "delfin"
+        },
+        {
+          "id": "c",
+          "text": "motyl"
+        },
+        {
+          "id": "d",
+          "text": "szczur"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„parrot” oznacza po polsku „papuga”."
+    },
+    {
+      "id": "animals-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „swan”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rekin"
+        },
+        {
+          "id": "b",
+          "text": "lis"
+        },
+        {
+          "id": "c",
+          "text": "lew"
+        },
+        {
+          "id": "d",
+          "text": "łabędź"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„swan” oznacza po polsku „łabędź”."
+    },
+    {
+      "id": "animals-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „crow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wrona"
+        },
+        {
+          "id": "b",
+          "text": "gęś"
+        },
+        {
+          "id": "c",
+          "text": "owca"
+        },
+        {
+          "id": "d",
+          "text": "pingwin"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„crow” oznacza po polsku „wrona”."
+    },
+    {
+      "id": "animals-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "delfin"
+        },
+        {
+          "id": "b",
+          "text": "lew"
+        },
+        {
+          "id": "c",
+          "text": "szczur"
+        },
+        {
+          "id": "d",
+          "text": "foka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lion” oznacza po polsku „lew”."
+    },
+    {
+      "id": "animals-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tiger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tygrys"
+        },
+        {
+          "id": "b",
+          "text": "foka"
+        },
+        {
+          "id": "c",
+          "text": "pszczoła"
+        },
+        {
+          "id": "d",
+          "text": "świnka morska"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„tiger” oznacza po polsku „tygrys”."
+    },
+    {
+      "id": "animals-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „elephant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słoń"
+        },
+        {
+          "id": "b",
+          "text": "łabędź"
+        },
+        {
+          "id": "c",
+          "text": "szczur"
+        },
+        {
+          "id": "d",
+          "text": "ośmiornica"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„elephant” oznacza po polsku „słoń”."
+    },
+    {
+      "id": "animals-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „giraffe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żyrafa"
+        },
+        {
+          "id": "b",
+          "text": "łabędź"
+        },
+        {
+          "id": "c",
+          "text": "indyk"
+        },
+        {
+          "id": "d",
+          "text": "orzeł"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„giraffe” oznacza po polsku „żyrafa”."
+    },
+    {
+      "id": "animals-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „zebra”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczur"
+        },
+        {
+          "id": "b",
+          "text": "foka"
+        },
+        {
+          "id": "c",
+          "text": "zebra"
+        },
+        {
+          "id": "d",
+          "text": "łabędź"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„zebra” oznacza po polsku „zebra”."
+    },
+    {
+      "id": "animals-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „monkey”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "małpa"
+        },
+        {
+          "id": "b",
+          "text": "świnia"
+        },
+        {
+          "id": "c",
+          "text": "chomik"
+        },
+        {
+          "id": "d",
+          "text": "królik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„monkey” oznacza po polsku „małpa”."
+    },
+    {
+      "id": "animals-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gorilla”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "goryl"
+        },
+        {
+          "id": "b",
+          "text": "żółw"
+        },
+        {
+          "id": "c",
+          "text": "wąż"
+        },
+        {
+          "id": "d",
+          "text": "owca"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gorilla” oznacza po polsku „goryl”."
+    },
+    {
+      "id": "animals-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bear”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pies"
+        },
+        {
+          "id": "b",
+          "text": "zebra"
+        },
+        {
+          "id": "c",
+          "text": "niedźwiedź"
+        },
+        {
+          "id": "d",
+          "text": "świnia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bear” oznacza po polsku „niedźwiedź”."
+    },
+    {
+      "id": "animals-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wolf”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wilk"
+        },
+        {
+          "id": "b",
+          "text": "słoń"
+        },
+        {
+          "id": "c",
+          "text": "wąż"
+        },
+        {
+          "id": "d",
+          "text": "wieloryb"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„wolf” oznacza po polsku „wilk”."
+    },
+    {
+      "id": "animals-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fox”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gęś"
+        },
+        {
+          "id": "b",
+          "text": "lew"
+        },
+        {
+          "id": "c",
+          "text": "lis"
+        },
+        {
+          "id": "d",
+          "text": "rekin"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„fox” oznacza po polsku „lis”."
+    },
+    {
+      "id": "animals-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rekin"
+        },
+        {
+          "id": "b",
+          "text": "kogut"
+        },
+        {
+          "id": "c",
+          "text": "jeleń"
+        },
+        {
+          "id": "d",
+          "text": "wilk"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„deer” oznacza po polsku „jeleń”."
+    },
+    {
+      "id": "animals-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żyrafa"
+        },
+        {
+          "id": "b",
+          "text": "królik"
+        },
+        {
+          "id": "c",
+          "text": "gołąb"
+        },
+        {
+          "id": "d",
+          "text": "dzik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„boar” oznacza po polsku „dzik”."
+    },
+    {
+      "id": "animals-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „snake”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tygrys"
+        },
+        {
+          "id": "b",
+          "text": "wąż"
+        },
+        {
+          "id": "c",
+          "text": "gołąb"
+        },
+        {
+          "id": "d",
+          "text": "chomik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„snake” oznacza po polsku „wąż”."
+    },
+    {
+      "id": "animals-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lizard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rekin"
+        },
+        {
+          "id": "b",
+          "text": "koza"
+        },
+        {
+          "id": "c",
+          "text": "jaszczurka"
+        },
+        {
+          "id": "d",
+          "text": "papuga"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lizard” oznacza po polsku „jaszczurka”."
+    },
+    {
+      "id": "animals-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „frog”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "foka"
+        },
+        {
+          "id": "b",
+          "text": "wilk"
+        },
+        {
+          "id": "c",
+          "text": "dzik"
+        },
+        {
+          "id": "d",
+          "text": "żaba"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„frog” oznacza po polsku „żaba”."
+    },
+    {
+      "id": "animals-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „turtle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pszczoła"
+        },
+        {
+          "id": "b",
+          "text": "gęś"
+        },
+        {
+          "id": "c",
+          "text": "koń"
+        },
+        {
+          "id": "d",
+          "text": "żółw"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„turtle” oznacza po polsku „żółw”."
+    },
+    {
+      "id": "animals-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „crocodile”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sowa"
+        },
+        {
+          "id": "b",
+          "text": "krokodyl"
+        },
+        {
+          "id": "c",
+          "text": "chomik"
+        },
+        {
+          "id": "d",
+          "text": "indyk"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„crocodile” oznacza po polsku „krokodyl”."
+    },
+    {
+      "id": "animals-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shark”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rekin"
+        },
+        {
+          "id": "b",
+          "text": "zebra"
+        },
+        {
+          "id": "c",
+          "text": "ośmiornica"
+        },
+        {
+          "id": "d",
+          "text": "pszczoła"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„shark” oznacza po polsku „rekin”."
+    },
+    {
+      "id": "animals-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „whale”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słoń"
+        },
+        {
+          "id": "b",
+          "text": "kaczka"
+        },
+        {
+          "id": "c",
+          "text": "wieloryb"
+        },
+        {
+          "id": "d",
+          "text": "delfin"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„whale” oznacza po polsku „wieloryb”."
+    },
+    {
+      "id": "animals-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dolphin”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wróbel"
+        },
+        {
+          "id": "b",
+          "text": "goryl"
+        },
+        {
+          "id": "c",
+          "text": "wrona"
+        },
+        {
+          "id": "d",
+          "text": "delfin"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dolphin” oznacza po polsku „delfin”."
+    },
+    {
+      "id": "animals-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „octopus”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koza"
+        },
+        {
+          "id": "b",
+          "text": "małpa"
+        },
+        {
+          "id": "c",
+          "text": "ośmiornica"
+        },
+        {
+          "id": "d",
+          "text": "kurczak"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„octopus” oznacza po polsku „ośmiornica”."
+    },
+    {
+      "id": "animals-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „seal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gęś"
+        },
+        {
+          "id": "b",
+          "text": "jaszczurka"
+        },
+        {
+          "id": "c",
+          "text": "foka"
+        },
+        {
+          "id": "d",
+          "text": "łabędź"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„seal” oznacza po polsku „foka”."
+    },
+    {
+      "id": "animals-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „penguin”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lew"
+        },
+        {
+          "id": "b",
+          "text": "gęś"
+        },
+        {
+          "id": "c",
+          "text": "gołąb"
+        },
+        {
+          "id": "d",
+          "text": "pingwin"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„penguin” oznacza po polsku „pingwin”."
+    },
+    {
+      "id": "animals-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „butterfly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "motyl"
+        },
+        {
+          "id": "b",
+          "text": "żyrafa"
+        },
+        {
+          "id": "c",
+          "text": "gęś"
+        },
+        {
+          "id": "d",
+          "text": "chomik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„butterfly” oznacza po polsku „motyl”."
+    },
+    {
+      "id": "animals-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bee”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mysz"
+        },
+        {
+          "id": "b",
+          "text": "pszczoła"
+        },
+        {
+          "id": "c",
+          "text": "sowa"
+        },
+        {
+          "id": "d",
+          "text": "słoń"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bee” oznacza po polsku „pszczoła”."
+    },
+    {
+      "id": "animals-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „spider”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "goryl"
+        },
+        {
+          "id": "b",
+          "text": "pająk"
+        },
+        {
+          "id": "c",
+          "text": "jaszczurka"
+        },
+        {
+          "id": "d",
+          "text": "pszczoła"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„spider” oznacza po polsku „pająk”."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "formatVersion": 1,
+  "totalCategories": 20,
+  "totalQuestions": 1000,
+  "uniqueEnglishEntries": 1000,
+  "categories": [
+    {
+      "file": "categories/01_animals.json",
+      "categoryId": "animals",
+      "categoryName": "Zwierzęta",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/02_food.json",
+      "categoryId": "food",
+      "categoryName": "Jedzenie i napoje",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/03_home.json",
+      "categoryId": "home",
+      "categoryName": "Dom i mieszkanie",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/04_school.json",
+      "categoryId": "school",
+      "categoryName": "Szkoła i nauka",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/05_work.json",
+      "categoryId": "work",
+      "categoryName": "Praca i biuro",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/06_travel.json",
+      "categoryId": "travel",
+      "categoryName": "Podróże",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/07_transport.json",
+      "categoryId": "transport",
+      "categoryName": "Transport",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/08_city.json",
+      "categoryId": "city",
+      "categoryName": "Miasto i miejsca",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/09_nature.json",
+      "categoryId": "nature",
+      "categoryName": "Natura i krajobraz",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/10_weather.json",
+      "categoryId": "weather",
+      "categoryName": "Pogoda i pory roku",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/11_body_health.json",
+      "categoryId": "body_health",
+      "categoryName": "Ciało i zdrowie",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/12_clothes.json",
+      "categoryId": "clothes",
+      "categoryName": "Ubrania i dodatki",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/13_family_people.json",
+      "categoryId": "family_people",
+      "categoryName": "Rodzina i ludzie",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/14_emotions_personality.json",
+      "categoryId": "emotions_personality",
+      "categoryName": "Emocje i osobowość",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/15_daily_routines.json",
+      "categoryId": "daily_routines",
+      "categoryName": "Codzienne czynności",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/16_common_verbs.json",
+      "categoryId": "common_verbs",
+      "categoryName": "Najczęstsze czasowniki",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/17_common_adjectives.json",
+      "categoryId": "common_adjectives",
+      "categoryName": "Najczęstsze przymiotniki",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/18_technology.json",
+      "categoryId": "technology",
+      "categoryName": "Technologia i internet",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/19_shopping_money.json",
+      "categoryId": "shopping_money",
+      "categoryName": "Zakupy i pieniądze",
+      "questionCount": 50
+    },
+    {
+      "file": "categories/20_time_calendar.json",
+      "categoryId": "time_calendar",
+      "categoryName": "Czas i kalendarz",
+      "questionCount": 50
+    }
+  ],
+  "validation": {
+    "jsonFilesValid": true,
+    "questionIdsUnique": true,
+    "englishEntriesUnique": true,
+    "answersPerQuestion": 4,
+    "errors": []
+  }
+}

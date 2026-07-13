@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "family_people",
+    "name": "Rodzina i ludzie"
+  },
+  "questions": [
+    {
+      "id": "family_people-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „family”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gość"
+        },
+        {
+          "id": "b",
+          "text": "córka"
+        },
+        {
+          "id": "c",
+          "text": "rodzina"
+        },
+        {
+          "id": "d",
+          "text": "rozwód"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„family” oznacza po polsku „rodzina”."
+    },
+    {
+      "id": "family_people-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „parent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rodzic"
+        },
+        {
+          "id": "b",
+          "text": "relacja"
+        },
+        {
+          "id": "c",
+          "text": "wiek"
+        },
+        {
+          "id": "d",
+          "text": "mąż"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„parent” oznacza po polsku „rodzic”."
+    },
+    {
+      "id": "family_people-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mother”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chłopiec"
+        },
+        {
+          "id": "b",
+          "text": "krewny"
+        },
+        {
+          "id": "c",
+          "text": "matka"
+        },
+        {
+          "id": "d",
+          "text": "syn"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mother” oznacza po polsku „matka”."
+    },
+    {
+      "id": "family_people-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „father”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ojciec"
+        },
+        {
+          "id": "b",
+          "text": "brat"
+        },
+        {
+          "id": "c",
+          "text": "dziewczynka"
+        },
+        {
+          "id": "d",
+          "text": "tata"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„father” oznacza po polsku „ojciec”."
+    },
+    {
+      "id": "family_people-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mum”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "relacja"
+        },
+        {
+          "id": "b",
+          "text": "mama"
+        },
+        {
+          "id": "c",
+          "text": "żona"
+        },
+        {
+          "id": "d",
+          "text": "siostra"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mum” oznacza po polsku „mama”."
+    },
+    {
+      "id": "family_people-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dad”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "relacja"
+        },
+        {
+          "id": "b",
+          "text": "tata"
+        },
+        {
+          "id": "c",
+          "text": "siostra"
+        },
+        {
+          "id": "d",
+          "text": "wujek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„dad” oznacza po polsku „tata”."
+    },
+    {
+      "id": "family_people-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „son”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ojciec"
+        },
+        {
+          "id": "b",
+          "text": "syn"
+        },
+        {
+          "id": "c",
+          "text": "rodzic"
+        },
+        {
+          "id": "d",
+          "text": "pokolenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„son” oznacza po polsku „syn”."
+    },
+    {
+      "id": "family_people-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „daughter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "córka"
+        },
+        {
+          "id": "b",
+          "text": "ojciec"
+        },
+        {
+          "id": "c",
+          "text": "matka"
+        },
+        {
+          "id": "d",
+          "text": "ciocia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„daughter” oznacza po polsku „córka”."
+    },
+    {
+      "id": "family_people-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „child”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ojciec"
+        },
+        {
+          "id": "b",
+          "text": "sąsiad"
+        },
+        {
+          "id": "c",
+          "text": "dziecko"
+        },
+        {
+          "id": "d",
+          "text": "relacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„child” oznacza po polsku „dziecko”."
+    },
+    {
+      "id": "family_people-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „children”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziadek"
+        },
+        {
+          "id": "b",
+          "text": "dziewczynka"
+        },
+        {
+          "id": "c",
+          "text": "ludzie"
+        },
+        {
+          "id": "d",
+          "text": "dzieci"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„children” oznacza po polsku „dzieci”."
+    },
+    {
+      "id": "family_people-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brother”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niemowlę"
+        },
+        {
+          "id": "b",
+          "text": "gospodarz"
+        },
+        {
+          "id": "c",
+          "text": "brat"
+        },
+        {
+          "id": "d",
+          "text": "relacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„brother” oznacza po polsku „brat”."
+    },
+    {
+      "id": "family_people-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sister”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siostra"
+        },
+        {
+          "id": "b",
+          "text": "sąsiad"
+        },
+        {
+          "id": "c",
+          "text": "syn"
+        },
+        {
+          "id": "d",
+          "text": "dziadek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sister” oznacza po polsku „siostra”."
+    },
+    {
+      "id": "family_people-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „husband”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chłopiec"
+        },
+        {
+          "id": "b",
+          "text": "syn"
+        },
+        {
+          "id": "c",
+          "text": "mąż"
+        },
+        {
+          "id": "d",
+          "text": "rodzina"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„husband” oznacza po polsku „mąż”."
+    },
+    {
+      "id": "family_people-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wife”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gość"
+        },
+        {
+          "id": "b",
+          "text": "żona"
+        },
+        {
+          "id": "c",
+          "text": "ludzie"
+        },
+        {
+          "id": "d",
+          "text": "brat"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„wife” oznacza po polsku „żona”."
+    },
+    {
+      "id": "family_people-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grandmother”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dorosły"
+        },
+        {
+          "id": "b",
+          "text": "mąż"
+        },
+        {
+          "id": "c",
+          "text": "dziecko"
+        },
+        {
+          "id": "d",
+          "text": "babcia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„grandmother” oznacza po polsku „babcia”."
+    },
+    {
+      "id": "family_people-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grandfather”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pokolenie"
+        },
+        {
+          "id": "b",
+          "text": "dziadek"
+        },
+        {
+          "id": "c",
+          "text": "wnuczka"
+        },
+        {
+          "id": "d",
+          "text": "osoba"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„grandfather” oznacza po polsku „dziadek”."
+    },
+    {
+      "id": "family_people-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grandson”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziecko"
+        },
+        {
+          "id": "b",
+          "text": "wnuk"
+        },
+        {
+          "id": "c",
+          "text": "relacja"
+        },
+        {
+          "id": "d",
+          "text": "przyjaciel"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„grandson” oznacza po polsku „wnuk”."
+    },
+    {
+      "id": "family_people-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „granddaughter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziecko"
+        },
+        {
+          "id": "b",
+          "text": "nastolatek"
+        },
+        {
+          "id": "c",
+          "text": "ciocia"
+        },
+        {
+          "id": "d",
+          "text": "wnuczka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„granddaughter” oznacza po polsku „wnuczka”."
+    },
+    {
+      "id": "family_people-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „aunt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mężczyzna"
+        },
+        {
+          "id": "b",
+          "text": "przodek"
+        },
+        {
+          "id": "c",
+          "text": "ciocia"
+        },
+        {
+          "id": "d",
+          "text": "wiek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„aunt” oznacza po polsku „ciocia”."
+    },
+    {
+      "id": "family_people-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „uncle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wnuczka"
+        },
+        {
+          "id": "b",
+          "text": "wujek"
+        },
+        {
+          "id": "c",
+          "text": "syn"
+        },
+        {
+          "id": "d",
+          "text": "siostrzenica lub bratanica"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„uncle” oznacza po polsku „wujek”."
+    },
+    {
+      "id": "family_people-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cousin”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chłopiec"
+        },
+        {
+          "id": "b",
+          "text": "kuzyn lub kuzynka"
+        },
+        {
+          "id": "c",
+          "text": "partner"
+        },
+        {
+          "id": "d",
+          "text": "nastolatek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cousin” oznacza po polsku „kuzyn lub kuzynka”."
+    },
+    {
+      "id": "family_people-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „niece”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mama"
+        },
+        {
+          "id": "b",
+          "text": "dziecko"
+        },
+        {
+          "id": "c",
+          "text": "siostrzenica lub bratanica"
+        },
+        {
+          "id": "d",
+          "text": "kuzyn lub kuzynka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„niece” oznacza po polsku „siostrzenica lub bratanica”."
+    },
+    {
+      "id": "family_people-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nephew”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pokolenie"
+        },
+        {
+          "id": "b",
+          "text": "dziecko"
+        },
+        {
+          "id": "c",
+          "text": "siostrzeniec lub bratanek"
+        },
+        {
+          "id": "d",
+          "text": "nastolatek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nephew” oznacza po polsku „siostrzeniec lub bratanek”."
+    },
+    {
+      "id": "family_people-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relative”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siostra"
+        },
+        {
+          "id": "b",
+          "text": "krewny"
+        },
+        {
+          "id": "c",
+          "text": "mężczyzna"
+        },
+        {
+          "id": "d",
+          "text": "sąsiad"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„relative” oznacza po polsku „krewny”."
+    },
+    {
+      "id": "family_people-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „couple”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "para"
+        },
+        {
+          "id": "b",
+          "text": "dziewczynka"
+        },
+        {
+          "id": "c",
+          "text": "nieznajomy"
+        },
+        {
+          "id": "d",
+          "text": "ojciec"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„couple” oznacza po polsku „para”."
+    },
+    {
+      "id": "family_people-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „friend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tata"
+        },
+        {
+          "id": "b",
+          "text": "krewny"
+        },
+        {
+          "id": "c",
+          "text": "przyjaciel"
+        },
+        {
+          "id": "d",
+          "text": "przodek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„friend” oznacza po polsku „przyjaciel”."
+    },
+    {
+      "id": "family_people-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „neighbour”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "małżeństwo"
+        },
+        {
+          "id": "b",
+          "text": "ciocia"
+        },
+        {
+          "id": "c",
+          "text": "sąsiad"
+        },
+        {
+          "id": "d",
+          "text": "wiek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„neighbour” oznacza po polsku „sąsiad”."
+    },
+    {
+      "id": "family_people-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stranger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "babcia"
+        },
+        {
+          "id": "b",
+          "text": "wnuczka"
+        },
+        {
+          "id": "c",
+          "text": "nieznajomy"
+        },
+        {
+          "id": "d",
+          "text": "chłopiec"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„stranger” oznacza po polsku „nieznajomy”."
+    },
+    {
+      "id": "family_people-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krewny"
+        },
+        {
+          "id": "b",
+          "text": "wujek"
+        },
+        {
+          "id": "c",
+          "text": "gość"
+        },
+        {
+          "id": "d",
+          "text": "siostrzeniec lub bratanek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„guest” oznacza po polsku „gość”."
+    },
+    {
+      "id": "family_people-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „host”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przodek"
+        },
+        {
+          "id": "b",
+          "text": "gospodarz"
+        },
+        {
+          "id": "c",
+          "text": "sąsiad"
+        },
+        {
+          "id": "d",
+          "text": "dorosły"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„host” oznacza po polsku „gospodarz”."
+    },
+    {
+      "id": "family_people-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „adult”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niemowlę"
+        },
+        {
+          "id": "b",
+          "text": "gospodarz"
+        },
+        {
+          "id": "c",
+          "text": "nazwisko"
+        },
+        {
+          "id": "d",
+          "text": "dorosły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„adult” oznacza po polsku „dorosły”."
+    },
+    {
+      "id": "family_people-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „teenager”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ślub"
+        },
+        {
+          "id": "b",
+          "text": "ciocia"
+        },
+        {
+          "id": "c",
+          "text": "przyjaciel"
+        },
+        {
+          "id": "d",
+          "text": "nastolatek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„teenager” oznacza po polsku „nastolatek”."
+    },
+    {
+      "id": "family_people-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „baby”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niemowlę"
+        },
+        {
+          "id": "b",
+          "text": "mama"
+        },
+        {
+          "id": "c",
+          "text": "dziadek"
+        },
+        {
+          "id": "d",
+          "text": "nazwisko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„baby” oznacza po polsku „niemowlę”."
+    },
+    {
+      "id": "family_people-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kobieta"
+        },
+        {
+          "id": "b",
+          "text": "mężczyzna"
+        },
+        {
+          "id": "c",
+          "text": "ciocia"
+        },
+        {
+          "id": "d",
+          "text": "chłopiec"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„boy” oznacza po polsku „chłopiec”."
+    },
+    {
+      "id": "family_people-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „girl”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ślub"
+        },
+        {
+          "id": "b",
+          "text": "kuzyn lub kuzynka"
+        },
+        {
+          "id": "c",
+          "text": "dziewczynka"
+        },
+        {
+          "id": "d",
+          "text": "relacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„girl” oznacza po polsku „dziewczynka”."
+    },
+    {
+      "id": "family_people-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „man”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ślub"
+        },
+        {
+          "id": "b",
+          "text": "mężczyzna"
+        },
+        {
+          "id": "c",
+          "text": "gospodarz"
+        },
+        {
+          "id": "d",
+          "text": "ciocia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„man” oznacza po polsku „mężczyzna”."
+    },
+    {
+      "id": "family_people-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „woman”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przodek"
+        },
+        {
+          "id": "b",
+          "text": "siostra"
+        },
+        {
+          "id": "c",
+          "text": "przyjaciel"
+        },
+        {
+          "id": "d",
+          "text": "kobieta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„woman” oznacza po polsku „kobieta”."
+    },
+    {
+      "id": "family_people-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „person”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pokolenie"
+        },
+        {
+          "id": "b",
+          "text": "dzieci"
+        },
+        {
+          "id": "c",
+          "text": "osoba"
+        },
+        {
+          "id": "d",
+          "text": "krewny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„person” oznacza po polsku „osoba”."
+    },
+    {
+      "id": "family_people-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „people”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rodzic"
+        },
+        {
+          "id": "b",
+          "text": "ludzie"
+        },
+        {
+          "id": "c",
+          "text": "nieznajomy"
+        },
+        {
+          "id": "d",
+          "text": "partner"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„people” oznacza po polsku „ludzie”."
+    },
+    {
+      "id": "family_people-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „first name”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sąsiad"
+        },
+        {
+          "id": "b",
+          "text": "mama"
+        },
+        {
+          "id": "c",
+          "text": "dorosły"
+        },
+        {
+          "id": "d",
+          "text": "imię"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„first name” oznacza po polsku „imię”."
+    },
+    {
+      "id": "family_people-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „surname”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nazwisko"
+        },
+        {
+          "id": "b",
+          "text": "wnuczka"
+        },
+        {
+          "id": "c",
+          "text": "wnuk"
+        },
+        {
+          "id": "d",
+          "text": "mama"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„surname” oznacza po polsku „nazwisko”."
+    },
+    {
+      "id": "family_people-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „age”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nazwisko"
+        },
+        {
+          "id": "b",
+          "text": "dzieci"
+        },
+        {
+          "id": "c",
+          "text": "ciocia"
+        },
+        {
+          "id": "d",
+          "text": "wiek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„age” oznacza po polsku „wiek”."
+    },
+    {
+      "id": "family_people-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „birthday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "urodziny"
+        },
+        {
+          "id": "b",
+          "text": "rodzic"
+        },
+        {
+          "id": "c",
+          "text": "mama"
+        },
+        {
+          "id": "d",
+          "text": "wnuk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„birthday” oznacza po polsku „urodziny”."
+    },
+    {
+      "id": "family_people-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wedding”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wnuk"
+        },
+        {
+          "id": "b",
+          "text": "gospodarz"
+        },
+        {
+          "id": "c",
+          "text": "ślub"
+        },
+        {
+          "id": "d",
+          "text": "brat"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„wedding” oznacza po polsku „ślub”."
+    },
+    {
+      "id": "family_people-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „marriage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mężczyzna"
+        },
+        {
+          "id": "b",
+          "text": "małżeństwo"
+        },
+        {
+          "id": "c",
+          "text": "córka"
+        },
+        {
+          "id": "d",
+          "text": "mąż"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„marriage” oznacza po polsku „małżeństwo”."
+    },
+    {
+      "id": "family_people-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „divorce”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ślub"
+        },
+        {
+          "id": "b",
+          "text": "rozwód"
+        },
+        {
+          "id": "c",
+          "text": "nazwisko"
+        },
+        {
+          "id": "d",
+          "text": "nieznajomy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„divorce” oznacza po polsku „rozwód”."
+    },
+    {
+      "id": "family_people-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relationship”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "syn"
+        },
+        {
+          "id": "b",
+          "text": "wnuczka"
+        },
+        {
+          "id": "c",
+          "text": "relacja"
+        },
+        {
+          "id": "d",
+          "text": "siostrzeniec lub bratanek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„relationship” oznacza po polsku „relacja”."
+    },
+    {
+      "id": "family_people-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „partner”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieznajomy"
+        },
+        {
+          "id": "b",
+          "text": "tata"
+        },
+        {
+          "id": "c",
+          "text": "partner"
+        },
+        {
+          "id": "d",
+          "text": "ciocia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„partner” oznacza po polsku „partner”."
+    },
+    {
+      "id": "family_people-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „generation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pokolenie"
+        },
+        {
+          "id": "b",
+          "text": "chłopiec"
+        },
+        {
+          "id": "c",
+          "text": "dziewczynka"
+        },
+        {
+          "id": "d",
+          "text": "mąż"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„generation” oznacza po polsku „pokolenie”."
+    },
+    {
+      "id": "family_people-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ancestor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiek"
+        },
+        {
+          "id": "b",
+          "text": "dziecko"
+        },
+        {
+          "id": "c",
+          "text": "przodek"
+        },
+        {
+          "id": "d",
+          "text": "małżeństwo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ancestor” oznacza po polsku „przodek”."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "English Quiz",
+  "short_name": "EnglishQuiz",
+  "start_url": "./#/",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#58cc02",
+  "description": "Quizy do nauki angielskiego z plików JSON i XLSX"
+}

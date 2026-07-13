@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "daily_routines",
+    "name": "Codzienne czynności"
+  },
+  "questions": [
+    {
+      "id": "daily_routines-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wake up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jeść obiad"
+        },
+        {
+          "id": "b",
+          "text": "budzić się"
+        },
+        {
+          "id": "c",
+          "text": "iść na spacer"
+        },
+        {
+          "id": "d",
+          "text": "iść do pracy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„wake up” oznacza po polsku „budzić się”."
+    },
+    {
+      "id": "daily_routines-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „get up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grać w gry"
+        },
+        {
+          "id": "b",
+          "text": "sprzątać ze stołu"
+        },
+        {
+          "id": "c",
+          "text": "jeść lunch"
+        },
+        {
+          "id": "d",
+          "text": "wstawać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„get up” oznacza po polsku „wstawać”."
+    },
+    {
+      "id": "daily_routines-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „make the bed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "robić pranie"
+        },
+        {
+          "id": "b",
+          "text": "jeść śniadanie"
+        },
+        {
+          "id": "c",
+          "text": "ścielić łóżko"
+        },
+        {
+          "id": "d",
+          "text": "spać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„make the bed” oznacza po polsku „ścielić łóżko”."
+    },
+    {
+      "id": "daily_routines-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wash”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "myć się"
+        },
+        {
+          "id": "b",
+          "text": "jeść śniadanie"
+        },
+        {
+          "id": "c",
+          "text": "czytać"
+        },
+        {
+          "id": "d",
+          "text": "mówić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„wash” oznacza po polsku „myć się”."
+    },
+    {
+      "id": "daily_routines-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brush teeth”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "myć zęby"
+        },
+        {
+          "id": "b",
+          "text": "iść spać"
+        },
+        {
+          "id": "c",
+          "text": "zasypiać"
+        },
+        {
+          "id": "d",
+          "text": "dzwonić do kogoś"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„brush teeth” oznacza po polsku „myć zęby”."
+    },
+    {
+      "id": "daily_routines-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „take a shower”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wstawać"
+        },
+        {
+          "id": "b",
+          "text": "iść do pracy"
+        },
+        {
+          "id": "c",
+          "text": "brać prysznic"
+        },
+        {
+          "id": "d",
+          "text": "sprzątać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„take a shower” oznacza po polsku „brać prysznic”."
+    },
+    {
+      "id": "daily_routines-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „get dressed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wychodzić z domu"
+        },
+        {
+          "id": "b",
+          "text": "oglądać telewizję"
+        },
+        {
+          "id": "c",
+          "text": "korzystać z internetu"
+        },
+        {
+          "id": "d",
+          "text": "ubierać się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„get dressed” oznacza po polsku „ubierać się”."
+    },
+    {
+      "id": "daily_routines-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „comb hair”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wychodzić z domu"
+        },
+        {
+          "id": "b",
+          "text": "odpoczywać"
+        },
+        {
+          "id": "c",
+          "text": "ćwiczyć"
+        },
+        {
+          "id": "d",
+          "text": "czesać włosy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„comb hair” oznacza po polsku „czesać włosy”."
+    },
+    {
+      "id": "daily_routines-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „have breakfast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pisać"
+        },
+        {
+          "id": "b",
+          "text": "słuchać muzyki"
+        },
+        {
+          "id": "c",
+          "text": "ścielić łóżko"
+        },
+        {
+          "id": "d",
+          "text": "jeść śniadanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„have breakfast” oznacza po polsku „jeść śniadanie”."
+    },
+    {
+      "id": "daily_routines-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leave home”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "iść do szkoły"
+        },
+        {
+          "id": "b",
+          "text": "porządkować"
+        },
+        {
+          "id": "c",
+          "text": "karmić zwierzę"
+        },
+        {
+          "id": "d",
+          "text": "wychodzić z domu"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„leave home” oznacza po polsku „wychodzić z domu”."
+    },
+    {
+      "id": "daily_routines-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „go to work”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czesać włosy"
+        },
+        {
+          "id": "b",
+          "text": "spać"
+        },
+        {
+          "id": "c",
+          "text": "jeść obiad"
+        },
+        {
+          "id": "d",
+          "text": "iść do pracy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„go to work” oznacza po polsku „iść do pracy”."
+    },
+    {
+      "id": "daily_routines-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „go to school”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kończyć pracę"
+        },
+        {
+          "id": "b",
+          "text": "planować dzień"
+        },
+        {
+          "id": "c",
+          "text": "iść do szkoły"
+        },
+        {
+          "id": "d",
+          "text": "sprzątać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„go to school” oznacza po polsku „iść do szkoły”."
+    },
+    {
+      "id": "daily_routines-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „start the day”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wracać"
+        },
+        {
+          "id": "b",
+          "text": "karmić zwierzę"
+        },
+        {
+          "id": "c",
+          "text": "zaczynać dzień"
+        },
+        {
+          "id": "d",
+          "text": "planować dzień"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„start the day” oznacza po polsku „zaczynać dzień”."
+    },
+    {
+      "id": "daily_routines-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „finish work”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasypiać"
+        },
+        {
+          "id": "b",
+          "text": "mówić"
+        },
+        {
+          "id": "c",
+          "text": "ubierać się"
+        },
+        {
+          "id": "d",
+          "text": "kończyć pracę"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„finish work” oznacza po polsku „kończyć pracę”."
+    },
+    {
+      "id": "daily_routines-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „study”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczyć się"
+        },
+        {
+          "id": "b",
+          "text": "porządkować"
+        },
+        {
+          "id": "c",
+          "text": "sprzątać ze stołu"
+        },
+        {
+          "id": "d",
+          "text": "zasypiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„study” oznacza po polsku „uczyć się”."
+    },
+    {
+      "id": "daily_routines-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „learn”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kończyć pracę"
+        },
+        {
+          "id": "b",
+          "text": "ścielić łóżko"
+        },
+        {
+          "id": "c",
+          "text": "czytać"
+        },
+        {
+          "id": "d",
+          "text": "uczyć się czegoś"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„learn” oznacza po polsku „uczyć się czegoś”."
+    },
+    {
+      "id": "daily_routines-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „read”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spać"
+        },
+        {
+          "id": "b",
+          "text": "brać prysznic"
+        },
+        {
+          "id": "c",
+          "text": "czytać"
+        },
+        {
+          "id": "d",
+          "text": "planować dzień"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„read” oznacza po polsku „czytać”."
+    },
+    {
+      "id": "daily_routines-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „write”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczyć się czegoś"
+        },
+        {
+          "id": "b",
+          "text": "pisać"
+        },
+        {
+          "id": "c",
+          "text": "wyprowadzać psa"
+        },
+        {
+          "id": "d",
+          "text": "jeść śniadanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„write” oznacza po polsku „pisać”."
+    },
+    {
+      "id": "daily_routines-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „listen”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oglądać telewizję"
+        },
+        {
+          "id": "b",
+          "text": "słuchać"
+        },
+        {
+          "id": "c",
+          "text": "jeść obiad"
+        },
+        {
+          "id": "d",
+          "text": "iść na zakupy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„listen” oznacza po polsku „słuchać”."
+    },
+    {
+      "id": "daily_routines-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „speak”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mówić"
+        },
+        {
+          "id": "b",
+          "text": "iść do pracy"
+        },
+        {
+          "id": "c",
+          "text": "zaczynać dzień"
+        },
+        {
+          "id": "d",
+          "text": "gotować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„speak” oznacza po polsku „mówić”."
+    },
+    {
+      "id": "daily_routines-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cook”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gotować"
+        },
+        {
+          "id": "b",
+          "text": "korzystać z internetu"
+        },
+        {
+          "id": "c",
+          "text": "odpoczywać"
+        },
+        {
+          "id": "d",
+          "text": "wychodzić z domu"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cook” oznacza po polsku „gotować”."
+    },
+    {
+      "id": "daily_routines-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bake”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piec"
+        },
+        {
+          "id": "b",
+          "text": "pisać"
+        },
+        {
+          "id": "c",
+          "text": "sprzątać"
+        },
+        {
+          "id": "d",
+          "text": "iść do pracy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bake” oznacza po polsku „piec”."
+    },
+    {
+      "id": "daily_routines-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „do the cleaning”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzątać"
+        },
+        {
+          "id": "b",
+          "text": "wynosić śmieci"
+        },
+        {
+          "id": "c",
+          "text": "robić pranie"
+        },
+        {
+          "id": "d",
+          "text": "słuchać muzyki"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„do the cleaning” oznacza po polsku „sprzątać”."
+    },
+    {
+      "id": "daily_routines-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tidy up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzątać"
+        },
+        {
+          "id": "b",
+          "text": "słuchać muzyki"
+        },
+        {
+          "id": "c",
+          "text": "spać"
+        },
+        {
+          "id": "d",
+          "text": "porządkować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„tidy up” oznacza po polsku „porządkować”."
+    },
+    {
+      "id": "daily_routines-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „do the washing-up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "iść do szkoły"
+        },
+        {
+          "id": "b",
+          "text": "zmywać naczynia"
+        },
+        {
+          "id": "c",
+          "text": "piec"
+        },
+        {
+          "id": "d",
+          "text": "sprzątać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„do the washing-up” oznacza po polsku „zmywać naczynia”."
+    },
+    {
+      "id": "daily_routines-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „do the laundry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczyć się czegoś"
+        },
+        {
+          "id": "b",
+          "text": "słuchać"
+        },
+        {
+          "id": "c",
+          "text": "robić pranie"
+        },
+        {
+          "id": "d",
+          "text": "myć się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„do the laundry” oznacza po polsku „robić pranie”."
+    },
+    {
+      "id": "daily_routines-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „go shopping”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gotować"
+        },
+        {
+          "id": "b",
+          "text": "słuchać"
+        },
+        {
+          "id": "c",
+          "text": "zasypiać"
+        },
+        {
+          "id": "d",
+          "text": "iść na zakupy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„go shopping” oznacza po polsku „iść na zakupy”."
+    },
+    {
+      "id": "daily_routines-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „walk the dog”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spotykać się z przyjaciółmi"
+        },
+        {
+          "id": "b",
+          "text": "porządkować"
+        },
+        {
+          "id": "c",
+          "text": "mówić"
+        },
+        {
+          "id": "d",
+          "text": "wyprowadzać psa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„walk the dog” oznacza po polsku „wyprowadzać psa”."
+    },
+    {
+      "id": "daily_routines-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „work out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzątać ze stołu"
+        },
+        {
+          "id": "b",
+          "text": "sprzątać"
+        },
+        {
+          "id": "c",
+          "text": "gotować"
+        },
+        {
+          "id": "d",
+          "text": "ćwiczyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„work out” oznacza po polsku „ćwiczyć”."
+    },
+    {
+      "id": "daily_routines-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „go for a walk”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słuchać"
+        },
+        {
+          "id": "b",
+          "text": "budzić się"
+        },
+        {
+          "id": "c",
+          "text": "iść na spacer"
+        },
+        {
+          "id": "d",
+          "text": "wracać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„go for a walk” oznacza po polsku „iść na spacer”."
+    },
+    {
+      "id": "daily_routines-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „have lunch”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczyć się czegoś"
+        },
+        {
+          "id": "b",
+          "text": "grać w gry"
+        },
+        {
+          "id": "c",
+          "text": "wracać"
+        },
+        {
+          "id": "d",
+          "text": "jeść lunch"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„have lunch” oznacza po polsku „jeść lunch”."
+    },
+    {
+      "id": "daily_routines-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „have dinner”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słuchać"
+        },
+        {
+          "id": "b",
+          "text": "jeść obiad"
+        },
+        {
+          "id": "c",
+          "text": "iść do pracy"
+        },
+        {
+          "id": "d",
+          "text": "przygotowywać posiłek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„have dinner” oznacza po polsku „jeść obiad”."
+    },
+    {
+      "id": "daily_routines-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „come back”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jeść lunch"
+        },
+        {
+          "id": "b",
+          "text": "jeść obiad"
+        },
+        {
+          "id": "c",
+          "text": "wracać"
+        },
+        {
+          "id": "d",
+          "text": "uczyć się czegoś"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„come back” oznacza po polsku „wracać”."
+    },
+    {
+      "id": "daily_routines-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynosić śmieci"
+        },
+        {
+          "id": "b",
+          "text": "iść do pracy"
+        },
+        {
+          "id": "c",
+          "text": "zaczynać dzień"
+        },
+        {
+          "id": "d",
+          "text": "odpoczywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rest” oznacza po polsku „odpoczywać”."
+    },
+    {
+      "id": "daily_routines-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „watch television”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpoczywać"
+        },
+        {
+          "id": "b",
+          "text": "piec"
+        },
+        {
+          "id": "c",
+          "text": "oglądać telewizję"
+        },
+        {
+          "id": "d",
+          "text": "dzwonić do kogoś"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„watch television” oznacza po polsku „oglądać telewizję”."
+    },
+    {
+      "id": "daily_routines-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „use the internet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "korzystać z internetu"
+        },
+        {
+          "id": "b",
+          "text": "wynosić śmieci"
+        },
+        {
+          "id": "c",
+          "text": "jeść obiad"
+        },
+        {
+          "id": "d",
+          "text": "ćwiczyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„use the internet” oznacza po polsku „korzystać z internetu”."
+    },
+    {
+      "id": "daily_routines-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „call someone”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "myć się"
+        },
+        {
+          "id": "b",
+          "text": "iść do pracy"
+        },
+        {
+          "id": "c",
+          "text": "iść spać"
+        },
+        {
+          "id": "d",
+          "text": "dzwonić do kogoś"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„call someone” oznacza po polsku „dzwonić do kogoś”."
+    },
+    {
+      "id": "daily_routines-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „meet friends”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzątać ze stołu"
+        },
+        {
+          "id": "b",
+          "text": "iść spać"
+        },
+        {
+          "id": "c",
+          "text": "spotykać się z przyjaciółmi"
+        },
+        {
+          "id": "d",
+          "text": "gotować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„meet friends” oznacza po polsku „spotykać się z przyjaciółmi”."
+    },
+    {
+      "id": "daily_routines-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „play games”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grać w gry"
+        },
+        {
+          "id": "b",
+          "text": "mówić"
+        },
+        {
+          "id": "c",
+          "text": "czesać włosy"
+        },
+        {
+          "id": "d",
+          "text": "odpoczywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„play games” oznacza po polsku „grać w gry”."
+    },
+    {
+      "id": "daily_routines-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „listen to music”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słuchać muzyki"
+        },
+        {
+          "id": "b",
+          "text": "relaksować się"
+        },
+        {
+          "id": "c",
+          "text": "ścielić łóżko"
+        },
+        {
+          "id": "d",
+          "text": "karmić zwierzę"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„listen to music” oznacza po polsku „słuchać muzyki”."
+    },
+    {
+      "id": "daily_routines-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „take out the rubbish”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jeść obiad"
+        },
+        {
+          "id": "b",
+          "text": "wynosić śmieci"
+        },
+        {
+          "id": "c",
+          "text": "wyprowadzać psa"
+        },
+        {
+          "id": "d",
+          "text": "nakrywać do stołu"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„take out the rubbish” oznacza po polsku „wynosić śmieci”."
+    },
+    {
+      "id": "daily_routines-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „feed the pet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynosić śmieci"
+        },
+        {
+          "id": "b",
+          "text": "relaksować się"
+        },
+        {
+          "id": "c",
+          "text": "karmić zwierzę"
+        },
+        {
+          "id": "d",
+          "text": "kończyć pracę"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„feed the pet” oznacza po polsku „karmić zwierzę”."
+    },
+    {
+      "id": "daily_routines-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „set the table”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "budzić się"
+        },
+        {
+          "id": "b",
+          "text": "przygotowywać posiłek"
+        },
+        {
+          "id": "c",
+          "text": "nakrywać do stołu"
+        },
+        {
+          "id": "d",
+          "text": "iść do szkoły"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„set the table” oznacza po polsku „nakrywać do stołu”."
+    },
+    {
+      "id": "daily_routines-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „clear the table”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wracać"
+        },
+        {
+          "id": "b",
+          "text": "brać prysznic"
+        },
+        {
+          "id": "c",
+          "text": "spotykać się z przyjaciółmi"
+        },
+        {
+          "id": "d",
+          "text": "sprzątać ze stołu"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„clear the table” oznacza po polsku „sprzątać ze stołu”."
+    },
+    {
+      "id": "daily_routines-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prepare a meal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jeść obiad"
+        },
+        {
+          "id": "b",
+          "text": "karmić zwierzę"
+        },
+        {
+          "id": "c",
+          "text": "przygotowywać posiłek"
+        },
+        {
+          "id": "d",
+          "text": "wynosić śmieci"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„prepare a meal” oznacza po polsku „przygotowywać posiłek”."
+    },
+    {
+      "id": "daily_routines-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „plan the day”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słuchać"
+        },
+        {
+          "id": "b",
+          "text": "ćwiczyć"
+        },
+        {
+          "id": "c",
+          "text": "wstawać"
+        },
+        {
+          "id": "d",
+          "text": "planować dzień"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„plan the day” oznacza po polsku „planować dzień”."
+    },
+    {
+      "id": "daily_routines-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relax”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karmić zwierzę"
+        },
+        {
+          "id": "b",
+          "text": "grać w gry"
+        },
+        {
+          "id": "c",
+          "text": "relaksować się"
+        },
+        {
+          "id": "d",
+          "text": "czytać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„relax” oznacza po polsku „relaksować się”."
+    },
+    {
+      "id": "daily_routines-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „go to bed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "iść spać"
+        },
+        {
+          "id": "b",
+          "text": "odpoczywać"
+        },
+        {
+          "id": "c",
+          "text": "słuchać muzyki"
+        },
+        {
+          "id": "d",
+          "text": "uczyć się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„go to bed” oznacza po polsku „iść spać”."
+    },
+    {
+      "id": "daily_routines-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fall asleep”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpoczywać"
+        },
+        {
+          "id": "b",
+          "text": "sprzątać ze stołu"
+        },
+        {
+          "id": "c",
+          "text": "zasypiać"
+        },
+        {
+          "id": "d",
+          "text": "zmywać naczynia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„fall asleep” oznacza po polsku „zasypiać”."
+    },
+    {
+      "id": "daily_routines-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sleep”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzątać"
+        },
+        {
+          "id": "b",
+          "text": "spać"
+        },
+        {
+          "id": "c",
+          "text": "ścielić łóżko"
+        },
+        {
+          "id": "d",
+          "text": "odpoczywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sleep” oznacza po polsku „spać”."
+    }
+  ]
+}

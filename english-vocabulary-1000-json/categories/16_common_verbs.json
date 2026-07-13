@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "common_verbs",
+    "name": "Najczęstsze czasowniki"
+  },
+  "questions": [
+    {
+      "id": "common_verbs-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „be”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biegać"
+        },
+        {
+          "id": "b",
+          "text": "znajdować"
+        },
+        {
+          "id": "c",
+          "text": "zmieniać"
+        },
+        {
+          "id": "d",
+          "text": "być"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„be” oznacza po polsku „być”."
+    },
+    {
+      "id": "common_verbs-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „have”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chcieć"
+        },
+        {
+          "id": "b",
+          "text": "mieć"
+        },
+        {
+          "id": "c",
+          "text": "wysyłać"
+        },
+        {
+          "id": "d",
+          "text": "dawać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„have” oznacza po polsku „mieć”."
+    },
+    {
+      "id": "common_verbs-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „do”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pytać"
+        },
+        {
+          "id": "b",
+          "text": "wiedzieć"
+        },
+        {
+          "id": "c",
+          "text": "robić"
+        },
+        {
+          "id": "d",
+          "text": "wybierać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„do” oznacza po polsku „robić”."
+    },
+    {
+      "id": "common_verbs-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „say”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kosztować"
+        },
+        {
+          "id": "b",
+          "text": "budować"
+        },
+        {
+          "id": "c",
+          "text": "mówić"
+        },
+        {
+          "id": "d",
+          "text": "lubić"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„say” oznacza po polsku „mówić”."
+    },
+    {
+      "id": "common_verbs-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „go”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciąć"
+        },
+        {
+          "id": "b",
+          "text": "rosnąć"
+        },
+        {
+          "id": "c",
+          "text": "patrzeć"
+        },
+        {
+          "id": "d",
+          "text": "iść"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„go” oznacza po polsku „iść”."
+    },
+    {
+      "id": "common_verbs-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „come”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przychodzić"
+        },
+        {
+          "id": "b",
+          "text": "pokazywać"
+        },
+        {
+          "id": "c",
+          "text": "zmieniać"
+        },
+        {
+          "id": "d",
+          "text": "kupować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„come” oznacza po polsku „przychodzić”."
+    },
+    {
+      "id": "common_verbs-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „see”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybierać"
+        },
+        {
+          "id": "b",
+          "text": "zapominać"
+        },
+        {
+          "id": "c",
+          "text": "siedzieć"
+        },
+        {
+          "id": "d",
+          "text": "widzieć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„see” oznacza po polsku „widzieć”."
+    },
+    {
+      "id": "common_verbs-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „look”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ruszać się"
+        },
+        {
+          "id": "b",
+          "text": "zmieniać"
+        },
+        {
+          "id": "c",
+          "text": "patrzeć"
+        },
+        {
+          "id": "d",
+          "text": "słyszeć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„look” oznacza po polsku „patrzeć”."
+    },
+    {
+      "id": "common_verbs-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hear”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozumieć"
+        },
+        {
+          "id": "b",
+          "text": "przynosić"
+        },
+        {
+          "id": "c",
+          "text": "słyszeć"
+        },
+        {
+          "id": "d",
+          "text": "wybierać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„hear” oznacza po polsku „słyszeć”."
+    },
+    {
+      "id": "common_verbs-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „know”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiedzieć"
+        },
+        {
+          "id": "b",
+          "text": "pamiętać"
+        },
+        {
+          "id": "c",
+          "text": "otwierać"
+        },
+        {
+          "id": "d",
+          "text": "odpowiadać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„know” oznacza po polsku „wiedzieć”."
+    },
+    {
+      "id": "common_verbs-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „think”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kupować"
+        },
+        {
+          "id": "b",
+          "text": "czekać"
+        },
+        {
+          "id": "c",
+          "text": "myśleć"
+        },
+        {
+          "id": "d",
+          "text": "zamykać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„think” oznacza po polsku „myśleć”."
+    },
+    {
+      "id": "common_verbs-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „understand”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozumieć"
+        },
+        {
+          "id": "b",
+          "text": "pytać"
+        },
+        {
+          "id": "c",
+          "text": "mieć"
+        },
+        {
+          "id": "d",
+          "text": "pamiętać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„understand” oznacza po polsku „rozumieć”."
+    },
+    {
+      "id": "common_verbs-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „want”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chcieć"
+        },
+        {
+          "id": "b",
+          "text": "ciąć"
+        },
+        {
+          "id": "c",
+          "text": "trzymać"
+        },
+        {
+          "id": "d",
+          "text": "zatrzymywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„want” oznacza po polsku „chcieć”."
+    },
+    {
+      "id": "common_verbs-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „need”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "próbować"
+        },
+        {
+          "id": "b",
+          "text": "patrzeć"
+        },
+        {
+          "id": "c",
+          "text": "pomagać"
+        },
+        {
+          "id": "d",
+          "text": "potrzebować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„need” oznacza po polsku „potrzebować”."
+    },
+    {
+      "id": "common_verbs-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „like”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "próbować"
+        },
+        {
+          "id": "b",
+          "text": "lubić"
+        },
+        {
+          "id": "c",
+          "text": "zmieniać"
+        },
+        {
+          "id": "d",
+          "text": "ruszać się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„like” oznacza po polsku „lubić”."
+    },
+    {
+      "id": "common_verbs-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prefer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "preferować"
+        },
+        {
+          "id": "b",
+          "text": "nosić"
+        },
+        {
+          "id": "c",
+          "text": "siedzieć"
+        },
+        {
+          "id": "d",
+          "text": "stać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prefer” oznacza po polsku „preferować”."
+    },
+    {
+      "id": "common_verbs-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „give”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dawać"
+        },
+        {
+          "id": "b",
+          "text": "skakać"
+        },
+        {
+          "id": "c",
+          "text": "rozumieć"
+        },
+        {
+          "id": "d",
+          "text": "mówić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„give” oznacza po polsku „dawać”."
+    },
+    {
+      "id": "common_verbs-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „take”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stać"
+        },
+        {
+          "id": "b",
+          "text": "przynosić"
+        },
+        {
+          "id": "c",
+          "text": "brać"
+        },
+        {
+          "id": "d",
+          "text": "myśleć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„take” oznacza po polsku „brać”."
+    },
+    {
+      "id": "common_verbs-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bring”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wysyłać"
+        },
+        {
+          "id": "b",
+          "text": "przynosić"
+        },
+        {
+          "id": "c",
+          "text": "trzymać"
+        },
+        {
+          "id": "d",
+          "text": "zamykać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bring” oznacza po polsku „przynosić”."
+    },
+    {
+      "id": "common_verbs-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „send”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lubić"
+        },
+        {
+          "id": "b",
+          "text": "nosić"
+        },
+        {
+          "id": "c",
+          "text": "zmieniać"
+        },
+        {
+          "id": "d",
+          "text": "wysyłać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„send” oznacza po polsku „wysyłać”."
+    },
+    {
+      "id": "common_verbs-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „buy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trzymać"
+        },
+        {
+          "id": "b",
+          "text": "sprzedawać"
+        },
+        {
+          "id": "c",
+          "text": "kupować"
+        },
+        {
+          "id": "d",
+          "text": "chcieć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„buy” oznacza po polsku „kupować”."
+    },
+    {
+      "id": "common_verbs-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sell”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzedawać"
+        },
+        {
+          "id": "b",
+          "text": "budować"
+        },
+        {
+          "id": "c",
+          "text": "rozumieć"
+        },
+        {
+          "id": "d",
+          "text": "stać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sell” oznacza po polsku „sprzedawać”."
+    },
+    {
+      "id": "common_verbs-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pay”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chcieć"
+        },
+        {
+          "id": "b",
+          "text": "płacić"
+        },
+        {
+          "id": "c",
+          "text": "patrzeć"
+        },
+        {
+          "id": "d",
+          "text": "siedzieć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pay” oznacza po polsku „płacić”."
+    },
+    {
+      "id": "common_verbs-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cost”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kosztować"
+        },
+        {
+          "id": "b",
+          "text": "budować"
+        },
+        {
+          "id": "c",
+          "text": "pamiętać"
+        },
+        {
+          "id": "d",
+          "text": "preferować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cost” oznacza po polsku „kosztować”."
+    },
+    {
+      "id": "common_verbs-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „open”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiadać"
+        },
+        {
+          "id": "b",
+          "text": "otwierać"
+        },
+        {
+          "id": "c",
+          "text": "mówić"
+        },
+        {
+          "id": "d",
+          "text": "preferować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„open” oznacza po polsku „otwierać”."
+    },
+    {
+      "id": "common_verbs-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „close”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wysyłać"
+        },
+        {
+          "id": "b",
+          "text": "siedzieć"
+        },
+        {
+          "id": "c",
+          "text": "dawać"
+        },
+        {
+          "id": "d",
+          "text": "zamykać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„close” oznacza po polsku „zamykać”."
+    },
+    {
+      "id": "common_verbs-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „put”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kłaść"
+        },
+        {
+          "id": "b",
+          "text": "myśleć"
+        },
+        {
+          "id": "c",
+          "text": "zmieniać"
+        },
+        {
+          "id": "d",
+          "text": "gubić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„put” oznacza po polsku „kłaść”."
+    },
+    {
+      "id": "common_verbs-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „keep”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzedawać"
+        },
+        {
+          "id": "b",
+          "text": "znajdować"
+        },
+        {
+          "id": "c",
+          "text": "mówić"
+        },
+        {
+          "id": "d",
+          "text": "trzymać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„keep” oznacza po polsku „trzymać”."
+    },
+    {
+      "id": "common_verbs-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „find”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mówić"
+        },
+        {
+          "id": "b",
+          "text": "znajdować"
+        },
+        {
+          "id": "c",
+          "text": "płacić"
+        },
+        {
+          "id": "d",
+          "text": "iść"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„find” oznacza po polsku „znajdować”."
+    },
+    {
+      "id": "common_verbs-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lose”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dawać"
+        },
+        {
+          "id": "b",
+          "text": "zatrzymywać"
+        },
+        {
+          "id": "c",
+          "text": "gubić"
+        },
+        {
+          "id": "d",
+          "text": "być"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lose” oznacza po polsku „gubić”."
+    },
+    {
+      "id": "common_verbs-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „choose”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybierać"
+        },
+        {
+          "id": "b",
+          "text": "zatrzymywać"
+        },
+        {
+          "id": "c",
+          "text": "preferować"
+        },
+        {
+          "id": "d",
+          "text": "rozumieć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„choose” oznacza po polsku „wybierać”."
+    },
+    {
+      "id": "common_verbs-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „change”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "robić"
+        },
+        {
+          "id": "b",
+          "text": "zmieniać"
+        },
+        {
+          "id": "c",
+          "text": "budować"
+        },
+        {
+          "id": "d",
+          "text": "preferować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„change” oznacza po polsku „zmieniać”."
+    },
+    {
+      "id": "common_verbs-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „help”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "robić"
+        },
+        {
+          "id": "b",
+          "text": "pomagać"
+        },
+        {
+          "id": "c",
+          "text": "preferować"
+        },
+        {
+          "id": "d",
+          "text": "próbować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„help” oznacza po polsku „pomagać”."
+    },
+    {
+      "id": "common_verbs-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „show”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pokazywać"
+        },
+        {
+          "id": "b",
+          "text": "iść"
+        },
+        {
+          "id": "c",
+          "text": "mówić"
+        },
+        {
+          "id": "d",
+          "text": "wiedzieć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„show” oznacza po polsku „pokazywać”."
+    },
+    {
+      "id": "common_verbs-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ask”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przynosić"
+        },
+        {
+          "id": "b",
+          "text": "pytać"
+        },
+        {
+          "id": "c",
+          "text": "wysyłać"
+        },
+        {
+          "id": "d",
+          "text": "wiedzieć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„ask” oznacza po polsku „pytać”."
+    },
+    {
+      "id": "common_verbs-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reply”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zmieniać"
+        },
+        {
+          "id": "b",
+          "text": "mówić"
+        },
+        {
+          "id": "c",
+          "text": "być"
+        },
+        {
+          "id": "d",
+          "text": "odpowiadać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„reply” oznacza po polsku „odpowiadać”."
+    },
+    {
+      "id": "common_verbs-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „remember”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "brać"
+        },
+        {
+          "id": "b",
+          "text": "pamiętać"
+        },
+        {
+          "id": "c",
+          "text": "zatrzymywać"
+        },
+        {
+          "id": "d",
+          "text": "stać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„remember” oznacza po polsku „pamiętać”."
+    },
+    {
+      "id": "common_verbs-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „forget”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zatrzymywać"
+        },
+        {
+          "id": "b",
+          "text": "zapominać"
+        },
+        {
+          "id": "c",
+          "text": "wysyłać"
+        },
+        {
+          "id": "d",
+          "text": "mówić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„forget” oznacza po polsku „zapominać”."
+    },
+    {
+      "id": "common_verbs-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „try”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zatrzymywać"
+        },
+        {
+          "id": "b",
+          "text": "próbować"
+        },
+        {
+          "id": "c",
+          "text": "budować"
+        },
+        {
+          "id": "d",
+          "text": "przynosić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„try” oznacza po polsku „próbować”."
+    },
+    {
+      "id": "common_verbs-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wait”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czekać"
+        },
+        {
+          "id": "b",
+          "text": "iść"
+        },
+        {
+          "id": "c",
+          "text": "nosić"
+        },
+        {
+          "id": "d",
+          "text": "myśleć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„wait” oznacza po polsku „czekać”."
+    },
+    {
+      "id": "common_verbs-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „move”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ruszać się"
+        },
+        {
+          "id": "b",
+          "text": "chcieć"
+        },
+        {
+          "id": "c",
+          "text": "pokazywać"
+        },
+        {
+          "id": "d",
+          "text": "pamiętać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„move” oznacza po polsku „ruszać się”."
+    },
+    {
+      "id": "common_verbs-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stop”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przynosić"
+        },
+        {
+          "id": "b",
+          "text": "zatrzymywać"
+        },
+        {
+          "id": "c",
+          "text": "słyszeć"
+        },
+        {
+          "id": "d",
+          "text": "robić"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„stop” oznacza po polsku „zatrzymywać”."
+    },
+    {
+      "id": "common_verbs-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dawać"
+        },
+        {
+          "id": "b",
+          "text": "siedzieć"
+        },
+        {
+          "id": "c",
+          "text": "mieć"
+        },
+        {
+          "id": "d",
+          "text": "kosztować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sit” oznacza po polsku „siedzieć”."
+    },
+    {
+      "id": "common_verbs-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stand”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stać"
+        },
+        {
+          "id": "b",
+          "text": "rosnąć"
+        },
+        {
+          "id": "c",
+          "text": "ruszać się"
+        },
+        {
+          "id": "d",
+          "text": "zapominać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„stand” oznacza po polsku „stać”."
+    },
+    {
+      "id": "common_verbs-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „run”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biegać"
+        },
+        {
+          "id": "b",
+          "text": "preferować"
+        },
+        {
+          "id": "c",
+          "text": "znajdować"
+        },
+        {
+          "id": "d",
+          "text": "słyszeć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„run” oznacza po polsku „biegać”."
+    },
+    {
+      "id": "common_verbs-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jump”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skakać"
+        },
+        {
+          "id": "b",
+          "text": "widzieć"
+        },
+        {
+          "id": "c",
+          "text": "sprzedawać"
+        },
+        {
+          "id": "d",
+          "text": "siedzieć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„jump” oznacza po polsku „skakać”."
+    },
+    {
+      "id": "common_verbs-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „carry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "budować"
+        },
+        {
+          "id": "b",
+          "text": "wybierać"
+        },
+        {
+          "id": "c",
+          "text": "nosić"
+        },
+        {
+          "id": "d",
+          "text": "zamykać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„carry” oznacza po polsku „nosić”."
+    },
+    {
+      "id": "common_verbs-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „build”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kłaść"
+        },
+        {
+          "id": "b",
+          "text": "potrzebować"
+        },
+        {
+          "id": "c",
+          "text": "próbować"
+        },
+        {
+          "id": "d",
+          "text": "budować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„build” oznacza po polsku „budować”."
+    },
+    {
+      "id": "common_verbs-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cut”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "preferować"
+        },
+        {
+          "id": "b",
+          "text": "ciąć"
+        },
+        {
+          "id": "c",
+          "text": "biegać"
+        },
+        {
+          "id": "d",
+          "text": "pamiętać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cut” oznacza po polsku „ciąć”."
+    },
+    {
+      "id": "common_verbs-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ruszać się"
+        },
+        {
+          "id": "b",
+          "text": "rosnąć"
+        },
+        {
+          "id": "c",
+          "text": "budować"
+        },
+        {
+          "id": "d",
+          "text": "rozumieć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„grow” oznacza po polsku „rosnąć”."
+    }
+  ]
+}

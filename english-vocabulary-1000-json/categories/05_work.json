@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "work",
+    "name": "Praca i biuro"
+  },
+  "questions": [
+    {
+      "id": "work-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „job”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "praca"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedzialność"
+        },
+        {
+          "id": "c",
+          "text": "pracodawca"
+        },
+        {
+          "id": "d",
+          "text": "dokument"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„job” oznacza po polsku „praca”."
+    },
+    {
+      "id": "work-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „office”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pracodawca"
+        },
+        {
+          "id": "b",
+          "text": "sukces"
+        },
+        {
+          "id": "c",
+          "text": "biuro"
+        },
+        {
+          "id": "d",
+          "text": "zespół"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„office” oznacza po polsku „biuro”."
+    },
+    {
+      "id": "work-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „company”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szkolenie"
+        },
+        {
+          "id": "b",
+          "text": "pracownik"
+        },
+        {
+          "id": "c",
+          "text": "harmonogram"
+        },
+        {
+          "id": "d",
+          "text": "firma"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„company” oznacza po polsku „firma”."
+    },
+    {
+      "id": "work-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „employee”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klawiatura"
+        },
+        {
+          "id": "b",
+          "text": "klient"
+        },
+        {
+          "id": "c",
+          "text": "strata"
+        },
+        {
+          "id": "d",
+          "text": "pracownik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„employee” oznacza po polsku „pracownik”."
+    },
+    {
+      "id": "work-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „employer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klient kupujący"
+        },
+        {
+          "id": "b",
+          "text": "projekt"
+        },
+        {
+          "id": "c",
+          "text": "pracodawca"
+        },
+        {
+          "id": "d",
+          "text": "premia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„employer” oznacza po polsku „pracodawca”."
+    },
+    {
+      "id": "work-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „manager”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynagrodzenie"
+        },
+        {
+          "id": "b",
+          "text": "kierownik"
+        },
+        {
+          "id": "c",
+          "text": "dział"
+        },
+        {
+          "id": "d",
+          "text": "dokument"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„manager” oznacza po polsku „kierownik”."
+    },
+    {
+      "id": "work-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boss”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "harmonogram"
+        },
+        {
+          "id": "b",
+          "text": "szef"
+        },
+        {
+          "id": "c",
+          "text": "wiadomość"
+        },
+        {
+          "id": "d",
+          "text": "folder"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„boss” oznacza po polsku „szef”."
+    },
+    {
+      "id": "work-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „colleague”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spotkanie"
+        },
+        {
+          "id": "b",
+          "text": "współpracownik"
+        },
+        {
+          "id": "c",
+          "text": "zawód"
+        },
+        {
+          "id": "d",
+          "text": "premia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„colleague” oznacza po polsku „współpracownik”."
+    },
+    {
+      "id": "work-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „client”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klient"
+        },
+        {
+          "id": "b",
+          "text": "zmiana"
+        },
+        {
+          "id": "c",
+          "text": "biznes"
+        },
+        {
+          "id": "d",
+          "text": "wynagrodzenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„client” oznacza po polsku „klient”."
+    },
+    {
+      "id": "work-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „customer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płatność"
+        },
+        {
+          "id": "b",
+          "text": "wynagrodzenie"
+        },
+        {
+          "id": "c",
+          "text": "klient kupujący"
+        },
+        {
+          "id": "d",
+          "text": "zmiana"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„customer” oznacza po polsku „klient kupujący”."
+    },
+    {
+      "id": "work-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „meeting”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spotkanie"
+        },
+        {
+          "id": "b",
+          "text": "doświadczenie"
+        },
+        {
+          "id": "c",
+          "text": "plik"
+        },
+        {
+          "id": "d",
+          "text": "biuro"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„meeting” oznacza po polsku „spotkanie”."
+    },
+    {
+      "id": "work-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „project”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dział"
+        },
+        {
+          "id": "b",
+          "text": "praca"
+        },
+        {
+          "id": "c",
+          "text": "projekt"
+        },
+        {
+          "id": "d",
+          "text": "harmonogram"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„project” oznacza po polsku „projekt”."
+    },
+    {
+      "id": "work-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „task”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadanie"
+        },
+        {
+          "id": "b",
+          "text": "cel"
+        },
+        {
+          "id": "c",
+          "text": "e-mail"
+        },
+        {
+          "id": "d",
+          "text": "pracodawca"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„task” oznacza po polsku „zadanie”."
+    },
+    {
+      "id": "work-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deadline”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biznes"
+        },
+        {
+          "id": "b",
+          "text": "termin"
+        },
+        {
+          "id": "c",
+          "text": "wynagrodzenie"
+        },
+        {
+          "id": "d",
+          "text": "zysk"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„deadline” oznacza po polsku „termin”."
+    },
+    {
+      "id": "work-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „salary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynagrodzenie"
+        },
+        {
+          "id": "b",
+          "text": "zespół"
+        },
+        {
+          "id": "c",
+          "text": "praca"
+        },
+        {
+          "id": "d",
+          "text": "odpowiedzialność"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„salary” oznacza po polsku „wynagrodzenie”."
+    },
+    {
+      "id": "work-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bonus”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "premia"
+        },
+        {
+          "id": "b",
+          "text": "płatność"
+        },
+        {
+          "id": "c",
+          "text": "kierownik"
+        },
+        {
+          "id": "d",
+          "text": "urlop"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bonus” oznacza po polsku „premia”."
+    },
+    {
+      "id": "work-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „contract”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zawód"
+        },
+        {
+          "id": "b",
+          "text": "biuro"
+        },
+        {
+          "id": "c",
+          "text": "współpracownik"
+        },
+        {
+          "id": "d",
+          "text": "umowa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„contract” oznacza po polsku „umowa”."
+    },
+    {
+      "id": "work-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „interview”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozmowa kwalifikacyjna"
+        },
+        {
+          "id": "b",
+          "text": "zespół"
+        },
+        {
+          "id": "c",
+          "text": "klawiatura"
+        },
+        {
+          "id": "d",
+          "text": "skaner"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„interview” oznacza po polsku „rozmowa kwalifikacyjna”."
+    },
+    {
+      "id": "work-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „career”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kariera"
+        },
+        {
+          "id": "b",
+          "text": "rozmowa kwalifikacyjna"
+        },
+        {
+          "id": "c",
+          "text": "sukces"
+        },
+        {
+          "id": "d",
+          "text": "zysk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„career” oznacza po polsku „kariera”."
+    },
+    {
+      "id": "work-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „profession”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "praca"
+        },
+        {
+          "id": "b",
+          "text": "cel"
+        },
+        {
+          "id": "c",
+          "text": "zawód"
+        },
+        {
+          "id": "d",
+          "text": "płatność"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„profession” oznacza po polsku „zawód”."
+    },
+    {
+      "id": "work-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „experience”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiadomość"
+        },
+        {
+          "id": "b",
+          "text": "projekt"
+        },
+        {
+          "id": "c",
+          "text": "zmiana"
+        },
+        {
+          "id": "d",
+          "text": "doświadczenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„experience” oznacza po polsku „doświadczenie”."
+    },
+    {
+      "id": "work-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „responsibility”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biznes"
+        },
+        {
+          "id": "b",
+          "text": "spotkanie"
+        },
+        {
+          "id": "c",
+          "text": "porażka"
+        },
+        {
+          "id": "d",
+          "text": "odpowiedzialność"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„responsibility” oznacza po polsku „odpowiedzialność”."
+    },
+    {
+      "id": "work-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „department”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "praca"
+        },
+        {
+          "id": "b",
+          "text": "dział"
+        },
+        {
+          "id": "c",
+          "text": "spotkanie"
+        },
+        {
+          "id": "d",
+          "text": "dokument"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„department” oznacza po polsku „dział”."
+    },
+    {
+      "id": "work-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „team”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadanie"
+        },
+        {
+          "id": "b",
+          "text": "współpracownik"
+        },
+        {
+          "id": "c",
+          "text": "zespół"
+        },
+        {
+          "id": "d",
+          "text": "zmiana"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„team” oznacza po polsku „zespół”."
+    },
+    {
+      "id": "work-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „report”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "premia"
+        },
+        {
+          "id": "b",
+          "text": "raport"
+        },
+        {
+          "id": "c",
+          "text": "cel"
+        },
+        {
+          "id": "d",
+          "text": "termin"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„report” oznacza po polsku „raport”."
+    },
+    {
+      "id": "work-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „document”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "premia"
+        },
+        {
+          "id": "b",
+          "text": "faktura"
+        },
+        {
+          "id": "c",
+          "text": "dokument"
+        },
+        {
+          "id": "d",
+          "text": "odpowiedzialność"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„document” oznacza po polsku „dokument”."
+    },
+    {
+      "id": "work-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „file”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plik"
+        },
+        {
+          "id": "b",
+          "text": "harmonogram"
+        },
+        {
+          "id": "c",
+          "text": "termin"
+        },
+        {
+          "id": "d",
+          "text": "pracownik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„file” oznacza po polsku „plik”."
+    },
+    {
+      "id": "work-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „folder”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pracownik"
+        },
+        {
+          "id": "b",
+          "text": "folder"
+        },
+        {
+          "id": "c",
+          "text": "urlop"
+        },
+        {
+          "id": "d",
+          "text": "drukarka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„folder” oznacza po polsku „folder”."
+    },
+    {
+      "id": "work-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „printer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "termin"
+        },
+        {
+          "id": "b",
+          "text": "cel"
+        },
+        {
+          "id": "c",
+          "text": "harmonogram"
+        },
+        {
+          "id": "d",
+          "text": "drukarka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„printer” oznacza po polsku „drukarka”."
+    },
+    {
+      "id": "work-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scanner”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "urlop"
+        },
+        {
+          "id": "b",
+          "text": "skaner"
+        },
+        {
+          "id": "c",
+          "text": "rozmowa kwalifikacyjna"
+        },
+        {
+          "id": "d",
+          "text": "folder"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„scanner” oznacza po polsku „skaner”."
+    },
+    {
+      "id": "work-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „keyboard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szkolenie"
+        },
+        {
+          "id": "b",
+          "text": "klawiatura"
+        },
+        {
+          "id": "c",
+          "text": "zadanie"
+        },
+        {
+          "id": "d",
+          "text": "przerwa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„keyboard” oznacza po polsku „klawiatura”."
+    },
+    {
+      "id": "work-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „screen”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drukarka"
+        },
+        {
+          "id": "b",
+          "text": "klawiatura"
+        },
+        {
+          "id": "c",
+          "text": "biznes"
+        },
+        {
+          "id": "d",
+          "text": "ekran"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„screen” oznacza po polsku „ekran”."
+    },
+    {
+      "id": "work-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „email”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "e-mail"
+        },
+        {
+          "id": "b",
+          "text": "zawód"
+        },
+        {
+          "id": "c",
+          "text": "kierownik"
+        },
+        {
+          "id": "d",
+          "text": "klient kupujący"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„email” oznacza po polsku „e-mail”."
+    },
+    {
+      "id": "work-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „message”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "budżet"
+        },
+        {
+          "id": "b",
+          "text": "firma"
+        },
+        {
+          "id": "c",
+          "text": "wiadomość"
+        },
+        {
+          "id": "d",
+          "text": "rozmowa kwalifikacyjna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„message” oznacza po polsku „wiadomość”."
+    },
+    {
+      "id": "work-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „schedule”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "awans"
+        },
+        {
+          "id": "b",
+          "text": "harmonogram"
+        },
+        {
+          "id": "c",
+          "text": "doświadczenie"
+        },
+        {
+          "id": "d",
+          "text": "zmiana"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„schedule” oznacza po polsku „harmonogram”."
+    },
+    {
+      "id": "work-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shift”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozmowa kwalifikacyjna"
+        },
+        {
+          "id": "b",
+          "text": "dokument"
+        },
+        {
+          "id": "c",
+          "text": "faktura"
+        },
+        {
+          "id": "d",
+          "text": "zmiana"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„shift” oznacza po polsku „zmiana”."
+    },
+    {
+      "id": "work-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „break”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadanie"
+        },
+        {
+          "id": "b",
+          "text": "projekt"
+        },
+        {
+          "id": "c",
+          "text": "ekran"
+        },
+        {
+          "id": "d",
+          "text": "przerwa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„break” oznacza po polsku „przerwa”."
+    },
+    {
+      "id": "work-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „holiday”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dział"
+        },
+        {
+          "id": "b",
+          "text": "urlop"
+        },
+        {
+          "id": "c",
+          "text": "raport"
+        },
+        {
+          "id": "d",
+          "text": "szkolenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„holiday” oznacza po polsku „urlop”."
+    },
+    {
+      "id": "work-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „promotion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "awans"
+        },
+        {
+          "id": "b",
+          "text": "biuro"
+        },
+        {
+          "id": "c",
+          "text": "sukces"
+        },
+        {
+          "id": "d",
+          "text": "rozmowa kwalifikacyjna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„promotion” oznacza po polsku „awans”."
+    },
+    {
+      "id": "work-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „training”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szkolenie"
+        },
+        {
+          "id": "b",
+          "text": "pracownik"
+        },
+        {
+          "id": "c",
+          "text": "klient"
+        },
+        {
+          "id": "d",
+          "text": "e-mail"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„training” oznacza po polsku „szkolenie”."
+    },
+    {
+      "id": "work-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „business”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płatność"
+        },
+        {
+          "id": "b",
+          "text": "biznes"
+        },
+        {
+          "id": "c",
+          "text": "praca"
+        },
+        {
+          "id": "d",
+          "text": "zawód"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„business” oznacza po polsku „biznes”."
+    },
+    {
+      "id": "work-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „profit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "folder"
+        },
+        {
+          "id": "b",
+          "text": "zespół"
+        },
+        {
+          "id": "c",
+          "text": "zysk"
+        },
+        {
+          "id": "d",
+          "text": "termin"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„profit” oznacza po polsku „zysk”."
+    },
+    {
+      "id": "work-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „loss”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spotkanie"
+        },
+        {
+          "id": "b",
+          "text": "skaner"
+        },
+        {
+          "id": "c",
+          "text": "strata"
+        },
+        {
+          "id": "d",
+          "text": "kierownik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„loss” oznacza po polsku „strata”."
+    },
+    {
+      "id": "work-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „invoice”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zespół"
+        },
+        {
+          "id": "b",
+          "text": "e-mail"
+        },
+        {
+          "id": "c",
+          "text": "faktura"
+        },
+        {
+          "id": "d",
+          "text": "szkolenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„invoice” oznacza po polsku „faktura”."
+    },
+    {
+      "id": "work-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „payment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dział"
+        },
+        {
+          "id": "b",
+          "text": "płatność"
+        },
+        {
+          "id": "c",
+          "text": "strata"
+        },
+        {
+          "id": "d",
+          "text": "kariera"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„payment” oznacza po polsku „płatność”."
+    },
+    {
+      "id": "work-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „budget”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "raport"
+        },
+        {
+          "id": "b",
+          "text": "klient kupujący"
+        },
+        {
+          "id": "c",
+          "text": "zadanie"
+        },
+        {
+          "id": "d",
+          "text": "budżet"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„budget” oznacza po polsku „budżet”."
+    },
+    {
+      "id": "work-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „strategy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiadomość"
+        },
+        {
+          "id": "b",
+          "text": "raport"
+        },
+        {
+          "id": "c",
+          "text": "strategia"
+        },
+        {
+          "id": "d",
+          "text": "cel"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„strategy” oznacza po polsku „strategia”."
+    },
+    {
+      "id": "work-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „goal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zysk"
+        },
+        {
+          "id": "b",
+          "text": "cel"
+        },
+        {
+          "id": "c",
+          "text": "skaner"
+        },
+        {
+          "id": "d",
+          "text": "biznes"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„goal” oznacza po polsku „cel”."
+    },
+    {
+      "id": "work-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „success”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozmowa kwalifikacyjna"
+        },
+        {
+          "id": "b",
+          "text": "wynagrodzenie"
+        },
+        {
+          "id": "c",
+          "text": "przerwa"
+        },
+        {
+          "id": "d",
+          "text": "sukces"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„success” oznacza po polsku „sukces”."
+    },
+    {
+      "id": "work-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „failure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klient"
+        },
+        {
+          "id": "b",
+          "text": "porażka"
+        },
+        {
+          "id": "c",
+          "text": "firma"
+        },
+        {
+          "id": "d",
+          "text": "płatność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„failure” oznacza po polsku „porażka”."
+    }
+  ]
+}

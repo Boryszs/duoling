@@ -1,0 +1,32 @@
+{
+  "category": {
+    "id": "irregular-verbs",
+    "name": "Irregular verbs"
+  },
+  "questions": [
+    {
+      "id": "go-past",
+      "question": "What is the past simple form of ‘go’?",
+      "answers": [
+        { "id": "a", "text": "goed" },
+        { "id": "b", "text": "went" },
+        { "id": "c", "text": "gone" },
+        { "id": "d", "text": "going" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "The past simple form of ‘go’ is ‘went’."
+    },
+    {
+      "id": "write-past-participle",
+      "question": "What is the past participle of ‘write’?",
+      "answers": [
+        { "id": "a", "text": "wrote" },
+        { "id": "b", "text": "written" },
+        { "id": "c", "text": "writed" },
+        { "id": "d", "text": "writing" }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "Write – wrote – written."
+    }
+  ]
+}

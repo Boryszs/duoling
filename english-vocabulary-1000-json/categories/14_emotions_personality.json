@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "emotions_personality",
+    "name": "Emocje i osobowość"
+  },
+  "questions": [
+    {
+      "id": "emotions_personality-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „emotion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyjazny"
+        },
+        {
+          "id": "b",
+          "text": "nienawiść"
+        },
+        {
+          "id": "c",
+          "text": "szczęście"
+        },
+        {
+          "id": "d",
+          "text": "emocja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„emotion” oznacza po polsku „emocja”."
+    },
+    {
+      "id": "emotions_personality-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „feeling”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samolubny"
+        },
+        {
+          "id": "b",
+          "text": "zrelaksowany"
+        },
+        {
+          "id": "c",
+          "text": "uczucie"
+        },
+        {
+          "id": "d",
+          "text": "strach"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„feeling” oznacza po polsku „uczucie”."
+    },
+    {
+      "id": "emotions_personality-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „happiness”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spokój"
+        },
+        {
+          "id": "b",
+          "text": "szczęście"
+        },
+        {
+          "id": "c",
+          "text": "strach"
+        },
+        {
+          "id": "d",
+          "text": "złość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„happiness” oznacza po polsku „szczęście”."
+    },
+    {
+      "id": "emotions_personality-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sadness”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "złość"
+        },
+        {
+          "id": "b",
+          "text": "duma"
+        },
+        {
+          "id": "c",
+          "text": "zmartwienie"
+        },
+        {
+          "id": "d",
+          "text": "smutek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„sadness” oznacza po polsku „smutek”."
+    },
+    {
+      "id": "emotions_personality-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „anger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "złość"
+        },
+        {
+          "id": "b",
+          "text": "wstyd"
+        },
+        {
+          "id": "c",
+          "text": "podekscytowany"
+        },
+        {
+          "id": "d",
+          "text": "miłość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„anger” oznacza po polsku „złość”."
+    },
+    {
+      "id": "emotions_personality-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fear”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczucie"
+        },
+        {
+          "id": "b",
+          "text": "strach"
+        },
+        {
+          "id": "c",
+          "text": "cichy"
+        },
+        {
+          "id": "d",
+          "text": "dumny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fear” oznacza po polsku „strach”."
+    },
+    {
+      "id": "emotions_personality-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „surprise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyjazny"
+        },
+        {
+          "id": "b",
+          "text": "zaskoczenie"
+        },
+        {
+          "id": "c",
+          "text": "znudzony"
+        },
+        {
+          "id": "d",
+          "text": "wdzięczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„surprise” oznacza po polsku „zaskoczenie”."
+    },
+    {
+      "id": "emotions_personality-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „love”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaskoczenie"
+        },
+        {
+          "id": "b",
+          "text": "miłość"
+        },
+        {
+          "id": "c",
+          "text": "zaskoczony"
+        },
+        {
+          "id": "d",
+          "text": "niegrzeczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„love” oznacza po polsku „miłość”."
+    },
+    {
+      "id": "emotions_personality-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poczucie winy"
+        },
+        {
+          "id": "b",
+          "text": "nienawiść"
+        },
+        {
+          "id": "c",
+          "text": "stres"
+        },
+        {
+          "id": "d",
+          "text": "zmartwienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hate” oznacza po polsku „nienawiść”."
+    },
+    {
+      "id": "emotions_personality-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hope”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cierpliwość"
+        },
+        {
+          "id": "b",
+          "text": "uprzejmy"
+        },
+        {
+          "id": "c",
+          "text": "zrelaksowany"
+        },
+        {
+          "id": "d",
+          "text": "nadzieja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hope” oznacza po polsku „nadzieja”."
+    },
+    {
+      "id": "emotions_personality-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stress”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cichy"
+        },
+        {
+          "id": "b",
+          "text": "nienawiść"
+        },
+        {
+          "id": "c",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "d",
+          "text": "stres"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„stress” oznacza po polsku „stres”."
+    },
+    {
+      "id": "emotions_personality-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „worry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nienawiść"
+        },
+        {
+          "id": "b",
+          "text": "zmartwienie"
+        },
+        {
+          "id": "c",
+          "text": "uprzejmy"
+        },
+        {
+          "id": "d",
+          "text": "zrelaksowany"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„worry” oznacza po polsku „zmartwienie”."
+    },
+    {
+      "id": "emotions_personality-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „joy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radość"
+        },
+        {
+          "id": "b",
+          "text": "cierpliwość"
+        },
+        {
+          "id": "c",
+          "text": "wyrozumiały"
+        },
+        {
+          "id": "d",
+          "text": "zrelaksowany"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„joy” oznacza po polsku „radość”."
+    },
+    {
+      "id": "emotions_personality-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pride”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bystry"
+        },
+        {
+          "id": "b",
+          "text": "życzliwy"
+        },
+        {
+          "id": "c",
+          "text": "duma"
+        },
+        {
+          "id": "d",
+          "text": "cierpliwość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pride” oznacza po polsku „duma”."
+    },
+    {
+      "id": "emotions_personality-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shame”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wstyd"
+        },
+        {
+          "id": "b",
+          "text": "znudzony"
+        },
+        {
+          "id": "c",
+          "text": "pomocny"
+        },
+        {
+          "id": "d",
+          "text": "zmartwienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„shame” oznacza po polsku „wstyd”."
+    },
+    {
+      "id": "emotions_personality-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guilt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zmartwienie"
+        },
+        {
+          "id": "b",
+          "text": "zaskoczenie"
+        },
+        {
+          "id": "c",
+          "text": "poczucie winy"
+        },
+        {
+          "id": "d",
+          "text": "życzliwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„guilt” oznacza po polsku „poczucie winy”."
+    },
+    {
+      "id": "emotions_personality-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „calmness”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "b",
+          "text": "nienawiść"
+        },
+        {
+          "id": "c",
+          "text": "pomocny"
+        },
+        {
+          "id": "d",
+          "text": "spokój"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„calmness” oznacza po polsku „spokój”."
+    },
+    {
+      "id": "emotions_personality-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „confidence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wdzięczny"
+        },
+        {
+          "id": "b",
+          "text": "wstyd"
+        },
+        {
+          "id": "c",
+          "text": "szczęśliwy"
+        },
+        {
+          "id": "d",
+          "text": "pewność siebie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„confidence” oznacza po polsku „pewność siebie”."
+    },
+    {
+      "id": "emotions_personality-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „patience”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "emocja"
+        },
+        {
+          "id": "b",
+          "text": "nieśmiały"
+        },
+        {
+          "id": "c",
+          "text": "wstyd"
+        },
+        {
+          "id": "d",
+          "text": "cierpliwość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„patience” oznacza po polsku „cierpliwość”."
+    },
+    {
+      "id": "emotions_personality-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „courage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "emocja"
+        },
+        {
+          "id": "b",
+          "text": "odwaga"
+        },
+        {
+          "id": "c",
+          "text": "strach"
+        },
+        {
+          "id": "d",
+          "text": "wstyd"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„courage” oznacza po polsku „odwaga”."
+    },
+    {
+      "id": "emotions_personality-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „kind”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "życzliwy"
+        },
+        {
+          "id": "b",
+          "text": "wyrozumiały"
+        },
+        {
+          "id": "c",
+          "text": "smutek"
+        },
+        {
+          "id": "d",
+          "text": "poważny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„kind” oznacza po polsku „życzliwy”."
+    },
+    {
+      "id": "emotions_personality-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „friendly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wdzięczny"
+        },
+        {
+          "id": "b",
+          "text": "hojny"
+        },
+        {
+          "id": "c",
+          "text": "przyjazny"
+        },
+        {
+          "id": "d",
+          "text": "szczęśliwy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„friendly” oznacza po polsku „przyjazny”."
+    },
+    {
+      "id": "emotions_personality-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „polite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podekscytowany"
+        },
+        {
+          "id": "b",
+          "text": "uprzejmy"
+        },
+        {
+          "id": "c",
+          "text": "zaskoczenie"
+        },
+        {
+          "id": "d",
+          "text": "poczucie winy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„polite” oznacza po polsku „uprzejmy”."
+    },
+    {
+      "id": "emotions_personality-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „honest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "życzliwy"
+        },
+        {
+          "id": "b",
+          "text": "miłość"
+        },
+        {
+          "id": "c",
+          "text": "duma"
+        },
+        {
+          "id": "d",
+          "text": "uczciwy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„honest” oznacza po polsku „uczciwy”."
+    },
+    {
+      "id": "emotions_personality-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „helpful”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaskoczony"
+        },
+        {
+          "id": "b",
+          "text": "pomocny"
+        },
+        {
+          "id": "c",
+          "text": "smutny"
+        },
+        {
+          "id": "d",
+          "text": "zaskoczenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„helpful” oznacza po polsku „pomocny”."
+    },
+    {
+      "id": "emotions_personality-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „generous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczucie"
+        },
+        {
+          "id": "b",
+          "text": "zabawny"
+        },
+        {
+          "id": "c",
+          "text": "hojny"
+        },
+        {
+          "id": "d",
+          "text": "znudzony"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„generous” oznacza po polsku „hojny”."
+    },
+    {
+      "id": "emotions_personality-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tolerant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "b",
+          "text": "nienawiść"
+        },
+        {
+          "id": "c",
+          "text": "spokój"
+        },
+        {
+          "id": "d",
+          "text": "wyrozumiały"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„tolerant” oznacza po polsku „wyrozumiały”."
+    },
+    {
+      "id": "emotions_personality-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brave”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samolubny"
+        },
+        {
+          "id": "b",
+          "text": "uprzejmy"
+        },
+        {
+          "id": "c",
+          "text": "zły"
+        },
+        {
+          "id": "d",
+          "text": "odważny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„brave” oznacza po polsku „odważny”."
+    },
+    {
+      "id": "emotions_personality-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „clever”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "emocja"
+        },
+        {
+          "id": "b",
+          "text": "złość"
+        },
+        {
+          "id": "c",
+          "text": "zrelaksowany"
+        },
+        {
+          "id": "d",
+          "text": "bystry"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„clever” oznacza po polsku „bystry”."
+    },
+    {
+      "id": "emotions_personality-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „funny”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zabawny"
+        },
+        {
+          "id": "b",
+          "text": "zmęczony"
+        },
+        {
+          "id": "c",
+          "text": "smutek"
+        },
+        {
+          "id": "d",
+          "text": "emocja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„funny” oznacza po polsku „zabawny”."
+    },
+    {
+      "id": "emotions_personality-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „quiet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cichy"
+        },
+        {
+          "id": "b",
+          "text": "cierpliwość"
+        },
+        {
+          "id": "c",
+          "text": "poważny"
+        },
+        {
+          "id": "d",
+          "text": "samolubny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„quiet” oznacza po polsku „cichy”."
+    },
+    {
+      "id": "emotions_personality-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieśmiały"
+        },
+        {
+          "id": "b",
+          "text": "zmartwienie"
+        },
+        {
+          "id": "c",
+          "text": "spokój"
+        },
+        {
+          "id": "d",
+          "text": "uczucie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„shy” oznacza po polsku „nieśmiały”."
+    },
+    {
+      "id": "emotions_personality-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „serious”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poważny"
+        },
+        {
+          "id": "b",
+          "text": "poczucie winy"
+        },
+        {
+          "id": "c",
+          "text": "bystry"
+        },
+        {
+          "id": "d",
+          "text": "nienawiść"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„serious” oznacza po polsku „poważny”."
+    },
+    {
+      "id": "emotions_personality-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lazy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podekscytowany"
+        },
+        {
+          "id": "b",
+          "text": "wstyd"
+        },
+        {
+          "id": "c",
+          "text": "leniwy"
+        },
+        {
+          "id": "d",
+          "text": "pomocny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lazy” oznacza po polsku „leniwy”."
+    },
+    {
+      "id": "emotions_personality-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rude”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "b",
+          "text": "strach"
+        },
+        {
+          "id": "c",
+          "text": "wdzięczny"
+        },
+        {
+          "id": "d",
+          "text": "hojny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rude” oznacza po polsku „niegrzeczny”."
+    },
+    {
+      "id": "emotions_personality-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „selfish”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdenerwowany"
+        },
+        {
+          "id": "b",
+          "text": "zazdrosny"
+        },
+        {
+          "id": "c",
+          "text": "znudzony"
+        },
+        {
+          "id": "d",
+          "text": "samolubny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„selfish” oznacza po polsku „samolubny”."
+    },
+    {
+      "id": "emotions_personality-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jealous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odważny"
+        },
+        {
+          "id": "b",
+          "text": "samotny"
+        },
+        {
+          "id": "c",
+          "text": "cichy"
+        },
+        {
+          "id": "d",
+          "text": "zazdrosny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„jealous” oznacza po polsku „zazdrosny”."
+    },
+    {
+      "id": "emotions_personality-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nervous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdenerwowany"
+        },
+        {
+          "id": "b",
+          "text": "samolubny"
+        },
+        {
+          "id": "c",
+          "text": "złość"
+        },
+        {
+          "id": "d",
+          "text": "nieśmiały"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„nervous” oznacza po polsku „zdenerwowany”."
+    },
+    {
+      "id": "emotions_personality-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „excited”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "leniwy"
+        },
+        {
+          "id": "b",
+          "text": "stres"
+        },
+        {
+          "id": "c",
+          "text": "zmęczony"
+        },
+        {
+          "id": "d",
+          "text": "podekscytowany"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„excited” oznacza po polsku „podekscytowany”."
+    },
+    {
+      "id": "emotions_personality-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bored”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieśmiały"
+        },
+        {
+          "id": "b",
+          "text": "spokój"
+        },
+        {
+          "id": "c",
+          "text": "znudzony"
+        },
+        {
+          "id": "d",
+          "text": "przestraszony"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bored” oznacza po polsku „znudzony”."
+    },
+    {
+      "id": "emotions_personality-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tired”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odwaga"
+        },
+        {
+          "id": "b",
+          "text": "zmęczony"
+        },
+        {
+          "id": "c",
+          "text": "wdzięczny"
+        },
+        {
+          "id": "d",
+          "text": "uczucie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„tired” oznacza po polsku „zmęczony”."
+    },
+    {
+      "id": "emotions_personality-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relaxed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczucie"
+        },
+        {
+          "id": "b",
+          "text": "zły"
+        },
+        {
+          "id": "c",
+          "text": "uczciwy"
+        },
+        {
+          "id": "d",
+          "text": "zrelaksowany"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„relaxed” oznacza po polsku „zrelaksowany”."
+    },
+    {
+      "id": "emotions_personality-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „surprised”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samolubny"
+        },
+        {
+          "id": "b",
+          "text": "zaskoczony"
+        },
+        {
+          "id": "c",
+          "text": "szczęście"
+        },
+        {
+          "id": "d",
+          "text": "hojny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„surprised” oznacza po polsku „zaskoczony”."
+    },
+    {
+      "id": "emotions_personality-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „afraid”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "leniwy"
+        },
+        {
+          "id": "b",
+          "text": "przestraszony"
+        },
+        {
+          "id": "c",
+          "text": "zmęczony"
+        },
+        {
+          "id": "d",
+          "text": "zaskoczenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„afraid” oznacza po polsku „przestraszony”."
+    },
+    {
+      "id": "emotions_personality-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „angry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyjazny"
+        },
+        {
+          "id": "b",
+          "text": "zły"
+        },
+        {
+          "id": "c",
+          "text": "podekscytowany"
+        },
+        {
+          "id": "d",
+          "text": "duma"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„angry” oznacza po polsku „zły”."
+    },
+    {
+      "id": "emotions_personality-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sad”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "smutny"
+        },
+        {
+          "id": "b",
+          "text": "spokój"
+        },
+        {
+          "id": "c",
+          "text": "cierpliwość"
+        },
+        {
+          "id": "d",
+          "text": "hojny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sad” oznacza po polsku „smutny”."
+    },
+    {
+      "id": "emotions_personality-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „happy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uprzejmy"
+        },
+        {
+          "id": "b",
+          "text": "przyjazny"
+        },
+        {
+          "id": "c",
+          "text": "szczęśliwy"
+        },
+        {
+          "id": "d",
+          "text": "pewność siebie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„happy” oznacza po polsku „szczęśliwy”."
+    },
+    {
+      "id": "emotions_personality-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „proud”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "złość"
+        },
+        {
+          "id": "b",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "c",
+          "text": "poczucie winy"
+        },
+        {
+          "id": "d",
+          "text": "dumny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„proud” oznacza po polsku „dumny”."
+    },
+    {
+      "id": "emotions_personality-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lonely”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samotny"
+        },
+        {
+          "id": "b",
+          "text": "pewność siebie"
+        },
+        {
+          "id": "c",
+          "text": "emocja"
+        },
+        {
+          "id": "d",
+          "text": "cierpliwość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lonely” oznacza po polsku „samotny”."
+    },
+    {
+      "id": "emotions_personality-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grateful”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczęście"
+        },
+        {
+          "id": "b",
+          "text": "odwaga"
+        },
+        {
+          "id": "c",
+          "text": "wdzięczny"
+        },
+        {
+          "id": "d",
+          "text": "hojny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„grateful” oznacza po polsku „wdzięczny”."
+    }
+  ]
+}

@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "weather",
+    "name": "Pogoda i pory roku"
+  },
+  "questions": [
+    {
+      "id": "weather-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „weather”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekki wiatr"
+        },
+        {
+          "id": "b",
+          "text": "pogoda"
+        },
+        {
+          "id": "c",
+          "text": "susza"
+        },
+        {
+          "id": "d",
+          "text": "wiosna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„weather” oznacza po polsku „pogoda”."
+    },
+    {
+      "id": "weather-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „forecast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chmura"
+        },
+        {
+          "id": "b",
+          "text": "suchy"
+        },
+        {
+          "id": "c",
+          "text": "błyskawica"
+        },
+        {
+          "id": "d",
+          "text": "prognoza"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„forecast” oznacza po polsku „prognoza”."
+    },
+    {
+      "id": "weather-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „temperature”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stopień Celsjusza"
+        },
+        {
+          "id": "b",
+          "text": "temperatura"
+        },
+        {
+          "id": "c",
+          "text": "suchy"
+        },
+        {
+          "id": "d",
+          "text": "zamieć śnieżna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„temperature” oznacza po polsku „temperatura”."
+    },
+    {
+      "id": "weather-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „degree Celsius”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stopień Celsjusza"
+        },
+        {
+          "id": "b",
+          "text": "jesień"
+        },
+        {
+          "id": "c",
+          "text": "susza"
+        },
+        {
+          "id": "d",
+          "text": "mgła"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„degree Celsius” oznacza po polsku „stopień Celsjusza”."
+    },
+    {
+      "id": "weather-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sunshine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mroźny"
+        },
+        {
+          "id": "b",
+          "text": "wietrzny"
+        },
+        {
+          "id": "c",
+          "text": "światło słoneczne"
+        },
+        {
+          "id": "d",
+          "text": "burza"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sunshine” oznacza po polsku „światło słoneczne”."
+    },
+    {
+      "id": "weather-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cloud”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kropla deszczu"
+        },
+        {
+          "id": "b",
+          "text": "tornado"
+        },
+        {
+          "id": "c",
+          "text": "chmura"
+        },
+        {
+          "id": "d",
+          "text": "mgła"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cloud” oznacza po polsku „chmura”."
+    },
+    {
+      "id": "weather-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "susza"
+        },
+        {
+          "id": "b",
+          "text": "deszcz"
+        },
+        {
+          "id": "c",
+          "text": "temperatura"
+        },
+        {
+          "id": "d",
+          "text": "grzmot"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rain” oznacza po polsku „deszcz”."
+    },
+    {
+      "id": "weather-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „snow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jesień"
+        },
+        {
+          "id": "b",
+          "text": "błyskawica"
+        },
+        {
+          "id": "c",
+          "text": "chmura"
+        },
+        {
+          "id": "d",
+          "text": "śnieg"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„snow” oznacza po polsku „śnieg”."
+    },
+    {
+      "id": "weather-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wind”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "światło słoneczne"
+        },
+        {
+          "id": "b",
+          "text": "kropla deszczu"
+        },
+        {
+          "id": "c",
+          "text": "pochmurny"
+        },
+        {
+          "id": "d",
+          "text": "wiatr"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„wind” oznacza po polsku „wiatr”."
+    },
+    {
+      "id": "weather-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „storm”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stopień Celsjusza"
+        },
+        {
+          "id": "b",
+          "text": "burza"
+        },
+        {
+          "id": "c",
+          "text": "zamieć śnieżna"
+        },
+        {
+          "id": "d",
+          "text": "chłodny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„storm” oznacza po polsku „burza”."
+    },
+    {
+      "id": "weather-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „thunder”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "światło słoneczne"
+        },
+        {
+          "id": "b",
+          "text": "grzmot"
+        },
+        {
+          "id": "c",
+          "text": "powódź"
+        },
+        {
+          "id": "d",
+          "text": "chmura"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„thunder” oznacza po polsku „grzmot”."
+    },
+    {
+      "id": "weather-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lightning”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciepły"
+        },
+        {
+          "id": "b",
+          "text": "suchy"
+        },
+        {
+          "id": "c",
+          "text": "słoneczny"
+        },
+        {
+          "id": "d",
+          "text": "błyskawica"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„lightning” oznacza po polsku „błyskawica”."
+    },
+    {
+      "id": "weather-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fog”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mgła"
+        },
+        {
+          "id": "b",
+          "text": "lekki wiatr"
+        },
+        {
+          "id": "c",
+          "text": "temperatura"
+        },
+        {
+          "id": "d",
+          "text": "mróz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fog” oznacza po polsku „mgła”."
+    },
+    {
+      "id": "weather-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płatek śniegu"
+        },
+        {
+          "id": "b",
+          "text": "śnieżny"
+        },
+        {
+          "id": "c",
+          "text": "wiosna"
+        },
+        {
+          "id": "d",
+          "text": "zamglenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mist” oznacza po polsku „zamglenie”."
+    },
+    {
+      "id": "weather-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „frost”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mróz"
+        },
+        {
+          "id": "b",
+          "text": "huragan"
+        },
+        {
+          "id": "c",
+          "text": "błyskawica"
+        },
+        {
+          "id": "d",
+          "text": "zamieć śnieżna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„frost” oznacza po polsku „mróz”."
+    },
+    {
+      "id": "weather-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ice”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lód"
+        },
+        {
+          "id": "b",
+          "text": "słoneczny"
+        },
+        {
+          "id": "c",
+          "text": "huragan"
+        },
+        {
+          "id": "d",
+          "text": "mgła"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ice” oznacza po polsku „lód”."
+    },
+    {
+      "id": "weather-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hail”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grad"
+        },
+        {
+          "id": "b",
+          "text": "jesień"
+        },
+        {
+          "id": "c",
+          "text": "wietrzny"
+        },
+        {
+          "id": "d",
+          "text": "temperatura"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„hail” oznacza po polsku „grad”."
+    },
+    {
+      "id": "weather-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shower”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mokry"
+        },
+        {
+          "id": "b",
+          "text": "słoneczny"
+        },
+        {
+          "id": "c",
+          "text": "przelotny deszcz"
+        },
+        {
+          "id": "d",
+          "text": "powódź"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„shower” oznacza po polsku „przelotny deszcz”."
+    },
+    {
+      "id": "weather-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rainbow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciepły"
+        },
+        {
+          "id": "b",
+          "text": "tęcza"
+        },
+        {
+          "id": "c",
+          "text": "grzmot"
+        },
+        {
+          "id": "d",
+          "text": "mróz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rainbow” oznacza po polsku „tęcza”."
+    },
+    {
+      "id": "weather-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „breeze”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mokry"
+        },
+        {
+          "id": "b",
+          "text": "mglisty"
+        },
+        {
+          "id": "c",
+          "text": "lekki wiatr"
+        },
+        {
+          "id": "d",
+          "text": "gorący"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„breeze” oznacza po polsku „lekki wiatr”."
+    },
+    {
+      "id": "weather-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hurricane”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chmura"
+        },
+        {
+          "id": "b",
+          "text": "śnieg"
+        },
+        {
+          "id": "c",
+          "text": "jesień"
+        },
+        {
+          "id": "d",
+          "text": "huragan"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hurricane” oznacza po polsku „huragan”."
+    },
+    {
+      "id": "weather-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tornado”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pochmurny"
+        },
+        {
+          "id": "b",
+          "text": "zima"
+        },
+        {
+          "id": "c",
+          "text": "mgła"
+        },
+        {
+          "id": "d",
+          "text": "tornado"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„tornado” oznacza po polsku „tornado”."
+    },
+    {
+      "id": "weather-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flood”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mglisty"
+        },
+        {
+          "id": "b",
+          "text": "powódź"
+        },
+        {
+          "id": "c",
+          "text": "prognoza"
+        },
+        {
+          "id": "d",
+          "text": "chmura"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„flood” oznacza po polsku „powódź”."
+    },
+    {
+      "id": "weather-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „drought”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wietrzny"
+        },
+        {
+          "id": "b",
+          "text": "susza"
+        },
+        {
+          "id": "c",
+          "text": "burza"
+        },
+        {
+          "id": "d",
+          "text": "grzmot"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„drought” oznacza po polsku „susza”."
+    },
+    {
+      "id": "weather-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hot”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gorący"
+        },
+        {
+          "id": "b",
+          "text": "wiatr"
+        },
+        {
+          "id": "c",
+          "text": "chłodny"
+        },
+        {
+          "id": "d",
+          "text": "grzmot"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„hot” oznacza po polsku „gorący”."
+    },
+    {
+      "id": "weather-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „warm”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mokry"
+        },
+        {
+          "id": "b",
+          "text": "tęcza"
+        },
+        {
+          "id": "c",
+          "text": "fala upałów"
+        },
+        {
+          "id": "d",
+          "text": "ciepły"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„warm” oznacza po polsku „ciepły”."
+    },
+    {
+      "id": "weather-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cool”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "huragan"
+        },
+        {
+          "id": "b",
+          "text": "wiosna"
+        },
+        {
+          "id": "c",
+          "text": "lód"
+        },
+        {
+          "id": "d",
+          "text": "chłodny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cool” oznacza po polsku „chłodny”."
+    },
+    {
+      "id": "weather-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cold”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zimny"
+        },
+        {
+          "id": "b",
+          "text": "kropla deszczu"
+        },
+        {
+          "id": "c",
+          "text": "ciepły"
+        },
+        {
+          "id": "d",
+          "text": "pogoda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cold” oznacza po polsku „zimny”."
+    },
+    {
+      "id": "weather-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "suchy"
+        },
+        {
+          "id": "b",
+          "text": "lekki wiatr"
+        },
+        {
+          "id": "c",
+          "text": "gorący"
+        },
+        {
+          "id": "d",
+          "text": "burzowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dry” oznacza po polsku „suchy”."
+    },
+    {
+      "id": "weather-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamieć śnieżna"
+        },
+        {
+          "id": "b",
+          "text": "lekki wiatr"
+        },
+        {
+          "id": "c",
+          "text": "mokry"
+        },
+        {
+          "id": "d",
+          "text": "termometr"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„wet” oznacza po polsku „mokry”."
+    },
+    {
+      "id": "weather-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sunny”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "huragan"
+        },
+        {
+          "id": "b",
+          "text": "słoneczny"
+        },
+        {
+          "id": "c",
+          "text": "chłodny"
+        },
+        {
+          "id": "d",
+          "text": "gorący"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sunny” oznacza po polsku „słoneczny”."
+    },
+    {
+      "id": "weather-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cloudy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chmura"
+        },
+        {
+          "id": "b",
+          "text": "zamieć śnieżna"
+        },
+        {
+          "id": "c",
+          "text": "pochmurny"
+        },
+        {
+          "id": "d",
+          "text": "mokry"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cloudy” oznacza po polsku „pochmurny”."
+    },
+    {
+      "id": "weather-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rainy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zimny"
+        },
+        {
+          "id": "b",
+          "text": "wilgotny"
+        },
+        {
+          "id": "c",
+          "text": "deszczowy"
+        },
+        {
+          "id": "d",
+          "text": "prognoza"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rainy” oznacza po polsku „deszczowy”."
+    },
+    {
+      "id": "weather-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „snowy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "śnieżny"
+        },
+        {
+          "id": "b",
+          "text": "kropla deszczu"
+        },
+        {
+          "id": "c",
+          "text": "zimny"
+        },
+        {
+          "id": "d",
+          "text": "światło słoneczne"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„snowy” oznacza po polsku „śnieżny”."
+    },
+    {
+      "id": "weather-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „windy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fala upałów"
+        },
+        {
+          "id": "b",
+          "text": "wietrzny"
+        },
+        {
+          "id": "c",
+          "text": "pora roku"
+        },
+        {
+          "id": "d",
+          "text": "deszczowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„windy” oznacza po polsku „wietrzny”."
+    },
+    {
+      "id": "weather-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stormy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "burza"
+        },
+        {
+          "id": "b",
+          "text": "mgła"
+        },
+        {
+          "id": "c",
+          "text": "deszcz"
+        },
+        {
+          "id": "d",
+          "text": "burzowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„stormy” oznacza po polsku „burzowy”."
+    },
+    {
+      "id": "weather-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „foggy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mgła"
+        },
+        {
+          "id": "b",
+          "text": "mglisty"
+        },
+        {
+          "id": "c",
+          "text": "zamglenie"
+        },
+        {
+          "id": "d",
+          "text": "tęcza"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„foggy” oznacza po polsku „mglisty”."
+    },
+    {
+      "id": "weather-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „freezing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "śnieżny"
+        },
+        {
+          "id": "b",
+          "text": "mroźny"
+        },
+        {
+          "id": "c",
+          "text": "błyskawica"
+        },
+        {
+          "id": "d",
+          "text": "gorący"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„freezing” oznacza po polsku „mroźny”."
+    },
+    {
+      "id": "weather-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „humid”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zimny"
+        },
+        {
+          "id": "b",
+          "text": "stopień Celsjusza"
+        },
+        {
+          "id": "c",
+          "text": "wilgotny"
+        },
+        {
+          "id": "d",
+          "text": "śnieżny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„humid” oznacza po polsku „wilgotny”."
+    },
+    {
+      "id": "weather-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mild”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łagodny"
+        },
+        {
+          "id": "b",
+          "text": "temperatura"
+        },
+        {
+          "id": "c",
+          "text": "mgła"
+        },
+        {
+          "id": "d",
+          "text": "pora roku"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mild” oznacza po polsku „łagodny”."
+    },
+    {
+      "id": "weather-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „spring”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stopień Celsjusza"
+        },
+        {
+          "id": "b",
+          "text": "wiosna"
+        },
+        {
+          "id": "c",
+          "text": "słoneczny"
+        },
+        {
+          "id": "d",
+          "text": "łagodny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„spring” oznacza po polsku „wiosna”."
+    },
+    {
+      "id": "weather-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „summer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lato"
+        },
+        {
+          "id": "b",
+          "text": "pochmurny"
+        },
+        {
+          "id": "c",
+          "text": "wilgotny"
+        },
+        {
+          "id": "d",
+          "text": "temperatura"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„summer” oznacza po polsku „lato”."
+    },
+    {
+      "id": "weather-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „autumn”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wilgotny"
+        },
+        {
+          "id": "b",
+          "text": "jesień"
+        },
+        {
+          "id": "c",
+          "text": "temperatura"
+        },
+        {
+          "id": "d",
+          "text": "zamieć śnieżna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„autumn” oznacza po polsku „jesień”."
+    },
+    {
+      "id": "weather-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „winter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zima"
+        },
+        {
+          "id": "b",
+          "text": "termometr"
+        },
+        {
+          "id": "c",
+          "text": "powódź"
+        },
+        {
+          "id": "d",
+          "text": "mglisty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„winter” oznacza po polsku „zima”."
+    },
+    {
+      "id": "weather-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „season”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jesień"
+        },
+        {
+          "id": "b",
+          "text": "zamglenie"
+        },
+        {
+          "id": "c",
+          "text": "stopień Celsjusza"
+        },
+        {
+          "id": "d",
+          "text": "pora roku"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„season” oznacza po polsku „pora roku”."
+    },
+    {
+      "id": "weather-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „heatwave”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "deszczowy"
+        },
+        {
+          "id": "b",
+          "text": "fala upałów"
+        },
+        {
+          "id": "c",
+          "text": "zimny"
+        },
+        {
+          "id": "d",
+          "text": "termometr"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„heatwave” oznacza po polsku „fala upałów”."
+    },
+    {
+      "id": "weather-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „snowstorm”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przelotny deszcz"
+        },
+        {
+          "id": "b",
+          "text": "pogoda"
+        },
+        {
+          "id": "c",
+          "text": "susza"
+        },
+        {
+          "id": "d",
+          "text": "zamieć śnieżna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„snowstorm” oznacza po polsku „zamieć śnieżna”."
+    },
+    {
+      "id": "weather-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „raindrop”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pogoda"
+        },
+        {
+          "id": "b",
+          "text": "mglisty"
+        },
+        {
+          "id": "c",
+          "text": "kropla deszczu"
+        },
+        {
+          "id": "d",
+          "text": "chmura"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„raindrop” oznacza po polsku „kropla deszczu”."
+    },
+    {
+      "id": "weather-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „snowflake”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mokry"
+        },
+        {
+          "id": "b",
+          "text": "zimny"
+        },
+        {
+          "id": "c",
+          "text": "termometr"
+        },
+        {
+          "id": "d",
+          "text": "płatek śniegu"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„snowflake” oznacza po polsku „płatek śniegu”."
+    },
+    {
+      "id": "weather-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „thermometer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "termometr"
+        },
+        {
+          "id": "b",
+          "text": "suchy"
+        },
+        {
+          "id": "c",
+          "text": "śnieżny"
+        },
+        {
+          "id": "d",
+          "text": "lekki wiatr"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„thermometer” oznacza po polsku „termometr”."
+    }
+  ]
+}

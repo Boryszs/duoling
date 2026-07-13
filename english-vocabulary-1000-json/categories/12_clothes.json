@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "clothes",
+    "name": "Ubrania i dodatki"
+  },
+  "questions": [
+    {
+      "id": "clothes-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „clothes”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "styl"
+        },
+        {
+          "id": "b",
+          "text": "ubrania"
+        },
+        {
+          "id": "c",
+          "text": "kolczyk"
+        },
+        {
+          "id": "d",
+          "text": "piżama"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„clothes” oznacza po polsku „ubrania”."
+    },
+    {
+      "id": "clothes-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shirt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spodnie"
+        },
+        {
+          "id": "b",
+          "text": "koszula"
+        },
+        {
+          "id": "c",
+          "text": "kieszeń"
+        },
+        {
+          "id": "d",
+          "text": "piżama"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„shirt” oznacza po polsku „koszula”."
+    },
+    {
+      "id": "clothes-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „T-shirt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sweter"
+        },
+        {
+          "id": "b",
+          "text": "koszulka"
+        },
+        {
+          "id": "c",
+          "text": "wełna"
+        },
+        {
+          "id": "d",
+          "text": "bransoletka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„T-shirt” oznacza po polsku „koszulka”."
+    },
+    {
+      "id": "clothes-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blouse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skarpetki"
+        },
+        {
+          "id": "b",
+          "text": "szalik"
+        },
+        {
+          "id": "c",
+          "text": "bluzka"
+        },
+        {
+          "id": "d",
+          "text": "bluza z kapturem"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blouse” oznacza po polsku „bluzka”."
+    },
+    {
+      "id": "clothes-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sweater”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sweter"
+        },
+        {
+          "id": "b",
+          "text": "sandał"
+        },
+        {
+          "id": "c",
+          "text": "parasol"
+        },
+        {
+          "id": "d",
+          "text": "krawat"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sweater” oznacza po polsku „sweter”."
+    },
+    {
+      "id": "clothes-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hoodie”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sukienka"
+        },
+        {
+          "id": "b",
+          "text": "but"
+        },
+        {
+          "id": "c",
+          "text": "ubrania"
+        },
+        {
+          "id": "d",
+          "text": "bluza z kapturem"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hoodie” oznacza po polsku „bluza z kapturem”."
+    },
+    {
+      "id": "clothes-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jacket”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kurtka"
+        },
+        {
+          "id": "b",
+          "text": "kozak"
+        },
+        {
+          "id": "c",
+          "text": "bransoletka"
+        },
+        {
+          "id": "d",
+          "text": "rozmiar"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„jacket” oznacza po polsku „kurtka”."
+    },
+    {
+      "id": "clothes-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „coat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "muszka"
+        },
+        {
+          "id": "b",
+          "text": "płaszcz"
+        },
+        {
+          "id": "c",
+          "text": "spódnica"
+        },
+        {
+          "id": "d",
+          "text": "ubrania"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„coat” oznacza po polsku „płaszcz”."
+    },
+    {
+      "id": "clothes-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „suit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "materiał"
+        },
+        {
+          "id": "b",
+          "text": "garnitur"
+        },
+        {
+          "id": "c",
+          "text": "dżinsy"
+        },
+        {
+          "id": "d",
+          "text": "styl"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„suit” oznacza po polsku „garnitur”."
+    },
+    {
+      "id": "clothes-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dress”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bawełna"
+        },
+        {
+          "id": "b",
+          "text": "kolczyk"
+        },
+        {
+          "id": "c",
+          "text": "torebka"
+        },
+        {
+          "id": "d",
+          "text": "sukienka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„dress” oznacza po polsku „sukienka”."
+    },
+    {
+      "id": "clothes-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „skirt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skarpetki"
+        },
+        {
+          "id": "b",
+          "text": "biżuteria"
+        },
+        {
+          "id": "c",
+          "text": "spódnica"
+        },
+        {
+          "id": "d",
+          "text": "koszula"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„skirt” oznacza po polsku „spódnica”."
+    },
+    {
+      "id": "clothes-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „trousers”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spodnie"
+        },
+        {
+          "id": "b",
+          "text": "sukienka"
+        },
+        {
+          "id": "c",
+          "text": "spódnica"
+        },
+        {
+          "id": "d",
+          "text": "sandał"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„trousers” oznacza po polsku „spodnie”."
+    },
+    {
+      "id": "clothes-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jeans”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bluza z kapturem"
+        },
+        {
+          "id": "b",
+          "text": "sweter"
+        },
+        {
+          "id": "c",
+          "text": "krawat"
+        },
+        {
+          "id": "d",
+          "text": "dżinsy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„jeans” oznacza po polsku „dżinsy”."
+    },
+    {
+      "id": "clothes-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shorts”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "naszyjnik"
+        },
+        {
+          "id": "b",
+          "text": "krótkie spodenki"
+        },
+        {
+          "id": "c",
+          "text": "kapeć"
+        },
+        {
+          "id": "d",
+          "text": "sweter"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„shorts” oznacza po polsku „krótkie spodenki”."
+    },
+    {
+      "id": "clothes-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „underwear”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piżama"
+        },
+        {
+          "id": "b",
+          "text": "rozmiar"
+        },
+        {
+          "id": "c",
+          "text": "naszyjnik"
+        },
+        {
+          "id": "d",
+          "text": "bielizna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„underwear” oznacza po polsku „bielizna”."
+    },
+    {
+      "id": "clothes-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „socks”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "muszka"
+        },
+        {
+          "id": "b",
+          "text": "parasol"
+        },
+        {
+          "id": "c",
+          "text": "kurtka"
+        },
+        {
+          "id": "d",
+          "text": "skarpetki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„socks” oznacza po polsku „skarpetki”."
+    },
+    {
+      "id": "clothes-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tights”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wełna"
+        },
+        {
+          "id": "b",
+          "text": "krawat"
+        },
+        {
+          "id": "c",
+          "text": "muszka"
+        },
+        {
+          "id": "d",
+          "text": "rajstopy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„tights” oznacza po polsku „rajstopy”."
+    },
+    {
+      "id": "clothes-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pyjamas”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bawełna"
+        },
+        {
+          "id": "b",
+          "text": "torebka"
+        },
+        {
+          "id": "c",
+          "text": "piżama"
+        },
+        {
+          "id": "d",
+          "text": "kurtka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pyjamas” oznacza po polsku „piżama”."
+    },
+    {
+      "id": "clothes-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shoe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "naszyjnik"
+        },
+        {
+          "id": "b",
+          "text": "but"
+        },
+        {
+          "id": "c",
+          "text": "biżuteria"
+        },
+        {
+          "id": "d",
+          "text": "bawełna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„shoe” oznacza po polsku „but”."
+    },
+    {
+      "id": "clothes-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boot”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krótkie spodenki"
+        },
+        {
+          "id": "b",
+          "text": "rozmiar"
+        },
+        {
+          "id": "c",
+          "text": "biżuteria"
+        },
+        {
+          "id": "d",
+          "text": "kozak"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„boot” oznacza po polsku „kozak”."
+    },
+    {
+      "id": "clothes-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „trainer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "torebka"
+        },
+        {
+          "id": "b",
+          "text": "moda"
+        },
+        {
+          "id": "c",
+          "text": "but sportowy"
+        },
+        {
+          "id": "d",
+          "text": "kozak"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„trainer” oznacza po polsku „but sportowy”."
+    },
+    {
+      "id": "clothes-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sandal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piżama"
+        },
+        {
+          "id": "b",
+          "text": "krawat"
+        },
+        {
+          "id": "c",
+          "text": "but"
+        },
+        {
+          "id": "d",
+          "text": "sandał"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„sandal” oznacza po polsku „sandał”."
+    },
+    {
+      "id": "clothes-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „slipper”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kapeć"
+        },
+        {
+          "id": "b",
+          "text": "spodnie"
+        },
+        {
+          "id": "c",
+          "text": "rajstopy"
+        },
+        {
+          "id": "d",
+          "text": "portfel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„slipper” oznacza po polsku „kapeć”."
+    },
+    {
+      "id": "clothes-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamek błyskawiczny"
+        },
+        {
+          "id": "b",
+          "text": "kapelusz"
+        },
+        {
+          "id": "c",
+          "text": "koszula"
+        },
+        {
+          "id": "d",
+          "text": "kurtka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hat” oznacza po polsku „kapelusz”."
+    },
+    {
+      "id": "clothes-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cap”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bielizna"
+        },
+        {
+          "id": "b",
+          "text": "czapka z daszkiem"
+        },
+        {
+          "id": "c",
+          "text": "bawełna"
+        },
+        {
+          "id": "d",
+          "text": "skóra naturalna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cap” oznacza po polsku „czapka z daszkiem”."
+    },
+    {
+      "id": "clothes-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scarf”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krótkie spodenki"
+        },
+        {
+          "id": "b",
+          "text": "parasol"
+        },
+        {
+          "id": "c",
+          "text": "szalik"
+        },
+        {
+          "id": "d",
+          "text": "bawełna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„scarf” oznacza po polsku „szalik”."
+    },
+    {
+      "id": "clothes-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „glove”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moda"
+        },
+        {
+          "id": "b",
+          "text": "rękawiczka"
+        },
+        {
+          "id": "c",
+          "text": "krótkie spodenki"
+        },
+        {
+          "id": "d",
+          "text": "portfel"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„glove” oznacza po polsku „rękawiczka”."
+    },
+    {
+      "id": "clothes-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „belt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "materiał"
+        },
+        {
+          "id": "b",
+          "text": "biżuteria"
+        },
+        {
+          "id": "c",
+          "text": "pasek"
+        },
+        {
+          "id": "d",
+          "text": "bransoletka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„belt” oznacza po polsku „pasek”."
+    },
+    {
+      "id": "clothes-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tie”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płaszcz"
+        },
+        {
+          "id": "b",
+          "text": "krawat"
+        },
+        {
+          "id": "c",
+          "text": "rękawiczka"
+        },
+        {
+          "id": "d",
+          "text": "moda"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„tie” oznacza po polsku „krawat”."
+    },
+    {
+      "id": "clothes-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bow tie”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rajstopy"
+        },
+        {
+          "id": "b",
+          "text": "bluzka"
+        },
+        {
+          "id": "c",
+          "text": "muszka"
+        },
+        {
+          "id": "d",
+          "text": "rozmiar"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bow tie” oznacza po polsku „muszka”."
+    },
+    {
+      "id": "clothes-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pocket”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "garnitur"
+        },
+        {
+          "id": "b",
+          "text": "kieszeń"
+        },
+        {
+          "id": "c",
+          "text": "spódnica"
+        },
+        {
+          "id": "d",
+          "text": "pierścionek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pocket” oznacza po polsku „kieszeń”."
+    },
+    {
+      "id": "clothes-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „button”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "guzik"
+        },
+        {
+          "id": "b",
+          "text": "pasek"
+        },
+        {
+          "id": "c",
+          "text": "skarpetki"
+        },
+        {
+          "id": "d",
+          "text": "koszulka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„button” oznacza po polsku „guzik”."
+    },
+    {
+      "id": "clothes-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „zip”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spódnica"
+        },
+        {
+          "id": "b",
+          "text": "zamek błyskawiczny"
+        },
+        {
+          "id": "c",
+          "text": "krótkie spodenki"
+        },
+        {
+          "id": "d",
+          "text": "piżama"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„zip” oznacza po polsku „zamek błyskawiczny”."
+    },
+    {
+      "id": "clothes-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „size”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biżuteria"
+        },
+        {
+          "id": "b",
+          "text": "pasek"
+        },
+        {
+          "id": "c",
+          "text": "wełna"
+        },
+        {
+          "id": "d",
+          "text": "rozmiar"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„size” oznacza po polsku „rozmiar”."
+    },
+    {
+      "id": "clothes-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „material”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "materiał"
+        },
+        {
+          "id": "b",
+          "text": "but"
+        },
+        {
+          "id": "c",
+          "text": "styl"
+        },
+        {
+          "id": "d",
+          "text": "portfel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„material” oznacza po polsku „materiał”."
+    },
+    {
+      "id": "clothes-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cotton”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bawełna"
+        },
+        {
+          "id": "b",
+          "text": "kapeć"
+        },
+        {
+          "id": "c",
+          "text": "kolczyk"
+        },
+        {
+          "id": "d",
+          "text": "parasol"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cotton” oznacza po polsku „bawełna”."
+    },
+    {
+      "id": "clothes-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wool”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koszulka"
+        },
+        {
+          "id": "b",
+          "text": "szalik"
+        },
+        {
+          "id": "c",
+          "text": "rozmiar"
+        },
+        {
+          "id": "d",
+          "text": "wełna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„wool” oznacza po polsku „wełna”."
+    },
+    {
+      "id": "clothes-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leather”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krótkie spodenki"
+        },
+        {
+          "id": "b",
+          "text": "skóra naturalna"
+        },
+        {
+          "id": "c",
+          "text": "materiał"
+        },
+        {
+          "id": "d",
+          "text": "szalik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„leather” oznacza po polsku „skóra naturalna”."
+    },
+    {
+      "id": "clothes-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „silk”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bielizna"
+        },
+        {
+          "id": "b",
+          "text": "portfel"
+        },
+        {
+          "id": "c",
+          "text": "sweter"
+        },
+        {
+          "id": "d",
+          "text": "jedwab"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„silk” oznacza po polsku „jedwab”."
+    },
+    {
+      "id": "clothes-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fashion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "muszka"
+        },
+        {
+          "id": "b",
+          "text": "moda"
+        },
+        {
+          "id": "c",
+          "text": "parasol"
+        },
+        {
+          "id": "d",
+          "text": "płaszcz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fashion” oznacza po polsku „moda”."
+    },
+    {
+      "id": "clothes-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „style”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pasek"
+        },
+        {
+          "id": "b",
+          "text": "bawełna"
+        },
+        {
+          "id": "c",
+          "text": "styl"
+        },
+        {
+          "id": "d",
+          "text": "ubrania"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„style” oznacza po polsku „styl”."
+    },
+    {
+      "id": "clothes-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jewellery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krawat"
+        },
+        {
+          "id": "b",
+          "text": "biżuteria"
+        },
+        {
+          "id": "c",
+          "text": "garnitur"
+        },
+        {
+          "id": "d",
+          "text": "rajstopy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„jewellery” oznacza po polsku „biżuteria”."
+    },
+    {
+      "id": "clothes-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ring”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pasek"
+        },
+        {
+          "id": "b",
+          "text": "bawełna"
+        },
+        {
+          "id": "c",
+          "text": "moda"
+        },
+        {
+          "id": "d",
+          "text": "pierścionek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ring” oznacza po polsku „pierścionek”."
+    },
+    {
+      "id": "clothes-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „necklace”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sandał"
+        },
+        {
+          "id": "b",
+          "text": "naszyjnik"
+        },
+        {
+          "id": "c",
+          "text": "zegarek"
+        },
+        {
+          "id": "d",
+          "text": "rajstopy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„necklace” oznacza po polsku „naszyjnik”."
+    },
+    {
+      "id": "clothes-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bracelet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bluzka"
+        },
+        {
+          "id": "b",
+          "text": "szalik"
+        },
+        {
+          "id": "c",
+          "text": "bransoletka"
+        },
+        {
+          "id": "d",
+          "text": "koszula"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bracelet” oznacza po polsku „bransoletka”."
+    },
+    {
+      "id": "clothes-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „earring”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kolczyk"
+        },
+        {
+          "id": "b",
+          "text": "kurtka"
+        },
+        {
+          "id": "c",
+          "text": "styl"
+        },
+        {
+          "id": "d",
+          "text": "naszyjnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„earring” oznacza po polsku „kolczyk”."
+    },
+    {
+      "id": "clothes-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „watch”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zegarek"
+        },
+        {
+          "id": "b",
+          "text": "sweter"
+        },
+        {
+          "id": "c",
+          "text": "sandał"
+        },
+        {
+          "id": "d",
+          "text": "bawełna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„watch” oznacza po polsku „zegarek”."
+    },
+    {
+      "id": "clothes-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „handbag”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skarpetki"
+        },
+        {
+          "id": "b",
+          "text": "torebka"
+        },
+        {
+          "id": "c",
+          "text": "spódnica"
+        },
+        {
+          "id": "d",
+          "text": "zamek błyskawiczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„handbag” oznacza po polsku „torebka”."
+    },
+    {
+      "id": "clothes-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wallet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kolczyk"
+        },
+        {
+          "id": "b",
+          "text": "materiał"
+        },
+        {
+          "id": "c",
+          "text": "jedwab"
+        },
+        {
+          "id": "d",
+          "text": "portfel"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„wallet” oznacza po polsku „portfel”."
+    },
+    {
+      "id": "clothes-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „umbrella”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "płaszcz"
+        },
+        {
+          "id": "b",
+          "text": "parasol"
+        },
+        {
+          "id": "c",
+          "text": "naszyjnik"
+        },
+        {
+          "id": "d",
+          "text": "kieszeń"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„umbrella” oznacza po polsku „parasol”."
+    }
+  ]
+}

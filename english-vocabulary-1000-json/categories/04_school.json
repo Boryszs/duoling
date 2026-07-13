@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "school",
+    "name": "Szkoła i nauka"
+  },
+  "questions": [
+    {
+      "id": "school-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „school”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szkoła"
+        },
+        {
+          "id": "b",
+          "text": "podręcznik"
+        },
+        {
+          "id": "c",
+          "text": "strona"
+        },
+        {
+          "id": "d",
+          "text": "kredka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„school” oznacza po polsku „szkoła”."
+    },
+    {
+      "id": "school-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „student”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "język"
+        },
+        {
+          "id": "b",
+          "text": "uczelnia"
+        },
+        {
+          "id": "c",
+          "text": "chemia"
+        },
+        {
+          "id": "d",
+          "text": "uczeń"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„student” oznacza po polsku „uczeń”."
+    },
+    {
+      "id": "school-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „teacher”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczeń"
+        },
+        {
+          "id": "b",
+          "text": "nauczyciel"
+        },
+        {
+          "id": "c",
+          "text": "słowo"
+        },
+        {
+          "id": "d",
+          "text": "geografia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„teacher” oznacza po polsku „nauczyciel”."
+    },
+    {
+      "id": "school-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „classroom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sala lekcyjna"
+        },
+        {
+          "id": "b",
+          "text": "kurs"
+        },
+        {
+          "id": "c",
+          "text": "przykład"
+        },
+        {
+          "id": "d",
+          "text": "ocena"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„classroom” oznacza po polsku „sala lekcyjna”."
+    },
+    {
+      "id": "school-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lesson”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekcja"
+        },
+        {
+          "id": "b",
+          "text": "błąd"
+        },
+        {
+          "id": "c",
+          "text": "wykład"
+        },
+        {
+          "id": "d",
+          "text": "kreda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lesson” oznacza po polsku „lekcja”."
+    },
+    {
+      "id": "school-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „subject”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kurs"
+        },
+        {
+          "id": "b",
+          "text": "przedmiot"
+        },
+        {
+          "id": "c",
+          "text": "test"
+        },
+        {
+          "id": "d",
+          "text": "podręcznik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„subject” oznacza po polsku „przedmiot”."
+    },
+    {
+      "id": "school-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „homework”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ćwiczenie"
+        },
+        {
+          "id": "b",
+          "text": "praca domowa"
+        },
+        {
+          "id": "c",
+          "text": "pytanie"
+        },
+        {
+          "id": "d",
+          "text": "strona"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„homework” oznacza po polsku „praca domowa”."
+    },
+    {
+      "id": "school-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „test”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "długopis"
+        },
+        {
+          "id": "b",
+          "text": "zeszyt"
+        },
+        {
+          "id": "c",
+          "text": "kreda"
+        },
+        {
+          "id": "d",
+          "text": "test"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„test” oznacza po polsku „test”."
+    },
+    {
+      "id": "school-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exam”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biologia"
+        },
+        {
+          "id": "b",
+          "text": "uczelnia"
+        },
+        {
+          "id": "c",
+          "text": "egzamin"
+        },
+        {
+          "id": "d",
+          "text": "błąd"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„exam” oznacza po polsku „egzamin”."
+    },
+    {
+      "id": "school-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grade”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ocena"
+        },
+        {
+          "id": "b",
+          "text": "szkoła"
+        },
+        {
+          "id": "c",
+          "text": "nauczyciel"
+        },
+        {
+          "id": "d",
+          "text": "odpowiedź"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„grade” oznacza po polsku „ocena”."
+    },
+    {
+      "id": "school-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „book”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "książka"
+        },
+        {
+          "id": "b",
+          "text": "plecak"
+        },
+        {
+          "id": "c",
+          "text": "słowo"
+        },
+        {
+          "id": "d",
+          "text": "wykład"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„book” oznacza po polsku „książka”."
+    },
+    {
+      "id": "school-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „notebook”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "długopis"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedź"
+        },
+        {
+          "id": "c",
+          "text": "zeszyt"
+        },
+        {
+          "id": "d",
+          "text": "ocena"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„notebook” oznacza po polsku „zeszyt”."
+    },
+    {
+      "id": "school-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „textbook”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biblioteka"
+        },
+        {
+          "id": "b",
+          "text": "test"
+        },
+        {
+          "id": "c",
+          "text": "podręcznik"
+        },
+        {
+          "id": "d",
+          "text": "fizyka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„textbook” oznacza po polsku „podręcznik”."
+    },
+    {
+      "id": "school-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dictionary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słownik"
+        },
+        {
+          "id": "b",
+          "text": "podręcznik"
+        },
+        {
+          "id": "c",
+          "text": "szkoła"
+        },
+        {
+          "id": "d",
+          "text": "kredka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dictionary” oznacza po polsku „słownik”."
+    },
+    {
+      "id": "school-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pen”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "długopis"
+        },
+        {
+          "id": "b",
+          "text": "test"
+        },
+        {
+          "id": "c",
+          "text": "wykład"
+        },
+        {
+          "id": "d",
+          "text": "egzamin"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pen” oznacza po polsku „długopis”."
+    },
+    {
+      "id": "school-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pencil”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kurs"
+        },
+        {
+          "id": "b",
+          "text": "wiedza"
+        },
+        {
+          "id": "c",
+          "text": "ołówek"
+        },
+        {
+          "id": "d",
+          "text": "podręcznik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pencil” oznacza po polsku „ołówek”."
+    },
+    {
+      "id": "school-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „eraser”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "język"
+        },
+        {
+          "id": "b",
+          "text": "gumka"
+        },
+        {
+          "id": "c",
+          "text": "uczelnia"
+        },
+        {
+          "id": "d",
+          "text": "test"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„eraser” oznacza po polsku „gumka”."
+    },
+    {
+      "id": "school-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ruler”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczeń"
+        },
+        {
+          "id": "b",
+          "text": "pytanie"
+        },
+        {
+          "id": "c",
+          "text": "literatura"
+        },
+        {
+          "id": "d",
+          "text": "linijka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ruler” oznacza po polsku „linijka”."
+    },
+    {
+      "id": "school-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „marker”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marker"
+        },
+        {
+          "id": "b",
+          "text": "przedmiot"
+        },
+        {
+          "id": "c",
+          "text": "pytanie"
+        },
+        {
+          "id": "d",
+          "text": "edukacja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„marker” oznacza po polsku „marker”."
+    },
+    {
+      "id": "school-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „crayon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "matematyka"
+        },
+        {
+          "id": "b",
+          "text": "edukacja"
+        },
+        {
+          "id": "c",
+          "text": "fizyka"
+        },
+        {
+          "id": "d",
+          "text": "kredka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„crayon” oznacza po polsku „kredka”."
+    },
+    {
+      "id": "school-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „backpack”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przykład"
+        },
+        {
+          "id": "b",
+          "text": "słownik"
+        },
+        {
+          "id": "c",
+          "text": "plecak"
+        },
+        {
+          "id": "d",
+          "text": "długopis"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„backpack” oznacza po polsku „plecak”."
+    },
+    {
+      "id": "school-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blackboard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tablica"
+        },
+        {
+          "id": "b",
+          "text": "wiedza"
+        },
+        {
+          "id": "c",
+          "text": "słowo"
+        },
+        {
+          "id": "d",
+          "text": "geografia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„blackboard” oznacza po polsku „tablica”."
+    },
+    {
+      "id": "school-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chalk”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "edukacja"
+        },
+        {
+          "id": "b",
+          "text": "matematyka"
+        },
+        {
+          "id": "c",
+          "text": "sala lekcyjna"
+        },
+        {
+          "id": "d",
+          "text": "kreda"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„chalk” oznacza po polsku „kreda”."
+    },
+    {
+      "id": "school-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „page”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szkoła"
+        },
+        {
+          "id": "b",
+          "text": "strona"
+        },
+        {
+          "id": "c",
+          "text": "lekcja"
+        },
+        {
+          "id": "d",
+          "text": "uczelnia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„page” oznacza po polsku „strona”."
+    },
+    {
+      "id": "school-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chapter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "geografia"
+        },
+        {
+          "id": "b",
+          "text": "słownik"
+        },
+        {
+          "id": "c",
+          "text": "rozdział"
+        },
+        {
+          "id": "d",
+          "text": "tablica"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„chapter” oznacza po polsku „rozdział”."
+    },
+    {
+      "id": "school-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sentence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdanie"
+        },
+        {
+          "id": "b",
+          "text": "książka"
+        },
+        {
+          "id": "c",
+          "text": "szkoła"
+        },
+        {
+          "id": "d",
+          "text": "matematyka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sentence” oznacza po polsku „zdanie”."
+    },
+    {
+      "id": "school-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „word”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słowo"
+        },
+        {
+          "id": "b",
+          "text": "pytanie"
+        },
+        {
+          "id": "c",
+          "text": "przykład"
+        },
+        {
+          "id": "d",
+          "text": "przedmiot"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„word” oznacza po polsku „słowo”."
+    },
+    {
+      "id": "school-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „question”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gumka"
+        },
+        {
+          "id": "b",
+          "text": "chemia"
+        },
+        {
+          "id": "c",
+          "text": "sala lekcyjna"
+        },
+        {
+          "id": "d",
+          "text": "pytanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„question” oznacza po polsku „pytanie”."
+    },
+    {
+      "id": "school-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „answer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiedź"
+        },
+        {
+          "id": "b",
+          "text": "literatura"
+        },
+        {
+          "id": "c",
+          "text": "lekcja"
+        },
+        {
+          "id": "d",
+          "text": "wykład"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„answer” oznacza po polsku „odpowiedź”."
+    },
+    {
+      "id": "school-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exercise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "matematyka"
+        },
+        {
+          "id": "b",
+          "text": "książka"
+        },
+        {
+          "id": "c",
+          "text": "strona"
+        },
+        {
+          "id": "d",
+          "text": "ćwiczenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„exercise” oznacza po polsku „ćwiczenie”."
+    },
+    {
+      "id": "school-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „example”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ćwiczenie"
+        },
+        {
+          "id": "b",
+          "text": "błąd"
+        },
+        {
+          "id": "c",
+          "text": "przykład"
+        },
+        {
+          "id": "d",
+          "text": "linijka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„example” oznacza po polsku „przykład”."
+    },
+    {
+      "id": "school-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mistake”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "błąd"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedź"
+        },
+        {
+          "id": "c",
+          "text": "nauka"
+        },
+        {
+          "id": "d",
+          "text": "nauczyciel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mistake” oznacza po polsku „błąd”."
+    },
+    {
+      "id": "school-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „knowledge”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "strona"
+        },
+        {
+          "id": "b",
+          "text": "błąd"
+        },
+        {
+          "id": "c",
+          "text": "wiedza"
+        },
+        {
+          "id": "d",
+          "text": "marker"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„knowledge” oznacza po polsku „wiedza”."
+    },
+    {
+      "id": "school-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „skill”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczelnia"
+        },
+        {
+          "id": "b",
+          "text": "literatura"
+        },
+        {
+          "id": "c",
+          "text": "przykład"
+        },
+        {
+          "id": "d",
+          "text": "umiejętność"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„skill” oznacza po polsku „umiejętność”."
+    },
+    {
+      "id": "school-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „course”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ołówek"
+        },
+        {
+          "id": "b",
+          "text": "wiedza"
+        },
+        {
+          "id": "c",
+          "text": "kurs"
+        },
+        {
+          "id": "d",
+          "text": "uczeń"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„course” oznacza po polsku „kurs”."
+    },
+    {
+      "id": "school-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lecture”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chemia"
+        },
+        {
+          "id": "b",
+          "text": "wykład"
+        },
+        {
+          "id": "c",
+          "text": "literatura"
+        },
+        {
+          "id": "d",
+          "text": "gumka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lecture” oznacza po polsku „wykład”."
+    },
+    {
+      "id": "school-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „library”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczeń"
+        },
+        {
+          "id": "b",
+          "text": "wykład"
+        },
+        {
+          "id": "c",
+          "text": "biblioteka"
+        },
+        {
+          "id": "d",
+          "text": "literatura"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„library” oznacza po polsku „biblioteka”."
+    },
+    {
+      "id": "school-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „university”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedmiot"
+        },
+        {
+          "id": "b",
+          "text": "dyplom"
+        },
+        {
+          "id": "c",
+          "text": "kredka"
+        },
+        {
+          "id": "d",
+          "text": "uniwersytet"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„university” oznacza po polsku „uniwersytet”."
+    },
+    {
+      "id": "school-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „college”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczelnia"
+        },
+        {
+          "id": "b",
+          "text": "lekcja"
+        },
+        {
+          "id": "c",
+          "text": "podręcznik"
+        },
+        {
+          "id": "d",
+          "text": "słowo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„college” oznacza po polsku „uczelnia”."
+    },
+    {
+      "id": "school-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „degree”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nauka"
+        },
+        {
+          "id": "b",
+          "text": "edukacja"
+        },
+        {
+          "id": "c",
+          "text": "lekcja"
+        },
+        {
+          "id": "d",
+          "text": "dyplom"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„degree” oznacza po polsku „dyplom”."
+    },
+    {
+      "id": "school-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „science”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiedź"
+        },
+        {
+          "id": "b",
+          "text": "nauka"
+        },
+        {
+          "id": "c",
+          "text": "ćwiczenie"
+        },
+        {
+          "id": "d",
+          "text": "sala lekcyjna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„science” oznacza po polsku „nauka”."
+    },
+    {
+      "id": "school-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mathematics”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nauczyciel"
+        },
+        {
+          "id": "b",
+          "text": "matematyka"
+        },
+        {
+          "id": "c",
+          "text": "odpowiedź"
+        },
+        {
+          "id": "d",
+          "text": "biblioteka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mathematics” oznacza po polsku „matematyka”."
+    },
+    {
+      "id": "school-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „history”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "historia"
+        },
+        {
+          "id": "b",
+          "text": "nauczyciel"
+        },
+        {
+          "id": "c",
+          "text": "podręcznik"
+        },
+        {
+          "id": "d",
+          "text": "gumka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„history” oznacza po polsku „historia”."
+    },
+    {
+      "id": "school-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „geography”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "słowo"
+        },
+        {
+          "id": "b",
+          "text": "rozdział"
+        },
+        {
+          "id": "c",
+          "text": "strona"
+        },
+        {
+          "id": "d",
+          "text": "geografia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„geography” oznacza po polsku „geografia”."
+    },
+    {
+      "id": "school-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „biology”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biologia"
+        },
+        {
+          "id": "b",
+          "text": "przedmiot"
+        },
+        {
+          "id": "c",
+          "text": "praca domowa"
+        },
+        {
+          "id": "d",
+          "text": "linijka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„biology” oznacza po polsku „biologia”."
+    },
+    {
+      "id": "school-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chemistry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nauka"
+        },
+        {
+          "id": "b",
+          "text": "książka"
+        },
+        {
+          "id": "c",
+          "text": "chemia"
+        },
+        {
+          "id": "d",
+          "text": "egzamin"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„chemistry” oznacza po polsku „chemia”."
+    },
+    {
+      "id": "school-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „physics”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tablica"
+        },
+        {
+          "id": "b",
+          "text": "uczeń"
+        },
+        {
+          "id": "c",
+          "text": "fizyka"
+        },
+        {
+          "id": "d",
+          "text": "język"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„physics” oznacza po polsku „fizyka”."
+    },
+    {
+      "id": "school-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „language”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "praca domowa"
+        },
+        {
+          "id": "b",
+          "text": "dyplom"
+        },
+        {
+          "id": "c",
+          "text": "lekcja"
+        },
+        {
+          "id": "d",
+          "text": "język"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„language” oznacza po polsku „język”."
+    },
+    {
+      "id": "school-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „literature”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "geografia"
+        },
+        {
+          "id": "b",
+          "text": "egzamin"
+        },
+        {
+          "id": "c",
+          "text": "zeszyt"
+        },
+        {
+          "id": "d",
+          "text": "literatura"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„literature” oznacza po polsku „literatura”."
+    },
+    {
+      "id": "school-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „education”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiedza"
+        },
+        {
+          "id": "b",
+          "text": "lekcja"
+        },
+        {
+          "id": "c",
+          "text": "kurs"
+        },
+        {
+          "id": "d",
+          "text": "edukacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„education” oznacza po polsku „edukacja”."
+    }
+  ]
+}

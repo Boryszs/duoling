@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "body_health",
+    "name": "Ciało i zdrowie"
+  },
+  "questions": [
+    {
+      "id": "body_health-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „body”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "twarz"
+        },
+        {
+          "id": "b",
+          "text": "zdrowie"
+        },
+        {
+          "id": "c",
+          "text": "ból głowy"
+        },
+        {
+          "id": "d",
+          "text": "ciało"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„body” oznacza po polsku „ciało”."
+    },
+    {
+      "id": "body_health-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „head”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdrowie"
+        },
+        {
+          "id": "b",
+          "text": "głowa"
+        },
+        {
+          "id": "c",
+          "text": "bandaż"
+        },
+        {
+          "id": "d",
+          "text": "palec u ręki"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„head” oznacza po polsku „głowa”."
+    },
+    {
+      "id": "body_health-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „face”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekarz"
+        },
+        {
+          "id": "b",
+          "text": "twarz"
+        },
+        {
+          "id": "c",
+          "text": "stopa"
+        },
+        {
+          "id": "d",
+          "text": "palec u nogi"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„face” oznacza po polsku „twarz”."
+    },
+    {
+      "id": "body_health-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hair”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "palec u ręki"
+        },
+        {
+          "id": "b",
+          "text": "pielęgniarka"
+        },
+        {
+          "id": "c",
+          "text": "ramię"
+        },
+        {
+          "id": "d",
+          "text": "włosy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hair” oznacza po polsku „włosy”."
+    },
+    {
+      "id": "body_health-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „eye”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pielęgniarka"
+        },
+        {
+          "id": "b",
+          "text": "oko"
+        },
+        {
+          "id": "c",
+          "text": "ramię"
+        },
+        {
+          "id": "d",
+          "text": "noga"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„eye” oznacza po polsku „oko”."
+    },
+    {
+      "id": "body_health-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ear”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "noga"
+        },
+        {
+          "id": "b",
+          "text": "powrót do zdrowia"
+        },
+        {
+          "id": "c",
+          "text": "brzuch"
+        },
+        {
+          "id": "d",
+          "text": "ucho"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ear” oznacza po polsku „ucho”."
+    },
+    {
+      "id": "body_health-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nose”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nos"
+        },
+        {
+          "id": "b",
+          "text": "bandaż"
+        },
+        {
+          "id": "c",
+          "text": "rana"
+        },
+        {
+          "id": "d",
+          "text": "uraz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„nose” oznacza po polsku „nos”."
+    },
+    {
+      "id": "body_health-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mouth”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "usta"
+        },
+        {
+          "id": "b",
+          "text": "nos"
+        },
+        {
+          "id": "c",
+          "text": "ból zęba"
+        },
+        {
+          "id": "d",
+          "text": "ząb"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mouth” oznacza po polsku „usta”."
+    },
+    {
+      "id": "body_health-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tooth”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekarz"
+        },
+        {
+          "id": "b",
+          "text": "ząb"
+        },
+        {
+          "id": "c",
+          "text": "pacjent"
+        },
+        {
+          "id": "d",
+          "text": "kość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„tooth” oznacza po polsku „ząb”."
+    },
+    {
+      "id": "body_health-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tongue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciało"
+        },
+        {
+          "id": "b",
+          "text": "brzuch"
+        },
+        {
+          "id": "c",
+          "text": "leczenie"
+        },
+        {
+          "id": "d",
+          "text": "język w ustach"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„tongue” oznacza po polsku „język w ustach”."
+    },
+    {
+      "id": "body_health-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „neck”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szyja"
+        },
+        {
+          "id": "b",
+          "text": "ucho"
+        },
+        {
+          "id": "c",
+          "text": "katar"
+        },
+        {
+          "id": "d",
+          "text": "ból głowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„neck” oznacza po polsku „szyja”."
+    },
+    {
+      "id": "body_health-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shoulder”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nos"
+        },
+        {
+          "id": "b",
+          "text": "pielęgniarka"
+        },
+        {
+          "id": "c",
+          "text": "ramię"
+        },
+        {
+          "id": "d",
+          "text": "ząb"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„shoulder” oznacza po polsku „ramię”."
+    },
+    {
+      "id": "body_health-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „arm”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "włosy"
+        },
+        {
+          "id": "b",
+          "text": "kaszel"
+        },
+        {
+          "id": "c",
+          "text": "stopa"
+        },
+        {
+          "id": "d",
+          "text": "ręka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„arm” oznacza po polsku „ręka”."
+    },
+    {
+      "id": "body_health-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „elbow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stopa"
+        },
+        {
+          "id": "b",
+          "text": "wizyta"
+        },
+        {
+          "id": "c",
+          "text": "ramię"
+        },
+        {
+          "id": "d",
+          "text": "łokieć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„elbow” oznacza po polsku „łokieć”."
+    },
+    {
+      "id": "body_health-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hand”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wizyta"
+        },
+        {
+          "id": "b",
+          "text": "ząb"
+        },
+        {
+          "id": "c",
+          "text": "twarz"
+        },
+        {
+          "id": "d",
+          "text": "dłoń"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hand” oznacza po polsku „dłoń”."
+    },
+    {
+      "id": "body_health-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „finger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "operacja"
+        },
+        {
+          "id": "b",
+          "text": "palec u ręki"
+        },
+        {
+          "id": "c",
+          "text": "pielęgniarka"
+        },
+        {
+          "id": "d",
+          "text": "włosy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„finger” oznacza po polsku „palec u ręki”."
+    },
+    {
+      "id": "body_health-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klatka piersiowa"
+        },
+        {
+          "id": "b",
+          "text": "kość"
+        },
+        {
+          "id": "c",
+          "text": "stopa"
+        },
+        {
+          "id": "d",
+          "text": "nos"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„chest” oznacza po polsku „klatka piersiowa”."
+    },
+    {
+      "id": "body_health-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „back”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plecy"
+        },
+        {
+          "id": "b",
+          "text": "dłoń"
+        },
+        {
+          "id": "c",
+          "text": "stopa"
+        },
+        {
+          "id": "d",
+          "text": "ręka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„back” oznacza po polsku „plecy”."
+    },
+    {
+      "id": "body_health-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stomach”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "katar"
+        },
+        {
+          "id": "b",
+          "text": "leczenie"
+        },
+        {
+          "id": "c",
+          "text": "kolano"
+        },
+        {
+          "id": "d",
+          "text": "brzuch"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„stomach” oznacza po polsku „brzuch”."
+    },
+    {
+      "id": "body_health-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „waist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "leczenie"
+        },
+        {
+          "id": "b",
+          "text": "kolano"
+        },
+        {
+          "id": "c",
+          "text": "talia"
+        },
+        {
+          "id": "d",
+          "text": "noga"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„waist” oznacza po polsku „talia”."
+    },
+    {
+      "id": "body_health-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leg”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pacjent"
+        },
+        {
+          "id": "b",
+          "text": "noga"
+        },
+        {
+          "id": "c",
+          "text": "mózg"
+        },
+        {
+          "id": "d",
+          "text": "brzuch"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„leg” oznacza po polsku „noga”."
+    },
+    {
+      "id": "body_health-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „knee”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kolano"
+        },
+        {
+          "id": "b",
+          "text": "leczenie"
+        },
+        {
+          "id": "c",
+          "text": "zdrowie"
+        },
+        {
+          "id": "d",
+          "text": "kaszel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„knee” oznacza po polsku „kolano”."
+    },
+    {
+      "id": "body_health-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „foot”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stopa"
+        },
+        {
+          "id": "b",
+          "text": "twarz"
+        },
+        {
+          "id": "c",
+          "text": "pielęgniarka"
+        },
+        {
+          "id": "d",
+          "text": "bandaż"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„foot” oznacza po polsku „stopa”."
+    },
+    {
+      "id": "body_health-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „toe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krew"
+        },
+        {
+          "id": "b",
+          "text": "usta"
+        },
+        {
+          "id": "c",
+          "text": "palec u nogi"
+        },
+        {
+          "id": "d",
+          "text": "serce"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„toe” oznacza po polsku „palec u nogi”."
+    },
+    {
+      "id": "body_health-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „skin”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekarz"
+        },
+        {
+          "id": "b",
+          "text": "zdrowie"
+        },
+        {
+          "id": "c",
+          "text": "leczenie"
+        },
+        {
+          "id": "d",
+          "text": "skóra"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„skin” oznacza po polsku „skóra”."
+    },
+    {
+      "id": "body_health-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „heart”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uraz"
+        },
+        {
+          "id": "b",
+          "text": "szyja"
+        },
+        {
+          "id": "c",
+          "text": "kość"
+        },
+        {
+          "id": "d",
+          "text": "serce"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„heart” oznacza po polsku „serce”."
+    },
+    {
+      "id": "body_health-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klatka piersiowa"
+        },
+        {
+          "id": "b",
+          "text": "mózg"
+        },
+        {
+          "id": "c",
+          "text": "ucho"
+        },
+        {
+          "id": "d",
+          "text": "szyja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„brain” oznacza po polsku „mózg”."
+    },
+    {
+      "id": "body_health-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blood”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mózg"
+        },
+        {
+          "id": "b",
+          "text": "palec u ręki"
+        },
+        {
+          "id": "c",
+          "text": "krew"
+        },
+        {
+          "id": "d",
+          "text": "leczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blood” oznacza po polsku „krew”."
+    },
+    {
+      "id": "body_health-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bone”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uraz"
+        },
+        {
+          "id": "b",
+          "text": "głowa"
+        },
+        {
+          "id": "c",
+          "text": "kość"
+        },
+        {
+          "id": "d",
+          "text": "ból zęba"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bone” oznacza po polsku „kość”."
+    },
+    {
+      "id": "body_health-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „muscle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mięsień"
+        },
+        {
+          "id": "b",
+          "text": "lekarstwo"
+        },
+        {
+          "id": "c",
+          "text": "palec u nogi"
+        },
+        {
+          "id": "d",
+          "text": "ból"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„muscle” oznacza po polsku „mięsień”."
+    },
+    {
+      "id": "body_health-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „health”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ramię"
+        },
+        {
+          "id": "b",
+          "text": "twarz"
+        },
+        {
+          "id": "c",
+          "text": "skóra"
+        },
+        {
+          "id": "d",
+          "text": "zdrowie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„health” oznacza po polsku „zdrowie”."
+    },
+    {
+      "id": "body_health-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „illness”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "choroba"
+        },
+        {
+          "id": "b",
+          "text": "głowa"
+        },
+        {
+          "id": "c",
+          "text": "ząb"
+        },
+        {
+          "id": "d",
+          "text": "pielęgniarka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„illness” oznacza po polsku „choroba”."
+    },
+    {
+      "id": "body_health-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klatka piersiowa"
+        },
+        {
+          "id": "b",
+          "text": "brzuch"
+        },
+        {
+          "id": "c",
+          "text": "stopa"
+        },
+        {
+          "id": "d",
+          "text": "ból"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pain” oznacza po polsku „ból”."
+    },
+    {
+      "id": "body_health-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fever”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ząb"
+        },
+        {
+          "id": "b",
+          "text": "gorączka"
+        },
+        {
+          "id": "c",
+          "text": "ramię"
+        },
+        {
+          "id": "d",
+          "text": "katar"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fever” oznacza po polsku „gorączka”."
+    },
+    {
+      "id": "body_health-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cough”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kaszel"
+        },
+        {
+          "id": "b",
+          "text": "kolano"
+        },
+        {
+          "id": "c",
+          "text": "ząb"
+        },
+        {
+          "id": "d",
+          "text": "klatka piersiowa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cough” oznacza po polsku „kaszel”."
+    },
+    {
+      "id": "body_health-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „runny nose”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oko"
+        },
+        {
+          "id": "b",
+          "text": "palec u nogi"
+        },
+        {
+          "id": "c",
+          "text": "katar"
+        },
+        {
+          "id": "d",
+          "text": "ucho"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„runny nose” oznacza po polsku „katar”."
+    },
+    {
+      "id": "body_health-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „headache”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klatka piersiowa"
+        },
+        {
+          "id": "b",
+          "text": "zdrowie"
+        },
+        {
+          "id": "c",
+          "text": "ból głowy"
+        },
+        {
+          "id": "d",
+          "text": "katar"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„headache” oznacza po polsku „ból głowy”."
+    },
+    {
+      "id": "body_health-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „toothache”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kolano"
+        },
+        {
+          "id": "b",
+          "text": "palec u ręki"
+        },
+        {
+          "id": "c",
+          "text": "pacjent"
+        },
+        {
+          "id": "d",
+          "text": "ból zęba"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„toothache” oznacza po polsku „ból zęba”."
+    },
+    {
+      "id": "body_health-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „medicine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tabletka"
+        },
+        {
+          "id": "b",
+          "text": "twarz"
+        },
+        {
+          "id": "c",
+          "text": "lekarstwo"
+        },
+        {
+          "id": "d",
+          "text": "mięsień"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„medicine” oznacza po polsku „lekarstwo”."
+    },
+    {
+      "id": "body_health-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tablet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekarz"
+        },
+        {
+          "id": "b",
+          "text": "noga"
+        },
+        {
+          "id": "c",
+          "text": "bandaż"
+        },
+        {
+          "id": "d",
+          "text": "tabletka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„tablet” oznacza po polsku „tabletka”."
+    },
+    {
+      "id": "body_health-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „doctor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kaszel"
+        },
+        {
+          "id": "b",
+          "text": "oko"
+        },
+        {
+          "id": "c",
+          "text": "lekarz"
+        },
+        {
+          "id": "d",
+          "text": "ząb"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„doctor” oznacza po polsku „lekarz”."
+    },
+    {
+      "id": "body_health-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nurse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pacjent"
+        },
+        {
+          "id": "b",
+          "text": "kolano"
+        },
+        {
+          "id": "c",
+          "text": "pielęgniarka"
+        },
+        {
+          "id": "d",
+          "text": "lekarstwo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nurse” oznacza po polsku „pielęgniarka”."
+    },
+    {
+      "id": "body_health-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „patient”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nos"
+        },
+        {
+          "id": "b",
+          "text": "palec u ręki"
+        },
+        {
+          "id": "c",
+          "text": "pacjent"
+        },
+        {
+          "id": "d",
+          "text": "klatka piersiowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„patient” oznacza po polsku „pacjent”."
+    },
+    {
+      "id": "body_health-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „appointment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "talia"
+        },
+        {
+          "id": "b",
+          "text": "nos"
+        },
+        {
+          "id": "c",
+          "text": "powrót do zdrowia"
+        },
+        {
+          "id": "d",
+          "text": "wizyta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„appointment” oznacza po polsku „wizyta”."
+    },
+    {
+      "id": "body_health-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „treatment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mięsień"
+        },
+        {
+          "id": "b",
+          "text": "kość"
+        },
+        {
+          "id": "c",
+          "text": "leczenie"
+        },
+        {
+          "id": "d",
+          "text": "usta"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„treatment” oznacza po polsku „leczenie”."
+    },
+    {
+      "id": "body_health-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „operation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "operacja"
+        },
+        {
+          "id": "b",
+          "text": "szyja"
+        },
+        {
+          "id": "c",
+          "text": "ból zęba"
+        },
+        {
+          "id": "d",
+          "text": "kość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„operation” oznacza po polsku „operacja”."
+    },
+    {
+      "id": "body_health-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „injury”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdrowie"
+        },
+        {
+          "id": "b",
+          "text": "serce"
+        },
+        {
+          "id": "c",
+          "text": "uraz"
+        },
+        {
+          "id": "d",
+          "text": "kość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„injury” oznacza po polsku „uraz”."
+    },
+    {
+      "id": "body_health-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wound”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powrót do zdrowia"
+        },
+        {
+          "id": "b",
+          "text": "ból głowy"
+        },
+        {
+          "id": "c",
+          "text": "rana"
+        },
+        {
+          "id": "d",
+          "text": "łokieć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„wound” oznacza po polsku „rana”."
+    },
+    {
+      "id": "body_health-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bandage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bandaż"
+        },
+        {
+          "id": "b",
+          "text": "mózg"
+        },
+        {
+          "id": "c",
+          "text": "lekarz"
+        },
+        {
+          "id": "d",
+          "text": "nos"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bandage” oznacza po polsku „bandaż”."
+    },
+    {
+      "id": "body_health-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recovery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powrót do zdrowia"
+        },
+        {
+          "id": "b",
+          "text": "lekarz"
+        },
+        {
+          "id": "c",
+          "text": "uraz"
+        },
+        {
+          "id": "d",
+          "text": "ból"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„recovery” oznacza po polsku „powrót do zdrowia”."
+    }
+  ]
+}

@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "travel",
+    "name": "Podróże"
+  },
+  "questions": [
+    {
+      "id": "travel-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „travel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podróżować"
+        },
+        {
+          "id": "b",
+          "text": "kontrola bezpieczeństwa"
+        },
+        {
+          "id": "c",
+          "text": "paszport"
+        },
+        {
+          "id": "d",
+          "text": "pilot"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„travel” oznacza po polsku „podróżować”."
+    },
+    {
+      "id": "travel-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „trip”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "peron"
+        },
+        {
+          "id": "b",
+          "text": "waluta"
+        },
+        {
+          "id": "c",
+          "text": "bagaż"
+        },
+        {
+          "id": "d",
+          "text": "wycieczka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„trip” oznacza po polsku „wycieczka”."
+    },
+    {
+      "id": "travel-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „journey”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lotnisko"
+        },
+        {
+          "id": "b",
+          "text": "start samolotu"
+        },
+        {
+          "id": "c",
+          "text": "podróż"
+        },
+        {
+          "id": "d",
+          "text": "wymeldowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„journey” oznacza po polsku „podróż”."
+    },
+    {
+      "id": "travel-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tour”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miejsce przy oknie"
+        },
+        {
+          "id": "b",
+          "text": "hotel"
+        },
+        {
+          "id": "c",
+          "text": "objazd"
+        },
+        {
+          "id": "d",
+          "text": "opóźnienie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„tour” oznacza po polsku „objazd”."
+    },
+    {
+      "id": "travel-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tourist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kontrola celna"
+        },
+        {
+          "id": "b",
+          "text": "pokój dwuosobowy"
+        },
+        {
+          "id": "c",
+          "text": "turysta"
+        },
+        {
+          "id": "d",
+          "text": "trasa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„tourist” oznacza po polsku „turysta”."
+    },
+    {
+      "id": "travel-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „destination”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hotel"
+        },
+        {
+          "id": "b",
+          "text": "cel podróży"
+        },
+        {
+          "id": "c",
+          "text": "odjazd"
+        },
+        {
+          "id": "d",
+          "text": "zwiedzanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„destination” oznacza po polsku „cel podróży”."
+    },
+    {
+      "id": "travel-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „route”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trasa"
+        },
+        {
+          "id": "b",
+          "text": "terminal"
+        },
+        {
+          "id": "c",
+          "text": "podróżować"
+        },
+        {
+          "id": "d",
+          "text": "przyjazd"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„route” oznacza po polsku „trasa”."
+    },
+    {
+      "id": "travel-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „map”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mapa"
+        },
+        {
+          "id": "b",
+          "text": "start samolotu"
+        },
+        {
+          "id": "c",
+          "text": "przewodnik"
+        },
+        {
+          "id": "d",
+          "text": "miejsce przy przejściu"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„map” oznacza po polsku „mapa”."
+    },
+    {
+      "id": "travel-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guidebook”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewodnik"
+        },
+        {
+          "id": "b",
+          "text": "kontrola bezpieczeństwa"
+        },
+        {
+          "id": "c",
+          "text": "kontrola celna"
+        },
+        {
+          "id": "d",
+          "text": "wymeldowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„guidebook” oznacza po polsku „przewodnik”."
+    },
+    {
+      "id": "travel-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „luggage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bagaż"
+        },
+        {
+          "id": "b",
+          "text": "zwiedzanie"
+        },
+        {
+          "id": "c",
+          "text": "mapa"
+        },
+        {
+          "id": "d",
+          "text": "pokój jednoosobowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„luggage” oznacza po polsku „bagaż”."
+    },
+    {
+      "id": "travel-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „suitcase”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "peron"
+        },
+        {
+          "id": "b",
+          "text": "objazd"
+        },
+        {
+          "id": "c",
+          "text": "walizka"
+        },
+        {
+          "id": "d",
+          "text": "pas bezpieczeństwa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„suitcase” oznacza po polsku „walizka”."
+    },
+    {
+      "id": "travel-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hostel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hostel"
+        },
+        {
+          "id": "b",
+          "text": "personel pokładowy"
+        },
+        {
+          "id": "c",
+          "text": "start samolotu"
+        },
+        {
+          "id": "d",
+          "text": "przewodnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„hostel” oznacza po polsku „hostel”."
+    },
+    {
+      "id": "travel-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hotel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "granica"
+        },
+        {
+          "id": "b",
+          "text": "mapa"
+        },
+        {
+          "id": "c",
+          "text": "rezerwowanie"
+        },
+        {
+          "id": "d",
+          "text": "hotel"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hotel” oznacza po polsku „hotel”."
+    },
+    {
+      "id": "travel-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reservation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lotnisko"
+        },
+        {
+          "id": "b",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "c",
+          "text": "odwołany"
+        },
+        {
+          "id": "d",
+          "text": "pokój jednoosobowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reservation” oznacza po polsku „rezerwacja”."
+    },
+    {
+      "id": "travel-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reception”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "recepcja"
+        },
+        {
+          "id": "b",
+          "text": "waluta"
+        },
+        {
+          "id": "c",
+          "text": "paszport"
+        },
+        {
+          "id": "d",
+          "text": "zameldowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„reception” oznacza po polsku „recepcja”."
+    },
+    {
+      "id": "travel-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „room key”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hostel"
+        },
+        {
+          "id": "b",
+          "text": "start samolotu"
+        },
+        {
+          "id": "c",
+          "text": "klucz do pokoju"
+        },
+        {
+          "id": "d",
+          "text": "opóźnienie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„room key” oznacza po polsku „klucz do pokoju”."
+    },
+    {
+      "id": "travel-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „single room”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "start samolotu"
+        },
+        {
+          "id": "b",
+          "text": "peron"
+        },
+        {
+          "id": "c",
+          "text": "odjazd"
+        },
+        {
+          "id": "d",
+          "text": "pokój jednoosobowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„single room” oznacza po polsku „pokój jednoosobowy”."
+    },
+    {
+      "id": "travel-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „double room”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "start samolotu"
+        },
+        {
+          "id": "b",
+          "text": "pokój dwuosobowy"
+        },
+        {
+          "id": "c",
+          "text": "bilet"
+        },
+        {
+          "id": "d",
+          "text": "przyjazd"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„double room” oznacza po polsku „pokój dwuosobowy”."
+    },
+    {
+      "id": "travel-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „check-in”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwiedzanie"
+        },
+        {
+          "id": "b",
+          "text": "zameldowanie"
+        },
+        {
+          "id": "c",
+          "text": "miejsce przy przejściu"
+        },
+        {
+          "id": "d",
+          "text": "miejsce przy oknie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„check-in” oznacza po polsku „zameldowanie”."
+    },
+    {
+      "id": "travel-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „check-out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podróż"
+        },
+        {
+          "id": "b",
+          "text": "wiza"
+        },
+        {
+          "id": "c",
+          "text": "wymeldowanie"
+        },
+        {
+          "id": "d",
+          "text": "start samolotu"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„check-out” oznacza po polsku „wymeldowanie”."
+    },
+    {
+      "id": "travel-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „passport”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "recepcja"
+        },
+        {
+          "id": "b",
+          "text": "paszport"
+        },
+        {
+          "id": "c",
+          "text": "pocztówka"
+        },
+        {
+          "id": "d",
+          "text": "rezerwowanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„passport” oznacza po polsku „paszport”."
+    },
+    {
+      "id": "travel-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „visa”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wycieczka"
+        },
+        {
+          "id": "b",
+          "text": "objazd"
+        },
+        {
+          "id": "c",
+          "text": "bilet"
+        },
+        {
+          "id": "d",
+          "text": "wiza"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„visa” oznacza po polsku „wiza”."
+    },
+    {
+      "id": "travel-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „border”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bilet"
+        },
+        {
+          "id": "b",
+          "text": "granica"
+        },
+        {
+          "id": "c",
+          "text": "recepcja"
+        },
+        {
+          "id": "d",
+          "text": "bagaż"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„border” oznacza po polsku „granica”."
+    },
+    {
+      "id": "travel-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „customs”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przewodnik"
+        },
+        {
+          "id": "b",
+          "text": "pamiątka"
+        },
+        {
+          "id": "c",
+          "text": "kontrola celna"
+        },
+        {
+          "id": "d",
+          "text": "kantor"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„customs” oznacza po polsku „kontrola celna”."
+    },
+    {
+      "id": "travel-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „currency”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pokój dwuosobowy"
+        },
+        {
+          "id": "b",
+          "text": "waluta"
+        },
+        {
+          "id": "c",
+          "text": "granica"
+        },
+        {
+          "id": "d",
+          "text": "trasa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„currency” oznacza po polsku „waluta”."
+    },
+    {
+      "id": "travel-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exchange office”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kantor"
+        },
+        {
+          "id": "b",
+          "text": "zwiedzanie"
+        },
+        {
+          "id": "c",
+          "text": "hostel"
+        },
+        {
+          "id": "d",
+          "text": "kontrola celna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„exchange office” oznacza po polsku „kantor”."
+    },
+    {
+      "id": "travel-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ticket”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podróżować"
+        },
+        {
+          "id": "b",
+          "text": "przewodnik"
+        },
+        {
+          "id": "c",
+          "text": "walizka"
+        },
+        {
+          "id": "d",
+          "text": "bilet"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ticket” oznacza po polsku „bilet”."
+    },
+    {
+      "id": "travel-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „platform”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "peron"
+        },
+        {
+          "id": "b",
+          "text": "pas bezpieczeństwa"
+        },
+        {
+          "id": "c",
+          "text": "karta pokładowa"
+        },
+        {
+          "id": "d",
+          "text": "granica"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„platform” oznacza po polsku „peron”."
+    },
+    {
+      "id": "travel-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „departure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "objazd"
+        },
+        {
+          "id": "b",
+          "text": "odjazd"
+        },
+        {
+          "id": "c",
+          "text": "pokój jednoosobowy"
+        },
+        {
+          "id": "d",
+          "text": "bagaż"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„departure” oznacza po polsku „odjazd”."
+    },
+    {
+      "id": "travel-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „arrival”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "b",
+          "text": "podróż"
+        },
+        {
+          "id": "c",
+          "text": "podróżować"
+        },
+        {
+          "id": "d",
+          "text": "przyjazd"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„arrival” oznacza po polsku „przyjazd”."
+    },
+    {
+      "id": "travel-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „delay”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mapa"
+        },
+        {
+          "id": "b",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "c",
+          "text": "opóźnienie"
+        },
+        {
+          "id": "d",
+          "text": "podróżować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„delay” oznacza po polsku „opóźnienie”."
+    },
+    {
+      "id": "travel-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cancelled”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odwołany"
+        },
+        {
+          "id": "b",
+          "text": "rezerwowanie"
+        },
+        {
+          "id": "c",
+          "text": "przyjazd"
+        },
+        {
+          "id": "d",
+          "text": "paszport"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cancelled” oznacza po polsku „odwołany”."
+    },
+    {
+      "id": "travel-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „airport”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "b",
+          "text": "lotnisko"
+        },
+        {
+          "id": "c",
+          "text": "pas bezpieczeństwa"
+        },
+        {
+          "id": "d",
+          "text": "lądowanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„airport” oznacza po polsku „lotnisko”."
+    },
+    {
+      "id": "travel-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „terminal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "terminal"
+        },
+        {
+          "id": "b",
+          "text": "odwołany"
+        },
+        {
+          "id": "c",
+          "text": "pocztówka"
+        },
+        {
+          "id": "d",
+          "text": "turysta"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„terminal” oznacza po polsku „terminal”."
+    },
+    {
+      "id": "travel-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boarding pass”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karta pokładowa"
+        },
+        {
+          "id": "b",
+          "text": "miejsce przy przejściu"
+        },
+        {
+          "id": "c",
+          "text": "walizka"
+        },
+        {
+          "id": "d",
+          "text": "kontrola celna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„boarding pass” oznacza po polsku „karta pokładowa”."
+    },
+    {
+      "id": "travel-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gate number”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pamiątka"
+        },
+        {
+          "id": "b",
+          "text": "pocztówka"
+        },
+        {
+          "id": "c",
+          "text": "hotel"
+        },
+        {
+          "id": "d",
+          "text": "numer bramki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gate number” oznacza po polsku „numer bramki”."
+    },
+    {
+      "id": "travel-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „security check”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pas bezpieczeństwa"
+        },
+        {
+          "id": "b",
+          "text": "ubezpieczenie podróżne"
+        },
+        {
+          "id": "c",
+          "text": "lądowanie"
+        },
+        {
+          "id": "d",
+          "text": "kontrola bezpieczeństwa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„security check” oznacza po polsku „kontrola bezpieczeństwa”."
+    },
+    {
+      "id": "travel-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „take-off”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pamiątka"
+        },
+        {
+          "id": "b",
+          "text": "pocztówka"
+        },
+        {
+          "id": "c",
+          "text": "kantor"
+        },
+        {
+          "id": "d",
+          "text": "start samolotu"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„take-off” oznacza po polsku „start samolotu”."
+    },
+    {
+      "id": "travel-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „landing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "walizka"
+        },
+        {
+          "id": "b",
+          "text": "lądowanie"
+        },
+        {
+          "id": "c",
+          "text": "numer bramki"
+        },
+        {
+          "id": "d",
+          "text": "mapa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„landing” oznacza po polsku „lądowanie”."
+    },
+    {
+      "id": "travel-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flight”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lot"
+        },
+        {
+          "id": "b",
+          "text": "odjazd"
+        },
+        {
+          "id": "c",
+          "text": "karta pokładowa"
+        },
+        {
+          "id": "d",
+          "text": "start samolotu"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„flight” oznacza po polsku „lot”."
+    },
+    {
+      "id": "travel-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pilot”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lotnisko"
+        },
+        {
+          "id": "b",
+          "text": "pilot"
+        },
+        {
+          "id": "c",
+          "text": "wymeldowanie"
+        },
+        {
+          "id": "d",
+          "text": "start samolotu"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pilot” oznacza po polsku „pilot”."
+    },
+    {
+      "id": "travel-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cabin crew”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "personel pokładowy"
+        },
+        {
+          "id": "b",
+          "text": "odjazd"
+        },
+        {
+          "id": "c",
+          "text": "kontrola celna"
+        },
+        {
+          "id": "d",
+          "text": "rezerwowanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cabin crew” oznacza po polsku „personel pokładowy”."
+    },
+    {
+      "id": "travel-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „seat belt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pas bezpieczeństwa"
+        },
+        {
+          "id": "b",
+          "text": "rezerwowanie"
+        },
+        {
+          "id": "c",
+          "text": "hostel"
+        },
+        {
+          "id": "d",
+          "text": "przewodnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„seat belt” oznacza po polsku „pas bezpieczeństwa”."
+    },
+    {
+      "id": "travel-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „window seat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ubezpieczenie podróżne"
+        },
+        {
+          "id": "b",
+          "text": "trasa"
+        },
+        {
+          "id": "c",
+          "text": "miejsce przy oknie"
+        },
+        {
+          "id": "d",
+          "text": "kontrola celna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„window seat” oznacza po polsku „miejsce przy oknie”."
+    },
+    {
+      "id": "travel-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „aisle seat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pokój dwuosobowy"
+        },
+        {
+          "id": "b",
+          "text": "miejsce przy oknie"
+        },
+        {
+          "id": "c",
+          "text": "miejsce przy przejściu"
+        },
+        {
+          "id": "d",
+          "text": "personel pokładowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„aisle seat” oznacza po polsku „miejsce przy przejściu”."
+    },
+    {
+      "id": "travel-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sightseeing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miejsce przy przejściu"
+        },
+        {
+          "id": "b",
+          "text": "zwiedzanie"
+        },
+        {
+          "id": "c",
+          "text": "karta pokładowa"
+        },
+        {
+          "id": "d",
+          "text": "hotel"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sightseeing” oznacza po polsku „zwiedzanie”."
+    },
+    {
+      "id": "travel-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „souvenir”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odwołany"
+        },
+        {
+          "id": "b",
+          "text": "opóźnienie"
+        },
+        {
+          "id": "c",
+          "text": "podróż"
+        },
+        {
+          "id": "d",
+          "text": "pamiątka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„souvenir” oznacza po polsku „pamiątka”."
+    },
+    {
+      "id": "travel-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „postcard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pocztówka"
+        },
+        {
+          "id": "b",
+          "text": "bilet"
+        },
+        {
+          "id": "c",
+          "text": "pokój jednoosobowy"
+        },
+        {
+          "id": "d",
+          "text": "klucz do pokoju"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„postcard” oznacza po polsku „pocztówka”."
+    },
+    {
+      "id": "travel-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „travel insurance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miejsce przy oknie"
+        },
+        {
+          "id": "b",
+          "text": "pas bezpieczeństwa"
+        },
+        {
+          "id": "c",
+          "text": "ubezpieczenie podróżne"
+        },
+        {
+          "id": "d",
+          "text": "terminal"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„travel insurance” oznacza po polsku „ubezpieczenie podróżne”."
+    },
+    {
+      "id": "travel-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „booking”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "waluta"
+        },
+        {
+          "id": "b",
+          "text": "cel podróży"
+        },
+        {
+          "id": "c",
+          "text": "rezerwowanie"
+        },
+        {
+          "id": "d",
+          "text": "wymeldowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„booking” oznacza po polsku „rezerwowanie”."
+    }
+  ]
+}

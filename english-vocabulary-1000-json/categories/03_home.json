@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "home",
+    "name": "Dom i mieszkanie"
+  },
+  "questions": [
+    {
+      "id": "home-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „house”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dom"
+        },
+        {
+          "id": "b",
+          "text": "krzesło"
+        },
+        {
+          "id": "c",
+          "text": "garaż"
+        },
+        {
+          "id": "d",
+          "text": "balkon"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„house” oznacza po polsku „dom”."
+    },
+    {
+      "id": "home-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lustro"
+        },
+        {
+          "id": "b",
+          "text": "mieszkanie"
+        },
+        {
+          "id": "c",
+          "text": "krzesło"
+        },
+        {
+          "id": "d",
+          "text": "ogród"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„flat” oznacza po polsku „mieszkanie”."
+    },
+    {
+      "id": "home-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „room”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lampa"
+        },
+        {
+          "id": "b",
+          "text": "salon"
+        },
+        {
+          "id": "c",
+          "text": "koc"
+        },
+        {
+          "id": "d",
+          "text": "pokój"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„room” oznacza po polsku „pokój”."
+    },
+    {
+      "id": "home-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „kitchen”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "żelazko"
+        },
+        {
+          "id": "b",
+          "text": "kuchnia"
+        },
+        {
+          "id": "c",
+          "text": "biurko"
+        },
+        {
+          "id": "d",
+          "text": "sofa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„kitchen” oznacza po polsku „kuchnia”."
+    },
+    {
+      "id": "home-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bathroom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biurko"
+        },
+        {
+          "id": "b",
+          "text": "okno"
+        },
+        {
+          "id": "c",
+          "text": "łazienka"
+        },
+        {
+          "id": "d",
+          "text": "ręcznik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bathroom” oznacza po polsku „łazienka”."
+    },
+    {
+      "id": "home-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bedroom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sypialnia"
+        },
+        {
+          "id": "b",
+          "text": "garaż"
+        },
+        {
+          "id": "c",
+          "text": "pokój"
+        },
+        {
+          "id": "d",
+          "text": "czajnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bedroom” oznacza po polsku „sypialnia”."
+    },
+    {
+      "id": "home-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „living room”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lodówka"
+        },
+        {
+          "id": "b",
+          "text": "krzesło"
+        },
+        {
+          "id": "c",
+          "text": "kuchenka"
+        },
+        {
+          "id": "d",
+          "text": "salon"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„living room” oznacza po polsku „salon”."
+    },
+    {
+      "id": "home-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hallway”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szuflada"
+        },
+        {
+          "id": "b",
+          "text": "przedpokój"
+        },
+        {
+          "id": "c",
+          "text": "kuchnia"
+        },
+        {
+          "id": "d",
+          "text": "kuchenka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„hallway” oznacza po polsku „przedpokój”."
+    },
+    {
+      "id": "home-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „balcony”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "balkon"
+        },
+        {
+          "id": "b",
+          "text": "żelazko"
+        },
+        {
+          "id": "c",
+          "text": "odkurzacz"
+        },
+        {
+          "id": "d",
+          "text": "dach"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„balcony” oznacza po polsku „balkon”."
+    },
+    {
+      "id": "home-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „garden”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogród"
+        },
+        {
+          "id": "b",
+          "text": "kuchenka"
+        },
+        {
+          "id": "c",
+          "text": "lustro"
+        },
+        {
+          "id": "d",
+          "text": "sypialnia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„garden” oznacza po polsku „ogród”."
+    },
+    {
+      "id": "home-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „garage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łóżko"
+        },
+        {
+          "id": "b",
+          "text": "brama"
+        },
+        {
+          "id": "c",
+          "text": "garaż"
+        },
+        {
+          "id": "d",
+          "text": "żelazko"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„garage” oznacza po polsku „garaż”."
+    },
+    {
+      "id": "home-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „roof”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamek"
+        },
+        {
+          "id": "b",
+          "text": "poduszka"
+        },
+        {
+          "id": "c",
+          "text": "dach"
+        },
+        {
+          "id": "d",
+          "text": "zamrażarka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„roof” oznacza po polsku „dach”."
+    },
+    {
+      "id": "home-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wall”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drzwi"
+        },
+        {
+          "id": "b",
+          "text": "ściana"
+        },
+        {
+          "id": "c",
+          "text": "koc"
+        },
+        {
+          "id": "d",
+          "text": "zlew"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„wall” oznacza po polsku „ściana”."
+    },
+    {
+      "id": "home-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „floor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poduszka"
+        },
+        {
+          "id": "b",
+          "text": "koc"
+        },
+        {
+          "id": "c",
+          "text": "dach"
+        },
+        {
+          "id": "d",
+          "text": "podłoga"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„floor” oznacza po polsku „podłoga”."
+    },
+    {
+      "id": "home-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ceiling”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sufit"
+        },
+        {
+          "id": "b",
+          "text": "dom"
+        },
+        {
+          "id": "c",
+          "text": "zamek"
+        },
+        {
+          "id": "d",
+          "text": "ogród"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ceiling” oznacza po polsku „sufit”."
+    },
+    {
+      "id": "home-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „door”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drzwi"
+        },
+        {
+          "id": "b",
+          "text": "koc"
+        },
+        {
+          "id": "c",
+          "text": "sypialnia"
+        },
+        {
+          "id": "d",
+          "text": "brama"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„door” oznacza po polsku „drzwi”."
+    },
+    {
+      "id": "home-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „window”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "garaż"
+        },
+        {
+          "id": "b",
+          "text": "stół"
+        },
+        {
+          "id": "c",
+          "text": "płot"
+        },
+        {
+          "id": "d",
+          "text": "okno"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„window” oznacza po polsku „okno”."
+    },
+    {
+      "id": "home-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stairs”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biurko"
+        },
+        {
+          "id": "b",
+          "text": "schody"
+        },
+        {
+          "id": "c",
+          "text": "przedpokój"
+        },
+        {
+          "id": "d",
+          "text": "ręcznik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„stairs” oznacza po polsku „schody”."
+    },
+    {
+      "id": "home-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „table”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lampa"
+        },
+        {
+          "id": "b",
+          "text": "szafa"
+        },
+        {
+          "id": "c",
+          "text": "koc"
+        },
+        {
+          "id": "d",
+          "text": "stół"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„table” oznacza po polsku „stół”."
+    },
+    {
+      "id": "home-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chair”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "piekarnik"
+        },
+        {
+          "id": "b",
+          "text": "krzesło"
+        },
+        {
+          "id": "c",
+          "text": "łóżko"
+        },
+        {
+          "id": "d",
+          "text": "kuchenka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„chair” oznacza po polsku „krzesło”."
+    },
+    {
+      "id": "home-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sofa”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fotel"
+        },
+        {
+          "id": "b",
+          "text": "sofa"
+        },
+        {
+          "id": "c",
+          "text": "zmywarka"
+        },
+        {
+          "id": "d",
+          "text": "brama"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sofa” oznacza po polsku „sofa”."
+    },
+    {
+      "id": "home-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „armchair”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dom"
+        },
+        {
+          "id": "b",
+          "text": "fotel"
+        },
+        {
+          "id": "c",
+          "text": "dach"
+        },
+        {
+          "id": "d",
+          "text": "szafa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„armchair” oznacza po polsku „fotel”."
+    },
+    {
+      "id": "home-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "schody"
+        },
+        {
+          "id": "b",
+          "text": "łóżko"
+        },
+        {
+          "id": "c",
+          "text": "mieszkanie"
+        },
+        {
+          "id": "d",
+          "text": "koc"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bed” oznacza po polsku „łóżko”."
+    },
+    {
+      "id": "home-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wardrobe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pokój"
+        },
+        {
+          "id": "b",
+          "text": "pralka"
+        },
+        {
+          "id": "c",
+          "text": "szafa"
+        },
+        {
+          "id": "d",
+          "text": "dom"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„wardrobe” oznacza po polsku „szafa”."
+    },
+    {
+      "id": "home-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shelf”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poduszka"
+        },
+        {
+          "id": "b",
+          "text": "sypialnia"
+        },
+        {
+          "id": "c",
+          "text": "lampa"
+        },
+        {
+          "id": "d",
+          "text": "półka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„shelf” oznacza po polsku „półka”."
+    },
+    {
+      "id": "home-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „desk”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szafa"
+        },
+        {
+          "id": "b",
+          "text": "biurko"
+        },
+        {
+          "id": "c",
+          "text": "stół"
+        },
+        {
+          "id": "d",
+          "text": "fotel"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„desk” oznacza po polsku „biurko”."
+    },
+    {
+      "id": "home-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lamp”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pokój"
+        },
+        {
+          "id": "b",
+          "text": "płot"
+        },
+        {
+          "id": "c",
+          "text": "lampa"
+        },
+        {
+          "id": "d",
+          "text": "sofa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lamp” oznacza po polsku „lampa”."
+    },
+    {
+      "id": "home-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mirror”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lustro"
+        },
+        {
+          "id": "b",
+          "text": "stół"
+        },
+        {
+          "id": "c",
+          "text": "płot"
+        },
+        {
+          "id": "d",
+          "text": "żelazko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„mirror” oznacza po polsku „lustro”."
+    },
+    {
+      "id": "home-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „carpet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lodówka"
+        },
+        {
+          "id": "b",
+          "text": "biurko"
+        },
+        {
+          "id": "c",
+          "text": "dywan"
+        },
+        {
+          "id": "d",
+          "text": "dach"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„carpet” oznacza po polsku „dywan”."
+    },
+    {
+      "id": "home-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „curtain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dach"
+        },
+        {
+          "id": "b",
+          "text": "żelazko"
+        },
+        {
+          "id": "c",
+          "text": "zasłona"
+        },
+        {
+          "id": "d",
+          "text": "dywan"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„curtain” oznacza po polsku „zasłona”."
+    },
+    {
+      "id": "home-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pillow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krzesło"
+        },
+        {
+          "id": "b",
+          "text": "poduszka"
+        },
+        {
+          "id": "c",
+          "text": "garaż"
+        },
+        {
+          "id": "d",
+          "text": "lustro"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pillow” oznacza po polsku „poduszka”."
+    },
+    {
+      "id": "home-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blanket”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koc"
+        },
+        {
+          "id": "b",
+          "text": "ogród"
+        },
+        {
+          "id": "c",
+          "text": "żelazko"
+        },
+        {
+          "id": "d",
+          "text": "sofa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„blanket” oznacza po polsku „koc”."
+    },
+    {
+      "id": "home-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „towel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ręcznik"
+        },
+        {
+          "id": "b",
+          "text": "kuchenka"
+        },
+        {
+          "id": "c",
+          "text": "pralka"
+        },
+        {
+          "id": "d",
+          "text": "łóżko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„towel” oznacza po polsku „ręcznik”."
+    },
+    {
+      "id": "home-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fridge”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dom"
+        },
+        {
+          "id": "b",
+          "text": "ręcznik"
+        },
+        {
+          "id": "c",
+          "text": "lodówka"
+        },
+        {
+          "id": "d",
+          "text": "balkon"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„fridge” oznacza po polsku „lodówka”."
+    },
+    {
+      "id": "home-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „freezer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "półka"
+        },
+        {
+          "id": "b",
+          "text": "dom"
+        },
+        {
+          "id": "c",
+          "text": "zamrażarka"
+        },
+        {
+          "id": "d",
+          "text": "brama"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„freezer” oznacza po polsku „zamrażarka”."
+    },
+    {
+      "id": "home-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „oven”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "garaż"
+        },
+        {
+          "id": "b",
+          "text": "biurko"
+        },
+        {
+          "id": "c",
+          "text": "piekarnik"
+        },
+        {
+          "id": "d",
+          "text": "dach"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„oven” oznacza po polsku „piekarnik”."
+    },
+    {
+      "id": "home-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stove”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kuchenka"
+        },
+        {
+          "id": "b",
+          "text": "sofa"
+        },
+        {
+          "id": "c",
+          "text": "stół"
+        },
+        {
+          "id": "d",
+          "text": "mieszkanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„stove” oznacza po polsku „kuchenka”."
+    },
+    {
+      "id": "home-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sink”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "garaż"
+        },
+        {
+          "id": "b",
+          "text": "poduszka"
+        },
+        {
+          "id": "c",
+          "text": "zlew"
+        },
+        {
+          "id": "d",
+          "text": "sypialnia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sink” oznacza po polsku „zlew”."
+    },
+    {
+      "id": "home-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dishwasher”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zmywarka"
+        },
+        {
+          "id": "b",
+          "text": "ogród"
+        },
+        {
+          "id": "c",
+          "text": "lampa"
+        },
+        {
+          "id": "d",
+          "text": "półka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„dishwasher” oznacza po polsku „zmywarka”."
+    },
+    {
+      "id": "home-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „washing machine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łazienka"
+        },
+        {
+          "id": "b",
+          "text": "sofa"
+        },
+        {
+          "id": "c",
+          "text": "pralka"
+        },
+        {
+          "id": "d",
+          "text": "żelazko"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„washing machine” oznacza po polsku „pralka”."
+    },
+    {
+      "id": "home-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „vacuum cleaner”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sufit"
+        },
+        {
+          "id": "b",
+          "text": "odkurzacz"
+        },
+        {
+          "id": "c",
+          "text": "szuflada"
+        },
+        {
+          "id": "d",
+          "text": "zlew"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„vacuum cleaner” oznacza po polsku „odkurzacz”."
+    },
+    {
+      "id": "home-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „iron”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zasłona"
+        },
+        {
+          "id": "b",
+          "text": "żelazko"
+        },
+        {
+          "id": "c",
+          "text": "lampa"
+        },
+        {
+          "id": "d",
+          "text": "mieszkanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„iron” oznacza po polsku „żelazko”."
+    },
+    {
+      "id": "home-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „kettle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poduszka"
+        },
+        {
+          "id": "b",
+          "text": "czajnik"
+        },
+        {
+          "id": "c",
+          "text": "fotel"
+        },
+        {
+          "id": "d",
+          "text": "ogród"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„kettle” oznacza po polsku „czajnik”."
+    },
+    {
+      "id": "home-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cupboard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "okno"
+        },
+        {
+          "id": "b",
+          "text": "ręcznik"
+        },
+        {
+          "id": "c",
+          "text": "zmywarka"
+        },
+        {
+          "id": "d",
+          "text": "szafka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cupboard” oznacza po polsku „szafka”."
+    },
+    {
+      "id": "home-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „drawer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "balkon"
+        },
+        {
+          "id": "b",
+          "text": "szuflada"
+        },
+        {
+          "id": "c",
+          "text": "łazienka"
+        },
+        {
+          "id": "d",
+          "text": "biurko"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„drawer” oznacza po polsku „szuflada”."
+    },
+    {
+      "id": "home-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „key”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klucz"
+        },
+        {
+          "id": "b",
+          "text": "koc"
+        },
+        {
+          "id": "c",
+          "text": "półka"
+        },
+        {
+          "id": "d",
+          "text": "mieszkanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„key” oznacza po polsku „klucz”."
+    },
+    {
+      "id": "home-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lock”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dach"
+        },
+        {
+          "id": "b",
+          "text": "zamek"
+        },
+        {
+          "id": "c",
+          "text": "balkon"
+        },
+        {
+          "id": "d",
+          "text": "szafa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lock” oznacza po polsku „zamek”."
+    },
+    {
+      "id": "home-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łóżko"
+        },
+        {
+          "id": "b",
+          "text": "sypialnia"
+        },
+        {
+          "id": "c",
+          "text": "płot"
+        },
+        {
+          "id": "d",
+          "text": "fotel"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„fence” oznacza po polsku „płot”."
+    },
+    {
+      "id": "home-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podłoga"
+        },
+        {
+          "id": "b",
+          "text": "brama"
+        },
+        {
+          "id": "c",
+          "text": "ogród"
+        },
+        {
+          "id": "d",
+          "text": "balkon"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„gate” oznacza po polsku „brama”."
+    },
+    {
+      "id": "home-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chimney”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koc"
+        },
+        {
+          "id": "b",
+          "text": "sofa"
+        },
+        {
+          "id": "c",
+          "text": "komin"
+        },
+        {
+          "id": "d",
+          "text": "półka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„chimney” oznacza po polsku „komin”."
+    }
+  ]
+}

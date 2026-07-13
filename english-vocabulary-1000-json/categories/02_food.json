@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "food",
+    "name": "Jedzenie i napoje"
+  },
+  "questions": [
+    {
+      "id": "food-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bread”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chleb"
+        },
+        {
+          "id": "b",
+          "text": "jajko"
+        },
+        {
+          "id": "c",
+          "text": "wieprzowina"
+        },
+        {
+          "id": "d",
+          "text": "marchew"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bread” oznacza po polsku „chleb”."
+    },
+    {
+      "id": "food-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „butter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cebula"
+        },
+        {
+          "id": "b",
+          "text": "masło"
+        },
+        {
+          "id": "c",
+          "text": "winogrono"
+        },
+        {
+          "id": "d",
+          "text": "jabłko"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„butter” oznacza po polsku „masło”."
+    },
+    {
+      "id": "food-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cheese”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ser"
+        },
+        {
+          "id": "b",
+          "text": "czekolada"
+        },
+        {
+          "id": "c",
+          "text": "grzyb"
+        },
+        {
+          "id": "d",
+          "text": "sałatka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cheese” oznacza po polsku „ser”."
+    },
+    {
+      "id": "food-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „milk”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cebula"
+        },
+        {
+          "id": "b",
+          "text": "mleko"
+        },
+        {
+          "id": "c",
+          "text": "papryka"
+        },
+        {
+          "id": "d",
+          "text": "truskawka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„milk” oznacza po polsku „mleko”."
+    },
+    {
+      "id": "food-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „yogurt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jogurt"
+        },
+        {
+          "id": "b",
+          "text": "woda"
+        },
+        {
+          "id": "c",
+          "text": "śniadanie"
+        },
+        {
+          "id": "d",
+          "text": "obiad"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„yogurt” oznacza po polsku „jogurt”."
+    },
+    {
+      "id": "food-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „egg”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kapusta"
+        },
+        {
+          "id": "b",
+          "text": "jajko"
+        },
+        {
+          "id": "c",
+          "text": "wieprzowina"
+        },
+        {
+          "id": "d",
+          "text": "makaron"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„egg” oznacza po polsku „jajko”."
+    },
+    {
+      "id": "food-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „meat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kapusta"
+        },
+        {
+          "id": "b",
+          "text": "malina"
+        },
+        {
+          "id": "c",
+          "text": "makaron"
+        },
+        {
+          "id": "d",
+          "text": "mięso"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„meat” oznacza po polsku „mięso”."
+    },
+    {
+      "id": "food-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „beef”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wołowina"
+        },
+        {
+          "id": "b",
+          "text": "lunch"
+        },
+        {
+          "id": "c",
+          "text": "ogórek"
+        },
+        {
+          "id": "d",
+          "text": "jajko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„beef” oznacza po polsku „wołowina”."
+    },
+    {
+      "id": "food-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pork”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zupa"
+        },
+        {
+          "id": "b",
+          "text": "herbata"
+        },
+        {
+          "id": "c",
+          "text": "wieprzowina"
+        },
+        {
+          "id": "d",
+          "text": "borówka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pork” oznacza po polsku „wieprzowina”."
+    },
+    {
+      "id": "food-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fish”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ryba"
+        },
+        {
+          "id": "b",
+          "text": "ryż"
+        },
+        {
+          "id": "c",
+          "text": "papryka"
+        },
+        {
+          "id": "d",
+          "text": "sól"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fish” oznacza po polsku „ryba”."
+    },
+    {
+      "id": "food-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rice”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ryż"
+        },
+        {
+          "id": "b",
+          "text": "czekolada"
+        },
+        {
+          "id": "c",
+          "text": "obiad"
+        },
+        {
+          "id": "d",
+          "text": "mięso"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rice” oznacza po polsku „ryż”."
+    },
+    {
+      "id": "food-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pasta”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czekolada"
+        },
+        {
+          "id": "b",
+          "text": "gruszka"
+        },
+        {
+          "id": "c",
+          "text": "makaron"
+        },
+        {
+          "id": "d",
+          "text": "kawa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pasta” oznacza po polsku „makaron”."
+    },
+    {
+      "id": "food-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „potato”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "winogrono"
+        },
+        {
+          "id": "b",
+          "text": "ziemniak"
+        },
+        {
+          "id": "c",
+          "text": "borówka"
+        },
+        {
+          "id": "d",
+          "text": "ciasto"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„potato” oznacza po polsku „ziemniak”."
+    },
+    {
+      "id": "food-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tomato”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lody"
+        },
+        {
+          "id": "b",
+          "text": "pomidor"
+        },
+        {
+          "id": "c",
+          "text": "masło"
+        },
+        {
+          "id": "d",
+          "text": "ciastko"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„tomato” oznacza po polsku „pomidor”."
+    },
+    {
+      "id": "food-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cucumber”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "herbata"
+        },
+        {
+          "id": "b",
+          "text": "ogórek"
+        },
+        {
+          "id": "c",
+          "text": "mleko"
+        },
+        {
+          "id": "d",
+          "text": "wieprzowina"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cucumber” oznacza po polsku „ogórek”."
+    },
+    {
+      "id": "food-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „carrot”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marchew"
+        },
+        {
+          "id": "b",
+          "text": "masło"
+        },
+        {
+          "id": "c",
+          "text": "kapusta"
+        },
+        {
+          "id": "d",
+          "text": "cytryna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„carrot” oznacza po polsku „marchew”."
+    },
+    {
+      "id": "food-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „onion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wołowina"
+        },
+        {
+          "id": "b",
+          "text": "czosnek"
+        },
+        {
+          "id": "c",
+          "text": "miód"
+        },
+        {
+          "id": "d",
+          "text": "cebula"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„onion” oznacza po polsku „cebula”."
+    },
+    {
+      "id": "food-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „garlic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gruszka"
+        },
+        {
+          "id": "b",
+          "text": "czosnek"
+        },
+        {
+          "id": "c",
+          "text": "śniadanie"
+        },
+        {
+          "id": "d",
+          "text": "miód"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„garlic” oznacza po polsku „czosnek”."
+    },
+    {
+      "id": "food-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bell pepper”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sól"
+        },
+        {
+          "id": "b",
+          "text": "papryka"
+        },
+        {
+          "id": "c",
+          "text": "obiad"
+        },
+        {
+          "id": "d",
+          "text": "cytryna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bell pepper” oznacza po polsku „papryka”."
+    },
+    {
+      "id": "food-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cabbage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "winogrono"
+        },
+        {
+          "id": "b",
+          "text": "kapusta"
+        },
+        {
+          "id": "c",
+          "text": "marchew"
+        },
+        {
+          "id": "d",
+          "text": "sałata"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cabbage” oznacza po polsku „kapusta”."
+    },
+    {
+      "id": "food-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lettuce”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "arbuz"
+        },
+        {
+          "id": "b",
+          "text": "sałata"
+        },
+        {
+          "id": "c",
+          "text": "lunch"
+        },
+        {
+          "id": "d",
+          "text": "czosnek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„lettuce” oznacza po polsku „sałata”."
+    },
+    {
+      "id": "food-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mushroom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "woda"
+        },
+        {
+          "id": "b",
+          "text": "cebula"
+        },
+        {
+          "id": "c",
+          "text": "grzyb"
+        },
+        {
+          "id": "d",
+          "text": "obiad"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mushroom” oznacza po polsku „grzyb”."
+    },
+    {
+      "id": "food-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „apple”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jabłko"
+        },
+        {
+          "id": "b",
+          "text": "ser"
+        },
+        {
+          "id": "c",
+          "text": "cebula"
+        },
+        {
+          "id": "d",
+          "text": "woda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„apple” oznacza po polsku „jabłko”."
+    },
+    {
+      "id": "food-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pear”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lody"
+        },
+        {
+          "id": "b",
+          "text": "gruszka"
+        },
+        {
+          "id": "c",
+          "text": "grzyb"
+        },
+        {
+          "id": "d",
+          "text": "borówka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pear” oznacza po polsku „gruszka”."
+    },
+    {
+      "id": "food-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „banana”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "arbuz"
+        },
+        {
+          "id": "b",
+          "text": "borówka"
+        },
+        {
+          "id": "c",
+          "text": "gruszka"
+        },
+        {
+          "id": "d",
+          "text": "banan"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„banana” oznacza po polsku „banan”."
+    },
+    {
+      "id": "food-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „orange”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomarańcza"
+        },
+        {
+          "id": "b",
+          "text": "kanapka"
+        },
+        {
+          "id": "c",
+          "text": "śniadanie"
+        },
+        {
+          "id": "d",
+          "text": "ogórek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„orange” oznacza po polsku „pomarańcza”."
+    },
+    {
+      "id": "food-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lemon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cytryna"
+        },
+        {
+          "id": "b",
+          "text": "grzyb"
+        },
+        {
+          "id": "c",
+          "text": "sól"
+        },
+        {
+          "id": "d",
+          "text": "marchew"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lemon” oznacza po polsku „cytryna”."
+    },
+    {
+      "id": "food-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „strawberry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciasto"
+        },
+        {
+          "id": "b",
+          "text": "sól"
+        },
+        {
+          "id": "c",
+          "text": "kawa"
+        },
+        {
+          "id": "d",
+          "text": "truskawka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„strawberry” oznacza po polsku „truskawka”."
+    },
+    {
+      "id": "food-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „raspberry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanapka"
+        },
+        {
+          "id": "b",
+          "text": "śniadanie"
+        },
+        {
+          "id": "c",
+          "text": "malina"
+        },
+        {
+          "id": "d",
+          "text": "mleko"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„raspberry” oznacza po polsku „malina”."
+    },
+    {
+      "id": "food-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blueberry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kawa"
+        },
+        {
+          "id": "b",
+          "text": "mleko"
+        },
+        {
+          "id": "c",
+          "text": "borówka"
+        },
+        {
+          "id": "d",
+          "text": "marchew"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blueberry” oznacza po polsku „borówka”."
+    },
+    {
+      "id": "food-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grape”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "winogrono"
+        },
+        {
+          "id": "b",
+          "text": "jajko"
+        },
+        {
+          "id": "c",
+          "text": "lody"
+        },
+        {
+          "id": "d",
+          "text": "borówka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„grape” oznacza po polsku „winogrono”."
+    },
+    {
+      "id": "food-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „watermelon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kapusta"
+        },
+        {
+          "id": "b",
+          "text": "arbuz"
+        },
+        {
+          "id": "c",
+          "text": "kawa"
+        },
+        {
+          "id": "d",
+          "text": "jogurt"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„watermelon” oznacza po polsku „arbuz”."
+    },
+    {
+      "id": "food-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cake”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanapka"
+        },
+        {
+          "id": "b",
+          "text": "chleb"
+        },
+        {
+          "id": "c",
+          "text": "ciasto"
+        },
+        {
+          "id": "d",
+          "text": "lunch"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cake” oznacza po polsku „ciasto”."
+    },
+    {
+      "id": "food-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cookie”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "papryka"
+        },
+        {
+          "id": "b",
+          "text": "ciastko"
+        },
+        {
+          "id": "c",
+          "text": "sałata"
+        },
+        {
+          "id": "d",
+          "text": "truskawka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cookie” oznacza po polsku „ciastko”."
+    },
+    {
+      "id": "food-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chocolate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciastko"
+        },
+        {
+          "id": "b",
+          "text": "czekolada"
+        },
+        {
+          "id": "c",
+          "text": "lunch"
+        },
+        {
+          "id": "d",
+          "text": "woda"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„chocolate” oznacza po polsku „czekolada”."
+    },
+    {
+      "id": "food-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ice cream”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lody"
+        },
+        {
+          "id": "b",
+          "text": "jabłko"
+        },
+        {
+          "id": "c",
+          "text": "mąka"
+        },
+        {
+          "id": "d",
+          "text": "winogrono"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ice cream” oznacza po polsku „lody”."
+    },
+    {
+      "id": "food-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sugar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cytryna"
+        },
+        {
+          "id": "b",
+          "text": "cukier"
+        },
+        {
+          "id": "c",
+          "text": "sok"
+        },
+        {
+          "id": "d",
+          "text": "ziemniak"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sugar” oznacza po polsku „cukier”."
+    },
+    {
+      "id": "food-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „salt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "arbuz"
+        },
+        {
+          "id": "b",
+          "text": "wołowina"
+        },
+        {
+          "id": "c",
+          "text": "pomarańcza"
+        },
+        {
+          "id": "d",
+          "text": "sól"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„salt” oznacza po polsku „sól”."
+    },
+    {
+      "id": "food-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flour”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "woda"
+        },
+        {
+          "id": "b",
+          "text": "mąka"
+        },
+        {
+          "id": "c",
+          "text": "malina"
+        },
+        {
+          "id": "d",
+          "text": "lunch"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„flour” oznacza po polsku „mąka”."
+    },
+    {
+      "id": "food-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „honey”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mięso"
+        },
+        {
+          "id": "b",
+          "text": "chleb"
+        },
+        {
+          "id": "c",
+          "text": "sok"
+        },
+        {
+          "id": "d",
+          "text": "miód"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„honey” oznacza po polsku „miód”."
+    },
+    {
+      "id": "food-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „soup”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mąka"
+        },
+        {
+          "id": "b",
+          "text": "śniadanie"
+        },
+        {
+          "id": "c",
+          "text": "mleko"
+        },
+        {
+          "id": "d",
+          "text": "zupa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„soup” oznacza po polsku „zupa”."
+    },
+    {
+      "id": "food-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „salad”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chleb"
+        },
+        {
+          "id": "b",
+          "text": "sałata"
+        },
+        {
+          "id": "c",
+          "text": "wieprzowina"
+        },
+        {
+          "id": "d",
+          "text": "sałatka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„salad” oznacza po polsku „sałatka”."
+    },
+    {
+      "id": "food-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sandwich”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chleb"
+        },
+        {
+          "id": "b",
+          "text": "mięso"
+        },
+        {
+          "id": "c",
+          "text": "kanapka"
+        },
+        {
+          "id": "d",
+          "text": "ser"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„sandwich” oznacza po polsku „kanapka”."
+    },
+    {
+      "id": "food-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „breakfast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogórek"
+        },
+        {
+          "id": "b",
+          "text": "pomidor"
+        },
+        {
+          "id": "c",
+          "text": "śniadanie"
+        },
+        {
+          "id": "d",
+          "text": "sałata"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„breakfast” oznacza po polsku „śniadanie”."
+    },
+    {
+      "id": "food-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lunch”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jogurt"
+        },
+        {
+          "id": "b",
+          "text": "ser"
+        },
+        {
+          "id": "c",
+          "text": "lunch"
+        },
+        {
+          "id": "d",
+          "text": "ziemniak"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lunch” oznacza po polsku „lunch”."
+    },
+    {
+      "id": "food-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dinner”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ziemniak"
+        },
+        {
+          "id": "b",
+          "text": "wołowina"
+        },
+        {
+          "id": "c",
+          "text": "obiad"
+        },
+        {
+          "id": "d",
+          "text": "mąka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dinner” oznacza po polsku „obiad”."
+    },
+    {
+      "id": "food-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „water”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kawa"
+        },
+        {
+          "id": "b",
+          "text": "borówka"
+        },
+        {
+          "id": "c",
+          "text": "woda"
+        },
+        {
+          "id": "d",
+          "text": "jabłko"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„water” oznacza po polsku „woda”."
+    },
+    {
+      "id": "food-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tea”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "herbata"
+        },
+        {
+          "id": "b",
+          "text": "chleb"
+        },
+        {
+          "id": "c",
+          "text": "kanapka"
+        },
+        {
+          "id": "d",
+          "text": "arbuz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„tea” oznacza po polsku „herbata”."
+    },
+    {
+      "id": "food-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „coffee”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kawa"
+        },
+        {
+          "id": "b",
+          "text": "pomarańcza"
+        },
+        {
+          "id": "c",
+          "text": "obiad"
+        },
+        {
+          "id": "d",
+          "text": "borówka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„coffee” oznacza po polsku „kawa”."
+    },
+    {
+      "id": "food-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „juice”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grzyb"
+        },
+        {
+          "id": "b",
+          "text": "mięso"
+        },
+        {
+          "id": "c",
+          "text": "sok"
+        },
+        {
+          "id": "d",
+          "text": "kanapka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„juice” oznacza po polsku „sok”."
+    }
+  ]
+}

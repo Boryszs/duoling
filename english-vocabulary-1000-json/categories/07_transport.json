@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "transport",
+    "name": "Transport"
+  },
+  "questions": [
+    {
+      "id": "transport-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „car”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciężarówka"
+        },
+        {
+          "id": "b",
+          "text": "stacja"
+        },
+        {
+          "id": "c",
+          "text": "samochód"
+        },
+        {
+          "id": "d",
+          "text": "kierowca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„car” oznacza po polsku „samochód”."
+    },
+    {
+      "id": "transport-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bus”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pasażer"
+        },
+        {
+          "id": "b",
+          "text": "taksówka"
+        },
+        {
+          "id": "c",
+          "text": "benzyna"
+        },
+        {
+          "id": "d",
+          "text": "autobus"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bus” oznacza po polsku „autobus”."
+    },
+    {
+      "id": "transport-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „coach”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "autokar"
+        },
+        {
+          "id": "b",
+          "text": "metro"
+        },
+        {
+          "id": "c",
+          "text": "ciężarówka"
+        },
+        {
+          "id": "d",
+          "text": "konduktor"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„coach” oznacza po polsku „autokar”."
+    },
+    {
+      "id": "transport-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tram”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hamulec"
+        },
+        {
+          "id": "b",
+          "text": "prom"
+        },
+        {
+          "id": "c",
+          "text": "tramwaj"
+        },
+        {
+          "id": "d",
+          "text": "parking"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„tram” oznacza po polsku „tramwaj”."
+    },
+    {
+      "id": "transport-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „train”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pieszy"
+        },
+        {
+          "id": "b",
+          "text": "pociąg"
+        },
+        {
+          "id": "c",
+          "text": "autobus"
+        },
+        {
+          "id": "d",
+          "text": "stacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„train” oznacza po polsku „pociąg”."
+    },
+    {
+      "id": "transport-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „subway”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pieszy"
+        },
+        {
+          "id": "b",
+          "text": "autostrada"
+        },
+        {
+          "id": "c",
+          "text": "wypadek"
+        },
+        {
+          "id": "d",
+          "text": "metro"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„subway” oznacza po polsku „metro”."
+    },
+    {
+      "id": "transport-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „taxi”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koło"
+        },
+        {
+          "id": "b",
+          "text": "taksówka"
+        },
+        {
+          "id": "c",
+          "text": "sygnalizacja świetlna"
+        },
+        {
+          "id": "d",
+          "text": "autobus"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„taxi” oznacza po polsku „taksówka”."
+    },
+    {
+      "id": "transport-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bicycle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "furgonetka"
+        },
+        {
+          "id": "b",
+          "text": "rower"
+        },
+        {
+          "id": "c",
+          "text": "metro"
+        },
+        {
+          "id": "d",
+          "text": "ciężarówka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bicycle” oznacza po polsku „rower”."
+    },
+    {
+      "id": "transport-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „motorcycle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "motocykl"
+        },
+        {
+          "id": "b",
+          "text": "olej napędowy"
+        },
+        {
+          "id": "c",
+          "text": "pieszy"
+        },
+        {
+          "id": "d",
+          "text": "silnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„motorcycle” oznacza po polsku „motocykl”."
+    },
+    {
+      "id": "transport-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scooter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przystanek autobusowy"
+        },
+        {
+          "id": "b",
+          "text": "chodnik"
+        },
+        {
+          "id": "c",
+          "text": "hulajnoga"
+        },
+        {
+          "id": "d",
+          "text": "łódź"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„scooter” oznacza po polsku „hulajnoga”."
+    },
+    {
+      "id": "transport-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lorry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tramwaj"
+        },
+        {
+          "id": "b",
+          "text": "kierownica"
+        },
+        {
+          "id": "c",
+          "text": "ciężarówka"
+        },
+        {
+          "id": "d",
+          "text": "benzyna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„lorry” oznacza po polsku „ciężarówka”."
+    },
+    {
+      "id": "transport-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „van”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "silnik"
+        },
+        {
+          "id": "b",
+          "text": "korek uliczny"
+        },
+        {
+          "id": "c",
+          "text": "motocykl"
+        },
+        {
+          "id": "d",
+          "text": "furgonetka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„van” oznacza po polsku „furgonetka”."
+    },
+    {
+      "id": "transport-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ambulance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karetka"
+        },
+        {
+          "id": "b",
+          "text": "rower"
+        },
+        {
+          "id": "c",
+          "text": "ulica"
+        },
+        {
+          "id": "d",
+          "text": "bieg"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ambulance” oznacza po polsku „karetka”."
+    },
+    {
+      "id": "transport-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fire engine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pasażer"
+        },
+        {
+          "id": "b",
+          "text": "kierownica"
+        },
+        {
+          "id": "c",
+          "text": "ulica"
+        },
+        {
+          "id": "d",
+          "text": "wóz strażacki"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fire engine” oznacza po polsku „wóz strażacki”."
+    },
+    {
+      "id": "transport-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „police car”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bieg"
+        },
+        {
+          "id": "b",
+          "text": "radiowóz"
+        },
+        {
+          "id": "c",
+          "text": "kolej"
+        },
+        {
+          "id": "d",
+          "text": "rower"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„police car” oznacza po polsku „radiowóz”."
+    },
+    {
+      "id": "transport-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ship”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ścieżka rowerowa"
+        },
+        {
+          "id": "b",
+          "text": "kolej"
+        },
+        {
+          "id": "c",
+          "text": "statek"
+        },
+        {
+          "id": "d",
+          "text": "skrzyżowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ship” oznacza po polsku „statek”."
+    },
+    {
+      "id": "transport-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tunel"
+        },
+        {
+          "id": "b",
+          "text": "ścieżka rowerowa"
+        },
+        {
+          "id": "c",
+          "text": "opona"
+        },
+        {
+          "id": "d",
+          "text": "łódź"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„boat” oznacza po polsku „łódź”."
+    },
+    {
+      "id": "transport-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ferry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prom"
+        },
+        {
+          "id": "b",
+          "text": "kierownica"
+        },
+        {
+          "id": "c",
+          "text": "wypadek"
+        },
+        {
+          "id": "d",
+          "text": "opona"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ferry” oznacza po polsku „prom”."
+    },
+    {
+      "id": "transport-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „plane”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kierowca"
+        },
+        {
+          "id": "b",
+          "text": "karetka"
+        },
+        {
+          "id": "c",
+          "text": "prędkość"
+        },
+        {
+          "id": "d",
+          "text": "samolot"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„plane” oznacza po polsku „samolot”."
+    },
+    {
+      "id": "transport-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „helicopter”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konduktor"
+        },
+        {
+          "id": "b",
+          "text": "helikopter"
+        },
+        {
+          "id": "c",
+          "text": "silnik"
+        },
+        {
+          "id": "d",
+          "text": "droga"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„helicopter” oznacza po polsku „helikopter”."
+    },
+    {
+      "id": "transport-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „driver”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hamulec"
+        },
+        {
+          "id": "b",
+          "text": "korek uliczny"
+        },
+        {
+          "id": "c",
+          "text": "kolej"
+        },
+        {
+          "id": "d",
+          "text": "kierowca"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„driver” oznacza po polsku „kierowca”."
+    },
+    {
+      "id": "transport-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „passenger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "furgonetka"
+        },
+        {
+          "id": "b",
+          "text": "autokar"
+        },
+        {
+          "id": "c",
+          "text": "pasażer"
+        },
+        {
+          "id": "d",
+          "text": "radiowóz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„passenger” oznacza po polsku „pasażer”."
+    },
+    {
+      "id": "transport-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „conductor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kolej"
+        },
+        {
+          "id": "b",
+          "text": "pasażer"
+        },
+        {
+          "id": "c",
+          "text": "wypadek"
+        },
+        {
+          "id": "d",
+          "text": "konduktor"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„conductor” oznacza po polsku „konduktor”."
+    },
+    {
+      "id": "transport-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „station”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "autostrada"
+        },
+        {
+          "id": "b",
+          "text": "samolot"
+        },
+        {
+          "id": "c",
+          "text": "stacja"
+        },
+        {
+          "id": "d",
+          "text": "radiowóz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„station” oznacza po polsku „stacja”."
+    },
+    {
+      "id": "transport-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bus stop”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wóz strażacki"
+        },
+        {
+          "id": "b",
+          "text": "samochód"
+        },
+        {
+          "id": "c",
+          "text": "stacja"
+        },
+        {
+          "id": "d",
+          "text": "przystanek autobusowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bus stop” oznacza po polsku „przystanek autobusowy”."
+    },
+    {
+      "id": "transport-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „railway”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stacja benzynowa"
+        },
+        {
+          "id": "b",
+          "text": "sygnalizacja świetlna"
+        },
+        {
+          "id": "c",
+          "text": "kolej"
+        },
+        {
+          "id": "d",
+          "text": "wóz strażacki"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„railway” oznacza po polsku „kolej”."
+    },
+    {
+      "id": "transport-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „road”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ścieżka rowerowa"
+        },
+        {
+          "id": "b",
+          "text": "droga"
+        },
+        {
+          "id": "c",
+          "text": "autobus"
+        },
+        {
+          "id": "d",
+          "text": "furgonetka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„road” oznacza po polsku „droga”."
+    },
+    {
+      "id": "transport-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „street”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rondo"
+        },
+        {
+          "id": "b",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "c",
+          "text": "stacja"
+        },
+        {
+          "id": "d",
+          "text": "ulica"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„street” oznacza po polsku „ulica”."
+    },
+    {
+      "id": "transport-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „motorway”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opona"
+        },
+        {
+          "id": "b",
+          "text": "konduktor"
+        },
+        {
+          "id": "c",
+          "text": "samolot"
+        },
+        {
+          "id": "d",
+          "text": "autostrada"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„motorway” oznacza po polsku „autostrada”."
+    },
+    {
+      "id": "transport-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bridge”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciężarówka"
+        },
+        {
+          "id": "b",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "c",
+          "text": "samolot"
+        },
+        {
+          "id": "d",
+          "text": "most"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bridge” oznacza po polsku „most”."
+    },
+    {
+      "id": "transport-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tunnel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "autokar"
+        },
+        {
+          "id": "b",
+          "text": "tunel"
+        },
+        {
+          "id": "c",
+          "text": "prędkość"
+        },
+        {
+          "id": "d",
+          "text": "rondo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„tunnel” oznacza po polsku „tunel”."
+    },
+    {
+      "id": "transport-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „crossroads”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "b",
+          "text": "motocykl"
+        },
+        {
+          "id": "c",
+          "text": "stacja benzynowa"
+        },
+        {
+          "id": "d",
+          "text": "benzyna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„crossroads” oznacza po polsku „skrzyżowanie”."
+    },
+    {
+      "id": "transport-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „traffic lights”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chodnik"
+        },
+        {
+          "id": "b",
+          "text": "karetka"
+        },
+        {
+          "id": "c",
+          "text": "sygnalizacja świetlna"
+        },
+        {
+          "id": "d",
+          "text": "benzyna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„traffic lights” oznacza po polsku „sygnalizacja świetlna”."
+    },
+    {
+      "id": "transport-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „roundabout”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rondo"
+        },
+        {
+          "id": "b",
+          "text": "wypadek"
+        },
+        {
+          "id": "c",
+          "text": "motocykl"
+        },
+        {
+          "id": "d",
+          "text": "stacja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„roundabout” oznacza po polsku „rondo”."
+    },
+    {
+      "id": "transport-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pavement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chodnik"
+        },
+        {
+          "id": "b",
+          "text": "taksówka"
+        },
+        {
+          "id": "c",
+          "text": "konduktor"
+        },
+        {
+          "id": "d",
+          "text": "statek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pavement” oznacza po polsku „chodnik”."
+    },
+    {
+      "id": "transport-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cycle lane”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "korek uliczny"
+        },
+        {
+          "id": "b",
+          "text": "tunel"
+        },
+        {
+          "id": "c",
+          "text": "ścieżka rowerowa"
+        },
+        {
+          "id": "d",
+          "text": "sygnalizacja świetlna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cycle lane” oznacza po polsku „ścieżka rowerowa”."
+    },
+    {
+      "id": "transport-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „parking lot”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stacja benzynowa"
+        },
+        {
+          "id": "b",
+          "text": "opona"
+        },
+        {
+          "id": "c",
+          "text": "parking"
+        },
+        {
+          "id": "d",
+          "text": "przystanek autobusowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„parking lot” oznacza po polsku „parking”."
+    },
+    {
+      "id": "transport-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „petrol station”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hulajnoga"
+        },
+        {
+          "id": "b",
+          "text": "stacja benzynowa"
+        },
+        {
+          "id": "c",
+          "text": "helikopter"
+        },
+        {
+          "id": "d",
+          "text": "skrzyżowanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„petrol station” oznacza po polsku „stacja benzynowa”."
+    },
+    {
+      "id": "transport-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „petrol”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karetka"
+        },
+        {
+          "id": "b",
+          "text": "benzyna"
+        },
+        {
+          "id": "c",
+          "text": "autobus"
+        },
+        {
+          "id": "d",
+          "text": "pieszy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„petrol” oznacza po polsku „benzyna”."
+    },
+    {
+      "id": "transport-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „diesel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "olej napędowy"
+        },
+        {
+          "id": "b",
+          "text": "karetka"
+        },
+        {
+          "id": "c",
+          "text": "statek"
+        },
+        {
+          "id": "d",
+          "text": "prom"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„diesel” oznacza po polsku „olej napędowy”."
+    },
+    {
+      "id": "transport-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „engine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prom"
+        },
+        {
+          "id": "b",
+          "text": "silnik"
+        },
+        {
+          "id": "c",
+          "text": "pasażer"
+        },
+        {
+          "id": "d",
+          "text": "hamulec"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„engine” oznacza po polsku „silnik”."
+    },
+    {
+      "id": "transport-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wheel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chodnik"
+        },
+        {
+          "id": "b",
+          "text": "pieszy"
+        },
+        {
+          "id": "c",
+          "text": "metro"
+        },
+        {
+          "id": "d",
+          "text": "koło"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„wheel” oznacza po polsku „koło”."
+    },
+    {
+      "id": "transport-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tyre”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stacja benzynowa"
+        },
+        {
+          "id": "b",
+          "text": "opona"
+        },
+        {
+          "id": "c",
+          "text": "rower"
+        },
+        {
+          "id": "d",
+          "text": "motocykl"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„tyre” oznacza po polsku „opona”."
+    },
+    {
+      "id": "transport-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brake”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prom"
+        },
+        {
+          "id": "b",
+          "text": "benzyna"
+        },
+        {
+          "id": "c",
+          "text": "hamulec"
+        },
+        {
+          "id": "d",
+          "text": "karetka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„brake” oznacza po polsku „hamulec”."
+    },
+    {
+      "id": "transport-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „steering wheel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tunel"
+        },
+        {
+          "id": "b",
+          "text": "hulajnoga"
+        },
+        {
+          "id": "c",
+          "text": "kierownica"
+        },
+        {
+          "id": "d",
+          "text": "skrzyżowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„steering wheel” oznacza po polsku „kierownica”."
+    },
+    {
+      "id": "transport-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gear”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hamulec"
+        },
+        {
+          "id": "b",
+          "text": "autokar"
+        },
+        {
+          "id": "c",
+          "text": "kolej"
+        },
+        {
+          "id": "d",
+          "text": "bieg"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„gear” oznacza po polsku „bieg”."
+    },
+    {
+      "id": "transport-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „speed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "furgonetka"
+        },
+        {
+          "id": "b",
+          "text": "prędkość"
+        },
+        {
+          "id": "c",
+          "text": "ulica"
+        },
+        {
+          "id": "d",
+          "text": "chodnik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„speed” oznacza po polsku „prędkość”."
+    },
+    {
+      "id": "transport-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „accident”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "autostrada"
+        },
+        {
+          "id": "b",
+          "text": "wypadek"
+        },
+        {
+          "id": "c",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "d",
+          "text": "sygnalizacja świetlna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„accident” oznacza po polsku „wypadek”."
+    },
+    {
+      "id": "transport-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „traffic jam”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "most"
+        },
+        {
+          "id": "b",
+          "text": "korek uliczny"
+        },
+        {
+          "id": "c",
+          "text": "helikopter"
+        },
+        {
+          "id": "d",
+          "text": "autokar"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„traffic jam” oznacza po polsku „korek uliczny”."
+    },
+    {
+      "id": "transport-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pedestrian”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pieszy"
+        },
+        {
+          "id": "b",
+          "text": "karetka"
+        },
+        {
+          "id": "c",
+          "text": "skrzyżowanie"
+        },
+        {
+          "id": "d",
+          "text": "korek uliczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pedestrian” oznacza po polsku „pieszy”."
+    }
+  ]
+}

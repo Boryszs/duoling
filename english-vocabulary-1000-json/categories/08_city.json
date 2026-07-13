@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "city",
+    "name": "Miasto i miejsca"
+  },
+  "questions": [
+    {
+      "id": "city-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „city”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pałac"
+        },
+        {
+          "id": "b",
+          "text": "bank"
+        },
+        {
+          "id": "c",
+          "text": "teatr"
+        },
+        {
+          "id": "d",
+          "text": "miasto"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„city” oznacza po polsku „miasto”."
+    },
+    {
+      "id": "city-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „town”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miasto"
+        },
+        {
+          "id": "b",
+          "text": "cmentarz"
+        },
+        {
+          "id": "c",
+          "text": "restauracja"
+        },
+        {
+          "id": "d",
+          "text": "miasteczko"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„town” oznacza po polsku „miasteczko”."
+    },
+    {
+      "id": "city-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „village”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "teatr"
+        },
+        {
+          "id": "b",
+          "text": "sąd"
+        },
+        {
+          "id": "c",
+          "text": "wieś"
+        },
+        {
+          "id": "d",
+          "text": "parking wielopoziomowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„village” oznacza po polsku „wieś”."
+    },
+    {
+      "id": "city-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „capital”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stolica"
+        },
+        {
+          "id": "b",
+          "text": "zamek warowny"
+        },
+        {
+          "id": "c",
+          "text": "ławka"
+        },
+        {
+          "id": "d",
+          "text": "przychodnia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„capital” oznacza po polsku „stolica”."
+    },
+    {
+      "id": "city-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „district”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siłownia"
+        },
+        {
+          "id": "b",
+          "text": "dzielnica"
+        },
+        {
+          "id": "c",
+          "text": "pomnik"
+        },
+        {
+          "id": "d",
+          "text": "teatr"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„district” oznacza po polsku „dzielnica”."
+    },
+    {
+      "id": "city-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „neighbourhood”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poczta"
+        },
+        {
+          "id": "b",
+          "text": "okolica"
+        },
+        {
+          "id": "c",
+          "text": "komisariat"
+        },
+        {
+          "id": "d",
+          "text": "muzeum"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„neighbourhood” oznacza po polsku „okolica”."
+    },
+    {
+      "id": "city-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „centre”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomnik"
+        },
+        {
+          "id": "b",
+          "text": "centrum"
+        },
+        {
+          "id": "c",
+          "text": "apteka"
+        },
+        {
+          "id": "d",
+          "text": "zamek warowny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„centre” oznacza po polsku „centrum”."
+    },
+    {
+      "id": "city-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „square”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ławka"
+        },
+        {
+          "id": "b",
+          "text": "rynek"
+        },
+        {
+          "id": "c",
+          "text": "sklep"
+        },
+        {
+          "id": "d",
+          "text": "szpital"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„square” oznacza po polsku „rynek”."
+    },
+    {
+      "id": "city-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „park”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "park"
+        },
+        {
+          "id": "b",
+          "text": "ratusz"
+        },
+        {
+          "id": "c",
+          "text": "stolica"
+        },
+        {
+          "id": "d",
+          "text": "muzeum"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„park” oznacza po polsku „park”."
+    },
+    {
+      "id": "city-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „playground”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cmentarz"
+        },
+        {
+          "id": "b",
+          "text": "plac zabaw"
+        },
+        {
+          "id": "c",
+          "text": "więzienie"
+        },
+        {
+          "id": "d",
+          "text": "szpital"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„playground” oznacza po polsku „plac zabaw”."
+    },
+    {
+      "id": "city-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stadium”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stadion"
+        },
+        {
+          "id": "b",
+          "text": "miasteczko"
+        },
+        {
+          "id": "c",
+          "text": "plac zabaw"
+        },
+        {
+          "id": "d",
+          "text": "sklep mięsny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„stadium” oznacza po polsku „stadion”."
+    },
+    {
+      "id": "city-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „museum”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "muzeum"
+        },
+        {
+          "id": "b",
+          "text": "miasteczko"
+        },
+        {
+          "id": "c",
+          "text": "posąg"
+        },
+        {
+          "id": "d",
+          "text": "bank"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„museum” oznacza po polsku „muzeum”."
+    },
+    {
+      "id": "city-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „theatre”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "muzeum"
+        },
+        {
+          "id": "b",
+          "text": "miasteczko"
+        },
+        {
+          "id": "c",
+          "text": "teatr"
+        },
+        {
+          "id": "d",
+          "text": "pralnia samoobsługowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„theatre” oznacza po polsku „teatr”."
+    },
+    {
+      "id": "city-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cinema”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "muzeum"
+        },
+        {
+          "id": "b",
+          "text": "basen"
+        },
+        {
+          "id": "c",
+          "text": "kino"
+        },
+        {
+          "id": "d",
+          "text": "wieś"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cinema” oznacza po polsku „kino”."
+    },
+    {
+      "id": "city-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „restaurant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ławka"
+        },
+        {
+          "id": "b",
+          "text": "kościół"
+        },
+        {
+          "id": "c",
+          "text": "komisariat"
+        },
+        {
+          "id": "d",
+          "text": "restauracja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„restaurant” oznacza po polsku „restauracja”."
+    },
+    {
+      "id": "city-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „café”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kościół"
+        },
+        {
+          "id": "b",
+          "text": "kawiarnia"
+        },
+        {
+          "id": "c",
+          "text": "parking wielopoziomowy"
+        },
+        {
+          "id": "d",
+          "text": "stolica"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„café” oznacza po polsku „kawiarnia”."
+    },
+    {
+      "id": "city-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pub”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przychodnia"
+        },
+        {
+          "id": "b",
+          "text": "pub"
+        },
+        {
+          "id": "c",
+          "text": "remiza strażacka"
+        },
+        {
+          "id": "d",
+          "text": "fabryka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„pub” oznacza po polsku „pub”."
+    },
+    {
+      "id": "city-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shop”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miasteczko"
+        },
+        {
+          "id": "b",
+          "text": "park"
+        },
+        {
+          "id": "c",
+          "text": "komisariat"
+        },
+        {
+          "id": "d",
+          "text": "sklep"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„shop” oznacza po polsku „sklep”."
+    },
+    {
+      "id": "city-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „supermarket”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "więzienie"
+        },
+        {
+          "id": "b",
+          "text": "posąg"
+        },
+        {
+          "id": "c",
+          "text": "targ"
+        },
+        {
+          "id": "d",
+          "text": "supermarket"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„supermarket” oznacza po polsku „supermarket”."
+    },
+    {
+      "id": "city-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „market”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plac zabaw"
+        },
+        {
+          "id": "b",
+          "text": "targ"
+        },
+        {
+          "id": "c",
+          "text": "rynek"
+        },
+        {
+          "id": "d",
+          "text": "centrum"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„market” oznacza po polsku „targ”."
+    },
+    {
+      "id": "city-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bakery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzielnica"
+        },
+        {
+          "id": "b",
+          "text": "supermarket"
+        },
+        {
+          "id": "c",
+          "text": "park"
+        },
+        {
+          "id": "d",
+          "text": "piekarnia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bakery” oznacza po polsku „piekarnia”."
+    },
+    {
+      "id": "city-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „butcher's”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stolica"
+        },
+        {
+          "id": "b",
+          "text": "sklep mięsny"
+        },
+        {
+          "id": "c",
+          "text": "kawiarnia"
+        },
+        {
+          "id": "d",
+          "text": "targ"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„butcher's” oznacza po polsku „sklep mięsny”."
+    },
+    {
+      "id": "city-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pharmacy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "apteka"
+        },
+        {
+          "id": "b",
+          "text": "plac zabaw"
+        },
+        {
+          "id": "c",
+          "text": "sklep mięsny"
+        },
+        {
+          "id": "d",
+          "text": "dzielnica"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pharmacy” oznacza po polsku „apteka”."
+    },
+    {
+      "id": "city-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hospital”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamek warowny"
+        },
+        {
+          "id": "b",
+          "text": "pub"
+        },
+        {
+          "id": "c",
+          "text": "wieś"
+        },
+        {
+          "id": "d",
+          "text": "szpital"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hospital” oznacza po polsku „szpital”."
+    },
+    {
+      "id": "city-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „clinic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przychodnia"
+        },
+        {
+          "id": "b",
+          "text": "pomnik"
+        },
+        {
+          "id": "c",
+          "text": "zamek warowny"
+        },
+        {
+          "id": "d",
+          "text": "ratusz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„clinic” oznacza po polsku „przychodnia”."
+    },
+    {
+      "id": "city-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bank”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kościół"
+        },
+        {
+          "id": "b",
+          "text": "kawiarnia"
+        },
+        {
+          "id": "c",
+          "text": "bank"
+        },
+        {
+          "id": "d",
+          "text": "targ"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„bank” oznacza po polsku „bank”."
+    },
+    {
+      "id": "city-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „post office”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "centrum handlowe"
+        },
+        {
+          "id": "b",
+          "text": "salon fryzjerski"
+        },
+        {
+          "id": "c",
+          "text": "poczta"
+        },
+        {
+          "id": "d",
+          "text": "rynek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„post office” oznacza po polsku „poczta”."
+    },
+    {
+      "id": "city-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „police station”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "remiza strażacka"
+        },
+        {
+          "id": "b",
+          "text": "muzeum"
+        },
+        {
+          "id": "c",
+          "text": "pomnik"
+        },
+        {
+          "id": "d",
+          "text": "komisariat"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„police station” oznacza po polsku „komisariat”."
+    },
+    {
+      "id": "city-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fire station”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "więzienie"
+        },
+        {
+          "id": "b",
+          "text": "okolica"
+        },
+        {
+          "id": "c",
+          "text": "bank"
+        },
+        {
+          "id": "d",
+          "text": "remiza strażacka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fire station” oznacza po polsku „remiza strażacka”."
+    },
+    {
+      "id": "city-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „church”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kościół"
+        },
+        {
+          "id": "b",
+          "text": "pałac"
+        },
+        {
+          "id": "c",
+          "text": "salon fryzjerski"
+        },
+        {
+          "id": "d",
+          "text": "magazyn"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„church” oznacza po polsku „kościół”."
+    },
+    {
+      "id": "city-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cemetery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cmentarz"
+        },
+        {
+          "id": "b",
+          "text": "wieżowiec"
+        },
+        {
+          "id": "c",
+          "text": "więzienie"
+        },
+        {
+          "id": "d",
+          "text": "plac zabaw"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cemetery” oznacza po polsku „cmentarz”."
+    },
+    {
+      "id": "city-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „factory”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "fabryka"
+        },
+        {
+          "id": "b",
+          "text": "restauracja"
+        },
+        {
+          "id": "c",
+          "text": "okolica"
+        },
+        {
+          "id": "d",
+          "text": "sklep"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„factory” oznacza po polsku „fabryka”."
+    },
+    {
+      "id": "city-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „warehouse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "remiza strażacka"
+        },
+        {
+          "id": "b",
+          "text": "magazyn"
+        },
+        {
+          "id": "c",
+          "text": "przychodnia"
+        },
+        {
+          "id": "d",
+          "text": "kawiarnia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„warehouse” oznacza po polsku „magazyn”."
+    },
+    {
+      "id": "city-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „skyscraper”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wieżowiec"
+        },
+        {
+          "id": "b",
+          "text": "fontanna"
+        },
+        {
+          "id": "c",
+          "text": "park"
+        },
+        {
+          "id": "d",
+          "text": "komisariat"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„skyscraper” oznacza po polsku „wieżowiec”."
+    },
+    {
+      "id": "city-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „monument”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bank"
+        },
+        {
+          "id": "b",
+          "text": "magazyn"
+        },
+        {
+          "id": "c",
+          "text": "pomnik"
+        },
+        {
+          "id": "d",
+          "text": "dzielnica"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„monument” oznacza po polsku „pomnik”."
+    },
+    {
+      "id": "city-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fountain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "basen"
+        },
+        {
+          "id": "b",
+          "text": "fontanna"
+        },
+        {
+          "id": "c",
+          "text": "targ"
+        },
+        {
+          "id": "d",
+          "text": "miasteczko"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fountain” oznacza po polsku „fontanna”."
+    },
+    {
+      "id": "city-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bench”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pub"
+        },
+        {
+          "id": "b",
+          "text": "ławka"
+        },
+        {
+          "id": "c",
+          "text": "parking wielopoziomowy"
+        },
+        {
+          "id": "d",
+          "text": "przychodnia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bench” oznacza po polsku „ławka”."
+    },
+    {
+      "id": "city-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „statue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "parking wielopoziomowy"
+        },
+        {
+          "id": "b",
+          "text": "posąg"
+        },
+        {
+          "id": "c",
+          "text": "sklep"
+        },
+        {
+          "id": "d",
+          "text": "więzienie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„statue” oznacza po polsku „posąg”."
+    },
+    {
+      "id": "city-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tower”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pomnik"
+        },
+        {
+          "id": "b",
+          "text": "wieża"
+        },
+        {
+          "id": "c",
+          "text": "restauracja"
+        },
+        {
+          "id": "d",
+          "text": "pub"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„tower” oznacza po polsku „wieża”."
+    },
+    {
+      "id": "city-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „castle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamek warowny"
+        },
+        {
+          "id": "b",
+          "text": "wieś"
+        },
+        {
+          "id": "c",
+          "text": "pralnia samoobsługowa"
+        },
+        {
+          "id": "d",
+          "text": "szpital"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„castle” oznacza po polsku „zamek warowny”."
+    },
+    {
+      "id": "city-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „palace”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pałac"
+        },
+        {
+          "id": "b",
+          "text": "cmentarz"
+        },
+        {
+          "id": "c",
+          "text": "sklep mięsny"
+        },
+        {
+          "id": "d",
+          "text": "pomnik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„palace” oznacza po polsku „pałac”."
+    },
+    {
+      "id": "city-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „courthouse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bank"
+        },
+        {
+          "id": "b",
+          "text": "poczta"
+        },
+        {
+          "id": "c",
+          "text": "sąd"
+        },
+        {
+          "id": "d",
+          "text": "szpital"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„courthouse” oznacza po polsku „sąd”."
+    },
+    {
+      "id": "city-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prison”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "remiza strażacka"
+        },
+        {
+          "id": "b",
+          "text": "komisariat"
+        },
+        {
+          "id": "c",
+          "text": "restauracja"
+        },
+        {
+          "id": "d",
+          "text": "więzienie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„prison” oznacza po polsku „więzienie”."
+    },
+    {
+      "id": "city-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „town hall”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ratusz"
+        },
+        {
+          "id": "b",
+          "text": "remiza strażacka"
+        },
+        {
+          "id": "c",
+          "text": "wieżowiec"
+        },
+        {
+          "id": "d",
+          "text": "parking wielopoziomowy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„town hall” oznacza po polsku „ratusz”."
+    },
+    {
+      "id": "city-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shopping centre”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miasteczko"
+        },
+        {
+          "id": "b",
+          "text": "wieżowiec"
+        },
+        {
+          "id": "c",
+          "text": "centrum handlowe"
+        },
+        {
+          "id": "d",
+          "text": "cmentarz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„shopping centre” oznacza po polsku „centrum handlowe”."
+    },
+    {
+      "id": "city-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gym”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siłownia"
+        },
+        {
+          "id": "b",
+          "text": "magazyn"
+        },
+        {
+          "id": "c",
+          "text": "park"
+        },
+        {
+          "id": "d",
+          "text": "teatr"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„gym” oznacza po polsku „siłownia”."
+    },
+    {
+      "id": "city-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „swimming pool”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "basen"
+        },
+        {
+          "id": "b",
+          "text": "muzeum"
+        },
+        {
+          "id": "c",
+          "text": "fabryka"
+        },
+        {
+          "id": "d",
+          "text": "ławka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„swimming pool” oznacza po polsku „basen”."
+    },
+    {
+      "id": "city-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hairdresser's”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pralnia samoobsługowa"
+        },
+        {
+          "id": "b",
+          "text": "cmentarz"
+        },
+        {
+          "id": "c",
+          "text": "salon fryzjerski"
+        },
+        {
+          "id": "d",
+          "text": "siłownia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„hairdresser's” oznacza po polsku „salon fryzjerski”."
+    },
+    {
+      "id": "city-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „launderette”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "park"
+        },
+        {
+          "id": "b",
+          "text": "salon fryzjerski"
+        },
+        {
+          "id": "c",
+          "text": "pralnia samoobsługowa"
+        },
+        {
+          "id": "d",
+          "text": "cmentarz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„launderette” oznacza po polsku „pralnia samoobsługowa”."
+    },
+    {
+      "id": "city-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „car park”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "okolica"
+        },
+        {
+          "id": "b",
+          "text": "plac zabaw"
+        },
+        {
+          "id": "c",
+          "text": "parking wielopoziomowy"
+        },
+        {
+          "id": "d",
+          "text": "poczta"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„car park” oznacza po polsku „parking wielopoziomowy”."
+    }
+  ]
+}

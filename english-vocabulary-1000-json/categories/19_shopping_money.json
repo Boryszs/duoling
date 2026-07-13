@@ -1,0 +1,1208 @@
+{
+  "category": {
+    "id": "shopping_money",
+    "name": "Zakupy i pieniądze"
+  },
+  "questions": [
+    {
+      "id": "shopping_money-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shopping”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "torba"
+        },
+        {
+          "id": "b",
+          "text": "puszka"
+        },
+        {
+          "id": "c",
+          "text": "wymiana"
+        },
+        {
+          "id": "d",
+          "text": "zakupy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„shopping” oznacza po polsku „zakupy”."
+    },
+    {
+      "id": "shopping_money-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „store”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "adres"
+        },
+        {
+          "id": "b",
+          "text": "gotówka"
+        },
+        {
+          "id": "c",
+          "text": "sklep"
+        },
+        {
+          "id": "d",
+          "text": "produkt"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„store” oznacza po polsku „sklep”."
+    },
+    {
+      "id": "shopping_money-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „product”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pudełko"
+        },
+        {
+          "id": "b",
+          "text": "gotówka"
+        },
+        {
+          "id": "c",
+          "text": "produkt"
+        },
+        {
+          "id": "d",
+          "text": "finalizacja zakupu"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„product” oznacza po polsku „produkt”."
+    },
+    {
+      "id": "shopping_money-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „price”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koszyk"
+        },
+        {
+          "id": "b",
+          "text": "cena"
+        },
+        {
+          "id": "c",
+          "text": "wydawać"
+        },
+        {
+          "id": "d",
+          "text": "kolejka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„price” oznacza po polsku „cena”."
+    },
+    {
+      "id": "shopping_money-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sale”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyprzedaż"
+        },
+        {
+          "id": "b",
+          "text": "ilość"
+        },
+        {
+          "id": "c",
+          "text": "wydawać"
+        },
+        {
+          "id": "d",
+          "text": "etykieta"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sale” oznacza po polsku „wyprzedaż”."
+    },
+    {
+      "id": "shopping_money-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „discount”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rabat"
+        },
+        {
+          "id": "b",
+          "text": "refundacja"
+        },
+        {
+          "id": "c",
+          "text": "koszyk"
+        },
+        {
+          "id": "d",
+          "text": "sklep"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„discount” oznacza po polsku „rabat”."
+    },
+    {
+      "id": "shopping_money-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „offer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oferta"
+        },
+        {
+          "id": "b",
+          "text": "para"
+        },
+        {
+          "id": "c",
+          "text": "etykieta"
+        },
+        {
+          "id": "d",
+          "text": "tani"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„offer” oznacza po polsku „oferta”."
+    },
+    {
+      "id": "shopping_money-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bargain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kolejka"
+        },
+        {
+          "id": "b",
+          "text": "sklep"
+        },
+        {
+          "id": "c",
+          "text": "gotówka"
+        },
+        {
+          "id": "d",
+          "text": "okazja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bargain” oznacza po polsku „okazja”."
+    },
+    {
+      "id": "shopping_money-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cash”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karta"
+        },
+        {
+          "id": "b",
+          "text": "gotówka"
+        },
+        {
+          "id": "c",
+          "text": "cena"
+        },
+        {
+          "id": "d",
+          "text": "gwarancja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cash” oznacza po polsku „gotówka”."
+    },
+    {
+      "id": "shopping_money-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „coin”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moneta"
+        },
+        {
+          "id": "b",
+          "text": "pudełko"
+        },
+        {
+          "id": "c",
+          "text": "sklep"
+        },
+        {
+          "id": "d",
+          "text": "karta"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„coin” oznacza po polsku „moneta”."
+    },
+    {
+      "id": "shopping_money-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „banknote”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koszyk"
+        },
+        {
+          "id": "b",
+          "text": "rachunek"
+        },
+        {
+          "id": "c",
+          "text": "banknot"
+        },
+        {
+          "id": "d",
+          "text": "ilość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„banknote” oznacza po polsku „banknot”."
+    },
+    {
+      "id": "shopping_money-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „card”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wydawać"
+        },
+        {
+          "id": "b",
+          "text": "butelka"
+        },
+        {
+          "id": "c",
+          "text": "wózek sklepowy"
+        },
+        {
+          "id": "d",
+          "text": "karta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„card” oznacza po polsku „karta”."
+    },
+    {
+      "id": "shopping_money-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „credit card”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karta kredytowa"
+        },
+        {
+          "id": "b",
+          "text": "finalizacja zakupu"
+        },
+        {
+          "id": "c",
+          "text": "cena"
+        },
+        {
+          "id": "d",
+          "text": "etykieta"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„credit card” oznacza po polsku „karta kredytowa”."
+    },
+    {
+      "id": "shopping_money-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „receipt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kolejka"
+        },
+        {
+          "id": "b",
+          "text": "puszka"
+        },
+        {
+          "id": "c",
+          "text": "paragon"
+        },
+        {
+          "id": "d",
+          "text": "rabat"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„receipt” oznacza po polsku „paragon”."
+    },
+    {
+      "id": "shopping_money-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bill”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koszyk"
+        },
+        {
+          "id": "b",
+          "text": "sklep internetowy"
+        },
+        {
+          "id": "c",
+          "text": "wydawać"
+        },
+        {
+          "id": "d",
+          "text": "rachunek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bill” oznacza po polsku „rachunek”."
+    },
+    {
+      "id": "shopping_money-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „change money”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obsługa klienta"
+        },
+        {
+          "id": "b",
+          "text": "reszta"
+        },
+        {
+          "id": "c",
+          "text": "koszyk"
+        },
+        {
+          "id": "d",
+          "text": "pudełko"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„change money” oznacza po polsku „reszta”."
+    },
+    {
+      "id": "shopping_money-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cashier”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sklep internetowy"
+        },
+        {
+          "id": "b",
+          "text": "paczka przesyłkowa"
+        },
+        {
+          "id": "c",
+          "text": "kasjer"
+        },
+        {
+          "id": "d",
+          "text": "para"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cashier” oznacza po polsku „kasjer”."
+    },
+    {
+      "id": "shopping_money-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „trolley”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "etykieta"
+        },
+        {
+          "id": "b",
+          "text": "zakupy"
+        },
+        {
+          "id": "c",
+          "text": "dodać do koszyka"
+        },
+        {
+          "id": "d",
+          "text": "wózek sklepowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„trolley” oznacza po polsku „wózek sklepowy”."
+    },
+    {
+      "id": "shopping_money-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „basket”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koszyk"
+        },
+        {
+          "id": "b",
+          "text": "finalizacja zakupu"
+        },
+        {
+          "id": "c",
+          "text": "pudełko"
+        },
+        {
+          "id": "d",
+          "text": "karta"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„basket” oznacza po polsku „koszyk”."
+    },
+    {
+      "id": "shopping_money-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „queue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kasa"
+        },
+        {
+          "id": "b",
+          "text": "ilość"
+        },
+        {
+          "id": "c",
+          "text": "torba"
+        },
+        {
+          "id": "d",
+          "text": "kolejka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„queue” oznacza po polsku „kolejka”."
+    },
+    {
+      "id": "shopping_money-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „checkout”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "etykieta"
+        },
+        {
+          "id": "b",
+          "text": "kasa"
+        },
+        {
+          "id": "c",
+          "text": "gotówka"
+        },
+        {
+          "id": "d",
+          "text": "ilość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„checkout” oznacza po polsku „kasa”."
+    },
+    {
+      "id": "shopping_money-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „label”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wózek sklepowy"
+        },
+        {
+          "id": "b",
+          "text": "etykieta"
+        },
+        {
+          "id": "c",
+          "text": "sklep internetowy"
+        },
+        {
+          "id": "d",
+          "text": "refundacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„label” oznacza po polsku „etykieta”."
+    },
+    {
+      "id": "shopping_money-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brand”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostawa"
+        },
+        {
+          "id": "b",
+          "text": "marka"
+        },
+        {
+          "id": "c",
+          "text": "karta kredytowa"
+        },
+        {
+          "id": "d",
+          "text": "paragon"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„brand” oznacza po polsku „marka”."
+    },
+    {
+      "id": "shopping_money-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „quality”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "etykieta"
+        },
+        {
+          "id": "b",
+          "text": "jakość"
+        },
+        {
+          "id": "c",
+          "text": "wymiana"
+        },
+        {
+          "id": "d",
+          "text": "kasa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„quality” oznacza po polsku „jakość”."
+    },
+    {
+      "id": "shopping_money-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „quantity”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "torba"
+        },
+        {
+          "id": "b",
+          "text": "marka"
+        },
+        {
+          "id": "c",
+          "text": "słoik"
+        },
+        {
+          "id": "d",
+          "text": "ilość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„quantity” oznacza po polsku „ilość”."
+    },
+    {
+      "id": "shopping_money-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „piece”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gotówka"
+        },
+        {
+          "id": "b",
+          "text": "sztuka"
+        },
+        {
+          "id": "c",
+          "text": "sklep"
+        },
+        {
+          "id": "d",
+          "text": "marka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„piece” oznacza po polsku „sztuka”."
+    },
+    {
+      "id": "shopping_money-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pair”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwrot"
+        },
+        {
+          "id": "b",
+          "text": "oszczędzać pieniądze"
+        },
+        {
+          "id": "c",
+          "text": "kolejka"
+        },
+        {
+          "id": "d",
+          "text": "para"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„pair” oznacza po polsku „para”."
+    },
+    {
+      "id": "shopping_money-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „packet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paczka"
+        },
+        {
+          "id": "b",
+          "text": "okazja"
+        },
+        {
+          "id": "c",
+          "text": "oferta"
+        },
+        {
+          "id": "d",
+          "text": "wyprzedaż"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„packet” oznacza po polsku „paczka”."
+    },
+    {
+      "id": "shopping_money-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bottle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "butelka"
+        },
+        {
+          "id": "b",
+          "text": "cena"
+        },
+        {
+          "id": "c",
+          "text": "etykieta"
+        },
+        {
+          "id": "d",
+          "text": "jakość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bottle” oznacza po polsku „butelka”."
+    },
+    {
+      "id": "shopping_money-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „box”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostawa"
+        },
+        {
+          "id": "b",
+          "text": "pudełko"
+        },
+        {
+          "id": "c",
+          "text": "zamówienie"
+        },
+        {
+          "id": "d",
+          "text": "puszka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„box” oznacza po polsku „pudełko”."
+    },
+    {
+      "id": "shopping_money-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bag”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wózek sklepowy"
+        },
+        {
+          "id": "b",
+          "text": "gotówka"
+        },
+        {
+          "id": "c",
+          "text": "puszka"
+        },
+        {
+          "id": "d",
+          "text": "torba"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„bag” oznacza po polsku „torba”."
+    },
+    {
+      "id": "shopping_money-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „can”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paczka przesyłkowa"
+        },
+        {
+          "id": "b",
+          "text": "produkt"
+        },
+        {
+          "id": "c",
+          "text": "adres"
+        },
+        {
+          "id": "d",
+          "text": "puszka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„can” oznacza po polsku „puszka”."
+    },
+    {
+      "id": "shopping_money-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "etykieta"
+        },
+        {
+          "id": "b",
+          "text": "karta kredytowa"
+        },
+        {
+          "id": "c",
+          "text": "paragon"
+        },
+        {
+          "id": "d",
+          "text": "słoik"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„jar” oznacza po polsku „słoik”."
+    },
+    {
+      "id": "shopping_money-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „customer service”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tani"
+        },
+        {
+          "id": "b",
+          "text": "koszyk"
+        },
+        {
+          "id": "c",
+          "text": "karta"
+        },
+        {
+          "id": "d",
+          "text": "obsługa klienta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„customer service” oznacza po polsku „obsługa klienta”."
+    },
+    {
+      "id": "shopping_money-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „return”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwrot"
+        },
+        {
+          "id": "b",
+          "text": "wyprzedaż"
+        },
+        {
+          "id": "c",
+          "text": "jakość"
+        },
+        {
+          "id": "d",
+          "text": "ilość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„return” oznacza po polsku „zwrot”."
+    },
+    {
+      "id": "shopping_money-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „refund”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moneta"
+        },
+        {
+          "id": "b",
+          "text": "słoik"
+        },
+        {
+          "id": "c",
+          "text": "refundacja"
+        },
+        {
+          "id": "d",
+          "text": "oferta"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„refund” oznacza po polsku „refundacja”."
+    },
+    {
+      "id": "shopping_money-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exchange”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sklep"
+        },
+        {
+          "id": "b",
+          "text": "kolejka"
+        },
+        {
+          "id": "c",
+          "text": "koszyk"
+        },
+        {
+          "id": "d",
+          "text": "wymiana"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„exchange” oznacza po polsku „wymiana”."
+    },
+    {
+      "id": "shopping_money-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „warranty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gwarancja"
+        },
+        {
+          "id": "b",
+          "text": "kolejka"
+        },
+        {
+          "id": "c",
+          "text": "tani"
+        },
+        {
+          "id": "d",
+          "text": "cena"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„warranty” oznacza po polsku „gwarancja”."
+    },
+    {
+      "id": "shopping_money-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „order”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karta"
+        },
+        {
+          "id": "b",
+          "text": "tani"
+        },
+        {
+          "id": "c",
+          "text": "zamówienie"
+        },
+        {
+          "id": "d",
+          "text": "zakupy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„order” oznacza po polsku „zamówienie”."
+    },
+    {
+      "id": "shopping_money-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „delivery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "refundacja"
+        },
+        {
+          "id": "b",
+          "text": "dostawa"
+        },
+        {
+          "id": "c",
+          "text": "pudełko"
+        },
+        {
+          "id": "d",
+          "text": "banknot"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„delivery” oznacza po polsku „dostawa”."
+    },
+    {
+      "id": "shopping_money-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „parcel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "puszka"
+        },
+        {
+          "id": "b",
+          "text": "paczka przesyłkowa"
+        },
+        {
+          "id": "c",
+          "text": "reszta"
+        },
+        {
+          "id": "d",
+          "text": "tani"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„parcel” oznacza po polsku „paczka przesyłkowa”."
+    },
+    {
+      "id": "shopping_money-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „address”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jakość"
+        },
+        {
+          "id": "b",
+          "text": "oferta"
+        },
+        {
+          "id": "c",
+          "text": "sklep internetowy"
+        },
+        {
+          "id": "d",
+          "text": "adres"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„address” oznacza po polsku „adres”."
+    },
+    {
+      "id": "shopping_money-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „online shop”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wózek sklepowy"
+        },
+        {
+          "id": "b",
+          "text": "paragon"
+        },
+        {
+          "id": "c",
+          "text": "sklep internetowy"
+        },
+        {
+          "id": "d",
+          "text": "zakupy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„online shop” oznacza po polsku „sklep internetowy”."
+    },
+    {
+      "id": "shopping_money-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „add to cart”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodać do koszyka"
+        },
+        {
+          "id": "b",
+          "text": "oferta"
+        },
+        {
+          "id": "c",
+          "text": "ilość"
+        },
+        {
+          "id": "d",
+          "text": "móc sobie pozwolić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„add to cart” oznacza po polsku „dodać do koszyka”."
+    },
+    {
+      "id": "shopping_money-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „checkout process”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "produkt"
+        },
+        {
+          "id": "b",
+          "text": "finalizacja zakupu"
+        },
+        {
+          "id": "c",
+          "text": "kasa"
+        },
+        {
+          "id": "d",
+          "text": "gwarancja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„checkout process” oznacza po polsku „finalizacja zakupu”."
+    },
+    {
+      "id": "shopping_money-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „expensive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koszyk"
+        },
+        {
+          "id": "b",
+          "text": "para"
+        },
+        {
+          "id": "c",
+          "text": "sklep"
+        },
+        {
+          "id": "d",
+          "text": "drogi"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„expensive” oznacza po polsku „drogi”."
+    },
+    {
+      "id": "shopping_money-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cheap”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sztuka"
+        },
+        {
+          "id": "b",
+          "text": "tani"
+        },
+        {
+          "id": "c",
+          "text": "torba"
+        },
+        {
+          "id": "d",
+          "text": "oferta"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cheap” oznacza po polsku „tani”."
+    },
+    {
+      "id": "shopping_money-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „afford”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sztuka"
+        },
+        {
+          "id": "b",
+          "text": "wyprzedaż"
+        },
+        {
+          "id": "c",
+          "text": "kasjer"
+        },
+        {
+          "id": "d",
+          "text": "móc sobie pozwolić"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„afford” oznacza po polsku „móc sobie pozwolić”."
+    },
+    {
+      "id": "shopping_money-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „spend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwrot"
+        },
+        {
+          "id": "b",
+          "text": "zakupy"
+        },
+        {
+          "id": "c",
+          "text": "móc sobie pozwolić"
+        },
+        {
+          "id": "d",
+          "text": "wydawać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„spend” oznacza po polsku „wydawać”."
+    },
+    {
+      "id": "shopping_money-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „save money”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oszczędzać pieniądze"
+        },
+        {
+          "id": "b",
+          "text": "etykieta"
+        },
+        {
+          "id": "c",
+          "text": "tani"
+        },
+        {
+          "id": "d",
+          "text": "zamówienie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„save money” oznacza po polsku „oszczędzać pieniądze”."
+    }
+  ]
+}
