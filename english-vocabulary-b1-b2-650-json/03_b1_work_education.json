@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b1_work_education",
+    "name": "B1 – Praca i edukacja",
+    "level": "B1"
+  },
+  "questions": [
+    {
+      "id": "b1_work_education-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „application”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozmowa kwalifikacyjna"
+        },
+        {
+          "id": "b",
+          "text": "podanie"
+        },
+        {
+          "id": "c",
+          "text": "kwalifikacja"
+        },
+        {
+          "id": "d",
+          "text": "dyplom ukończenia studiów"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„application” oznacza po polsku „podanie”."
+    },
+    {
+      "id": "b1_work_education-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „apply”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "edukacja"
+        },
+        {
+          "id": "b",
+          "text": "ubiegać się"
+        },
+        {
+          "id": "c",
+          "text": "podręcznik"
+        },
+        {
+          "id": "d",
+          "text": "miejsce pracy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„apply” oznacza po polsku „ubiegać się”."
+    },
+    {
+      "id": "b1_work_education-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „attend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koncentrować się"
+        },
+        {
+          "id": "b",
+          "text": "uczęszczać"
+        },
+        {
+          "id": "c",
+          "text": "zadanie"
+        },
+        {
+          "id": "d",
+          "text": "współpracownik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„attend” oznacza po polsku „uczęszczać”."
+    },
+    {
+      "id": "b1_work_education-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „career”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kariera"
+        },
+        {
+          "id": "b",
+          "text": "przedmiot szkolny"
+        },
+        {
+          "id": "c",
+          "text": "ogłoszenie o pracę"
+        },
+        {
+          "id": "d",
+          "text": "powtarzać materiał"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„career” oznacza po polsku „kariera”."
+    },
+    {
+      "id": "b1_work_education-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „colleague”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "współpracownik"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedzialność"
+        },
+        {
+          "id": "c",
+          "text": "ćwiczyć"
+        },
+        {
+          "id": "d",
+          "text": "koncentrować się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„colleague” oznacza po polsku „współpracownik”."
+    },
+    {
+      "id": "b1_work_education-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „company”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "firma"
+        },
+        {
+          "id": "b",
+          "text": "podanie"
+        },
+        {
+          "id": "c",
+          "text": "egzamin"
+        },
+        {
+          "id": "d",
+          "text": "miejsce pracy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„company” oznacza po polsku „firma”."
+    },
+    {
+      "id": "b1_work_education-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „course”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogłoszenie o pracę"
+        },
+        {
+          "id": "b",
+          "text": "uniwersytet"
+        },
+        {
+          "id": "c",
+          "text": "kurs"
+        },
+        {
+          "id": "d",
+          "text": "miejsce pracy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„course” oznacza po polsku „kurs”."
+    },
+    {
+      "id": "b1_work_education-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deadline”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "termin wykonania"
+        },
+        {
+          "id": "b",
+          "text": "ocena szkolna"
+        },
+        {
+          "id": "c",
+          "text": "ukończyć studia"
+        },
+        {
+          "id": "d",
+          "text": "badania"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„deadline” oznacza po polsku „termin wykonania”."
+    },
+    {
+      "id": "b1_work_education-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „degree”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kariera"
+        },
+        {
+          "id": "b",
+          "text": "pracownik"
+        },
+        {
+          "id": "c",
+          "text": "dyplom ukończenia studiów"
+        },
+        {
+          "id": "d",
+          "text": "ubiegać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„degree” oznacza po polsku „dyplom ukończenia studiów”."
+    },
+    {
+      "id": "b1_work_education-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „department”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ćwiczyć"
+        },
+        {
+          "id": "b",
+          "text": "dział"
+        },
+        {
+          "id": "c",
+          "text": "szkolenie"
+        },
+        {
+          "id": "d",
+          "text": "kurs"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„department” oznacza po polsku „dział”."
+    },
+    {
+      "id": "b1_work_education-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „employer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ubiegać się"
+        },
+        {
+          "id": "b",
+          "text": "pracodawca"
+        },
+        {
+          "id": "c",
+          "text": "prezentacja"
+        },
+        {
+          "id": "d",
+          "text": "umiejętność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„employer” oznacza po polsku „pracodawca”."
+    },
+    {
+      "id": "b1_work_education-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „employee”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w niepełnym wymiarze"
+        },
+        {
+          "id": "b",
+          "text": "doświadczenie"
+        },
+        {
+          "id": "c",
+          "text": "pracownik"
+        },
+        {
+          "id": "d",
+          "text": "współpracownik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„employee” oznacza po polsku „pracownik”."
+    },
+    {
+      "id": "b1_work_education-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „experience”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pracodawca"
+        },
+        {
+          "id": "b",
+          "text": "stały"
+        },
+        {
+          "id": "c",
+          "text": "doświadczenie"
+        },
+        {
+          "id": "d",
+          "text": "firma"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„experience” oznacza po polsku „doświadczenie”."
+    },
+    {
+      "id": "b1_work_education-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „graduate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdać"
+        },
+        {
+          "id": "b",
+          "text": "badania"
+        },
+        {
+          "id": "c",
+          "text": "semestr"
+        },
+        {
+          "id": "d",
+          "text": "ukończyć studia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„graduate” oznacza po polsku „ukończyć studia”."
+    },
+    {
+      "id": "b1_work_education-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „interview”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozmowa kwalifikacyjna"
+        },
+        {
+          "id": "b",
+          "text": "harmonogram"
+        },
+        {
+          "id": "c",
+          "text": "semestr"
+        },
+        {
+          "id": "d",
+          "text": "projekt"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„interview” oznacza po polsku „rozmowa kwalifikacyjna”."
+    },
+    {
+      "id": "b1_work_education-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „job advert”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogłoszenie o pracę"
+        },
+        {
+          "id": "b",
+          "text": "dyplom ukończenia studiów"
+        },
+        {
+          "id": "c",
+          "text": "miejsce pracy"
+        },
+        {
+          "id": "d",
+          "text": "bezrobotny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„job advert” oznacza po polsku „ogłoszenie o pracę”."
+    },
+    {
+      "id": "b1_work_education-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „manager”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ogłoszenie o pracę"
+        },
+        {
+          "id": "b",
+          "text": "semestr"
+        },
+        {
+          "id": "c",
+          "text": "kierownik"
+        },
+        {
+          "id": "d",
+          "text": "zadanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„manager” oznacza po polsku „kierownik”."
+    },
+    {
+      "id": "b1_work_education-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „meeting”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spotkanie"
+        },
+        {
+          "id": "b",
+          "text": "doświadczenie"
+        },
+        {
+          "id": "c",
+          "text": "zadanie"
+        },
+        {
+          "id": "d",
+          "text": "kurs"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„meeting” oznacza po polsku „spotkanie”."
+    },
+    {
+      "id": "b1_work_education-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „occupation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prezentacja"
+        },
+        {
+          "id": "b",
+          "text": "zawód"
+        },
+        {
+          "id": "c",
+          "text": "firma"
+        },
+        {
+          "id": "d",
+          "text": "ćwiczyć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„occupation” oznacza po polsku „zawód”."
+    },
+    {
+      "id": "b1_work_education-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „part-time”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiedzialność"
+        },
+        {
+          "id": "b",
+          "text": "prezentacja"
+        },
+        {
+          "id": "c",
+          "text": "zawód"
+        },
+        {
+          "id": "d",
+          "text": "w niepełnym wymiarze"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„part-time” oznacza po polsku „w niepełnym wymiarze”."
+    },
+    {
+      "id": "b1_work_education-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „permanent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kariera"
+        },
+        {
+          "id": "b",
+          "text": "certyfikat"
+        },
+        {
+          "id": "c",
+          "text": "termin wykonania"
+        },
+        {
+          "id": "d",
+          "text": "stały"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„permanent” oznacza po polsku „stały”."
+    },
+    {
+      "id": "b1_work_education-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „qualification”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kwalifikacja"
+        },
+        {
+          "id": "b",
+          "text": "prezentacja"
+        },
+        {
+          "id": "c",
+          "text": "firma"
+        },
+        {
+          "id": "d",
+          "text": "spotkanie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„qualification” oznacza po polsku „kwalifikacja”."
+    },
+    {
+      "id": "b1_work_education-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „responsibility”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "miejsce pracy"
+        },
+        {
+          "id": "b",
+          "text": "szkolenie"
+        },
+        {
+          "id": "c",
+          "text": "powtarzać materiał"
+        },
+        {
+          "id": "d",
+          "text": "odpowiedzialność"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„responsibility” oznacza po polsku „odpowiedzialność”."
+    },
+    {
+      "id": "b1_work_education-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „salary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynagrodzenie"
+        },
+        {
+          "id": "b",
+          "text": "zadanie"
+        },
+        {
+          "id": "c",
+          "text": "ocena szkolna"
+        },
+        {
+          "id": "d",
+          "text": "kurs"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„salary” oznacza po polsku „wynagrodzenie”."
+    },
+    {
+      "id": "b1_work_education-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „schedule”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spotkanie"
+        },
+        {
+          "id": "b",
+          "text": "harmonogram"
+        },
+        {
+          "id": "c",
+          "text": "kwalifikacja"
+        },
+        {
+          "id": "d",
+          "text": "edukacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„schedule” oznacza po polsku „harmonogram”."
+    },
+    {
+      "id": "b1_work_education-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shift”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "termin wykonania"
+        },
+        {
+          "id": "b",
+          "text": "kwalifikacja"
+        },
+        {
+          "id": "c",
+          "text": "zawód"
+        },
+        {
+          "id": "d",
+          "text": "zmiana w pracy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„shift” oznacza po polsku „zmiana w pracy”."
+    },
+    {
+      "id": "b1_work_education-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „skill”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "egzamin"
+        },
+        {
+          "id": "b",
+          "text": "współpracownik"
+        },
+        {
+          "id": "c",
+          "text": "umiejętność"
+        },
+        {
+          "id": "d",
+          "text": "kierownik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„skill” oznacza po polsku „umiejętność”."
+    },
+    {
+      "id": "b1_work_education-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „staff”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koncentrować się"
+        },
+        {
+          "id": "b",
+          "text": "ukończyć studia"
+        },
+        {
+          "id": "c",
+          "text": "personel"
+        },
+        {
+          "id": "d",
+          "text": "umiejętność"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„staff” oznacza po polsku „personel”."
+    },
+    {
+      "id": "b1_work_education-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „task”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zmiana w pracy"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedzialność"
+        },
+        {
+          "id": "c",
+          "text": "współpracownik"
+        },
+        {
+          "id": "d",
+          "text": "zadanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„task” oznacza po polsku „zadanie”."
+    },
+    {
+      "id": "b1_work_education-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „training”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szkolenie"
+        },
+        {
+          "id": "b",
+          "text": "badania"
+        },
+        {
+          "id": "c",
+          "text": "zdać"
+        },
+        {
+          "id": "d",
+          "text": "bezrobotny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„training” oznacza po polsku „szkolenie”."
+    },
+    {
+      "id": "b1_work_education-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „unemployed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dział"
+        },
+        {
+          "id": "b",
+          "text": "bezrobotny"
+        },
+        {
+          "id": "c",
+          "text": "uniwersytet"
+        },
+        {
+          "id": "d",
+          "text": "termin wykonania"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„unemployed” oznacza po polsku „bezrobotny”."
+    },
+    {
+      "id": "b1_work_education-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „workplace”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "warsztaty"
+        },
+        {
+          "id": "b",
+          "text": "termin wykonania"
+        },
+        {
+          "id": "c",
+          "text": "firma"
+        },
+        {
+          "id": "d",
+          "text": "miejsce pracy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„workplace” oznacza po polsku „miejsce pracy”."
+    },
+    {
+      "id": "b1_work_education-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „assignment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kurs"
+        },
+        {
+          "id": "b",
+          "text": "zdać"
+        },
+        {
+          "id": "c",
+          "text": "koncentrować się"
+        },
+        {
+          "id": "d",
+          "text": "zadanie do wykonania"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„assignment” oznacza po polsku „zadanie do wykonania”."
+    },
+    {
+      "id": "b1_work_education-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „certificate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "edukacja"
+        },
+        {
+          "id": "b",
+          "text": "kurs"
+        },
+        {
+          "id": "c",
+          "text": "podręcznik"
+        },
+        {
+          "id": "d",
+          "text": "certyfikat"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„certificate” oznacza po polsku „certyfikat”."
+    },
+    {
+      "id": "b1_work_education-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „concentrate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ocena szkolna"
+        },
+        {
+          "id": "b",
+          "text": "koncentrować się"
+        },
+        {
+          "id": "c",
+          "text": "kierownik"
+        },
+        {
+          "id": "d",
+          "text": "zadanie do wykonania"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„concentrate” oznacza po polsku „koncentrować się”."
+    },
+    {
+      "id": "b1_work_education-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „education”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ukończyć studia"
+        },
+        {
+          "id": "b",
+          "text": "zmiana w pracy"
+        },
+        {
+          "id": "c",
+          "text": "doświadczenie"
+        },
+        {
+          "id": "d",
+          "text": "edukacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„education” oznacza po polsku „edukacja”."
+    },
+    {
+      "id": "b1_work_education-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exam”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w niepełnym wymiarze"
+        },
+        {
+          "id": "b",
+          "text": "egzamin"
+        },
+        {
+          "id": "c",
+          "text": "powtarzać materiał"
+        },
+        {
+          "id": "d",
+          "text": "warsztaty"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„exam” oznacza po polsku „egzamin”."
+    },
+    {
+      "id": "b1_work_education-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fail”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczęszczać"
+        },
+        {
+          "id": "b",
+          "text": "ćwiczyć"
+        },
+        {
+          "id": "c",
+          "text": "kierownik"
+        },
+        {
+          "id": "d",
+          "text": "nie zdać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fail” oznacza po polsku „nie zdać”."
+    },
+    {
+      "id": "b1_work_education-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mark”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zadanie"
+        },
+        {
+          "id": "b",
+          "text": "ocena szkolna"
+        },
+        {
+          "id": "c",
+          "text": "personel"
+        },
+        {
+          "id": "d",
+          "text": "współpracownik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„mark” oznacza po polsku „ocena szkolna”."
+    },
+    {
+      "id": "b1_work_education-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pass”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdać"
+        },
+        {
+          "id": "b",
+          "text": "ogłoszenie o pracę"
+        },
+        {
+          "id": "c",
+          "text": "dyplom ukończenia studiów"
+        },
+        {
+          "id": "d",
+          "text": "ubiegać się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pass” oznacza po polsku „zdać”."
+    },
+    {
+      "id": "b1_work_education-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „practice”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedmiot szkolny"
+        },
+        {
+          "id": "b",
+          "text": "firma"
+        },
+        {
+          "id": "c",
+          "text": "szkolenie"
+        },
+        {
+          "id": "d",
+          "text": "ćwiczyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„practice” oznacza po polsku „ćwiczyć”."
+    },
+    {
+      "id": "b1_work_education-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „project”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "umiejętność"
+        },
+        {
+          "id": "b",
+          "text": "pracownik"
+        },
+        {
+          "id": "c",
+          "text": "doświadczenie"
+        },
+        {
+          "id": "d",
+          "text": "projekt"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„project” oznacza po polsku „projekt”."
+    },
+    {
+      "id": "b1_work_education-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „research”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pracownik"
+        },
+        {
+          "id": "b",
+          "text": "certyfikat"
+        },
+        {
+          "id": "c",
+          "text": "badania"
+        },
+        {
+          "id": "d",
+          "text": "przedmiot szkolny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„research” oznacza po polsku „badania”."
+    },
+    {
+      "id": "b1_work_education-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „revise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powtarzać materiał"
+        },
+        {
+          "id": "b",
+          "text": "zmiana w pracy"
+        },
+        {
+          "id": "c",
+          "text": "doświadczenie"
+        },
+        {
+          "id": "d",
+          "text": "egzamin"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„revise” oznacza po polsku „powtarzać materiał”."
+    },
+    {
+      "id": "b1_work_education-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „subject”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ukończyć studia"
+        },
+        {
+          "id": "b",
+          "text": "certyfikat"
+        },
+        {
+          "id": "c",
+          "text": "przedmiot szkolny"
+        },
+        {
+          "id": "d",
+          "text": "odpowiedzialność"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„subject” oznacza po polsku „przedmiot szkolny”."
+    },
+    {
+      "id": "b1_work_education-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „term”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ocena szkolna"
+        },
+        {
+          "id": "b",
+          "text": "nie zdać"
+        },
+        {
+          "id": "c",
+          "text": "zawód"
+        },
+        {
+          "id": "d",
+          "text": "semestr"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„term” oznacza po polsku „semestr”."
+    },
+    {
+      "id": "b1_work_education-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „textbook”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "harmonogram"
+        },
+        {
+          "id": "b",
+          "text": "uniwersytet"
+        },
+        {
+          "id": "c",
+          "text": "podręcznik"
+        },
+        {
+          "id": "d",
+          "text": "współpracownik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„textbook” oznacza po polsku „podręcznik”."
+    },
+    {
+      "id": "b1_work_education-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „university”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "doświadczenie"
+        },
+        {
+          "id": "b",
+          "text": "uniwersytet"
+        },
+        {
+          "id": "c",
+          "text": "przedmiot szkolny"
+        },
+        {
+          "id": "d",
+          "text": "bezrobotny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„university” oznacza po polsku „uniwersytet”."
+    },
+    {
+      "id": "b1_work_education-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „workshop”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w niepełnym wymiarze"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedzialność"
+        },
+        {
+          "id": "c",
+          "text": "bezrobotny"
+        },
+        {
+          "id": "d",
+          "text": "warsztaty"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„workshop” oznacza po polsku „warsztaty”."
+    },
+    {
+      "id": "b1_work_education-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „presentation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zawód"
+        },
+        {
+          "id": "b",
+          "text": "koncentrować się"
+        },
+        {
+          "id": "c",
+          "text": "prezentacja"
+        },
+        {
+          "id": "d",
+          "text": "doświadczenie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„presentation” oznacza po polsku „prezentacja”."
+    }
+  ]
+}

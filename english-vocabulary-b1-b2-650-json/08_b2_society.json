@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b2_society",
+    "name": "B2 – Społeczeństwo i kultura",
+    "level": "B2"
+  },
+  "questions": [
+    {
+      "id": "b2_society-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „access”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostęp"
+        },
+        {
+          "id": "b",
+          "text": "kultura młodzieżowa"
+        },
+        {
+          "id": "c",
+          "text": "religia"
+        },
+        {
+          "id": "d",
+          "text": "prawo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„access” oznacza po polsku „dostęp”."
+    },
+    {
+      "id": "b2_society-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „attitude”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nastawienie"
+        },
+        {
+          "id": "b",
+          "text": "prawo"
+        },
+        {
+          "id": "c",
+          "text": "kultura"
+        },
+        {
+          "id": "d",
+          "text": "tradycja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„attitude” oznacza po polsku „nastawienie”."
+    },
+    {
+      "id": "b2_society-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „authority”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rząd"
+        },
+        {
+          "id": "b",
+          "text": "tożsamość"
+        },
+        {
+          "id": "c",
+          "text": "społeczeństwo"
+        },
+        {
+          "id": "d",
+          "text": "władza"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„authority” oznacza po polsku „władza”."
+    },
+    {
+      "id": "b2_society-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „social behaviour”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opieka społeczna"
+        },
+        {
+          "id": "b",
+          "text": "mniejszość"
+        },
+        {
+          "id": "c",
+          "text": "zachowanie społeczne"
+        },
+        {
+          "id": "d",
+          "text": "stereotyp"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„social behaviour” oznacza po polsku „zachowanie społeczne”."
+    },
+    {
+      "id": "b2_society-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „community”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostęp"
+        },
+        {
+          "id": "b",
+          "text": "społeczność"
+        },
+        {
+          "id": "c",
+          "text": "opieka społeczna"
+        },
+        {
+          "id": "d",
+          "text": "uprzedzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„community” oznacza po polsku „społeczność”."
+    },
+    {
+      "id": "b2_society-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „conflict”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "społeczeństwo"
+        },
+        {
+          "id": "b",
+          "text": "dostęp"
+        },
+        {
+          "id": "c",
+          "text": "konflikt"
+        },
+        {
+          "id": "d",
+          "text": "system edukacji"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„conflict” oznacza po polsku „konflikt”."
+    },
+    {
+      "id": "b2_society-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „crime”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obywatelstwo"
+        },
+        {
+          "id": "b",
+          "text": "przestępczość"
+        },
+        {
+          "id": "c",
+          "text": "sposób życia"
+        },
+        {
+          "id": "d",
+          "text": "opinia publiczna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„crime” oznacza po polsku „przestępczość”."
+    },
+    {
+      "id": "b2_society-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „culture”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stereotyp"
+        },
+        {
+          "id": "b",
+          "text": "wpływ"
+        },
+        {
+          "id": "c",
+          "text": "mniejszość"
+        },
+        {
+          "id": "d",
+          "text": "kultura"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„culture” oznacza po polsku „kultura”."
+    },
+    {
+      "id": "b2_society-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „discrimination”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawo"
+        },
+        {
+          "id": "b",
+          "text": "religia"
+        },
+        {
+          "id": "c",
+          "text": "dyskryminacja"
+        },
+        {
+          "id": "d",
+          "text": "rząd"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„discrimination” oznacza po polsku „dyskryminacja”."
+    },
+    {
+      "id": "b2_society-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „diversity”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "różnorodność"
+        },
+        {
+          "id": "b",
+          "text": "uprzedzenie"
+        },
+        {
+          "id": "c",
+          "text": "poziom życia"
+        },
+        {
+          "id": "d",
+          "text": "wpływ"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„diversity” oznacza po polsku „różnorodność”."
+    },
+    {
+      "id": "b2_society-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „equality”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prywatność"
+        },
+        {
+          "id": "b",
+          "text": "równość"
+        },
+        {
+          "id": "c",
+          "text": "system edukacji"
+        },
+        {
+          "id": "d",
+          "text": "poziom życia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„equality” oznacza po polsku „równość”."
+    },
+    {
+      "id": "b2_society-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „social generation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiejski"
+        },
+        {
+          "id": "b",
+          "text": "pokolenie społeczne"
+        },
+        {
+          "id": "c",
+          "text": "społeczeństwo"
+        },
+        {
+          "id": "d",
+          "text": "uprzedzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„social generation” oznacza po polsku „pokolenie społeczne”."
+    },
+    {
+      "id": "b2_society-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „identity”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybory"
+        },
+        {
+          "id": "b",
+          "text": "tożsamość"
+        },
+        {
+          "id": "c",
+          "text": "prawa człowieka"
+        },
+        {
+          "id": "d",
+          "text": "prawo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„identity” oznacza po polsku „tożsamość”."
+    },
+    {
+      "id": "b2_society-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „influence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyskryminacja"
+        },
+        {
+          "id": "b",
+          "text": "wpływ"
+        },
+        {
+          "id": "c",
+          "text": "relacja medialna"
+        },
+        {
+          "id": "d",
+          "text": "przestępczość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„influence” oznacza po polsku „wpływ”."
+    },
+    {
+      "id": "b2_society-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „law”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "relacja medialna"
+        },
+        {
+          "id": "b",
+          "text": "ludność"
+        },
+        {
+          "id": "c",
+          "text": "miejski"
+        },
+        {
+          "id": "d",
+          "text": "prawo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„law” oznacza po polsku „prawo”."
+    },
+    {
+      "id": "b2_society-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „way of life”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nierówność"
+        },
+        {
+          "id": "b",
+          "text": "sposób życia"
+        },
+        {
+          "id": "c",
+          "text": "relacja medialna"
+        },
+        {
+          "id": "d",
+          "text": "wolontariusz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„way of life” oznacza po polsku „sposób życia”."
+    },
+    {
+      "id": "b2_society-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „minority”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "relacja medialna"
+        },
+        {
+          "id": "b",
+          "text": "dostęp"
+        },
+        {
+          "id": "c",
+          "text": "pokolenie społeczne"
+        },
+        {
+          "id": "d",
+          "text": "mniejszość"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„minority” oznacza po polsku „mniejszość”."
+    },
+    {
+      "id": "b2_society-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „poverty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawo"
+        },
+        {
+          "id": "b",
+          "text": "system edukacji"
+        },
+        {
+          "id": "c",
+          "text": "ubóstwo"
+        },
+        {
+          "id": "d",
+          "text": "opinia publiczna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„poverty” oznacza po polsku „ubóstwo”."
+    },
+    {
+      "id": "b2_society-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „protest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "protest"
+        },
+        {
+          "id": "b",
+          "text": "zwyczaj"
+        },
+        {
+          "id": "c",
+          "text": "imigracja"
+        },
+        {
+          "id": "d",
+          "text": "tożsamość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„protest” oznacza po polsku „protest”."
+    },
+    {
+      "id": "b2_society-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „public opinion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wolność"
+        },
+        {
+          "id": "b",
+          "text": "dyskryminacja"
+        },
+        {
+          "id": "c",
+          "text": "sposób życia"
+        },
+        {
+          "id": "d",
+          "text": "opinia publiczna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„public opinion” oznacza po polsku „opinia publiczna”."
+    },
+    {
+      "id": "b2_society-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „religion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawo"
+        },
+        {
+          "id": "b",
+          "text": "religia"
+        },
+        {
+          "id": "c",
+          "text": "nierówność"
+        },
+        {
+          "id": "d",
+          "text": "uprzedzenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„religion” oznacza po polsku „religia”."
+    },
+    {
+      "id": "b2_society-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „human rights”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezpieczeństwo publiczne"
+        },
+        {
+          "id": "b",
+          "text": "prawa człowieka"
+        },
+        {
+          "id": "c",
+          "text": "kultura młodzieżowa"
+        },
+        {
+          "id": "d",
+          "text": "obywatelstwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„human rights” oznacza po polsku „prawa człowieka”."
+    },
+    {
+      "id": "b2_society-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „public safety”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "społeczność"
+        },
+        {
+          "id": "b",
+          "text": "kultura"
+        },
+        {
+          "id": "c",
+          "text": "bezpieczeństwo publiczne"
+        },
+        {
+          "id": "d",
+          "text": "uchodźca"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„public safety” oznacza po polsku „bezpieczeństwo publiczne”."
+    },
+    {
+      "id": "b2_society-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „society”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezpieczeństwo publiczne"
+        },
+        {
+          "id": "b",
+          "text": "organizacja charytatywna"
+        },
+        {
+          "id": "c",
+          "text": "obowiązek obywatelski"
+        },
+        {
+          "id": "d",
+          "text": "społeczeństwo"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„society” oznacza po polsku „społeczeństwo”."
+    },
+    {
+      "id": "b2_society-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tradition”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "różnorodność"
+        },
+        {
+          "id": "b",
+          "text": "tradycja"
+        },
+        {
+          "id": "c",
+          "text": "miejski"
+        },
+        {
+          "id": "d",
+          "text": "nierówność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„tradition” oznacza po polsku „tradycja”."
+    },
+    {
+      "id": "b2_society-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „urban”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kultura"
+        },
+        {
+          "id": "b",
+          "text": "wolność"
+        },
+        {
+          "id": "c",
+          "text": "miejski"
+        },
+        {
+          "id": "d",
+          "text": "obywatelstwo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„urban” oznacza po polsku „miejski”."
+    },
+    {
+      "id": "b2_society-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rural”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiejski"
+        },
+        {
+          "id": "b",
+          "text": "nastawienie"
+        },
+        {
+          "id": "c",
+          "text": "wolontariusz"
+        },
+        {
+          "id": "d",
+          "text": "dostęp"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„rural” oznacza po polsku „wiejski”."
+    },
+    {
+      "id": "b2_society-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „volunteer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wolontariusz"
+        },
+        {
+          "id": "b",
+          "text": "uchodźca"
+        },
+        {
+          "id": "c",
+          "text": "równość"
+        },
+        {
+          "id": "d",
+          "text": "opinia publiczna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„volunteer” oznacza po polsku „wolontariusz”."
+    },
+    {
+      "id": "b2_society-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „charity”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "organizacja charytatywna"
+        },
+        {
+          "id": "b",
+          "text": "relacja medialna"
+        },
+        {
+          "id": "c",
+          "text": "różnorodność"
+        },
+        {
+          "id": "d",
+          "text": "władza"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„charity” oznacza po polsku „organizacja charytatywna”."
+    },
+    {
+      "id": "b2_society-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „citizenship”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dyskryminacja"
+        },
+        {
+          "id": "b",
+          "text": "poziom życia"
+        },
+        {
+          "id": "c",
+          "text": "obywatelstwo"
+        },
+        {
+          "id": "d",
+          "text": "imigracja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„citizenship” oznacza po polsku „obywatelstwo”."
+    },
+    {
+      "id": "b2_society-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „custom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obywatelstwo"
+        },
+        {
+          "id": "b",
+          "text": "ubóstwo"
+        },
+        {
+          "id": "c",
+          "text": "dyskryminacja"
+        },
+        {
+          "id": "d",
+          "text": "zwyczaj"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„custom” oznacza po polsku „zwyczaj”."
+    },
+    {
+      "id": "b2_society-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „education system”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poziom życia"
+        },
+        {
+          "id": "b",
+          "text": "system edukacji"
+        },
+        {
+          "id": "c",
+          "text": "pokolenie społeczne"
+        },
+        {
+          "id": "d",
+          "text": "organizacja charytatywna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„education system” oznacza po polsku „system edukacji”."
+    },
+    {
+      "id": "b2_society-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „election”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybory"
+        },
+        {
+          "id": "b",
+          "text": "wiejski"
+        },
+        {
+          "id": "c",
+          "text": "obowiązek obywatelski"
+        },
+        {
+          "id": "d",
+          "text": "obywatelstwo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„election” oznacza po polsku „wybory”."
+    },
+    {
+      "id": "b2_society-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „freedom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opinia publiczna"
+        },
+        {
+          "id": "b",
+          "text": "wolność"
+        },
+        {
+          "id": "c",
+          "text": "uprzedzenie"
+        },
+        {
+          "id": "d",
+          "text": "konflikt"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„freedom” oznacza po polsku „wolność”."
+    },
+    {
+      "id": "b2_society-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „government”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "system edukacji"
+        },
+        {
+          "id": "b",
+          "text": "przestępczość"
+        },
+        {
+          "id": "c",
+          "text": "rząd"
+        },
+        {
+          "id": "d",
+          "text": "obowiązek obywatelski"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„government” oznacza po polsku „rząd”."
+    },
+    {
+      "id": "b2_society-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „immigration”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachowanie społeczne"
+        },
+        {
+          "id": "b",
+          "text": "wybory"
+        },
+        {
+          "id": "c",
+          "text": "imigracja"
+        },
+        {
+          "id": "d",
+          "text": "problem społeczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„immigration” oznacza po polsku „imigracja”."
+    },
+    {
+      "id": "b2_society-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „inequality”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nastawienie"
+        },
+        {
+          "id": "b",
+          "text": "ludność"
+        },
+        {
+          "id": "c",
+          "text": "nierówność"
+        },
+        {
+          "id": "d",
+          "text": "pokolenie społeczne"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„inequality” oznacza po polsku „nierówność”."
+    },
+    {
+      "id": "b2_society-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „justice”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprawiedliwość"
+        },
+        {
+          "id": "b",
+          "text": "miejski"
+        },
+        {
+          "id": "c",
+          "text": "wybory"
+        },
+        {
+          "id": "d",
+          "text": "tradycja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„justice” oznacza po polsku „sprawiedliwość”."
+    },
+    {
+      "id": "b2_society-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „media coverage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sposób życia"
+        },
+        {
+          "id": "b",
+          "text": "społeczność"
+        },
+        {
+          "id": "c",
+          "text": "relacja medialna"
+        },
+        {
+          "id": "d",
+          "text": "nierówność"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„media coverage” oznacza po polsku „relacja medialna”."
+    },
+    {
+      "id": "b2_society-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „population”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ludność"
+        },
+        {
+          "id": "b",
+          "text": "uprzedzenie"
+        },
+        {
+          "id": "c",
+          "text": "miejski"
+        },
+        {
+          "id": "d",
+          "text": "nierówność"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„population” oznacza po polsku „ludność”."
+    },
+    {
+      "id": "b2_society-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prejudice”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klasa społeczna"
+        },
+        {
+          "id": "b",
+          "text": "miejski"
+        },
+        {
+          "id": "c",
+          "text": "tradycja"
+        },
+        {
+          "id": "d",
+          "text": "uprzedzenie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„prejudice” oznacza po polsku „uprzedzenie”."
+    },
+    {
+      "id": "b2_society-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „privacy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prywatność"
+        },
+        {
+          "id": "b",
+          "text": "tożsamość"
+        },
+        {
+          "id": "c",
+          "text": "tradycja"
+        },
+        {
+          "id": "d",
+          "text": "uchodźca"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„privacy” oznacza po polsku „prywatność”."
+    },
+    {
+      "id": "b2_society-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „refugee”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uprzedzenie"
+        },
+        {
+          "id": "b",
+          "text": "relacja medialna"
+        },
+        {
+          "id": "c",
+          "text": "opieka społeczna"
+        },
+        {
+          "id": "d",
+          "text": "uchodźca"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„refugee” oznacza po polsku „uchodźca”."
+    },
+    {
+      "id": "b2_society-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „civic duty”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uchodźca"
+        },
+        {
+          "id": "b",
+          "text": "ludność"
+        },
+        {
+          "id": "c",
+          "text": "nierówność"
+        },
+        {
+          "id": "d",
+          "text": "obowiązek obywatelski"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„civic duty” oznacza po polsku „obowiązek obywatelski”."
+    },
+    {
+      "id": "b2_society-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „social class”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klasa społeczna"
+        },
+        {
+          "id": "b",
+          "text": "społeczność"
+        },
+        {
+          "id": "c",
+          "text": "kultura"
+        },
+        {
+          "id": "d",
+          "text": "wiejski"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„social class” oznacza po polsku „klasa społeczna”."
+    },
+    {
+      "id": "b2_society-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „social issue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "relacja medialna"
+        },
+        {
+          "id": "b",
+          "text": "problem społeczny"
+        },
+        {
+          "id": "c",
+          "text": "wybory"
+        },
+        {
+          "id": "d",
+          "text": "społeczeństwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„social issue” oznacza po polsku „problem społeczny”."
+    },
+    {
+      "id": "b2_society-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „standard of living”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poziom życia"
+        },
+        {
+          "id": "b",
+          "text": "wiejski"
+        },
+        {
+          "id": "c",
+          "text": "tradycja"
+        },
+        {
+          "id": "d",
+          "text": "klasa społeczna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„standard of living” oznacza po polsku „poziom życia”."
+    },
+    {
+      "id": "b2_society-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stereotype”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prywatność"
+        },
+        {
+          "id": "b",
+          "text": "tożsamość"
+        },
+        {
+          "id": "c",
+          "text": "klasa społeczna"
+        },
+        {
+          "id": "d",
+          "text": "stereotyp"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„stereotype” oznacza po polsku „stereotyp”."
+    },
+    {
+      "id": "b2_society-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „welfare”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uprzedzenie"
+        },
+        {
+          "id": "b",
+          "text": "obywatelstwo"
+        },
+        {
+          "id": "c",
+          "text": "opieka społeczna"
+        },
+        {
+          "id": "d",
+          "text": "tożsamość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„welfare” oznacza po polsku „opieka społeczna”."
+    },
+    {
+      "id": "b2_society-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „youth culture”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "równość"
+        },
+        {
+          "id": "b",
+          "text": "bezpieczeństwo publiczne"
+        },
+        {
+          "id": "c",
+          "text": "kultura młodzieżowa"
+        },
+        {
+          "id": "d",
+          "text": "sprawiedliwość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„youth culture” oznacza po polsku „kultura młodzieżowa”."
+    }
+  ]
+}

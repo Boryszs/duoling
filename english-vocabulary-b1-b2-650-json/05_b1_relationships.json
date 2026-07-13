@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b1_relationships",
+    "name": "B1 – Relacje i emocje",
+    "level": "B1"
+  },
+  "questions": [
+    {
+      "id": "b1_relationships-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „acquaintance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzieciństwo"
+        },
+        {
+          "id": "b",
+          "text": "kłótnia"
+        },
+        {
+          "id": "c",
+          "text": "zaufanie"
+        },
+        {
+          "id": "d",
+          "text": "znajomy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„acquaintance” oznacza po polsku „znajomy”."
+    },
+    {
+      "id": "b1_relationships-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „argument”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyjazny"
+        },
+        {
+          "id": "b",
+          "text": "pokłócić się z kimś"
+        },
+        {
+          "id": "c",
+          "text": "zawstydzony"
+        },
+        {
+          "id": "d",
+          "text": "kłótnia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„argument” oznacza po polsku „kłótnia”."
+    },
+    {
+      "id": "b1_relationships-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „behave”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "b",
+          "text": "rozczarowany"
+        },
+        {
+          "id": "c",
+          "text": "opiekować się"
+        },
+        {
+          "id": "d",
+          "text": "para"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„behave” oznacza po polsku „zachowywać się”."
+    },
+    {
+      "id": "b1_relationships-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „celebrate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gospodarz"
+        },
+        {
+          "id": "b",
+          "text": "świętować"
+        },
+        {
+          "id": "c",
+          "text": "szacunek"
+        },
+        {
+          "id": "d",
+          "text": "relacja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„celebrate” oznacza po polsku „świętować”."
+    },
+    {
+      "id": "b1_relationships-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „childhood”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzieciństwo"
+        },
+        {
+          "id": "b",
+          "text": "relacja"
+        },
+        {
+          "id": "c",
+          "text": "para"
+        },
+        {
+          "id": "d",
+          "text": "partner"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„childhood” oznacza po polsku „dzieciństwo”."
+    },
+    {
+      "id": "b1_relationships-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „couple”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cierpliwa osoba"
+        },
+        {
+          "id": "b",
+          "text": "uprzejmy"
+        },
+        {
+          "id": "c",
+          "text": "para"
+        },
+        {
+          "id": "d",
+          "text": "zaprzyjaźniać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„couple” oznacza po polsku „para”."
+    },
+    {
+      "id": "b1_relationships-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „friendship”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zawstydzony"
+        },
+        {
+          "id": "b",
+          "text": "świętować"
+        },
+        {
+          "id": "c",
+          "text": "dzieciństwo"
+        },
+        {
+          "id": "d",
+          "text": "przyjaźń"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„friendship” oznacza po polsku „przyjaźń”."
+    },
+    {
+      "id": "b1_relationships-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaufanie"
+        },
+        {
+          "id": "b",
+          "text": "przedstawiać"
+        },
+        {
+          "id": "c",
+          "text": "gość"
+        },
+        {
+          "id": "d",
+          "text": "zawstydzony"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„guest” oznacza po polsku „gość”."
+    },
+    {
+      "id": "b1_relationships-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „host”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uprzejmy"
+        },
+        {
+          "id": "b",
+          "text": "utrzymywać kontakt"
+        },
+        {
+          "id": "c",
+          "text": "gospodarz"
+        },
+        {
+          "id": "d",
+          "text": "zdenerwowany"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„host” oznacza po polsku „gospodarz”."
+    },
+    {
+      "id": "b1_relationships-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „introduce”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedstawiać"
+        },
+        {
+          "id": "b",
+          "text": "życzliwy"
+        },
+        {
+          "id": "c",
+          "text": "radosny"
+        },
+        {
+          "id": "d",
+          "text": "hojny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„introduce” oznacza po polsku „przedstawiać”."
+    },
+    {
+      "id": "b1_relationships-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „neighbour”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spokojny"
+        },
+        {
+          "id": "b",
+          "text": "pewny siebie"
+        },
+        {
+          "id": "c",
+          "text": "sąsiad"
+        },
+        {
+          "id": "d",
+          "text": "hojny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„neighbour” oznacza po polsku „sąsiad”."
+    },
+    {
+      "id": "b1_relationships-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „partner”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozczarowany"
+        },
+        {
+          "id": "b",
+          "text": "hojny"
+        },
+        {
+          "id": "c",
+          "text": "zdenerwowany"
+        },
+        {
+          "id": "d",
+          "text": "partner"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„partner” oznacza po polsku „partner”."
+    },
+    {
+      "id": "b1_relationships-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relationship”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "partner"
+        },
+        {
+          "id": "b",
+          "text": "samotny"
+        },
+        {
+          "id": "c",
+          "text": "życzliwy"
+        },
+        {
+          "id": "d",
+          "text": "relacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„relationship” oznacza po polsku „relacja”."
+    },
+    {
+      "id": "b1_relationships-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relative”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krewny"
+        },
+        {
+          "id": "b",
+          "text": "dobrze się dogadywać"
+        },
+        {
+          "id": "c",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "d",
+          "text": "samotnie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„relative” oznacza po polsku „krewny”."
+    },
+    {
+      "id": "b1_relationships-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „respect”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szacunek"
+        },
+        {
+          "id": "b",
+          "text": "zaprzyjaźniać się"
+        },
+        {
+          "id": "c",
+          "text": "dorastać"
+        },
+        {
+          "id": "d",
+          "text": "życzliwy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„respect” oznacza po polsku „szacunek”."
+    },
+    {
+      "id": "b1_relationships-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „trust”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyjaźń"
+        },
+        {
+          "id": "b",
+          "text": "zaufanie"
+        },
+        {
+          "id": "c",
+          "text": "zły"
+        },
+        {
+          "id": "d",
+          "text": "opiekować się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„trust” oznacza po polsku „zaufanie”."
+    },
+    {
+      "id": "b1_relationships-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „admire”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podekscytowany"
+        },
+        {
+          "id": "b",
+          "text": "podziwiać"
+        },
+        {
+          "id": "c",
+          "text": "pewny siebie"
+        },
+        {
+          "id": "d",
+          "text": "zaufanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„admire” oznacza po polsku „podziwiać”."
+    },
+    {
+      "id": "b1_relationships-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „advice”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rada"
+        },
+        {
+          "id": "b",
+          "text": "zaufanie"
+        },
+        {
+          "id": "c",
+          "text": "zmartwiony"
+        },
+        {
+          "id": "d",
+          "text": "opiekować się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„advice” oznacza po polsku „rada”."
+    },
+    {
+      "id": "b1_relationships-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „alone”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samotnie"
+        },
+        {
+          "id": "b",
+          "text": "kłótnia"
+        },
+        {
+          "id": "c",
+          "text": "szacunek"
+        },
+        {
+          "id": "d",
+          "text": "spokojny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„alone” oznacza po polsku „samotnie”."
+    },
+    {
+      "id": "b1_relationships-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „angry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "b",
+          "text": "zły"
+        },
+        {
+          "id": "c",
+          "text": "zmartwiony"
+        },
+        {
+          "id": "d",
+          "text": "uprzejmy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„angry” oznacza po polsku „zły”."
+    },
+    {
+      "id": "b1_relationships-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „calm”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szacunek"
+        },
+        {
+          "id": "b",
+          "text": "znajomy"
+        },
+        {
+          "id": "c",
+          "text": "zdenerwowany"
+        },
+        {
+          "id": "d",
+          "text": "spokojny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„calm” oznacza po polsku „spokojny”."
+    },
+    {
+      "id": "b1_relationships-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cheerful”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spokojny"
+        },
+        {
+          "id": "b",
+          "text": "nieśmiały"
+        },
+        {
+          "id": "c",
+          "text": "radosny"
+        },
+        {
+          "id": "d",
+          "text": "samolubny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„cheerful” oznacza po polsku „radosny”."
+    },
+    {
+      "id": "b1_relationships-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „confident”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cierpliwa osoba"
+        },
+        {
+          "id": "b",
+          "text": "opiekować się"
+        },
+        {
+          "id": "c",
+          "text": "podekscytowany"
+        },
+        {
+          "id": "d",
+          "text": "pewny siebie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„confident” oznacza po polsku „pewny siebie”."
+    },
+    {
+      "id": "b1_relationships-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disappointed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozczarowany"
+        },
+        {
+          "id": "b",
+          "text": "znajomy"
+        },
+        {
+          "id": "c",
+          "text": "zmartwiony"
+        },
+        {
+          "id": "d",
+          "text": "zaprzyjaźniać się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disappointed” oznacza po polsku „rozczarowany”."
+    },
+    {
+      "id": "b1_relationships-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „embarrassed”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znajomy"
+        },
+        {
+          "id": "b",
+          "text": "dobrze się dogadywać"
+        },
+        {
+          "id": "c",
+          "text": "gospodarz"
+        },
+        {
+          "id": "d",
+          "text": "zawstydzony"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„embarrassed” oznacza po polsku „zawstydzony”."
+    },
+    {
+      "id": "b1_relationships-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „excited”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zły"
+        },
+        {
+          "id": "b",
+          "text": "gospodarz"
+        },
+        {
+          "id": "c",
+          "text": "podekscytowany"
+        },
+        {
+          "id": "d",
+          "text": "partner"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„excited” oznacza po polsku „podekscytowany”."
+    },
+    {
+      "id": "b1_relationships-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „friendly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krewny"
+        },
+        {
+          "id": "b",
+          "text": "para"
+        },
+        {
+          "id": "c",
+          "text": "godny zaufania"
+        },
+        {
+          "id": "d",
+          "text": "przyjazny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„friendly” oznacza po polsku „przyjazny”."
+    },
+    {
+      "id": "b1_relationships-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „generous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "b",
+          "text": "para"
+        },
+        {
+          "id": "c",
+          "text": "zazdrosny"
+        },
+        {
+          "id": "d",
+          "text": "hojny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„generous” oznacza po polsku „hojny”."
+    },
+    {
+      "id": "b1_relationships-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grateful”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nieśmiały"
+        },
+        {
+          "id": "b",
+          "text": "rozczarowany"
+        },
+        {
+          "id": "c",
+          "text": "sąsiad"
+        },
+        {
+          "id": "d",
+          "text": "wdzięczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„grateful” oznacza po polsku „wdzięczny”."
+    },
+    {
+      "id": "b1_relationships-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „honest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczciwy"
+        },
+        {
+          "id": "b",
+          "text": "gospodarz"
+        },
+        {
+          "id": "c",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "d",
+          "text": "samotny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„honest” oznacza po polsku „uczciwy”."
+    },
+    {
+      "id": "b1_relationships-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „jealous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "życzliwy"
+        },
+        {
+          "id": "b",
+          "text": "zazdrosny"
+        },
+        {
+          "id": "c",
+          "text": "podekscytowany"
+        },
+        {
+          "id": "d",
+          "text": "zaprzyjaźniać się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„jealous” oznacza po polsku „zazdrosny”."
+    },
+    {
+      "id": "b1_relationships-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „kind”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utrzymywać kontakt"
+        },
+        {
+          "id": "b",
+          "text": "radosny"
+        },
+        {
+          "id": "c",
+          "text": "życzliwy"
+        },
+        {
+          "id": "d",
+          "text": "gość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„kind” oznacza po polsku „życzliwy”."
+    },
+    {
+      "id": "b1_relationships-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lonely”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samotny"
+        },
+        {
+          "id": "b",
+          "text": "zaprzyjaźniać się"
+        },
+        {
+          "id": "c",
+          "text": "rada"
+        },
+        {
+          "id": "d",
+          "text": "życzliwy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lonely” oznacza po polsku „samotny”."
+    },
+    {
+      "id": "b1_relationships-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nervous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "para"
+        },
+        {
+          "id": "b",
+          "text": "przyjaźń"
+        },
+        {
+          "id": "c",
+          "text": "zdenerwowany"
+        },
+        {
+          "id": "d",
+          "text": "przedstawiać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„nervous” oznacza po polsku „zdenerwowany”."
+    },
+    {
+      "id": "b1_relationships-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „patient person”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyjazny"
+        },
+        {
+          "id": "b",
+          "text": "dorastać"
+        },
+        {
+          "id": "c",
+          "text": "cierpliwa osoba"
+        },
+        {
+          "id": "d",
+          "text": "niegrzeczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„patient person” oznacza po polsku „cierpliwa osoba”."
+    },
+    {
+      "id": "b1_relationships-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „polite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wrażliwy"
+        },
+        {
+          "id": "b",
+          "text": "przyjaźń"
+        },
+        {
+          "id": "c",
+          "text": "uprzejmy"
+        },
+        {
+          "id": "d",
+          "text": "opiekować się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„polite” oznacza po polsku „uprzejmy”."
+    },
+    {
+      "id": "b1_relationships-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „proud”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cierpliwa osoba"
+        },
+        {
+          "id": "b",
+          "text": "dumny"
+        },
+        {
+          "id": "c",
+          "text": "spokojny"
+        },
+        {
+          "id": "d",
+          "text": "nieśmiały"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„proud” oznacza po polsku „dumny”."
+    },
+    {
+      "id": "b1_relationships-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reliable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "godny zaufania"
+        },
+        {
+          "id": "b",
+          "text": "zaprzyjaźniać się"
+        },
+        {
+          "id": "c",
+          "text": "dobrze się dogadywać"
+        },
+        {
+          "id": "d",
+          "text": "niegrzeczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„reliable” oznacza po polsku „godny zaufania”."
+    },
+    {
+      "id": "b1_relationships-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rude”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdenerwowany"
+        },
+        {
+          "id": "b",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "c",
+          "text": "spokojny"
+        },
+        {
+          "id": "d",
+          "text": "hojny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rude” oznacza po polsku „niegrzeczny”."
+    },
+    {
+      "id": "b1_relationships-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „selfish”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samolubny"
+        },
+        {
+          "id": "b",
+          "text": "godny zaufania"
+        },
+        {
+          "id": "c",
+          "text": "samotny"
+        },
+        {
+          "id": "d",
+          "text": "przyjaźń"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„selfish” oznacza po polsku „samolubny”."
+    },
+    {
+      "id": "b1_relationships-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sensitive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gość"
+        },
+        {
+          "id": "b",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "c",
+          "text": "mieć coś wspólnego"
+        },
+        {
+          "id": "d",
+          "text": "wrażliwy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„sensitive” oznacza po polsku „wrażliwy”."
+    },
+    {
+      "id": "b1_relationships-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „shy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "b",
+          "text": "rada"
+        },
+        {
+          "id": "c",
+          "text": "pewny siebie"
+        },
+        {
+          "id": "d",
+          "text": "nieśmiały"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„shy” oznacza po polsku „nieśmiały”."
+    },
+    {
+      "id": "b1_relationships-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „worried”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "para"
+        },
+        {
+          "id": "b",
+          "text": "samotnie"
+        },
+        {
+          "id": "c",
+          "text": "pokłócić się z kimś"
+        },
+        {
+          "id": "d",
+          "text": "zmartwiony"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„worried” oznacza po polsku „zmartwiony”."
+    },
+    {
+      "id": "b1_relationships-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „get on with”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "utrzymywać kontakt"
+        },
+        {
+          "id": "b",
+          "text": "dobrze się dogadywać"
+        },
+        {
+          "id": "c",
+          "text": "uczciwy"
+        },
+        {
+          "id": "d",
+          "text": "wdzięczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„get on with” oznacza po polsku „dobrze się dogadywać”."
+    },
+    {
+      "id": "b1_relationships-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fall out with”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znajomy"
+        },
+        {
+          "id": "b",
+          "text": "pokłócić się z kimś"
+        },
+        {
+          "id": "c",
+          "text": "dzieciństwo"
+        },
+        {
+          "id": "d",
+          "text": "gospodarz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fall out with” oznacza po polsku „pokłócić się z kimś”."
+    },
+    {
+      "id": "b1_relationships-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „keep in touch”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "godny zaufania"
+        },
+        {
+          "id": "b",
+          "text": "przyjaźń"
+        },
+        {
+          "id": "c",
+          "text": "utrzymywać kontakt"
+        },
+        {
+          "id": "d",
+          "text": "hojny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„keep in touch” oznacza po polsku „utrzymywać kontakt”."
+    },
+    {
+      "id": "b1_relationships-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „make friends”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samotnie"
+        },
+        {
+          "id": "b",
+          "text": "zaprzyjaźniać się"
+        },
+        {
+          "id": "c",
+          "text": "para"
+        },
+        {
+          "id": "d",
+          "text": "przyjaźń"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„make friends” oznacza po polsku „zaprzyjaźniać się”."
+    },
+    {
+      "id": "b1_relationships-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „look after”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opiekować się"
+        },
+        {
+          "id": "b",
+          "text": "niegrzeczny"
+        },
+        {
+          "id": "c",
+          "text": "hojny"
+        },
+        {
+          "id": "d",
+          "text": "świętować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„look after” oznacza po polsku „opiekować się”."
+    },
+    {
+      "id": "b1_relationships-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „grow up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "samotnie"
+        },
+        {
+          "id": "b",
+          "text": "zachowywać się"
+        },
+        {
+          "id": "c",
+          "text": "przyjazny"
+        },
+        {
+          "id": "d",
+          "text": "dorastać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„grow up” oznacza po polsku „dorastać”."
+    },
+    {
+      "id": "b1_relationships-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „have in common”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "relacja"
+        },
+        {
+          "id": "b",
+          "text": "gość"
+        },
+        {
+          "id": "c",
+          "text": "mieć coś wspólnego"
+        },
+        {
+          "id": "d",
+          "text": "godny zaufania"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„have in common” oznacza po polsku „mieć coś wspólnego”."
+    }
+  ]
+}

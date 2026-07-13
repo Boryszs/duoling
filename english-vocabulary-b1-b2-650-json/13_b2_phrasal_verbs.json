@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b2_phrasal_verbs",
+    "name": "B2 – Phrasal verbs",
+    "level": "B2"
+  },
+  "questions": [
+    {
+      "id": "b2_phrasal_verbs-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bring about”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spowodować"
+        },
+        {
+          "id": "b",
+          "text": "czekać z niecierpliwością"
+        },
+        {
+          "id": "c",
+          "text": "ograniczyć"
+        },
+        {
+          "id": "d",
+          "text": "rozwiązać problem"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bring about” oznacza po polsku „spowodować”."
+    },
+    {
+      "id": "b2_phrasal_verbs-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bring up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poruszyć temat"
+        },
+        {
+          "id": "b",
+          "text": "pominąć"
+        },
+        {
+          "id": "c",
+          "text": "kontynuować"
+        },
+        {
+          "id": "d",
+          "text": "zrozumieć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„bring up” oznacza po polsku „poruszyć temat”."
+    },
+    {
+      "id": "b2_phrasal_verbs-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „call off”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odrzucić"
+        },
+        {
+          "id": "b",
+          "text": "rozwiązać problem"
+        },
+        {
+          "id": "c",
+          "text": "wyczerpać zapas"
+        },
+        {
+          "id": "d",
+          "text": "odwołać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„call off” oznacza po polsku „odwołać”."
+    },
+    {
+      "id": "b2_phrasal_verbs-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „carry on”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odkładać"
+        },
+        {
+          "id": "b",
+          "text": "przybyć"
+        },
+        {
+          "id": "c",
+          "text": "wyruszyć"
+        },
+        {
+          "id": "d",
+          "text": "kontynuować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„carry on” oznacza po polsku „kontynuować”."
+    },
+    {
+      "id": "b2_phrasal_verbs-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „come across”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "natknąć się"
+        },
+        {
+          "id": "b",
+          "text": "dziać się"
+        },
+        {
+          "id": "c",
+          "text": "nadążać za"
+        },
+        {
+          "id": "d",
+          "text": "wybuchnąć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„come across” oznacza po polsku „natknąć się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „come up with”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymyślić"
+        },
+        {
+          "id": "b",
+          "text": "nauczyć się mimochodem"
+        },
+        {
+          "id": "c",
+          "text": "pozbyć się"
+        },
+        {
+          "id": "d",
+          "text": "oddać za darmo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„come up with” oznacza po polsku „wymyślić”."
+    },
+    {
+      "id": "b2_phrasal_verbs-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cut down on”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przedstawić propozycję"
+        },
+        {
+          "id": "b",
+          "text": "okazać się"
+        },
+        {
+          "id": "c",
+          "text": "spowodować"
+        },
+        {
+          "id": "d",
+          "text": "ograniczyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cut down on” oznacza po polsku „ograniczyć”."
+    },
+    {
+      "id": "b2_phrasal_verbs-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deal with”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymyślić"
+        },
+        {
+          "id": "b",
+          "text": "dojść do siebie"
+        },
+        {
+          "id": "c",
+          "text": "radzić sobie z"
+        },
+        {
+          "id": "d",
+          "text": "oddać za darmo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„deal with” oznacza po polsku „radzić sobie z”."
+    },
+    {
+      "id": "b2_phrasal_verbs-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „end up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uniknąć kary"
+        },
+        {
+          "id": "b",
+          "text": "ostatecznie znaleźć się"
+        },
+        {
+          "id": "c",
+          "text": "kontynuować zgodnie z planem"
+        },
+        {
+          "id": "d",
+          "text": "przybyć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„end up” oznacza po polsku „ostatecznie znaleźć się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „figure out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zrozumieć"
+        },
+        {
+          "id": "b",
+          "text": "nadążać za"
+        },
+        {
+          "id": "c",
+          "text": "podziwiać"
+        },
+        {
+          "id": "d",
+          "text": "oddać za darmo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„figure out” oznacza po polsku „zrozumieć”."
+    },
+    {
+      "id": "b2_phrasal_verbs-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „find out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podziwiać"
+        },
+        {
+          "id": "b",
+          "text": "radzić sobie z"
+        },
+        {
+          "id": "c",
+          "text": "ostatecznie znaleźć się"
+        },
+        {
+          "id": "d",
+          "text": "dowiedzieć się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„find out” oznacza po polsku „dowiedzieć się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „get away with”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podziwiać"
+        },
+        {
+          "id": "b",
+          "text": "uniknąć kary"
+        },
+        {
+          "id": "c",
+          "text": "ograniczyć"
+        },
+        {
+          "id": "d",
+          "text": "przejąć kontrolę"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„get away with” oznacza po polsku „uniknąć kary”."
+    },
+    {
+      "id": "b2_phrasal_verbs-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „get over”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tolerować"
+        },
+        {
+          "id": "b",
+          "text": "dojść do siebie"
+        },
+        {
+          "id": "c",
+          "text": "wyczerpać zapas"
+        },
+        {
+          "id": "d",
+          "text": "spowodować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„get over” oznacza po polsku „dojść do siebie”."
+    },
+    {
+      "id": "b2_phrasal_verbs-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „give up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poddać się"
+        },
+        {
+          "id": "b",
+          "text": "podziwiać"
+        },
+        {
+          "id": "c",
+          "text": "pojawić się"
+        },
+        {
+          "id": "d",
+          "text": "dojść do siebie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„give up” oznacza po polsku „poddać się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „go ahead”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kontynuować zgodnie z planem"
+        },
+        {
+          "id": "b",
+          "text": "dziać się"
+        },
+        {
+          "id": "c",
+          "text": "wykluczyć"
+        },
+        {
+          "id": "d",
+          "text": "pojawić się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„go ahead” oznacza po polsku „kontynuować zgodnie z planem”."
+    },
+    {
+      "id": "b2_phrasal_verbs-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „go through”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "tolerować"
+        },
+        {
+          "id": "b",
+          "text": "rozwiązać problem"
+        },
+        {
+          "id": "c",
+          "text": "pominąć"
+        },
+        {
+          "id": "d",
+          "text": "przechodzić przez"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„go through” oznacza po polsku „przechodzić przez”."
+    },
+    {
+      "id": "b2_phrasal_verbs-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hold on”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybuchnąć"
+        },
+        {
+          "id": "b",
+          "text": "pojawić się"
+        },
+        {
+          "id": "c",
+          "text": "uniknąć kary"
+        },
+        {
+          "id": "d",
+          "text": "poczekać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„hold on” oznacza po polsku „poczekać”."
+    },
+    {
+      "id": "b2_phrasal_verbs-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „keep up with”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zbadać"
+        },
+        {
+          "id": "b",
+          "text": "nadążać za"
+        },
+        {
+          "id": "c",
+          "text": "radzić sobie z"
+        },
+        {
+          "id": "d",
+          "text": "poczekać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„keep up with” oznacza po polsku „nadążać za”."
+    },
+    {
+      "id": "b2_phrasal_verbs-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „look into”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zbadać"
+        },
+        {
+          "id": "b",
+          "text": "nauczyć się mimochodem"
+        },
+        {
+          "id": "c",
+          "text": "zostać opublikowanym"
+        },
+        {
+          "id": "d",
+          "text": "natknąć się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„look into” oznacza po polsku „zbadać”."
+    },
+    {
+      "id": "b2_phrasal_verbs-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „look forward to”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ostatecznie znaleźć się"
+        },
+        {
+          "id": "b",
+          "text": "pogodzić się"
+        },
+        {
+          "id": "c",
+          "text": "wpaść przypadkiem na"
+        },
+        {
+          "id": "d",
+          "text": "czekać z niecierpliwością"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„look forward to” oznacza po polsku „czekać z niecierpliwością”."
+    },
+    {
+      "id": "b2_phrasal_verbs-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „look up to”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wpaść przypadkiem na"
+        },
+        {
+          "id": "b",
+          "text": "podziwiać"
+        },
+        {
+          "id": "c",
+          "text": "poczekać"
+        },
+        {
+          "id": "d",
+          "text": "wyruszyć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„look up to” oznacza po polsku „podziwiać”."
+    },
+    {
+      "id": "b2_phrasal_verbs-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „make up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wypełnić formularz"
+        },
+        {
+          "id": "b",
+          "text": "spowodować"
+        },
+        {
+          "id": "c",
+          "text": "patrzeć z góry na"
+        },
+        {
+          "id": "d",
+          "text": "pogodzić się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„make up” oznacza po polsku „pogodzić się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pick up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nauczyć się mimochodem"
+        },
+        {
+          "id": "b",
+          "text": "pozbyć się"
+        },
+        {
+          "id": "c",
+          "text": "podziwiać"
+        },
+        {
+          "id": "d",
+          "text": "patrzeć z góry na"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pick up” oznacza po polsku „nauczyć się mimochodem”."
+    },
+    {
+      "id": "b2_phrasal_verbs-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „put off”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pogodzić się"
+        },
+        {
+          "id": "b",
+          "text": "wymyślić"
+        },
+        {
+          "id": "c",
+          "text": "odkładać"
+        },
+        {
+          "id": "d",
+          "text": "ostatecznie znaleźć się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„put off” oznacza po polsku „odkładać”."
+    },
+    {
+      "id": "b2_phrasal_verbs-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „put up with”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przechodzić przez"
+        },
+        {
+          "id": "b",
+          "text": "czekać z niecierpliwością"
+        },
+        {
+          "id": "c",
+          "text": "odkładać"
+        },
+        {
+          "id": "d",
+          "text": "tolerować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„put up with” oznacza po polsku „tolerować”."
+    },
+    {
+      "id": "b2_phrasal_verbs-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „run into”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymyślić"
+        },
+        {
+          "id": "b",
+          "text": "pominąć"
+        },
+        {
+          "id": "c",
+          "text": "wpaść przypadkiem na"
+        },
+        {
+          "id": "d",
+          "text": "poddać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„run into” oznacza po polsku „wpaść przypadkiem na”."
+    },
+    {
+      "id": "b2_phrasal_verbs-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „run out of”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyczerpać zapas"
+        },
+        {
+          "id": "b",
+          "text": "zepsuć się"
+        },
+        {
+          "id": "c",
+          "text": "pojawić się"
+        },
+        {
+          "id": "d",
+          "text": "natknąć się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„run out of” oznacza po polsku „wyczerpać zapas”."
+    },
+    {
+      "id": "b2_phrasal_verbs-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „set off”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyruszyć"
+        },
+        {
+          "id": "b",
+          "text": "zbadać"
+        },
+        {
+          "id": "c",
+          "text": "założyć"
+        },
+        {
+          "id": "d",
+          "text": "czekać z niecierpliwością"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„set off” oznacza po polsku „wyruszyć”."
+    },
+    {
+      "id": "b2_phrasal_verbs-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „set up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wypełnić formularz"
+        },
+        {
+          "id": "b",
+          "text": "pozbyć się"
+        },
+        {
+          "id": "c",
+          "text": "być podobnym do"
+        },
+        {
+          "id": "d",
+          "text": "założyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„set up” oznacza po polsku „założyć”."
+    },
+    {
+      "id": "b2_phrasal_verbs-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sort out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozwiązać problem"
+        },
+        {
+          "id": "b",
+          "text": "pominąć"
+        },
+        {
+          "id": "c",
+          "text": "uniknąć kary"
+        },
+        {
+          "id": "d",
+          "text": "być podobnym do"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sort out” oznacza po polsku „rozwiązać problem”."
+    },
+    {
+      "id": "b2_phrasal_verbs-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „take after”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "być podobnym do"
+        },
+        {
+          "id": "b",
+          "text": "odwołać"
+        },
+        {
+          "id": "c",
+          "text": "wpaść przypadkiem na"
+        },
+        {
+          "id": "d",
+          "text": "wyczerpać zapas"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„take after” oznacza po polsku „być podobnym do”."
+    },
+    {
+      "id": "b2_phrasal_verbs-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „take over”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wymyślić"
+        },
+        {
+          "id": "b",
+          "text": "przejąć kontrolę"
+        },
+        {
+          "id": "c",
+          "text": "przybyć"
+        },
+        {
+          "id": "d",
+          "text": "podjąć się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„take over” oznacza po polsku „przejąć kontrolę”."
+    },
+    {
+      "id": "b2_phrasal_verbs-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „turn down”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dowiedzieć się"
+        },
+        {
+          "id": "b",
+          "text": "wybuchnąć"
+        },
+        {
+          "id": "c",
+          "text": "odrzucić"
+        },
+        {
+          "id": "d",
+          "text": "zbadać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„turn down” oznacza po polsku „odrzucić”."
+    },
+    {
+      "id": "b2_phrasal_verbs-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „turn out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dowiedzieć się"
+        },
+        {
+          "id": "b",
+          "text": "wpaść przypadkiem na"
+        },
+        {
+          "id": "c",
+          "text": "okazać się"
+        },
+        {
+          "id": "d",
+          "text": "przedstawić propozycję"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„turn out” oznacza po polsku „okazać się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „work out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znaleźć rozwiązanie"
+        },
+        {
+          "id": "b",
+          "text": "podjąć się"
+        },
+        {
+          "id": "c",
+          "text": "pominąć"
+        },
+        {
+          "id": "d",
+          "text": "zostać opublikowanym"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„work out” oznacza po polsku „znaleźć rozwiązanie”."
+    },
+    {
+      "id": "b2_phrasal_verbs-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „break down”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zostać opublikowanym"
+        },
+        {
+          "id": "b",
+          "text": "wybuchnąć"
+        },
+        {
+          "id": "c",
+          "text": "zepsuć się"
+        },
+        {
+          "id": "d",
+          "text": "pojawić się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„break down” oznacza po polsku „zepsuć się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „break out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybuchnąć"
+        },
+        {
+          "id": "b",
+          "text": "wykluczyć"
+        },
+        {
+          "id": "c",
+          "text": "założyć"
+        },
+        {
+          "id": "d",
+          "text": "pogodzić się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„break out” oznacza po polsku „wybuchnąć”."
+    },
+    {
+      "id": "b2_phrasal_verbs-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „come out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ostatecznie znaleźć się"
+        },
+        {
+          "id": "b",
+          "text": "zostać opublikowanym"
+        },
+        {
+          "id": "c",
+          "text": "kontynuować zgodnie z planem"
+        },
+        {
+          "id": "d",
+          "text": "znaleźć rozwiązanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„come out” oznacza po polsku „zostać opublikowanym”."
+    },
+    {
+      "id": "b2_phrasal_verbs-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fill in”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zostać opublikowanym"
+        },
+        {
+          "id": "b",
+          "text": "odrzucić"
+        },
+        {
+          "id": "c",
+          "text": "podjąć się"
+        },
+        {
+          "id": "d",
+          "text": "wypełnić formularz"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fill in” oznacza po polsku „wypełnić formularz”."
+    },
+    {
+      "id": "b2_phrasal_verbs-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „get rid of”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pozbyć się"
+        },
+        {
+          "id": "b",
+          "text": "uniknąć kary"
+        },
+        {
+          "id": "c",
+          "text": "podjąć się"
+        },
+        {
+          "id": "d",
+          "text": "odkładać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„get rid of” oznacza po polsku „pozbyć się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „give away”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "być podobnym do"
+        },
+        {
+          "id": "b",
+          "text": "oddać za darmo"
+        },
+        {
+          "id": "c",
+          "text": "wykluczyć"
+        },
+        {
+          "id": "d",
+          "text": "dziać się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„give away” oznacza po polsku „oddać za darmo”."
+    },
+    {
+      "id": "b2_phrasal_verbs-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „go on”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wypełnić formularz"
+        },
+        {
+          "id": "b",
+          "text": "tolerować"
+        },
+        {
+          "id": "c",
+          "text": "kontynuować"
+        },
+        {
+          "id": "d",
+          "text": "dziać się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„go on” oznacza po polsku „dziać się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „leave out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zostać opublikowanym"
+        },
+        {
+          "id": "b",
+          "text": "wyczerpać zapas"
+        },
+        {
+          "id": "c",
+          "text": "kontynuować zgodnie z planem"
+        },
+        {
+          "id": "d",
+          "text": "pominąć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„leave out” oznacza po polsku „pominąć”."
+    },
+    {
+      "id": "b2_phrasal_verbs-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „look down on”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "patrzeć z góry na"
+        },
+        {
+          "id": "b",
+          "text": "wpaść przypadkiem na"
+        },
+        {
+          "id": "c",
+          "text": "założyć"
+        },
+        {
+          "id": "d",
+          "text": "odrzucić"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„look down on” oznacza po polsku „patrzeć z góry na”."
+    },
+    {
+      "id": "b2_phrasal_verbs-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rule out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wypełnić formularz"
+        },
+        {
+          "id": "b",
+          "text": "pojawić się"
+        },
+        {
+          "id": "c",
+          "text": "czekać z niecierpliwością"
+        },
+        {
+          "id": "d",
+          "text": "wykluczyć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„rule out” oznacza po polsku „wykluczyć”."
+    },
+    {
+      "id": "b2_phrasal_verbs-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „put forward”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poddać się"
+        },
+        {
+          "id": "b",
+          "text": "przedstawić propozycję"
+        },
+        {
+          "id": "c",
+          "text": "przejąć kontrolę"
+        },
+        {
+          "id": "d",
+          "text": "uniknąć kary"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„put forward” oznacza po polsku „przedstawić propozycję”."
+    },
+    {
+      "id": "b2_phrasal_verbs-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „show up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zostać opublikowanym"
+        },
+        {
+          "id": "b",
+          "text": "pominąć"
+        },
+        {
+          "id": "c",
+          "text": "pojawić się"
+        },
+        {
+          "id": "d",
+          "text": "wybuchnąć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„show up” oznacza po polsku „pojawić się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „take on”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podjąć się"
+        },
+        {
+          "id": "b",
+          "text": "pogodzić się"
+        },
+        {
+          "id": "c",
+          "text": "dowiedzieć się"
+        },
+        {
+          "id": "d",
+          "text": "zbadać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„take on” oznacza po polsku „podjąć się”."
+    },
+    {
+      "id": "b2_phrasal_verbs-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „turn up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ograniczyć"
+        },
+        {
+          "id": "b",
+          "text": "przybyć"
+        },
+        {
+          "id": "c",
+          "text": "oddać za darmo"
+        },
+        {
+          "id": "d",
+          "text": "być podobnym do"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„turn up” oznacza po polsku „przybyć”."
+    },
+    {
+      "id": "b2_phrasal_verbs-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „work on”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radzić sobie z"
+        },
+        {
+          "id": "b",
+          "text": "okazać się"
+        },
+        {
+          "id": "c",
+          "text": "pracować nad"
+        },
+        {
+          "id": "d",
+          "text": "kontynuować zgodnie z planem"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„work on” oznacza po polsku „pracować nad”."
+    }
+  ]
+}

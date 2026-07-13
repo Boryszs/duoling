@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b2_advanced_verbs",
+    "name": "B2 – Zaawansowane czasowniki",
+    "level": "B2"
+  },
+  "questions": [
+    {
+      "id": "b2_advanced_verbs-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „accomplish”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dokonać"
+        },
+        {
+          "id": "b",
+          "text": "zakładać"
+        },
+        {
+          "id": "c",
+          "text": "podejmować próbę"
+        },
+        {
+          "id": "d",
+          "text": "obejmować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„accomplish” oznacza po polsku „dokonać”."
+    },
+    {
+      "id": "b2_advanced_verbs-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „adapt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kwestionować"
+        },
+        {
+          "id": "b",
+          "text": "zachęcać"
+        },
+        {
+          "id": "c",
+          "text": "dostosować się"
+        },
+        {
+          "id": "d",
+          "text": "definiować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„adapt” oznacza po polsku „dostosować się”."
+    },
+    {
+      "id": "b2_advanced_verbs-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „affect”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wpływać"
+        },
+        {
+          "id": "b",
+          "text": "definiować"
+        },
+        {
+          "id": "c",
+          "text": "występować"
+        },
+        {
+          "id": "d",
+          "text": "dokonać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„affect” oznacza po polsku „wpływać”."
+    },
+    {
+      "id": "b2_advanced_verbs-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „assume”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zakładać"
+        },
+        {
+          "id": "b",
+          "text": "rozpoznawać"
+        },
+        {
+          "id": "c",
+          "text": "skupiać się"
+        },
+        {
+          "id": "d",
+          "text": "zachęcać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„assume” oznacza po polsku „zakładać”."
+    },
+    {
+      "id": "b2_advanced_verbs-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „attempt”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wpływać"
+        },
+        {
+          "id": "b",
+          "text": "mieć tendencję"
+        },
+        {
+          "id": "c",
+          "text": "wchłaniać"
+        },
+        {
+          "id": "d",
+          "text": "podejmować próbę"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„attempt” oznacza po polsku „podejmować próbę”."
+    },
+    {
+      "id": "b2_advanced_verbs-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „benefit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przynosić korzyść"
+        },
+        {
+          "id": "b",
+          "text": "obejmować"
+        },
+        {
+          "id": "c",
+          "text": "wchłaniać"
+        },
+        {
+          "id": "d",
+          "text": "uczestniczyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„benefit” oznacza po polsku „przynosić korzyść”."
+    },
+    {
+      "id": "b2_advanced_verbs-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „challenge”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozważać"
+        },
+        {
+          "id": "b",
+          "text": "ustalać"
+        },
+        {
+          "id": "c",
+          "text": "zakładać"
+        },
+        {
+          "id": "d",
+          "text": "kwestionować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„challenge” oznacza po polsku „kwestionować”."
+    },
+    {
+      "id": "b2_advanced_verbs-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „contribute”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wycofywać się"
+        },
+        {
+          "id": "b",
+          "text": "zachęcać"
+        },
+        {
+          "id": "c",
+          "text": "przyczyniać się"
+        },
+        {
+          "id": "d",
+          "text": "przezwyciężać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„contribute” oznacza po polsku „przyczyniać się”."
+    },
+    {
+      "id": "b2_advanced_verbs-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cope”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radzić sobie z trudnością"
+        },
+        {
+          "id": "b",
+          "text": "uzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "skupiać się"
+        },
+        {
+          "id": "d",
+          "text": "zobowiązywać się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cope” oznacza po polsku „radzić sobie z trudnością”."
+    },
+    {
+      "id": "b2_advanced_verbs-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „decline”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spadać"
+        },
+        {
+          "id": "b",
+          "text": "kwestionować"
+        },
+        {
+          "id": "c",
+          "text": "ignorować"
+        },
+        {
+          "id": "d",
+          "text": "wykazywać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„decline” oznacza po polsku „spadać”."
+    },
+    {
+      "id": "b2_advanced_verbs-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „determine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radzić sobie z trudnością"
+        },
+        {
+          "id": "b",
+          "text": "przyczyniać się"
+        },
+        {
+          "id": "c",
+          "text": "obejmować"
+        },
+        {
+          "id": "d",
+          "text": "ustalać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„determine” oznacza po polsku „ustalać”."
+    },
+    {
+      "id": "b2_advanced_verbs-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „encourage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wytwarzać"
+        },
+        {
+          "id": "b",
+          "text": "dokonywać oceny"
+        },
+        {
+          "id": "c",
+          "text": "zachęcać"
+        },
+        {
+          "id": "d",
+          "text": "zapewniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„encourage” oznacza po polsku „zachęcać”."
+    },
+    {
+      "id": "b2_advanced_verbs-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „establish”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radzić sobie z trudnością"
+        },
+        {
+          "id": "b",
+          "text": "ustanawiać"
+        },
+        {
+          "id": "c",
+          "text": "dokonywać oceny"
+        },
+        {
+          "id": "d",
+          "text": "identyfikować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„establish” oznacza po polsku „ustanawiać”."
+    },
+    {
+      "id": "b2_advanced_verbs-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „estimate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "b",
+          "text": "szacować"
+        },
+        {
+          "id": "c",
+          "text": "wymagać"
+        },
+        {
+          "id": "d",
+          "text": "wskazywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„estimate” oznacza po polsku „szacować”."
+    },
+    {
+      "id": "b2_advanced_verbs-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „examine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozpoznawać"
+        },
+        {
+          "id": "b",
+          "text": "wpływać"
+        },
+        {
+          "id": "c",
+          "text": "badać"
+        },
+        {
+          "id": "d",
+          "text": "zajmować się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„examine” oznacza po polsku „badać”."
+    },
+    {
+      "id": "b2_advanced_verbs-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "identyfikować"
+        },
+        {
+          "id": "b",
+          "text": "zobowiązywać się"
+        },
+        {
+          "id": "c",
+          "text": "obejmować"
+        },
+        {
+          "id": "d",
+          "text": "istnieć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„exist” oznacza po polsku „istnieć”."
+    },
+    {
+      "id": "b2_advanced_verbs-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „gain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podejmować próbę"
+        },
+        {
+          "id": "b",
+          "text": "zyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "definiować"
+        },
+        {
+          "id": "d",
+          "text": "podchodzić do"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„gain” oznacza po polsku „zyskiwać”."
+    },
+    {
+      "id": "b2_advanced_verbs-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „handle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radzić sobie z trudnością"
+        },
+        {
+          "id": "b",
+          "text": "zajmować się"
+        },
+        {
+          "id": "c",
+          "text": "występować"
+        },
+        {
+          "id": "d",
+          "text": "skupiać się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„handle” oznacza po polsku „zajmować się”."
+    },
+    {
+      "id": "b2_advanced_verbs-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „identify”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szacować"
+        },
+        {
+          "id": "b",
+          "text": "identyfikować"
+        },
+        {
+          "id": "c",
+          "text": "reprezentować"
+        },
+        {
+          "id": "d",
+          "text": "łączyć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„identify” oznacza po polsku „identyfikować”."
+    },
+    {
+      "id": "b2_advanced_verbs-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ignore”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wytwarzać"
+        },
+        {
+          "id": "b",
+          "text": "wskazywać"
+        },
+        {
+          "id": "c",
+          "text": "ignorować"
+        },
+        {
+          "id": "d",
+          "text": "radzić sobie z trudnością"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ignore” oznacza po polsku „ignorować”."
+    },
+    {
+      "id": "b2_advanced_verbs-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „indicate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wycofywać się"
+        },
+        {
+          "id": "b",
+          "text": "badać"
+        },
+        {
+          "id": "c",
+          "text": "wskazywać"
+        },
+        {
+          "id": "d",
+          "text": "dokonać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„indicate” oznacza po polsku „wskazywać”."
+    },
+    {
+      "id": "b2_advanced_verbs-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „involve”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obejmować"
+        },
+        {
+          "id": "b",
+          "text": "wymagać"
+        },
+        {
+          "id": "c",
+          "text": "dokonywać oceny"
+        },
+        {
+          "id": "d",
+          "text": "spadać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„involve” oznacza po polsku „obejmować”."
+    },
+    {
+      "id": "b2_advanced_verbs-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „maintain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ujawniać"
+        },
+        {
+          "id": "b",
+          "text": "utrzymywać"
+        },
+        {
+          "id": "c",
+          "text": "wskazywać"
+        },
+        {
+          "id": "d",
+          "text": "mieć tendencję"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„maintain” oznacza po polsku „utrzymywać”."
+    },
+    {
+      "id": "b2_advanced_verbs-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „occur”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "składać się"
+        },
+        {
+          "id": "b",
+          "text": "utrzymywać"
+        },
+        {
+          "id": "c",
+          "text": "występować"
+        },
+        {
+          "id": "d",
+          "text": "przezwyciężać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„occur” oznacza po polsku „występować”."
+    },
+    {
+      "id": "b2_advanced_verbs-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „provide”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dokonać"
+        },
+        {
+          "id": "b",
+          "text": "rozważać"
+        },
+        {
+          "id": "c",
+          "text": "zapewniać"
+        },
+        {
+          "id": "d",
+          "text": "dopilnować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„provide” oznacza po polsku „zapewniać”."
+    },
+    {
+      "id": "b2_advanced_verbs-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recognise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przynosić korzyść"
+        },
+        {
+          "id": "b",
+          "text": "rozpoznawać"
+        },
+        {
+          "id": "c",
+          "text": "dopilnować"
+        },
+        {
+          "id": "d",
+          "text": "dokonać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„recognise” oznacza po polsku „rozpoznawać”."
+    },
+    {
+      "id": "b2_advanced_verbs-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „require”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łączyć"
+        },
+        {
+          "id": "b",
+          "text": "wymagać"
+        },
+        {
+          "id": "c",
+          "text": "ustalać"
+        },
+        {
+          "id": "d",
+          "text": "mieć tendencję"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„require” oznacza po polsku „wymagać”."
+    },
+    {
+      "id": "b2_advanced_verbs-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reveal”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "składać się"
+        },
+        {
+          "id": "b",
+          "text": "ignorować"
+        },
+        {
+          "id": "c",
+          "text": "ujawniać"
+        },
+        {
+          "id": "d",
+          "text": "istnieć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reveal” oznacza po polsku „ujawniać”."
+    },
+    {
+      "id": "b2_advanced_verbs-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „solve”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obejmować"
+        },
+        {
+          "id": "b",
+          "text": "skupiać się"
+        },
+        {
+          "id": "c",
+          "text": "rozwiązywać"
+        },
+        {
+          "id": "d",
+          "text": "kwestionować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„solve” oznacza po polsku „rozwiązywać”."
+    },
+    {
+      "id": "b2_advanced_verbs-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "występować"
+        },
+        {
+          "id": "b",
+          "text": "zapewniać"
+        },
+        {
+          "id": "c",
+          "text": "spadać"
+        },
+        {
+          "id": "d",
+          "text": "mieć tendencję"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„tend” oznacza po polsku „mieć tendencję”."
+    },
+    {
+      "id": "b2_advanced_verbs-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „vary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wskazywać"
+        },
+        {
+          "id": "b",
+          "text": "różnić się"
+        },
+        {
+          "id": "c",
+          "text": "dokonywać oceny"
+        },
+        {
+          "id": "d",
+          "text": "zobowiązywać się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„vary” oznacza po polsku „różnić się”."
+    },
+    {
+      "id": "b2_advanced_verbs-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „withdraw”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ujawniać"
+        },
+        {
+          "id": "b",
+          "text": "radzić sobie z trudnością"
+        },
+        {
+          "id": "c",
+          "text": "wycofywać się"
+        },
+        {
+          "id": "d",
+          "text": "identyfikować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„withdraw” oznacza po polsku „wycofywać się”."
+    },
+    {
+      "id": "b2_advanced_verbs-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „absorb”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uzyskiwać"
+        },
+        {
+          "id": "b",
+          "text": "wchłaniać"
+        },
+        {
+          "id": "c",
+          "text": "identyfikować"
+        },
+        {
+          "id": "d",
+          "text": "zapewniać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„absorb” oznacza po polsku „wchłaniać”."
+    },
+    {
+      "id": "b2_advanced_verbs-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „approach”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podchodzić do"
+        },
+        {
+          "id": "b",
+          "text": "oceniać"
+        },
+        {
+          "id": "c",
+          "text": "istnieć"
+        },
+        {
+          "id": "d",
+          "text": "identyfikować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„approach” oznacza po polsku „podchodzić do”."
+    },
+    {
+      "id": "b2_advanced_verbs-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „assess”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "identyfikować"
+        },
+        {
+          "id": "b",
+          "text": "uzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "oceniać"
+        },
+        {
+          "id": "d",
+          "text": "zapewniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„assess” oznacza po polsku „oceniać”."
+    },
+    {
+      "id": "b2_advanced_verbs-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „combine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ujawniać"
+        },
+        {
+          "id": "b",
+          "text": "łączyć"
+        },
+        {
+          "id": "c",
+          "text": "przyczyniać się"
+        },
+        {
+          "id": "d",
+          "text": "dokonywać oceny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„combine” oznacza po polsku „łączyć”."
+    },
+    {
+      "id": "b2_advanced_verbs-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „commit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zobowiązywać się"
+        },
+        {
+          "id": "b",
+          "text": "dokonać"
+        },
+        {
+          "id": "c",
+          "text": "rozpoznawać"
+        },
+        {
+          "id": "d",
+          "text": "dostosować się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„commit” oznacza po polsku „zobowiązywać się”."
+    },
+    {
+      "id": "b2_advanced_verbs-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „consider”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozważać"
+        },
+        {
+          "id": "b",
+          "text": "zajmować się"
+        },
+        {
+          "id": "c",
+          "text": "definiować"
+        },
+        {
+          "id": "d",
+          "text": "zakładać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„consider” oznacza po polsku „rozważać”."
+    },
+    {
+      "id": "b2_advanced_verbs-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „consist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "istnieć"
+        },
+        {
+          "id": "b",
+          "text": "zyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "łączyć"
+        },
+        {
+          "id": "d",
+          "text": "składać się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„consist” oznacza po polsku „składać się”."
+    },
+    {
+      "id": "b2_advanced_verbs-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „define”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "skupiać się"
+        },
+        {
+          "id": "b",
+          "text": "spadać"
+        },
+        {
+          "id": "c",
+          "text": "definiować"
+        },
+        {
+          "id": "d",
+          "text": "rozważać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„define” oznacza po polsku „definiować”."
+    },
+    {
+      "id": "b2_advanced_verbs-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „demonstrate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zachęcać"
+        },
+        {
+          "id": "b",
+          "text": "wpływać"
+        },
+        {
+          "id": "c",
+          "text": "wykazywać"
+        },
+        {
+          "id": "d",
+          "text": "uczestniczyć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„demonstrate” oznacza po polsku „wykazywać”."
+    },
+    {
+      "id": "b2_advanced_verbs-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „enable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "umożliwiać"
+        },
+        {
+          "id": "b",
+          "text": "łączyć"
+        },
+        {
+          "id": "c",
+          "text": "wykazywać"
+        },
+        {
+          "id": "d",
+          "text": "zachęcać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„enable” oznacza po polsku „umożliwiać”."
+    },
+    {
+      "id": "b2_advanced_verbs-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ensure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dopilnować"
+        },
+        {
+          "id": "b",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "c",
+          "text": "występować"
+        },
+        {
+          "id": "d",
+          "text": "wytwarzać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ensure” oznacza po polsku „dopilnować”."
+    },
+    {
+      "id": "b2_advanced_verbs-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „evaluate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "radzić sobie z trudnością"
+        },
+        {
+          "id": "b",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "c",
+          "text": "dokonywać oceny"
+        },
+        {
+          "id": "d",
+          "text": "skupiać się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„evaluate” oznacza po polsku „dokonywać oceny”."
+    },
+    {
+      "id": "b2_advanced_verbs-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „focus”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "b",
+          "text": "rozważać"
+        },
+        {
+          "id": "c",
+          "text": "różnić się"
+        },
+        {
+          "id": "d",
+          "text": "skupiać się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„focus” oznacza po polsku „skupiać się”."
+    },
+    {
+      "id": "b2_advanced_verbs-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „generate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mieć tendencję"
+        },
+        {
+          "id": "b",
+          "text": "wytwarzać"
+        },
+        {
+          "id": "c",
+          "text": "wskazywać"
+        },
+        {
+          "id": "d",
+          "text": "identyfikować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„generate” oznacza po polsku „wytwarzać”."
+    },
+    {
+      "id": "b2_advanced_verbs-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „obtain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dopilnować"
+        },
+        {
+          "id": "b",
+          "text": "uzyskiwać"
+        },
+        {
+          "id": "c",
+          "text": "badać"
+        },
+        {
+          "id": "d",
+          "text": "podejmować próbę"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„obtain” oznacza po polsku „uzyskiwać”."
+    },
+    {
+      "id": "b2_advanced_verbs-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „participate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "uczestniczyć"
+        },
+        {
+          "id": "b",
+          "text": "dokonać"
+        },
+        {
+          "id": "c",
+          "text": "rozwiązywać"
+        },
+        {
+          "id": "d",
+          "text": "zakładać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„participate” oznacza po polsku „uczestniczyć”."
+    },
+    {
+      "id": "b2_advanced_verbs-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „represent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reprezentować"
+        },
+        {
+          "id": "b",
+          "text": "definiować"
+        },
+        {
+          "id": "c",
+          "text": "rozpoznawać"
+        },
+        {
+          "id": "d",
+          "text": "zobowiązywać się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„represent” oznacza po polsku „reprezentować”."
+    },
+    {
+      "id": "b2_advanced_verbs-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „overcome”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przezwyciężać"
+        },
+        {
+          "id": "b",
+          "text": "przynosić korzyść"
+        },
+        {
+          "id": "c",
+          "text": "wycofywać się"
+        },
+        {
+          "id": "d",
+          "text": "wymagać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„overcome” oznacza po polsku „przezwyciężać”."
+    }
+  ]
+}

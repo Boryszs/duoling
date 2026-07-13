@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b2_environment_science",
+    "name": "B2 – Środowisko i nauka",
+    "level": "B2"
+  },
+  "questions": [
+    {
+      "id": "b2_environment_science-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „biodiversity”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "emisja"
+        },
+        {
+          "id": "b",
+          "text": "odkrycie"
+        },
+        {
+          "id": "c",
+          "text": "bioróżnorodność"
+        },
+        {
+          "id": "d",
+          "text": "obserwować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„biodiversity” oznacza po polsku „bioróżnorodność”."
+    },
+    {
+      "id": "b2_environment_science-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „carbon dioxide”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "proces"
+        },
+        {
+          "id": "b",
+          "text": "dwutlenek węgla"
+        },
+        {
+          "id": "c",
+          "text": "paliwo kopalne"
+        },
+        {
+          "id": "d",
+          "text": "odkrycie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„carbon dioxide” oznacza po polsku „dwutlenek węgla”."
+    },
+    {
+      "id": "b2_environment_science-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „climate change”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dwutlenek węgla"
+        },
+        {
+          "id": "b",
+          "text": "odkrycie"
+        },
+        {
+          "id": "c",
+          "text": "rozwiązanie"
+        },
+        {
+          "id": "d",
+          "text": "zmiana klimatu"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„climate change” oznacza po polsku „zmiana klimatu”."
+    },
+    {
+      "id": "b2_environment_science-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „conservation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zrównoważony"
+        },
+        {
+          "id": "b",
+          "text": "gatunek"
+        },
+        {
+          "id": "c",
+          "text": "energia słoneczna"
+        },
+        {
+          "id": "d",
+          "text": "ochrona przyrody"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„conservation” oznacza po polsku „ochrona przyrody”."
+    },
+    {
+      "id": "b2_environment_science-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „consume”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zużywać"
+        },
+        {
+          "id": "b",
+          "text": "dwutlenek węgla"
+        },
+        {
+          "id": "c",
+          "text": "energia słoneczna"
+        },
+        {
+          "id": "d",
+          "text": "poddawać recyklingowi"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„consume” oznacza po polsku „zużywać”."
+    },
+    {
+      "id": "b2_environment_science-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ecosystem”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekosystem"
+        },
+        {
+          "id": "b",
+          "text": "analizować"
+        },
+        {
+          "id": "c",
+          "text": "rozwiązanie"
+        },
+        {
+          "id": "d",
+          "text": "dwutlenek węgla"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„ecosystem” oznacza po polsku „ekosystem”."
+    },
+    {
+      "id": "b2_environment_science-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „emission”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marnować"
+        },
+        {
+          "id": "b",
+          "text": "ochrona przyrody"
+        },
+        {
+          "id": "c",
+          "text": "emisja"
+        },
+        {
+          "id": "d",
+          "text": "metoda"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„emission” oznacza po polsku „emisja”."
+    },
+    {
+      "id": "b2_environment_science-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „endangered”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zagrożony wyginięciem"
+        },
+        {
+          "id": "b",
+          "text": "wynik"
+        },
+        {
+          "id": "c",
+          "text": "zasób naturalny"
+        },
+        {
+          "id": "d",
+          "text": "udowadniać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„endangered” oznacza po polsku „zagrożony wyginięciem”."
+    },
+    {
+      "id": "b2_environment_science-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „energy-efficient”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "energooszczędny"
+        },
+        {
+          "id": "b",
+          "text": "bioróżnorodność"
+        },
+        {
+          "id": "c",
+          "text": "laboratorium"
+        },
+        {
+          "id": "d",
+          "text": "dane"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„energy-efficient” oznacza po polsku „energooszczędny”."
+    },
+    {
+      "id": "b2_environment_science-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „environment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "energooszczędny"
+        },
+        {
+          "id": "b",
+          "text": "udowadniać"
+        },
+        {
+          "id": "c",
+          "text": "atmosfera"
+        },
+        {
+          "id": "d",
+          "text": "środowisko"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„environment” oznacza po polsku „środowisko”."
+    },
+    {
+      "id": "b2_environment_science-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „extinct”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpady"
+        },
+        {
+          "id": "b",
+          "text": "ekologiczny"
+        },
+        {
+          "id": "c",
+          "text": "wymarły"
+        },
+        {
+          "id": "d",
+          "text": "zmiana klimatu"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„extinct” oznacza po polsku „wymarły”."
+    },
+    {
+      "id": "b2_environment_science-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fossil fuel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekologiczny"
+        },
+        {
+          "id": "b",
+          "text": "próbka"
+        },
+        {
+          "id": "c",
+          "text": "zmiana klimatu"
+        },
+        {
+          "id": "d",
+          "text": "paliwo kopalne"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„fossil fuel” oznacza po polsku „paliwo kopalne”."
+    },
+    {
+      "id": "b2_environment_science-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „global warming”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "globalne ocieplenie"
+        },
+        {
+          "id": "b",
+          "text": "ekosystem"
+        },
+        {
+          "id": "c",
+          "text": "emisja"
+        },
+        {
+          "id": "d",
+          "text": "ochrona przyrody"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„global warming” oznacza po polsku „globalne ocieplenie”."
+    },
+    {
+      "id": "b2_environment_science-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „habitat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "teoria"
+        },
+        {
+          "id": "b",
+          "text": "mierzyć"
+        },
+        {
+          "id": "c",
+          "text": "siedlisko"
+        },
+        {
+          "id": "d",
+          "text": "udowadniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„habitat” oznacza po polsku „siedlisko”."
+    },
+    {
+      "id": "b2_environment_science-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „natural resource”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "eksperyment"
+        },
+        {
+          "id": "b",
+          "text": "substancja chemiczna"
+        },
+        {
+          "id": "c",
+          "text": "zasób naturalny"
+        },
+        {
+          "id": "d",
+          "text": "wynik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„natural resource” oznacza po polsku „zasób naturalny”."
+    },
+    {
+      "id": "b2_environment_science-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nuclear energy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynik"
+        },
+        {
+          "id": "b",
+          "text": "dwutlenek węgla"
+        },
+        {
+          "id": "c",
+          "text": "energia słoneczna"
+        },
+        {
+          "id": "d",
+          "text": "energia jądrowa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„nuclear energy” oznacza po polsku „energia jądrowa”."
+    },
+    {
+      "id": "b2_environment_science-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „organic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekologiczny"
+        },
+        {
+          "id": "b",
+          "text": "substancja chemiczna"
+        },
+        {
+          "id": "c",
+          "text": "odpady"
+        },
+        {
+          "id": "d",
+          "text": "wpływ na środowisko"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„organic” oznacza po polsku „ekologiczny”."
+    },
+    {
+      "id": "b2_environment_science-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pollution”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zanieczyszczenie"
+        },
+        {
+          "id": "b",
+          "text": "przełom naukowy"
+        },
+        {
+          "id": "c",
+          "text": "globalne ocieplenie"
+        },
+        {
+          "id": "d",
+          "text": "metoda"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„pollution” oznacza po polsku „zanieczyszczenie”."
+    },
+    {
+      "id": "b2_environment_science-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recycle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "metoda"
+        },
+        {
+          "id": "b",
+          "text": "poddawać recyklingowi"
+        },
+        {
+          "id": "c",
+          "text": "zanieczyszczenie"
+        },
+        {
+          "id": "d",
+          "text": "zrównoważony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„recycle” oznacza po polsku „poddawać recyklingowi”."
+    },
+    {
+      "id": "b2_environment_science-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „renewable energy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "energia odnawialna"
+        },
+        {
+          "id": "b",
+          "text": "zmiana klimatu"
+        },
+        {
+          "id": "c",
+          "text": "udowadniać"
+        },
+        {
+          "id": "d",
+          "text": "energia słoneczna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„renewable energy” oznacza po polsku „energia odnawialna”."
+    },
+    {
+      "id": "b2_environment_science-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rubbish”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ochrona przyrody"
+        },
+        {
+          "id": "b",
+          "text": "odpady"
+        },
+        {
+          "id": "c",
+          "text": "teoria"
+        },
+        {
+          "id": "d",
+          "text": "energooszczędny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rubbish” oznacza po polsku „odpady”."
+    },
+    {
+      "id": "b2_environment_science-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „solar power”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zużywać"
+        },
+        {
+          "id": "b",
+          "text": "ochrona przyrody"
+        },
+        {
+          "id": "c",
+          "text": "zmiana klimatu"
+        },
+        {
+          "id": "d",
+          "text": "energia słoneczna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„solar power” oznacza po polsku „energia słoneczna”."
+    },
+    {
+      "id": "b2_environment_science-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „species”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gatunek"
+        },
+        {
+          "id": "b",
+          "text": "rozwiązanie"
+        },
+        {
+          "id": "c",
+          "text": "energia odnawialna"
+        },
+        {
+          "id": "d",
+          "text": "zasób naturalny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„species” oznacza po polsku „gatunek”."
+    },
+    {
+      "id": "b2_environment_science-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sustainable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "energia odnawialna"
+        },
+        {
+          "id": "b",
+          "text": "zrównoważony"
+        },
+        {
+          "id": "c",
+          "text": "dane"
+        },
+        {
+          "id": "d",
+          "text": "bioróżnorodność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sustainable” oznacza po polsku „zrównoważony”."
+    },
+    {
+      "id": "b2_environment_science-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „waste”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mierzyć"
+        },
+        {
+          "id": "b",
+          "text": "przełom naukowy"
+        },
+        {
+          "id": "c",
+          "text": "marnować"
+        },
+        {
+          "id": "d",
+          "text": "dwutlenek węgla"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„waste” oznacza po polsku „marnować”."
+    },
+    {
+      "id": "b2_environment_science-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wildlife”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dzika przyroda"
+        },
+        {
+          "id": "b",
+          "text": "teoria"
+        },
+        {
+          "id": "c",
+          "text": "poddawać recyklingowi"
+        },
+        {
+          "id": "d",
+          "text": "udowadniać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„wildlife” oznacza po polsku „dzika przyroda”."
+    },
+    {
+      "id": "b2_environment_science-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „atmosphere”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badania naukowe"
+        },
+        {
+          "id": "b",
+          "text": "przyczyna"
+        },
+        {
+          "id": "c",
+          "text": "reagować"
+        },
+        {
+          "id": "d",
+          "text": "atmosfera"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„atmosphere” oznacza po polsku „atmosfera”."
+    },
+    {
+      "id": "b2_environment_science-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „chemical”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zanieczyszczenie"
+        },
+        {
+          "id": "b",
+          "text": "substancja chemiczna"
+        },
+        {
+          "id": "c",
+          "text": "wymarły"
+        },
+        {
+          "id": "d",
+          "text": "energia odnawialna"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„chemical” oznacza po polsku „substancja chemiczna”."
+    },
+    {
+      "id": "b2_environment_science-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „data”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dane"
+        },
+        {
+          "id": "b",
+          "text": "reagować"
+        },
+        {
+          "id": "c",
+          "text": "konsekwencja"
+        },
+        {
+          "id": "d",
+          "text": "badania naukowe"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„data” oznacza po polsku „dane”."
+    },
+    {
+      "id": "b2_environment_science-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „discovery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "udowadniać"
+        },
+        {
+          "id": "b",
+          "text": "odkrycie"
+        },
+        {
+          "id": "c",
+          "text": "paliwo kopalne"
+        },
+        {
+          "id": "d",
+          "text": "proces"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„discovery” oznacza po polsku „odkrycie”."
+    },
+    {
+      "id": "b2_environment_science-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „experiment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ekologiczny"
+        },
+        {
+          "id": "b",
+          "text": "eksperyment"
+        },
+        {
+          "id": "c",
+          "text": "środowisko"
+        },
+        {
+          "id": "d",
+          "text": "dowód"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„experiment” oznacza po polsku „eksperyment”."
+    },
+    {
+      "id": "b2_environment_science-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „evidence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zużywać"
+        },
+        {
+          "id": "b",
+          "text": "ochrona przyrody"
+        },
+        {
+          "id": "c",
+          "text": "dowód"
+        },
+        {
+          "id": "d",
+          "text": "poddawać recyklingowi"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„evidence” oznacza po polsku „dowód”."
+    },
+    {
+      "id": "b2_environment_science-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „laboratory”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpady"
+        },
+        {
+          "id": "b",
+          "text": "ekosystem"
+        },
+        {
+          "id": "c",
+          "text": "laboratorium"
+        },
+        {
+          "id": "d",
+          "text": "ochrona przyrody"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„laboratory” oznacza po polsku „laboratorium”."
+    },
+    {
+      "id": "b2_environment_science-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „measure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przełom naukowy"
+        },
+        {
+          "id": "b",
+          "text": "mierzyć"
+        },
+        {
+          "id": "c",
+          "text": "reagować"
+        },
+        {
+          "id": "d",
+          "text": "obliczać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„measure” oznacza po polsku „mierzyć”."
+    },
+    {
+      "id": "b2_environment_science-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „method”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "atmosfera"
+        },
+        {
+          "id": "b",
+          "text": "metoda"
+        },
+        {
+          "id": "c",
+          "text": "teoria"
+        },
+        {
+          "id": "d",
+          "text": "dowód"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„method” oznacza po polsku „metoda”."
+    },
+    {
+      "id": "b2_environment_science-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „observe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obserwować"
+        },
+        {
+          "id": "b",
+          "text": "dowód"
+        },
+        {
+          "id": "c",
+          "text": "energia słoneczna"
+        },
+        {
+          "id": "d",
+          "text": "emisja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„observe” oznacza po polsku „obserwować”."
+    },
+    {
+      "id": "b2_environment_science-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scientific research”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badania naukowe"
+        },
+        {
+          "id": "b",
+          "text": "konsekwencja"
+        },
+        {
+          "id": "c",
+          "text": "gatunek"
+        },
+        {
+          "id": "d",
+          "text": "proces"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„scientific research” oznacza po polsku „badania naukowe”."
+    },
+    {
+      "id": "b2_environment_science-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „result”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zmiana klimatu"
+        },
+        {
+          "id": "b",
+          "text": "bioróżnorodność"
+        },
+        {
+          "id": "c",
+          "text": "wynik"
+        },
+        {
+          "id": "d",
+          "text": "zużywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„result” oznacza po polsku „wynik”."
+    },
+    {
+      "id": "b2_environment_science-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sample”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odkrycie"
+        },
+        {
+          "id": "b",
+          "text": "odpady"
+        },
+        {
+          "id": "c",
+          "text": "eksperyment"
+        },
+        {
+          "id": "d",
+          "text": "próbka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„sample” oznacza po polsku „próbka”."
+    },
+    {
+      "id": "b2_environment_science-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „theory”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konsekwencja"
+        },
+        {
+          "id": "b",
+          "text": "teoria"
+        },
+        {
+          "id": "c",
+          "text": "dzika przyroda"
+        },
+        {
+          "id": "d",
+          "text": "dowód"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„theory” oznacza po polsku „teoria”."
+    },
+    {
+      "id": "b2_environment_science-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „analyse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "marnować"
+        },
+        {
+          "id": "b",
+          "text": "analizować"
+        },
+        {
+          "id": "c",
+          "text": "globalne ocieplenie"
+        },
+        {
+          "id": "d",
+          "text": "energooszczędny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„analyse” oznacza po polsku „analizować”."
+    },
+    {
+      "id": "b2_environment_science-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „calculate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obliczać"
+        },
+        {
+          "id": "b",
+          "text": "atmosfera"
+        },
+        {
+          "id": "c",
+          "text": "zagrożony wyginięciem"
+        },
+        {
+          "id": "d",
+          "text": "bioróżnorodność"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„calculate” oznacza po polsku „obliczać”."
+    },
+    {
+      "id": "b2_environment_science-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cause”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyczyna"
+        },
+        {
+          "id": "b",
+          "text": "proces"
+        },
+        {
+          "id": "c",
+          "text": "dane"
+        },
+        {
+          "id": "d",
+          "text": "reagować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cause” oznacza po polsku „przyczyna”."
+    },
+    {
+      "id": "b2_environment_science-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „consequence”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odkrycie"
+        },
+        {
+          "id": "b",
+          "text": "przełom naukowy"
+        },
+        {
+          "id": "c",
+          "text": "konsekwencja"
+        },
+        {
+          "id": "d",
+          "text": "udowadniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„consequence” oznacza po polsku „konsekwencja”."
+    },
+    {
+      "id": "b2_environment_science-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „process”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "energooszczędny"
+        },
+        {
+          "id": "b",
+          "text": "globalne ocieplenie"
+        },
+        {
+          "id": "c",
+          "text": "proces"
+        },
+        {
+          "id": "d",
+          "text": "środowisko"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„process” oznacza po polsku „proces”."
+    },
+    {
+      "id": "b2_environment_science-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prove”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "teoria"
+        },
+        {
+          "id": "b",
+          "text": "udowadniać"
+        },
+        {
+          "id": "c",
+          "text": "gatunek"
+        },
+        {
+          "id": "d",
+          "text": "zagrożony wyginięciem"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„prove” oznacza po polsku „udowadniać”."
+    },
+    {
+      "id": "b2_environment_science-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „react”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bioróżnorodność"
+        },
+        {
+          "id": "b",
+          "text": "zasób naturalny"
+        },
+        {
+          "id": "c",
+          "text": "reagować"
+        },
+        {
+          "id": "d",
+          "text": "paliwo kopalne"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„react” oznacza po polsku „reagować”."
+    },
+    {
+      "id": "b2_environment_science-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „solution”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozwiązanie"
+        },
+        {
+          "id": "b",
+          "text": "energia jądrowa"
+        },
+        {
+          "id": "c",
+          "text": "próbka"
+        },
+        {
+          "id": "d",
+          "text": "zanieczyszczenie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„solution” oznacza po polsku „rozwiązanie”."
+    },
+    {
+      "id": "b2_environment_science-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „environmental impact”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obliczać"
+        },
+        {
+          "id": "b",
+          "text": "wpływ na środowisko"
+        },
+        {
+          "id": "c",
+          "text": "bioróżnorodność"
+        },
+        {
+          "id": "d",
+          "text": "mierzyć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„environmental impact” oznacza po polsku „wpływ na środowisko”."
+    },
+    {
+      "id": "b2_environment_science-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „scientific breakthrough”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przełom naukowy"
+        },
+        {
+          "id": "b",
+          "text": "rozwiązanie"
+        },
+        {
+          "id": "c",
+          "text": "wynik"
+        },
+        {
+          "id": "d",
+          "text": "odpady"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„scientific breakthrough” oznacza po polsku „przełom naukowy”."
+    }
+  ]
+}

@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b1_health",
+    "name": "B1 – Zdrowie i styl życia",
+    "level": "B1"
+  },
+  "questions": [
+    {
+      "id": "b1_health-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „allergy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagły wypadek"
+        },
+        {
+          "id": "b",
+          "text": "lekarstwo"
+        },
+        {
+          "id": "c",
+          "text": "karetka"
+        },
+        {
+          "id": "d",
+          "text": "alergia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„allergy” oznacza po polsku „alergia”."
+    },
+    {
+      "id": "b1_health-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „doctor's appointment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wizyta u lekarza"
+        },
+        {
+          "id": "b",
+          "text": "dentysta"
+        },
+        {
+          "id": "c",
+          "text": "dolegliwość"
+        },
+        {
+          "id": "d",
+          "text": "zapobiegać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„doctor's appointment” oznacza po polsku „wizyta u lekarza”."
+    },
+    {
+      "id": "b1_health-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „balanced diet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "waga"
+        },
+        {
+          "id": "b",
+          "text": "dolegliwość"
+        },
+        {
+          "id": "c",
+          "text": "zbilansowana dieta"
+        },
+        {
+          "id": "d",
+          "text": "temperatura ciała"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„balanced diet” oznacza po polsku „zbilansowana dieta”."
+    },
+    {
+      "id": "b1_health-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „breathe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oddychać"
+        },
+        {
+          "id": "b",
+          "text": "wizyta u lekarza"
+        },
+        {
+          "id": "c",
+          "text": "alergia"
+        },
+        {
+          "id": "d",
+          "text": "bandaż"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„breathe” oznacza po polsku „oddychać”."
+    },
+    {
+      "id": "b1_health-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „clinic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chirurg"
+        },
+        {
+          "id": "b",
+          "text": "infekcja"
+        },
+        {
+          "id": "c",
+          "text": "alergia"
+        },
+        {
+          "id": "d",
+          "text": "przychodnia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„clinic” oznacza po polsku „przychodnia”."
+    },
+    {
+      "id": "b1_health-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cough”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dolegliwość"
+        },
+        {
+          "id": "b",
+          "text": "odpoczywać"
+        },
+        {
+          "id": "c",
+          "text": "choroba"
+        },
+        {
+          "id": "d",
+          "text": "kaszel"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cough” oznacza po polsku „kaszel”."
+    },
+    {
+      "id": "b1_health-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disease”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "choroba"
+        },
+        {
+          "id": "b",
+          "text": "wizyta u lekarza"
+        },
+        {
+          "id": "c",
+          "text": "pielęgniarka"
+        },
+        {
+          "id": "d",
+          "text": "styl życia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„disease” oznacza po polsku „choroba”."
+    },
+    {
+      "id": "b1_health-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exercise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "infekcja"
+        },
+        {
+          "id": "b",
+          "text": "ćwiczenia fizyczne"
+        },
+        {
+          "id": "c",
+          "text": "ciśnienie krwi"
+        },
+        {
+          "id": "d",
+          "text": "temperatura ciała"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„exercise” oznacza po polsku „ćwiczenia fizyczne”."
+    },
+    {
+      "id": "b1_health-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fever”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gorączka"
+        },
+        {
+          "id": "b",
+          "text": "dentysta"
+        },
+        {
+          "id": "c",
+          "text": "wracać do zdrowia"
+        },
+        {
+          "id": "d",
+          "text": "ból gardła"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fever” oznacza po polsku „gorączka”."
+    },
+    {
+      "id": "b1_health-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w dobrej formie"
+        },
+        {
+          "id": "b",
+          "text": "odpoczywać"
+        },
+        {
+          "id": "c",
+          "text": "badanie kontrolne"
+        },
+        {
+          "id": "d",
+          "text": "ból"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„fit” oznacza po polsku „w dobrej formie”."
+    },
+    {
+      "id": "b1_health-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „headache”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wracać do zdrowia"
+        },
+        {
+          "id": "b",
+          "text": "wizyta u lekarza"
+        },
+        {
+          "id": "c",
+          "text": "ból głowy"
+        },
+        {
+          "id": "d",
+          "text": "ćwiczenia fizyczne"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„headache” oznacza po polsku „ból głowy”."
+    },
+    {
+      "id": "b1_health-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „healthy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciśnienie krwi"
+        },
+        {
+          "id": "b",
+          "text": "zdrowy"
+        },
+        {
+          "id": "c",
+          "text": "ból gardła"
+        },
+        {
+          "id": "d",
+          "text": "szczepionka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„healthy” oznacza po polsku „zdrowy”."
+    },
+    {
+      "id": "b1_health-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „injury”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpoczynek"
+        },
+        {
+          "id": "b",
+          "text": "infekcja"
+        },
+        {
+          "id": "c",
+          "text": "uraz"
+        },
+        {
+          "id": "d",
+          "text": "odpoczywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„injury” oznacza po polsku „uraz”."
+    },
+    {
+      "id": "b1_health-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „medicine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lekarstwo"
+        },
+        {
+          "id": "b",
+          "text": "ból brzucha"
+        },
+        {
+          "id": "c",
+          "text": "w dobrej formie"
+        },
+        {
+          "id": "d",
+          "text": "odpoczynek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„medicine” oznacza po polsku „lekarstwo”."
+    },
+    {
+      "id": "b1_health-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „nurse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pielęgniarka"
+        },
+        {
+          "id": "b",
+          "text": "stres"
+        },
+        {
+          "id": "c",
+          "text": "ból"
+        },
+        {
+          "id": "d",
+          "text": "infekcja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„nurse” oznacza po polsku „pielęgniarka”."
+    },
+    {
+      "id": "b1_health-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „operation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pacjent"
+        },
+        {
+          "id": "b",
+          "text": "operacja"
+        },
+        {
+          "id": "c",
+          "text": "zapobiegać"
+        },
+        {
+          "id": "d",
+          "text": "stres"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„operation” oznacza po polsku „operacja”."
+    },
+    {
+      "id": "b1_health-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „pain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dentysta"
+        },
+        {
+          "id": "b",
+          "text": "recepta"
+        },
+        {
+          "id": "c",
+          "text": "ból"
+        },
+        {
+          "id": "d",
+          "text": "alergia"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„pain” oznacza po polsku „ból”."
+    },
+    {
+      "id": "b1_health-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „patient”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rana"
+        },
+        {
+          "id": "b",
+          "text": "pacjent"
+        },
+        {
+          "id": "c",
+          "text": "leczenie"
+        },
+        {
+          "id": "d",
+          "text": "dolegliwość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„patient” oznacza po polsku „pacjent”."
+    },
+    {
+      "id": "b1_health-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recover”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "leczenie"
+        },
+        {
+          "id": "b",
+          "text": "wracać do zdrowia"
+        },
+        {
+          "id": "c",
+          "text": "chirurg"
+        },
+        {
+          "id": "d",
+          "text": "ciśnienie krwi"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„recover” oznacza po polsku „wracać do zdrowia”."
+    },
+    {
+      "id": "b1_health-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wegetarianin"
+        },
+        {
+          "id": "b",
+          "text": "ból gardła"
+        },
+        {
+          "id": "c",
+          "text": "odpoczynek"
+        },
+        {
+          "id": "d",
+          "text": "gorączka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„rest” oznacza po polsku „odpoczynek”."
+    },
+    {
+      "id": "b1_health-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sore throat”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "witamina"
+        },
+        {
+          "id": "b",
+          "text": "ból gardła"
+        },
+        {
+          "id": "c",
+          "text": "pacjent"
+        },
+        {
+          "id": "d",
+          "text": "uraz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sore throat” oznacza po polsku „ból gardła”."
+    },
+    {
+      "id": "b1_health-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stress”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "grypa"
+        },
+        {
+          "id": "b",
+          "text": "stres"
+        },
+        {
+          "id": "c",
+          "text": "bandaż"
+        },
+        {
+          "id": "d",
+          "text": "dolegliwość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„stress” oznacza po polsku „stres”."
+    },
+    {
+      "id": "b1_health-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „symptom”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pielęgniarka"
+        },
+        {
+          "id": "b",
+          "text": "przychodnia"
+        },
+        {
+          "id": "c",
+          "text": "rana"
+        },
+        {
+          "id": "d",
+          "text": "objaw"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„symptom” oznacza po polsku „objaw”."
+    },
+    {
+      "id": "b1_health-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „treatment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "temperatura ciała"
+        },
+        {
+          "id": "b",
+          "text": "ból"
+        },
+        {
+          "id": "c",
+          "text": "leczenie"
+        },
+        {
+          "id": "d",
+          "text": "ból gardła"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„treatment” oznacza po polsku „leczenie”."
+    },
+    {
+      "id": "b1_health-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „vaccine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczepionka"
+        },
+        {
+          "id": "b",
+          "text": "pacjent"
+        },
+        {
+          "id": "c",
+          "text": "odpoczywać"
+        },
+        {
+          "id": "d",
+          "text": "nagły wypadek"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„vaccine” oznacza po polsku „szczepionka”."
+    },
+    {
+      "id": "b1_health-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „weight”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "alergia"
+        },
+        {
+          "id": "b",
+          "text": "ból gardła"
+        },
+        {
+          "id": "c",
+          "text": "waga"
+        },
+        {
+          "id": "d",
+          "text": "dieta"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„weight” oznacza po polsku „waga”."
+    },
+    {
+      "id": "b1_health-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ambulance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rana"
+        },
+        {
+          "id": "b",
+          "text": "temperatura ciała"
+        },
+        {
+          "id": "c",
+          "text": "oddychać"
+        },
+        {
+          "id": "d",
+          "text": "karetka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„ambulance” oznacza po polsku „karetka”."
+    },
+    {
+      "id": "b1_health-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „bandage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapobiegać"
+        },
+        {
+          "id": "b",
+          "text": "bandaż"
+        },
+        {
+          "id": "c",
+          "text": "tabletka"
+        },
+        {
+          "id": "d",
+          "text": "zmęczenie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„bandage” oznacza po polsku „bandaż”."
+    },
+    {
+      "id": "b1_health-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blood pressure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagły wypadek"
+        },
+        {
+          "id": "b",
+          "text": "ból brzucha"
+        },
+        {
+          "id": "c",
+          "text": "wizyta u lekarza"
+        },
+        {
+          "id": "d",
+          "text": "ciśnienie krwi"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„blood pressure” oznacza po polsku „ciśnienie krwi”."
+    },
+    {
+      "id": "b1_health-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „check-up”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "badanie kontrolne"
+        },
+        {
+          "id": "b",
+          "text": "ból"
+        },
+        {
+          "id": "c",
+          "text": "tabletka"
+        },
+        {
+          "id": "d",
+          "text": "zdrowie psychiczne"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„check-up” oznacza po polsku „badanie kontrolne”."
+    },
+    {
+      "id": "b1_health-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „dentist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "leczenie"
+        },
+        {
+          "id": "b",
+          "text": "rana"
+        },
+        {
+          "id": "c",
+          "text": "dentysta"
+        },
+        {
+          "id": "d",
+          "text": "zapobiegać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„dentist” oznacza po polsku „dentysta”."
+    },
+    {
+      "id": "b1_health-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „diet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "witamina"
+        },
+        {
+          "id": "b",
+          "text": "wracać do zdrowia"
+        },
+        {
+          "id": "c",
+          "text": "dentysta"
+        },
+        {
+          "id": "d",
+          "text": "dieta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„diet” oznacza po polsku „dieta”."
+    },
+    {
+      "id": "b1_health-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „emergency”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "witamina"
+        },
+        {
+          "id": "b",
+          "text": "gorączka"
+        },
+        {
+          "id": "c",
+          "text": "nagły wypadek"
+        },
+        {
+          "id": "d",
+          "text": "dobrze spać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„emergency” oznacza po polsku „nagły wypadek”."
+    },
+    {
+      "id": "b1_health-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flu”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "karetka"
+        },
+        {
+          "id": "b",
+          "text": "grypa"
+        },
+        {
+          "id": "c",
+          "text": "odpoczynek"
+        },
+        {
+          "id": "d",
+          "text": "w dobrej formie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„flu” oznacza po polsku „grypa”."
+    },
+    {
+      "id": "b1_health-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „illness”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chirurg"
+        },
+        {
+          "id": "b",
+          "text": "dieta"
+        },
+        {
+          "id": "c",
+          "text": "dolegliwość"
+        },
+        {
+          "id": "d",
+          "text": "szczepionka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„illness” oznacza po polsku „dolegliwość”."
+    },
+    {
+      "id": "b1_health-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „infection”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w dobrej formie"
+        },
+        {
+          "id": "b",
+          "text": "infekcja"
+        },
+        {
+          "id": "c",
+          "text": "ból brzucha"
+        },
+        {
+          "id": "d",
+          "text": "odpoczynek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„infection” oznacza po polsku „infekcja”."
+    },
+    {
+      "id": "b1_health-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lifestyle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "styl życia"
+        },
+        {
+          "id": "b",
+          "text": "infekcja"
+        },
+        {
+          "id": "c",
+          "text": "kaszel"
+        },
+        {
+          "id": "d",
+          "text": "karetka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lifestyle” oznacza po polsku „styl życia”."
+    },
+    {
+      "id": "b1_health-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mental health”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "temperatura ciała"
+        },
+        {
+          "id": "b",
+          "text": "choroba"
+        },
+        {
+          "id": "c",
+          "text": "chirurg"
+        },
+        {
+          "id": "d",
+          "text": "zdrowie psychiczne"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„mental health” oznacza po polsku „zdrowie psychiczne”."
+    },
+    {
+      "id": "b1_health-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prescription”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "recepta"
+        },
+        {
+          "id": "b",
+          "text": "wracać do zdrowia"
+        },
+        {
+          "id": "c",
+          "text": "zbilansowana dieta"
+        },
+        {
+          "id": "d",
+          "text": "dolegliwość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„prescription” oznacza po polsku „recepta”."
+    },
+    {
+      "id": "b1_health-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prevent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pacjent"
+        },
+        {
+          "id": "b",
+          "text": "zapobiegać"
+        },
+        {
+          "id": "c",
+          "text": "temperatura ciała"
+        },
+        {
+          "id": "d",
+          "text": "pielęgniarka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„prevent” oznacza po polsku „zapobiegać”."
+    },
+    {
+      "id": "b1_health-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relax”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "waga"
+        },
+        {
+          "id": "b",
+          "text": "odpoczywać"
+        },
+        {
+          "id": "c",
+          "text": "oddychać"
+        },
+        {
+          "id": "d",
+          "text": "lekarstwo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„relax” oznacza po polsku „odpoczywać”."
+    },
+    {
+      "id": "b1_health-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sleep well”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dobrze spać"
+        },
+        {
+          "id": "b",
+          "text": "waga"
+        },
+        {
+          "id": "c",
+          "text": "wizyta u lekarza"
+        },
+        {
+          "id": "d",
+          "text": "witamina"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„sleep well” oznacza po polsku „dobrze spać”."
+    },
+    {
+      "id": "b1_health-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stomach ache”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zbilansowana dieta"
+        },
+        {
+          "id": "b",
+          "text": "lekarstwo"
+        },
+        {
+          "id": "c",
+          "text": "wracać do zdrowia"
+        },
+        {
+          "id": "d",
+          "text": "ból brzucha"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„stomach ache” oznacza po polsku „ból brzucha”."
+    },
+    {
+      "id": "b1_health-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „surgeon”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczepionka"
+        },
+        {
+          "id": "b",
+          "text": "chirurg"
+        },
+        {
+          "id": "c",
+          "text": "gorączka"
+        },
+        {
+          "id": "d",
+          "text": "temperatura ciała"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„surgeon” oznacza po polsku „chirurg”."
+    },
+    {
+      "id": "b1_health-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tablet”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdrowie psychiczne"
+        },
+        {
+          "id": "b",
+          "text": "zbilansowana dieta"
+        },
+        {
+          "id": "c",
+          "text": "tabletka"
+        },
+        {
+          "id": "d",
+          "text": "lekarstwo"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„tablet” oznacza po polsku „tabletka”."
+    },
+    {
+      "id": "b1_health-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „temperature”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "temperatura ciała"
+        },
+        {
+          "id": "b",
+          "text": "gorączka"
+        },
+        {
+          "id": "c",
+          "text": "przychodnia"
+        },
+        {
+          "id": "d",
+          "text": "witamina"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„temperature” oznacza po polsku „temperatura ciała”."
+    },
+    {
+      "id": "b1_health-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tiredness”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wizyta u lekarza"
+        },
+        {
+          "id": "b",
+          "text": "zmęczenie"
+        },
+        {
+          "id": "c",
+          "text": "wracać do zdrowia"
+        },
+        {
+          "id": "d",
+          "text": "odpoczynek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„tiredness” oznacza po polsku „zmęczenie”."
+    },
+    {
+      "id": "b1_health-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „vegetarian”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chirurg"
+        },
+        {
+          "id": "b",
+          "text": "wegetarianin"
+        },
+        {
+          "id": "c",
+          "text": "temperatura ciała"
+        },
+        {
+          "id": "d",
+          "text": "stres"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„vegetarian” oznacza po polsku „wegetarianin”."
+    },
+    {
+      "id": "b1_health-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „vitamin”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "styl życia"
+        },
+        {
+          "id": "b",
+          "text": "zdrowie psychiczne"
+        },
+        {
+          "id": "c",
+          "text": "witamina"
+        },
+        {
+          "id": "d",
+          "text": "ciśnienie krwi"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„vitamin” oznacza po polsku „witamina”."
+    },
+    {
+      "id": "b1_health-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wound”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rana"
+        },
+        {
+          "id": "b",
+          "text": "zmęczenie"
+        },
+        {
+          "id": "c",
+          "text": "kaszel"
+        },
+        {
+          "id": "d",
+          "text": "wracać do zdrowia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„wound” oznacza po polsku „rana”."
+    }
+  ]
+}

@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b1_technology_media",
+    "name": "B1 – Technologia i media",
+    "level": "B1"
+  },
+  "questions": [
+    {
+      "id": "b1_technology_media-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „account”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dziennikarz"
+        },
+        {
+          "id": "b",
+          "text": "konto"
+        },
+        {
+          "id": "c",
+          "text": "transmisja"
+        },
+        {
+          "id": "d",
+          "text": "blog"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„account” oznacza po polsku „konto”."
+    },
+    {
+      "id": "b1_technology_media-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „app”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagłówek"
+        },
+        {
+          "id": "b",
+          "text": "aplikacja"
+        },
+        {
+          "id": "c",
+          "text": "plik"
+        },
+        {
+          "id": "d",
+          "text": "nazwa użytkownika"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„app” oznacza po polsku „aplikacja”."
+    },
+    {
+      "id": "b1_technology_media-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „attachment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "załącznik"
+        },
+        {
+          "id": "b",
+          "text": "reklama"
+        },
+        {
+          "id": "c",
+          "text": "drukarka"
+        },
+        {
+          "id": "d",
+          "text": "przesyłać plik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„attachment” oznacza po polsku „załącznik”."
+    },
+    {
+      "id": "b1_technology_media-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „battery”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bateria"
+        },
+        {
+          "id": "b",
+          "text": "folder"
+        },
+        {
+          "id": "c",
+          "text": "blog"
+        },
+        {
+          "id": "d",
+          "text": "smartfon"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„battery” oznacza po polsku „bateria”."
+    },
+    {
+      "id": "b1_technology_media-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „blog”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "folder"
+        },
+        {
+          "id": "b",
+          "text": "strona internetowa"
+        },
+        {
+          "id": "c",
+          "text": "blog"
+        },
+        {
+          "id": "d",
+          "text": "klawiatura"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„blog” oznacza po polsku „blog”."
+    },
+    {
+      "id": "b1_technology_media-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „browser”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przeglądarka"
+        },
+        {
+          "id": "b",
+          "text": "kliknąć"
+        },
+        {
+          "id": "c",
+          "text": "strona internetowa"
+        },
+        {
+          "id": "d",
+          "text": "łączyć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„browser” oznacza po polsku „przeglądarka”."
+    },
+    {
+      "id": "b1_technology_media-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „charger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyszukiwarka"
+        },
+        {
+          "id": "b",
+          "text": "czasopismo"
+        },
+        {
+          "id": "c",
+          "text": "bezprzewodowy"
+        },
+        {
+          "id": "d",
+          "text": "ładowarka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„charger” oznacza po polsku „ładowarka”."
+    },
+    {
+      "id": "b1_technology_media-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „click”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plik"
+        },
+        {
+          "id": "b",
+          "text": "aktualizacja"
+        },
+        {
+          "id": "c",
+          "text": "widz"
+        },
+        {
+          "id": "d",
+          "text": "kliknąć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„click” oznacza po polsku „kliknąć”."
+    },
+    {
+      "id": "b1_technology_media-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „comment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "laptop"
+        },
+        {
+          "id": "b",
+          "text": "ładowarka"
+        },
+        {
+          "id": "c",
+          "text": "komentarz"
+        },
+        {
+          "id": "d",
+          "text": "wyszukiwarka"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„comment” oznacza po polsku „komentarz”."
+    },
+    {
+      "id": "b1_technology_media-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „connect”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czasopismo"
+        },
+        {
+          "id": "b",
+          "text": "łączyć"
+        },
+        {
+          "id": "c",
+          "text": "recenzja"
+        },
+        {
+          "id": "d",
+          "text": "sieć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„connect” oznacza po polsku „łączyć”."
+    },
+    {
+      "id": "b1_technology_media-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „download”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezprzewodowy"
+        },
+        {
+          "id": "b",
+          "text": "smartfon"
+        },
+        {
+          "id": "c",
+          "text": "film dokumentalny"
+        },
+        {
+          "id": "d",
+          "text": "pobierać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„download” oznacza po polsku „pobierać”."
+    },
+    {
+      "id": "b1_technology_media-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „email”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiadomość e-mail"
+        },
+        {
+          "id": "b",
+          "text": "gazeta"
+        },
+        {
+          "id": "c",
+          "text": "wyszukiwarka"
+        },
+        {
+          "id": "d",
+          "text": "laptop"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„email” oznacza po polsku „wiadomość e-mail”."
+    },
+    {
+      "id": "b1_technology_media-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „file”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konto"
+        },
+        {
+          "id": "b",
+          "text": "nagłówek"
+        },
+        {
+          "id": "c",
+          "text": "plik"
+        },
+        {
+          "id": "d",
+          "text": "stacja radiowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„file” oznacza po polsku „plik”."
+    },
+    {
+      "id": "b1_technology_media-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „folder”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pobierać"
+        },
+        {
+          "id": "b",
+          "text": "folder"
+        },
+        {
+          "id": "c",
+          "text": "bateria"
+        },
+        {
+          "id": "d",
+          "text": "recenzja"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„folder” oznacza po polsku „folder”."
+    },
+    {
+      "id": "b1_technology_media-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „keyboard”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reklama"
+        },
+        {
+          "id": "b",
+          "text": "kliknąć"
+        },
+        {
+          "id": "c",
+          "text": "program"
+        },
+        {
+          "id": "d",
+          "text": "klawiatura"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„keyboard” oznacza po polsku „klawiatura”."
+    },
+    {
+      "id": "b1_technology_media-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „laptop”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drukarka"
+        },
+        {
+          "id": "b",
+          "text": "smartfon"
+        },
+        {
+          "id": "c",
+          "text": "laptop"
+        },
+        {
+          "id": "d",
+          "text": "widz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„laptop” oznacza po polsku „laptop”."
+    },
+    {
+      "id": "b1_technology_media-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „link”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odnośnik"
+        },
+        {
+          "id": "b",
+          "text": "smartfon"
+        },
+        {
+          "id": "c",
+          "text": "program"
+        },
+        {
+          "id": "d",
+          "text": "kliknąć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„link” oznacza po polsku „odnośnik”."
+    },
+    {
+      "id": "b1_technology_media-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „log in”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reklama"
+        },
+        {
+          "id": "b",
+          "text": "sieć"
+        },
+        {
+          "id": "c",
+          "text": "zalogować się"
+        },
+        {
+          "id": "d",
+          "text": "aktualizacja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„log in” oznacza po polsku „zalogować się”."
+    },
+    {
+      "id": "b1_technology_media-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „log out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w internecie"
+        },
+        {
+          "id": "b",
+          "text": "komentarz"
+        },
+        {
+          "id": "c",
+          "text": "folder"
+        },
+        {
+          "id": "d",
+          "text": "wylogować się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„log out” oznacza po polsku „wylogować się”."
+    },
+    {
+      "id": "b1_technology_media-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „message”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kliknąć"
+        },
+        {
+          "id": "b",
+          "text": "wiadomość"
+        },
+        {
+          "id": "c",
+          "text": "wiadomość e-mail"
+        },
+        {
+          "id": "d",
+          "text": "przesyłać plik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„message” oznacza po polsku „wiadomość”."
+    },
+    {
+      "id": "b1_technology_media-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „network”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hasło"
+        },
+        {
+          "id": "b",
+          "text": "czasopismo"
+        },
+        {
+          "id": "c",
+          "text": "drukarka"
+        },
+        {
+          "id": "d",
+          "text": "sieć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„network” oznacza po polsku „sieć”."
+    },
+    {
+      "id": "b1_technology_media-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „online”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "załącznik"
+        },
+        {
+          "id": "b",
+          "text": "film dokumentalny"
+        },
+        {
+          "id": "c",
+          "text": "w internecie"
+        },
+        {
+          "id": "d",
+          "text": "sieć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„online” oznacza po polsku „w internecie”."
+    },
+    {
+      "id": "b1_technology_media-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „password”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "hasło"
+        },
+        {
+          "id": "b",
+          "text": "film dokumentalny"
+        },
+        {
+          "id": "c",
+          "text": "czasopismo"
+        },
+        {
+          "id": "d",
+          "text": "załącznik"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„password” oznacza po polsku „hasło”."
+    },
+    {
+      "id": "b1_technology_media-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „post”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wpis internetowy"
+        },
+        {
+          "id": "b",
+          "text": "media społecznościowe"
+        },
+        {
+          "id": "c",
+          "text": "zalogować się"
+        },
+        {
+          "id": "d",
+          "text": "film dokumentalny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„post” oznacza po polsku „wpis internetowy”."
+    },
+    {
+      "id": "b1_technology_media-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „printer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagłówek"
+        },
+        {
+          "id": "b",
+          "text": "drukarka"
+        },
+        {
+          "id": "c",
+          "text": "kliknąć"
+        },
+        {
+          "id": "d",
+          "text": "dziennikarz"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„printer” oznacza po polsku „drukarka”."
+    },
+    {
+      "id": "b1_technology_media-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „screen”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aktualizacja"
+        },
+        {
+          "id": "b",
+          "text": "wiadomość"
+        },
+        {
+          "id": "c",
+          "text": "stacja radiowa"
+        },
+        {
+          "id": "d",
+          "text": "ekran"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„screen” oznacza po polsku „ekran”."
+    },
+    {
+      "id": "b1_technology_media-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „search engine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "w internecie"
+        },
+        {
+          "id": "b",
+          "text": "transmisja"
+        },
+        {
+          "id": "c",
+          "text": "kliknąć"
+        },
+        {
+          "id": "d",
+          "text": "wyszukiwarka"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„search engine” oznacza po polsku „wyszukiwarka”."
+    },
+    {
+      "id": "b1_technology_media-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „smartphone”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "smartfon"
+        },
+        {
+          "id": "b",
+          "text": "w internecie"
+        },
+        {
+          "id": "c",
+          "text": "przeglądarka"
+        },
+        {
+          "id": "d",
+          "text": "program"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„smartphone” oznacza po polsku „smartfon”."
+    },
+    {
+      "id": "b1_technology_media-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „social media”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wiadomość prasowa"
+        },
+        {
+          "id": "b",
+          "text": "media społecznościowe"
+        },
+        {
+          "id": "c",
+          "text": "wiadomość"
+        },
+        {
+          "id": "d",
+          "text": "folder"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„social media” oznacza po polsku „media społecznościowe”."
+    },
+    {
+      "id": "b1_technology_media-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „software”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odnośnik"
+        },
+        {
+          "id": "b",
+          "text": "czasopismo"
+        },
+        {
+          "id": "c",
+          "text": "oprogramowanie"
+        },
+        {
+          "id": "d",
+          "text": "komentarz"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„software” oznacza po polsku „oprogramowanie”."
+    },
+    {
+      "id": "b1_technology_media-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „upload”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagłówek"
+        },
+        {
+          "id": "b",
+          "text": "przesyłać plik"
+        },
+        {
+          "id": "c",
+          "text": "środki masowego przekazu"
+        },
+        {
+          "id": "d",
+          "text": "załącznik"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„upload” oznacza po polsku „przesyłać plik”."
+    },
+    {
+      "id": "b1_technology_media-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „username”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drukarka"
+        },
+        {
+          "id": "b",
+          "text": "łączyć"
+        },
+        {
+          "id": "c",
+          "text": "wiadomość prasowa"
+        },
+        {
+          "id": "d",
+          "text": "nazwa użytkownika"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„username” oznacza po polsku „nazwa użytkownika”."
+    },
+    {
+      "id": "b1_technology_media-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „website”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wpis internetowy"
+        },
+        {
+          "id": "b",
+          "text": "wyszukiwarka"
+        },
+        {
+          "id": "c",
+          "text": "strona internetowa"
+        },
+        {
+          "id": "d",
+          "text": "wiadomość"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„website” oznacza po polsku „strona internetowa”."
+    },
+    {
+      "id": "b1_technology_media-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „wireless”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odnośnik"
+        },
+        {
+          "id": "b",
+          "text": "bezprzewodowy"
+        },
+        {
+          "id": "c",
+          "text": "recenzja"
+        },
+        {
+          "id": "d",
+          "text": "środki masowego przekazu"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„wireless” oznacza po polsku „bezprzewodowy”."
+    },
+    {
+      "id": "b1_technology_media-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „advertisement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "reklama"
+        },
+        {
+          "id": "b",
+          "text": "widz"
+        },
+        {
+          "id": "c",
+          "text": "wyszukiwarka"
+        },
+        {
+          "id": "d",
+          "text": "sieć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„advertisement” oznacza po polsku „reklama”."
+    },
+    {
+      "id": "b1_technology_media-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „article”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "łączyć"
+        },
+        {
+          "id": "b",
+          "text": "artykuł"
+        },
+        {
+          "id": "c",
+          "text": "komentarz"
+        },
+        {
+          "id": "d",
+          "text": "reklama"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„article” oznacza po polsku „artykuł”."
+    },
+    {
+      "id": "b1_technology_media-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „broadcast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanał telewizyjny"
+        },
+        {
+          "id": "b",
+          "text": "bateria"
+        },
+        {
+          "id": "c",
+          "text": "transmisja"
+        },
+        {
+          "id": "d",
+          "text": "media społecznościowe"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„broadcast” oznacza po polsku „transmisja”."
+    },
+    {
+      "id": "b1_technology_media-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „channel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "blog"
+        },
+        {
+          "id": "b",
+          "text": "bateria"
+        },
+        {
+          "id": "c",
+          "text": "klawiatura"
+        },
+        {
+          "id": "d",
+          "text": "kanał telewizyjny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„channel” oznacza po polsku „kanał telewizyjny”."
+    },
+    {
+      "id": "b1_technology_media-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „documentary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plik"
+        },
+        {
+          "id": "b",
+          "text": "film dokumentalny"
+        },
+        {
+          "id": "c",
+          "text": "klawiatura"
+        },
+        {
+          "id": "d",
+          "text": "w internecie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„documentary” oznacza po polsku „film dokumentalny”."
+    },
+    {
+      "id": "b1_technology_media-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „headline”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nagłówek"
+        },
+        {
+          "id": "b",
+          "text": "reklama"
+        },
+        {
+          "id": "c",
+          "text": "komentarz"
+        },
+        {
+          "id": "d",
+          "text": "smartfon"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„headline” oznacza po polsku „nagłówek”."
+    },
+    {
+      "id": "b1_technology_media-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „journalist”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezprzewodowy"
+        },
+        {
+          "id": "b",
+          "text": "wiadomość"
+        },
+        {
+          "id": "c",
+          "text": "dziennikarz"
+        },
+        {
+          "id": "d",
+          "text": "stacja radiowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„journalist” oznacza po polsku „dziennikarz”."
+    },
+    {
+      "id": "b1_technology_media-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „magazine”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezprzewodowy"
+        },
+        {
+          "id": "b",
+          "text": "wylogować się"
+        },
+        {
+          "id": "c",
+          "text": "czasopismo"
+        },
+        {
+          "id": "d",
+          "text": "folder"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„magazine” oznacza po polsku „czasopismo”."
+    },
+    {
+      "id": "b1_technology_media-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „media”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "środki masowego przekazu"
+        },
+        {
+          "id": "b",
+          "text": "strona internetowa"
+        },
+        {
+          "id": "c",
+          "text": "wyszukiwarka"
+        },
+        {
+          "id": "d",
+          "text": "widz"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„media” oznacza po polsku „środki masowego przekazu”."
+    },
+    {
+      "id": "b1_technology_media-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „news report”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "plik"
+        },
+        {
+          "id": "b",
+          "text": "odnośnik"
+        },
+        {
+          "id": "c",
+          "text": "bateria"
+        },
+        {
+          "id": "d",
+          "text": "wiadomość prasowa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„news report” oznacza po polsku „wiadomość prasowa”."
+    },
+    {
+      "id": "b1_technology_media-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „newspaper”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gazeta"
+        },
+        {
+          "id": "b",
+          "text": "czasopismo"
+        },
+        {
+          "id": "c",
+          "text": "dziennikarz"
+        },
+        {
+          "id": "d",
+          "text": "sieć"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„newspaper” oznacza po polsku „gazeta”."
+    },
+    {
+      "id": "b1_technology_media-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „programme”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kanał telewizyjny"
+        },
+        {
+          "id": "b",
+          "text": "program"
+        },
+        {
+          "id": "c",
+          "text": "aplikacja"
+        },
+        {
+          "id": "d",
+          "text": "folder"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„programme” oznacza po polsku „program”."
+    },
+    {
+      "id": "b1_technology_media-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „radio station”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "czasopismo"
+        },
+        {
+          "id": "b",
+          "text": "wiadomość prasowa"
+        },
+        {
+          "id": "c",
+          "text": "stacja radiowa"
+        },
+        {
+          "id": "d",
+          "text": "reklama"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„radio station” oznacza po polsku „stacja radiowa”."
+    },
+    {
+      "id": "b1_technology_media-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „review”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "program"
+        },
+        {
+          "id": "b",
+          "text": "środki masowego przekazu"
+        },
+        {
+          "id": "c",
+          "text": "reklama"
+        },
+        {
+          "id": "d",
+          "text": "recenzja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„review” oznacza po polsku „recenzja”."
+    },
+    {
+      "id": "b1_technology_media-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „viewer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "widz"
+        },
+        {
+          "id": "b",
+          "text": "wiadomość"
+        },
+        {
+          "id": "c",
+          "text": "aplikacja"
+        },
+        {
+          "id": "d",
+          "text": "ładowarka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„viewer” oznacza po polsku „widz”."
+    },
+    {
+      "id": "b1_technology_media-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „update”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "aktualizacja"
+        },
+        {
+          "id": "b",
+          "text": "klawiatura"
+        },
+        {
+          "id": "c",
+          "text": "pobierać"
+        },
+        {
+          "id": "d",
+          "text": "czasopismo"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„update” oznacza po polsku „aktualizacja”."
+    }
+  ]
+}

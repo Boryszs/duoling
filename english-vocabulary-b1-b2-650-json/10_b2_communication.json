@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b2_communication",
+    "name": "B2 – Komunikacja i opinie",
+    "level": "B2"
+  },
+  "questions": [
+    {
+      "id": "b2_communication-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „admit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaprzeczać"
+        },
+        {
+          "id": "b",
+          "text": "przedstawić argument"
+        },
+        {
+          "id": "c",
+          "text": "przyznawać"
+        },
+        {
+          "id": "d",
+          "text": "odpowiadać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„admit” oznacza po polsku „przyznawać”."
+    },
+    {
+      "id": "b2_communication-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „argue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodatkowo"
+        },
+        {
+          "id": "b",
+          "text": "pomimo"
+        },
+        {
+          "id": "c",
+          "text": "być może"
+        },
+        {
+          "id": "d",
+          "text": "argumentować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„argue” oznacza po polsku „argumentować”."
+    },
+    {
+      "id": "b2_communication-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „claim”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "krytykować"
+        },
+        {
+          "id": "b",
+          "text": "podczas gdy"
+        },
+        {
+          "id": "c",
+          "text": "zaprzeczać"
+        },
+        {
+          "id": "d",
+          "text": "twierdzić"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„claim” oznacza po polsku „twierdzić”."
+    },
+    {
+      "id": "b2_communication-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „clarify”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjaśniać wątpliwości"
+        },
+        {
+          "id": "b",
+          "text": "argumentować"
+        },
+        {
+          "id": "c",
+          "text": "ostrzegać"
+        },
+        {
+          "id": "d",
+          "text": "prosić oficjalnie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„clarify” oznacza po polsku „wyjaśniać wątpliwości”."
+    },
+    {
+      "id": "b2_communication-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „communicate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mało prawdopodobny"
+        },
+        {
+          "id": "b",
+          "text": "ostrzegać"
+        },
+        {
+          "id": "c",
+          "text": "do pewnego stopnia"
+        },
+        {
+          "id": "d",
+          "text": "komunikować się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„communicate” oznacza po polsku „komunikować się”."
+    },
+    {
+      "id": "b2_communication-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „confirm”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potwierdzać"
+        },
+        {
+          "id": "b",
+          "text": "zaprzeczać"
+        },
+        {
+          "id": "c",
+          "text": "nie zgadzać się z"
+        },
+        {
+          "id": "d",
+          "text": "chociaż"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„confirm” oznacza po polsku „potwierdzać”."
+    },
+    {
+      "id": "b2_communication-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „convince”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekonywać"
+        },
+        {
+          "id": "b",
+          "text": "nakłaniać"
+        },
+        {
+          "id": "c",
+          "text": "podsumowywać"
+        },
+        {
+          "id": "d",
+          "text": "ostrzegać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„convince” oznacza po polsku „przekonywać”."
+    },
+    {
+      "id": "b2_communication-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „criticise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodatkowo"
+        },
+        {
+          "id": "b",
+          "text": "być może"
+        },
+        {
+          "id": "c",
+          "text": "krytykować"
+        },
+        {
+          "id": "d",
+          "text": "odpowiadać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„criticise” oznacza po polsku „krytykować”."
+    },
+    {
+      "id": "b2_communication-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „debate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "o ile"
+        },
+        {
+          "id": "b",
+          "text": "debatować"
+        },
+        {
+          "id": "c",
+          "text": "zwracać uwagę"
+        },
+        {
+          "id": "d",
+          "text": "podkreślać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„debate” oznacza po polsku „debatować”."
+    },
+    {
+      "id": "b2_communication-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deny”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "twierdzić"
+        },
+        {
+          "id": "b",
+          "text": "ostrzegać"
+        },
+        {
+          "id": "c",
+          "text": "dodatkowo"
+        },
+        {
+          "id": "d",
+          "text": "zaprzeczać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„deny” oznacza po polsku „zaprzeczać”."
+    },
+    {
+      "id": "b2_communication-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „discuss”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podsumowując"
+        },
+        {
+          "id": "b",
+          "text": "omawiać"
+        },
+        {
+          "id": "c",
+          "text": "ostrzegać"
+        },
+        {
+          "id": "d",
+          "text": "przekonywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„discuss” oznacza po polsku „omawiać”."
+    },
+    {
+      "id": "b2_communication-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „emphasise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyznawać"
+        },
+        {
+          "id": "b",
+          "text": "z mojej perspektywy"
+        },
+        {
+          "id": "c",
+          "text": "podkreślać"
+        },
+        {
+          "id": "d",
+          "text": "nie zgadzać się z"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„emphasise” oznacza po polsku „podkreślać”."
+    },
+    {
+      "id": "b2_communication-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „express”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "omawiać"
+        },
+        {
+          "id": "b",
+          "text": "najwyraźniej"
+        },
+        {
+          "id": "c",
+          "text": "przyznawać"
+        },
+        {
+          "id": "d",
+          "text": "wyrażać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„express” oznacza po polsku „wyrażać”."
+    },
+    {
+      "id": "b2_communication-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „mention”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiadać"
+        },
+        {
+          "id": "b",
+          "text": "dla kontrastu"
+        },
+        {
+          "id": "c",
+          "text": "wspominać"
+        },
+        {
+          "id": "d",
+          "text": "podczas gdy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„mention” oznacza po polsku „wspominać”."
+    },
+    {
+      "id": "b2_communication-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „persuade”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podsumowując"
+        },
+        {
+          "id": "b",
+          "text": "nakłaniać"
+        },
+        {
+          "id": "c",
+          "text": "podsumowywać"
+        },
+        {
+          "id": "d",
+          "text": "komunikować się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„persuade” oznacza po polsku „nakłaniać”."
+    },
+    {
+      "id": "b2_communication-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „point out”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "omawiać"
+        },
+        {
+          "id": "b",
+          "text": "zwracać uwagę"
+        },
+        {
+          "id": "c",
+          "text": "przedstawić argument"
+        },
+        {
+          "id": "d",
+          "text": "do pewnego stopnia"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„point out” oznacza po polsku „zwracać uwagę”."
+    },
+    {
+      "id": "b2_communication-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „predict”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dodatkowo"
+        },
+        {
+          "id": "b",
+          "text": "moim zdaniem"
+        },
+        {
+          "id": "c",
+          "text": "przewidywać"
+        },
+        {
+          "id": "d",
+          "text": "krytykować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„predict” oznacza po polsku „przewidywać”."
+    },
+    {
+      "id": "b2_communication-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reply”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiadać"
+        },
+        {
+          "id": "b",
+          "text": "przedstawić argument"
+        },
+        {
+          "id": "c",
+          "text": "omawiać"
+        },
+        {
+          "id": "d",
+          "text": "stwierdzać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„reply” oznacza po polsku „odpowiadać”."
+    },
+    {
+      "id": "b2_communication-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „request”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prosić oficjalnie"
+        },
+        {
+          "id": "b",
+          "text": "twierdzić"
+        },
+        {
+          "id": "c",
+          "text": "najwyraźniej"
+        },
+        {
+          "id": "d",
+          "text": "podczas gdy"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„request” oznacza po polsku „prosić oficjalnie”."
+    },
+    {
+      "id": "b2_communication-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „respond”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczególnie"
+        },
+        {
+          "id": "b",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "c",
+          "text": "reagować słownie"
+        },
+        {
+          "id": "d",
+          "text": "na przykład"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„respond” oznacza po polsku „reagować słownie”."
+    },
+    {
+      "id": "b2_communication-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „state”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stwierdzać"
+        },
+        {
+          "id": "b",
+          "text": "potwierdzać"
+        },
+        {
+          "id": "c",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "d",
+          "text": "prawdopodobny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„state” oznacza po polsku „stwierdzać”."
+    },
+    {
+      "id": "b2_communication-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „summarise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nie zgadzać się z"
+        },
+        {
+          "id": "b",
+          "text": "o ile"
+        },
+        {
+          "id": "c",
+          "text": "podsumowywać"
+        },
+        {
+          "id": "d",
+          "text": "reagować słownie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„summarise” oznacza po polsku „podsumowywać”."
+    },
+    {
+      "id": "b2_communication-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „warn”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekonywać"
+        },
+        {
+          "id": "b",
+          "text": "ostrzegać"
+        },
+        {
+          "id": "c",
+          "text": "ogólnie rzecz biorąc"
+        },
+        {
+          "id": "d",
+          "text": "prosić oficjalnie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„warn” oznacza po polsku „ostrzegać”."
+    },
+    {
+      "id": "b2_communication-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „agree with”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyrażać"
+        },
+        {
+          "id": "b",
+          "text": "zgadzać się z"
+        },
+        {
+          "id": "c",
+          "text": "krytykować"
+        },
+        {
+          "id": "d",
+          "text": "jednak"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„agree with” oznacza po polsku „zgadzać się z”."
+    },
+    {
+      "id": "b2_communication-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „disagree with”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyjaśniać wątpliwości"
+        },
+        {
+          "id": "b",
+          "text": "z drugiej strony"
+        },
+        {
+          "id": "c",
+          "text": "nie zgadzać się z"
+        },
+        {
+          "id": "d",
+          "text": "na przykład"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„disagree with” oznacza po polsku „nie zgadzać się z”."
+    },
+    {
+      "id": "b2_communication-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „according to”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczególnie"
+        },
+        {
+          "id": "b",
+          "text": "argumentować"
+        },
+        {
+          "id": "c",
+          "text": "według"
+        },
+        {
+          "id": "d",
+          "text": "zaprzeczać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„according to” oznacza po polsku „według”."
+    },
+    {
+      "id": "b2_communication-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „as far as”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "o ile"
+        },
+        {
+          "id": "b",
+          "text": "być może"
+        },
+        {
+          "id": "c",
+          "text": "argumentować"
+        },
+        {
+          "id": "d",
+          "text": "wyjaśniać wątpliwości"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„as far as” oznacza po polsku „o ile”."
+    },
+    {
+      "id": "b2_communication-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „in my view”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekonywać"
+        },
+        {
+          "id": "b",
+          "text": "moim zdaniem"
+        },
+        {
+          "id": "c",
+          "text": "dodatkowo"
+        },
+        {
+          "id": "d",
+          "text": "podsumowywać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„in my view” oznacza po polsku „moim zdaniem”."
+    },
+    {
+      "id": "b2_communication-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „on the other hand”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "z drugiej strony"
+        },
+        {
+          "id": "b",
+          "text": "zwracać uwagę"
+        },
+        {
+          "id": "c",
+          "text": "zaprzeczać"
+        },
+        {
+          "id": "d",
+          "text": "mało prawdopodobny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„on the other hand” oznacza po polsku „z drugiej strony”."
+    },
+    {
+      "id": "b2_communication-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „however”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "debatować"
+        },
+        {
+          "id": "b",
+          "text": "z mojej perspektywy"
+        },
+        {
+          "id": "c",
+          "text": "jednak"
+        },
+        {
+          "id": "d",
+          "text": "reagować słownie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„however” oznacza po polsku „jednak”."
+    },
+    {
+      "id": "b2_communication-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „therefore”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "moim zdaniem"
+        },
+        {
+          "id": "b",
+          "text": "dlatego"
+        },
+        {
+          "id": "c",
+          "text": "dla kontrastu"
+        },
+        {
+          "id": "d",
+          "text": "na przykład"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„therefore” oznacza po polsku „dlatego”."
+    },
+    {
+      "id": "b2_communication-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „although”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chociaż"
+        },
+        {
+          "id": "b",
+          "text": "stwierdzać"
+        },
+        {
+          "id": "c",
+          "text": "szczególnie"
+        },
+        {
+          "id": "d",
+          "text": "zaprzeczać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„although” oznacza po polsku „chociaż”."
+    },
+    {
+      "id": "b2_communication-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „despite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zgadzać się z"
+        },
+        {
+          "id": "b",
+          "text": "pomimo"
+        },
+        {
+          "id": "c",
+          "text": "twierdzić"
+        },
+        {
+          "id": "d",
+          "text": "z drugiej strony"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„despite” oznacza po polsku „pomimo”."
+    },
+    {
+      "id": "b2_communication-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „whereas”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "jednak"
+        },
+        {
+          "id": "b",
+          "text": "do pewnego stopnia"
+        },
+        {
+          "id": "c",
+          "text": "nie zgadzać się z"
+        },
+        {
+          "id": "d",
+          "text": "podczas gdy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„whereas” oznacza po polsku „podczas gdy”."
+    },
+    {
+      "id": "b2_communication-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „likely”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przekonywać"
+        },
+        {
+          "id": "b",
+          "text": "przedstawić argument"
+        },
+        {
+          "id": "c",
+          "text": "prawdopodobny"
+        },
+        {
+          "id": "d",
+          "text": "komunikować się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„likely” oznacza po polsku „prawdopodobny”."
+    },
+    {
+      "id": "b2_communication-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „unlikely”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "debatować"
+        },
+        {
+          "id": "b",
+          "text": "mało prawdopodobny"
+        },
+        {
+          "id": "c",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "d",
+          "text": "przyznawać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„unlikely” oznacza po polsku „mało prawdopodobny”."
+    },
+    {
+      "id": "b2_communication-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „apparently”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "mało prawdopodobny"
+        },
+        {
+          "id": "b",
+          "text": "najwyraźniej"
+        },
+        {
+          "id": "c",
+          "text": "być może"
+        },
+        {
+          "id": "d",
+          "text": "z mojej perspektywy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„apparently” oznacza po polsku „najwyraźniej”."
+    },
+    {
+      "id": "b2_communication-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „definitely”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "na przykład"
+        },
+        {
+          "id": "b",
+          "text": "twierdzić"
+        },
+        {
+          "id": "c",
+          "text": "argumentować"
+        },
+        {
+          "id": "d",
+          "text": "zdecydowanie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„definitely” oznacza po polsku „zdecydowanie”."
+    },
+    {
+      "id": "b2_communication-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „generally”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "b",
+          "text": "ogólnie rzecz biorąc"
+        },
+        {
+          "id": "c",
+          "text": "z drugiej strony"
+        },
+        {
+          "id": "d",
+          "text": "dodatkowo"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„generally” oznacza po polsku „ogólnie rzecz biorąc”."
+    },
+    {
+      "id": "b2_communication-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „particularly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dla kontrastu"
+        },
+        {
+          "id": "b",
+          "text": "z mojej perspektywy"
+        },
+        {
+          "id": "c",
+          "text": "szczególnie"
+        },
+        {
+          "id": "d",
+          "text": "nakłaniać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„particularly” oznacza po polsku „szczególnie”."
+    },
+    {
+      "id": "b2_communication-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „possibly”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zaprzeczać"
+        },
+        {
+          "id": "b",
+          "text": "być może"
+        },
+        {
+          "id": "c",
+          "text": "przekonywać"
+        },
+        {
+          "id": "d",
+          "text": "zdecydowanie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„possibly” oznacza po polsku „być może”."
+    },
+    {
+      "id": "b2_communication-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „in addition”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wspominać"
+        },
+        {
+          "id": "b",
+          "text": "dodatkowo"
+        },
+        {
+          "id": "c",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "d",
+          "text": "przyznawać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„in addition” oznacza po polsku „dodatkowo”."
+    },
+    {
+      "id": "b2_communication-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „in contrast”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dla kontrastu"
+        },
+        {
+          "id": "b",
+          "text": "według"
+        },
+        {
+          "id": "c",
+          "text": "wspominać"
+        },
+        {
+          "id": "d",
+          "text": "prawdopodobny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„in contrast” oznacza po polsku „dla kontrastu”."
+    },
+    {
+      "id": "b2_communication-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „for instance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "b",
+          "text": "prosić oficjalnie"
+        },
+        {
+          "id": "c",
+          "text": "omawiać"
+        },
+        {
+          "id": "d",
+          "text": "na przykład"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„for instance” oznacza po polsku „na przykład”."
+    },
+    {
+      "id": "b2_communication-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „in conclusion”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podsumowując"
+        },
+        {
+          "id": "b",
+          "text": "podkreślać"
+        },
+        {
+          "id": "c",
+          "text": "mało prawdopodobny"
+        },
+        {
+          "id": "d",
+          "text": "komunikować się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„in conclusion” oznacza po polsku „podsumowując”."
+    },
+    {
+      "id": "b2_communication-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „from my perspective”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "chociaż"
+        },
+        {
+          "id": "b",
+          "text": "z mojej perspektywy"
+        },
+        {
+          "id": "c",
+          "text": "na przykład"
+        },
+        {
+          "id": "d",
+          "text": "najwyraźniej"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„from my perspective” oznacza po polsku „z mojej perspektywy”."
+    },
+    {
+      "id": "b2_communication-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „to some extent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawdopodobny"
+        },
+        {
+          "id": "b",
+          "text": "prosić oficjalnie"
+        },
+        {
+          "id": "c",
+          "text": "debatować"
+        },
+        {
+          "id": "d",
+          "text": "do pewnego stopnia"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„to some extent” oznacza po polsku „do pewnego stopnia”."
+    },
+    {
+      "id": "b2_communication-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „make a point”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zdecydowanie"
+        },
+        {
+          "id": "b",
+          "text": "debatować"
+        },
+        {
+          "id": "c",
+          "text": "przedstawić argument"
+        },
+        {
+          "id": "d",
+          "text": "podsumowując"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„make a point” oznacza po polsku „przedstawić argument”."
+    },
+    {
+      "id": "b2_communication-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „raise an issue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poruszyć problem"
+        },
+        {
+          "id": "b",
+          "text": "podczas gdy"
+        },
+        {
+          "id": "c",
+          "text": "dodatkowo"
+        },
+        {
+          "id": "d",
+          "text": "przyznawać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„raise an issue” oznacza po polsku „poruszyć problem”."
+    },
+    {
+      "id": "b2_communication-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reach an agreement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podsumowując"
+        },
+        {
+          "id": "b",
+          "text": "debatować"
+        },
+        {
+          "id": "c",
+          "text": "reagować słownie"
+        },
+        {
+          "id": "d",
+          "text": "osiągnąć porozumienie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„reach an agreement” oznacza po polsku „osiągnąć porozumienie”."
+    }
+  ]
+}

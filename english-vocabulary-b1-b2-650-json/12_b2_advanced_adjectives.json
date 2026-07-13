@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b2_advanced_adjectives",
+    "name": "B2 – Zaawansowane przymiotniki",
+    "level": "B2"
+  },
+  "questions": [
+    {
+      "id": "b2_advanced_adjectives-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „accurate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podstawowy"
+        },
+        {
+          "id": "b",
+          "text": "pozytywny"
+        },
+        {
+          "id": "c",
+          "text": "konkretny"
+        },
+        {
+          "id": "d",
+          "text": "dokładny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„accurate” oznacza po polsku „dokładny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „adequate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wystarczający"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedzialny"
+        },
+        {
+          "id": "c",
+          "text": "potencjalny"
+        },
+        {
+          "id": "d",
+          "text": "konkretny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„adequate” oznacza po polsku „wystarczający”."
+    },
+    {
+      "id": "b2_advanced_adjectives-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „aware”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "świadomy"
+        },
+        {
+          "id": "b",
+          "text": "szczegółowy"
+        },
+        {
+          "id": "c",
+          "text": "niezawodna metoda"
+        },
+        {
+          "id": "d",
+          "text": "wystarczający"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„aware” oznacza po polsku „świadomy”."
+    },
+    {
+      "id": "b2_advanced_adjectives-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „capable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "praktyczny"
+        },
+        {
+          "id": "b",
+          "text": "zdolny"
+        },
+        {
+          "id": "c",
+          "text": "ograniczony"
+        },
+        {
+          "id": "d",
+          "text": "poprzedni"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„capable” oznacza po polsku „zdolny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „complex”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spójny"
+        },
+        {
+          "id": "b",
+          "text": "złożony"
+        },
+        {
+          "id": "c",
+          "text": "powszechnie dostępny"
+        },
+        {
+          "id": "d",
+          "text": "kreatywny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„complex” oznacza po polsku „złożony”."
+    },
+    {
+      "id": "b2_advanced_adjectives-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „considerable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znaczny"
+        },
+        {
+          "id": "b",
+          "text": "dokładny"
+        },
+        {
+          "id": "c",
+          "text": "stosowny"
+        },
+        {
+          "id": "d",
+          "text": "spójny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„considerable” oznacza po polsku „znaczny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „consistent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiedni"
+        },
+        {
+          "id": "b",
+          "text": "potencjalny"
+        },
+        {
+          "id": "c",
+          "text": "spójny"
+        },
+        {
+          "id": "d",
+          "text": "typowy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„consistent” oznacza po polsku „spójny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „crucial”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "korzystny"
+        },
+        {
+          "id": "b",
+          "text": "kluczowy"
+        },
+        {
+          "id": "c",
+          "text": "powszechnie dostępny"
+        },
+        {
+          "id": "d",
+          "text": "praktyczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„crucial” oznacza po polsku „kluczowy”."
+    },
+    {
+      "id": "b2_advanced_adjectives-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „curious”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciekawy"
+        },
+        {
+          "id": "b",
+          "text": "odpowiedzialny"
+        },
+        {
+          "id": "c",
+          "text": "częsty"
+        },
+        {
+          "id": "d",
+          "text": "elastyczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„curious” oznacza po polsku „ciekawy”."
+    },
+    {
+      "id": "b2_advanced_adjectives-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „effective”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "typowy"
+        },
+        {
+          "id": "b",
+          "text": "skuteczny"
+        },
+        {
+          "id": "c",
+          "text": "odpowiedzialny"
+        },
+        {
+          "id": "d",
+          "text": "podstawowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„effective” oznacza po polsku „skuteczny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „essential”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kluczowy"
+        },
+        {
+          "id": "b",
+          "text": "imponujący"
+        },
+        {
+          "id": "c",
+          "text": "niezbędny"
+        },
+        {
+          "id": "d",
+          "text": "praktyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„essential” oznacza po polsku „niezbędny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „familiar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "powszechnie dostępny"
+        },
+        {
+          "id": "b",
+          "text": "spójny"
+        },
+        {
+          "id": "c",
+          "text": "znajomy"
+        },
+        {
+          "id": "d",
+          "text": "znaczący"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„familiar” oznacza po polsku „znajomy”."
+    },
+    {
+      "id": "b2_advanced_adjectives-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „flexible”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "drobny"
+        },
+        {
+          "id": "b",
+          "text": "cenny"
+        },
+        {
+          "id": "c",
+          "text": "chętny"
+        },
+        {
+          "id": "d",
+          "text": "elastyczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„flexible” oznacza po polsku „elastyczny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „frequent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiedzialny"
+        },
+        {
+          "id": "b",
+          "text": "częsty"
+        },
+        {
+          "id": "c",
+          "text": "zaniepokojony"
+        },
+        {
+          "id": "d",
+          "text": "świadomy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„frequent” oznacza po polsku „częsty”."
+    },
+    {
+      "id": "b2_advanced_adjectives-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „independent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "typowy"
+        },
+        {
+          "id": "b",
+          "text": "korzystny"
+        },
+        {
+          "id": "c",
+          "text": "częsty"
+        },
+        {
+          "id": "d",
+          "text": "niezależny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„independent” oznacza po polsku „niezależny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „limited”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ograniczony"
+        },
+        {
+          "id": "b",
+          "text": "typowy"
+        },
+        {
+          "id": "c",
+          "text": "odnoszący sukces"
+        },
+        {
+          "id": "d",
+          "text": "chętny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„limited” oznacza po polsku „ograniczony”."
+    },
+    {
+      "id": "b2_advanced_adjectives-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „major”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozsądny"
+        },
+        {
+          "id": "b",
+          "text": "główny"
+        },
+        {
+          "id": "c",
+          "text": "skuteczny"
+        },
+        {
+          "id": "d",
+          "text": "wymagający"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„major” oznacza po polsku „główny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „minor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znajomy"
+        },
+        {
+          "id": "b",
+          "text": "konkurencyjny"
+        },
+        {
+          "id": "c",
+          "text": "istotny"
+        },
+        {
+          "id": "d",
+          "text": "drobny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„minor” oznacza po polsku „drobny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „negative”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "typowy"
+        },
+        {
+          "id": "b",
+          "text": "konkretny"
+        },
+        {
+          "id": "c",
+          "text": "negatywny"
+        },
+        {
+          "id": "d",
+          "text": "korzystny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„negative” oznacza po polsku „negatywny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „obvious”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oczywisty"
+        },
+        {
+          "id": "b",
+          "text": "znaczny"
+        },
+        {
+          "id": "c",
+          "text": "wystarczający"
+        },
+        {
+          "id": "d",
+          "text": "korzystny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„obvious” oznacza po polsku „oczywisty”."
+    },
+    {
+      "id": "b2_advanced_adjectives-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „particular”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konkretny"
+        },
+        {
+          "id": "b",
+          "text": "niezawodna metoda"
+        },
+        {
+          "id": "c",
+          "text": "odpowiedni"
+        },
+        {
+          "id": "d",
+          "text": "chętny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„particular” oznacza po polsku „konkretny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „positive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "świadomy"
+        },
+        {
+          "id": "b",
+          "text": "pozytywny"
+        },
+        {
+          "id": "c",
+          "text": "drobny"
+        },
+        {
+          "id": "d",
+          "text": "kluczowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„positive” oznacza po polsku „pozytywny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „practical”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ograniczony"
+        },
+        {
+          "id": "b",
+          "text": "świadomy"
+        },
+        {
+          "id": "c",
+          "text": "odpowiedzialny"
+        },
+        {
+          "id": "d",
+          "text": "praktyczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„practical” oznacza po polsku „praktyczny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „previous”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poprzedni"
+        },
+        {
+          "id": "b",
+          "text": "ograniczony"
+        },
+        {
+          "id": "c",
+          "text": "podstawowy"
+        },
+        {
+          "id": "d",
+          "text": "dokładny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„previous” oznacza po polsku „poprzedni”."
+    },
+    {
+      "id": "b2_advanced_adjectives-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „primary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "złożony"
+        },
+        {
+          "id": "b",
+          "text": "niezależny"
+        },
+        {
+          "id": "c",
+          "text": "podstawowy"
+        },
+        {
+          "id": "d",
+          "text": "elastyczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„primary” oznacza po polsku „podstawowy”."
+    },
+    {
+      "id": "b2_advanced_adjectives-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „professional”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nietypowy"
+        },
+        {
+          "id": "b",
+          "text": "wystarczający"
+        },
+        {
+          "id": "c",
+          "text": "niezależny"
+        },
+        {
+          "id": "d",
+          "text": "profesjonalny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„professional” oznacza po polsku „profesjonalny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reasonable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "potencjalny"
+        },
+        {
+          "id": "b",
+          "text": "rozsądny"
+        },
+        {
+          "id": "c",
+          "text": "niezawodna metoda"
+        },
+        {
+          "id": "d",
+          "text": "spójny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reasonable” oznacza po polsku „rozsądny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „relevant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podstawowy"
+        },
+        {
+          "id": "b",
+          "text": "potencjalny"
+        },
+        {
+          "id": "c",
+          "text": "istotny"
+        },
+        {
+          "id": "d",
+          "text": "częsty"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„relevant” oznacza po polsku „istotny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „responsible”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spójny"
+        },
+        {
+          "id": "b",
+          "text": "szczegółowy"
+        },
+        {
+          "id": "c",
+          "text": "główny"
+        },
+        {
+          "id": "d",
+          "text": "odpowiedzialny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„responsible” oznacza po polsku „odpowiedzialny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „significant”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znaczący"
+        },
+        {
+          "id": "b",
+          "text": "niezbędny"
+        },
+        {
+          "id": "c",
+          "text": "złożony"
+        },
+        {
+          "id": "d",
+          "text": "dokładny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„significant” oznacza po polsku „znaczący”."
+    },
+    {
+      "id": "b2_advanced_adjectives-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „similar”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "świadomy"
+        },
+        {
+          "id": "b",
+          "text": "podobny"
+        },
+        {
+          "id": "c",
+          "text": "negatywny"
+        },
+        {
+          "id": "d",
+          "text": "konkurencyjny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„similar” oznacza po polsku „podobny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „specific”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezawodna metoda"
+        },
+        {
+          "id": "b",
+          "text": "szczegółowy"
+        },
+        {
+          "id": "c",
+          "text": "potencjalny"
+        },
+        {
+          "id": "d",
+          "text": "istotny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„specific” oznacza po polsku „szczegółowy”."
+    },
+    {
+      "id": "b2_advanced_adjectives-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „suitable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "znaczny"
+        },
+        {
+          "id": "b",
+          "text": "ograniczony"
+        },
+        {
+          "id": "c",
+          "text": "odpowiedni"
+        },
+        {
+          "id": "d",
+          "text": "kreatywny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„suitable” oznacza po polsku „odpowiedni”."
+    },
+    {
+      "id": "b2_advanced_adjectives-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „typical”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konkretny"
+        },
+        {
+          "id": "b",
+          "text": "typowy"
+        },
+        {
+          "id": "c",
+          "text": "negatywny"
+        },
+        {
+          "id": "d",
+          "text": "korzystny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„typical” oznacza po polsku „typowy”."
+    },
+    {
+      "id": "b2_advanced_adjectives-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „unusual”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "nietypowy"
+        },
+        {
+          "id": "b",
+          "text": "praktyczny"
+        },
+        {
+          "id": "c",
+          "text": "skuteczny"
+        },
+        {
+          "id": "d",
+          "text": "negatywny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„unusual” oznacza po polsku „nietypowy”."
+    },
+    {
+      "id": "b2_advanced_adjectives-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „valuable”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ciekawy"
+        },
+        {
+          "id": "b",
+          "text": "cenny"
+        },
+        {
+          "id": "c",
+          "text": "niezawodna metoda"
+        },
+        {
+          "id": "d",
+          "text": "znajomy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„valuable” oznacza po polsku „cenny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „various”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elastyczny"
+        },
+        {
+          "id": "b",
+          "text": "spójny"
+        },
+        {
+          "id": "c",
+          "text": "niezależny"
+        },
+        {
+          "id": "d",
+          "text": "różnorodny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„various” oznacza po polsku „różnorodny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „willing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spójny"
+        },
+        {
+          "id": "b",
+          "text": "szczegółowy"
+        },
+        {
+          "id": "c",
+          "text": "chętny"
+        },
+        {
+          "id": "d",
+          "text": "konkurencyjny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„willing” oznacza po polsku „chętny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „anxious”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczegółowy"
+        },
+        {
+          "id": "b",
+          "text": "spójny"
+        },
+        {
+          "id": "c",
+          "text": "zaniepokojony"
+        },
+        {
+          "id": "d",
+          "text": "zdolny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„anxious” oznacza po polsku „zaniepokojony”."
+    },
+    {
+      "id": "b2_advanced_adjectives-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „appropriate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "stosowny"
+        },
+        {
+          "id": "b",
+          "text": "powszechnie dostępny"
+        },
+        {
+          "id": "c",
+          "text": "drobny"
+        },
+        {
+          "id": "d",
+          "text": "chętny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„appropriate” oznacza po polsku „stosowny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „beneficial”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odpowiedni"
+        },
+        {
+          "id": "b",
+          "text": "imponujący"
+        },
+        {
+          "id": "c",
+          "text": "korzystny"
+        },
+        {
+          "id": "d",
+          "text": "wystarczający"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„beneficial” oznacza po polsku „korzystny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „competitive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "niezależny"
+        },
+        {
+          "id": "b",
+          "text": "konkurencyjny"
+        },
+        {
+          "id": "c",
+          "text": "spójny"
+        },
+        {
+          "id": "d",
+          "text": "wymagający"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„competitive” oznacza po polsku „konkurencyjny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „creative”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oczywisty"
+        },
+        {
+          "id": "b",
+          "text": "niezależny"
+        },
+        {
+          "id": "c",
+          "text": "odpowiedni"
+        },
+        {
+          "id": "d",
+          "text": "kreatywny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„creative” oznacza po polsku „kreatywny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „impressive”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podobny"
+        },
+        {
+          "id": "b",
+          "text": "podstawowy"
+        },
+        {
+          "id": "c",
+          "text": "imponujący"
+        },
+        {
+          "id": "d",
+          "text": "znaczący"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„impressive” oznacza po polsku „imponujący”."
+    },
+    {
+      "id": "b2_advanced_adjectives-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „potential”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wystarczający"
+        },
+        {
+          "id": "b",
+          "text": "potencjalny"
+        },
+        {
+          "id": "c",
+          "text": "ciekawy"
+        },
+        {
+          "id": "d",
+          "text": "znaczący"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„potential” oznacza po polsku „potencjalny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „successful”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szczegółowy"
+        },
+        {
+          "id": "b",
+          "text": "spójny"
+        },
+        {
+          "id": "c",
+          "text": "odnoszący sukces"
+        },
+        {
+          "id": "d",
+          "text": "korzystny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„successful” oznacza po polsku „odnoszący sukces”."
+    },
+    {
+      "id": "b2_advanced_adjectives-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „controversial”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kontrowersyjny"
+        },
+        {
+          "id": "b",
+          "text": "podobny"
+        },
+        {
+          "id": "c",
+          "text": "znaczący"
+        },
+        {
+          "id": "d",
+          "text": "odnoszący sukces"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„controversial” oznacza po polsku „kontrowersyjny”."
+    },
+    {
+      "id": "b2_advanced_adjectives-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „demanding”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ograniczony"
+        },
+        {
+          "id": "b",
+          "text": "istotny"
+        },
+        {
+          "id": "c",
+          "text": "wymagający"
+        },
+        {
+          "id": "d",
+          "text": "korzystny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„demanding” oznacza po polsku „wymagający”."
+    },
+    {
+      "id": "b2_advanced_adjectives-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reliable method”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "elastyczny"
+        },
+        {
+          "id": "b",
+          "text": "niezawodna metoda"
+        },
+        {
+          "id": "c",
+          "text": "znajomy"
+        },
+        {
+          "id": "d",
+          "text": "odpowiedzialny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„reliable method” oznacza po polsku „niezawodna metoda”."
+    },
+    {
+      "id": "b2_advanced_adjectives-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „widely available”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dokładny"
+        },
+        {
+          "id": "b",
+          "text": "zdolny"
+        },
+        {
+          "id": "c",
+          "text": "powszechnie dostępny"
+        },
+        {
+          "id": "d",
+          "text": "zaniepokojony"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„widely available” oznacza po polsku „powszechnie dostępny”."
+    }
+  ]
+}

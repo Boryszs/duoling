@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b1_everyday",
+    "name": "B1 – Życie codzienne",
+    "level": "B1"
+  },
+  "questions": [
+    {
+      "id": "b1_everyday-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „appointment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ostatnio"
+        },
+        {
+          "id": "b",
+          "text": "umówione spotkanie"
+        },
+        {
+          "id": "c",
+          "text": "przypominać"
+        },
+        {
+          "id": "d",
+          "text": "prawdopodobnie"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„appointment” oznacza po polsku „umówione spotkanie”."
+    },
+    {
+      "id": "b1_everyday-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „arrangement”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zależeć"
+        },
+        {
+          "id": "b",
+          "text": "ustalenie"
+        },
+        {
+          "id": "c",
+          "text": "ostatnio"
+        },
+        {
+          "id": "d",
+          "text": "decydować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„arrangement” oznacza po polsku „ustalenie”."
+    },
+    {
+      "id": "b1_everyday-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „available”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostępny"
+        },
+        {
+          "id": "b",
+          "text": "wydawać"
+        },
+        {
+          "id": "c",
+          "text": "zapraszać"
+        },
+        {
+          "id": "d",
+          "text": "poprawiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„available” oznacza po polsku „dostępny”."
+    },
+    {
+      "id": "b1_everyday-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „borrow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "anulować"
+        },
+        {
+          "id": "b",
+          "text": "wydarzać się"
+        },
+        {
+          "id": "c",
+          "text": "pożyczać od kogoś"
+        },
+        {
+          "id": "d",
+          "text": "zapraszać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„borrow” oznacza po polsku „pożyczać od kogoś”."
+    },
+    {
+      "id": "b1_everyday-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „lend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożyczać komuś"
+        },
+        {
+          "id": "b",
+          "text": "unikać"
+        },
+        {
+          "id": "c",
+          "text": "prywatny"
+        },
+        {
+          "id": "d",
+          "text": "naprawiać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„lend” oznacza po polsku „pożyczać komuś”."
+    },
+    {
+      "id": "b1_everyday-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „choose”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "unikać"
+        },
+        {
+          "id": "b",
+          "text": "kontynuować"
+        },
+        {
+          "id": "c",
+          "text": "naprawiać"
+        },
+        {
+          "id": "d",
+          "text": "wybierać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„choose” oznacza po polsku „wybierać”."
+    },
+    {
+      "id": "b1_everyday-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „complain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zbierać"
+        },
+        {
+          "id": "b",
+          "text": "publiczny"
+        },
+        {
+          "id": "c",
+          "text": "ustalenie"
+        },
+        {
+          "id": "d",
+          "text": "skarżyć się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„complain” oznacza po polsku „skarżyć się”."
+    },
+    {
+      "id": "b1_everyday-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „deliver”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zbierać"
+        },
+        {
+          "id": "b",
+          "text": "oszczędzać"
+        },
+        {
+          "id": "c",
+          "text": "zależeć"
+        },
+        {
+          "id": "d",
+          "text": "dostarczać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„deliver” oznacza po polsku „dostarczać”."
+    },
+    {
+      "id": "b1_everyday-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „depend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zależeć"
+        },
+        {
+          "id": "b",
+          "text": "poprawiać"
+        },
+        {
+          "id": "c",
+          "text": "naprawiać"
+        },
+        {
+          "id": "d",
+          "text": "unikać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„depend” oznacza po polsku „zależeć”."
+    },
+    {
+      "id": "b1_everyday-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „describe”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pożyczać komuś"
+        },
+        {
+          "id": "b",
+          "text": "przypominać"
+        },
+        {
+          "id": "c",
+          "text": "opisywać"
+        },
+        {
+          "id": "d",
+          "text": "pożyczać od kogoś"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„describe” oznacza po polsku „opisywać”."
+    },
+    {
+      "id": "b1_everyday-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „improve”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odmawiać"
+        },
+        {
+          "id": "b",
+          "text": "poprawiać"
+        },
+        {
+          "id": "c",
+          "text": "wydawać"
+        },
+        {
+          "id": "d",
+          "text": "konieczny"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„improve” oznacza po polsku „poprawiać”."
+    },
+    {
+      "id": "b1_everyday-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „include”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kontaktować się"
+        },
+        {
+          "id": "b",
+          "text": "zastępować"
+        },
+        {
+          "id": "c",
+          "text": "obejmować"
+        },
+        {
+          "id": "d",
+          "text": "prywatny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„include” oznacza po polsku „obejmować”."
+    },
+    {
+      "id": "b1_everyday-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „invite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "unikać"
+        },
+        {
+          "id": "b",
+          "text": "polecać"
+        },
+        {
+          "id": "c",
+          "text": "obiecywać"
+        },
+        {
+          "id": "d",
+          "text": "zapraszać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„invite” oznacza po polsku „zapraszać”."
+    },
+    {
+      "id": "b1_everyday-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „manage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawdopodobnie"
+        },
+        {
+          "id": "b",
+          "text": "lokalny"
+        },
+        {
+          "id": "c",
+          "text": "publiczny"
+        },
+        {
+          "id": "d",
+          "text": "radzić sobie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„manage” oznacza po polsku „radzić sobie”."
+    },
+    {
+      "id": "b1_everyday-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „notice”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prawdopodobnie"
+        },
+        {
+          "id": "b",
+          "text": "skarżyć się"
+        },
+        {
+          "id": "c",
+          "text": "zauważać"
+        },
+        {
+          "id": "d",
+          "text": "przypominać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„notice” oznacza po polsku „zauważać”."
+    },
+    {
+      "id": "b1_everyday-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „offer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "spieszyć się"
+        },
+        {
+          "id": "b",
+          "text": "ustalenie"
+        },
+        {
+          "id": "c",
+          "text": "oferować"
+        },
+        {
+          "id": "d",
+          "text": "sugerować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„offer” oznacza po polsku „oferować”."
+    },
+    {
+      "id": "b1_everyday-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „prepare”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wybierać"
+        },
+        {
+          "id": "b",
+          "text": "anulować"
+        },
+        {
+          "id": "c",
+          "text": "przygotowywać"
+        },
+        {
+          "id": "d",
+          "text": "opisywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„prepare” oznacza po polsku „przygotowywać”."
+    },
+    {
+      "id": "b1_everyday-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „promise”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwykły"
+        },
+        {
+          "id": "b",
+          "text": "wybierać"
+        },
+        {
+          "id": "c",
+          "text": "obiecywać"
+        },
+        {
+          "id": "d",
+          "text": "lokalny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„promise” oznacza po polsku „obiecywać”."
+    },
+    {
+      "id": "b1_everyday-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recommend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oszczędzać"
+        },
+        {
+          "id": "b",
+          "text": "konieczny"
+        },
+        {
+          "id": "c",
+          "text": "polecać"
+        },
+        {
+          "id": "d",
+          "text": "przypominać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„recommend” oznacza po polsku „polecać”."
+    },
+    {
+      "id": "b1_everyday-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „refuse”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ostatnio"
+        },
+        {
+          "id": "b",
+          "text": "decydować"
+        },
+        {
+          "id": "c",
+          "text": "ustalenie"
+        },
+        {
+          "id": "d",
+          "text": "odmawiać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„refuse” oznacza po polsku „odmawiać”."
+    },
+    {
+      "id": "b1_everyday-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „remind”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obiecywać"
+        },
+        {
+          "id": "b",
+          "text": "konieczny"
+        },
+        {
+          "id": "c",
+          "text": "przypominać"
+        },
+        {
+          "id": "d",
+          "text": "anulować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„remind” oznacza po polsku „przypominać”."
+    },
+    {
+      "id": "b1_everyday-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „repair”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poprawiać"
+        },
+        {
+          "id": "b",
+          "text": "pozwalać"
+        },
+        {
+          "id": "c",
+          "text": "naprawiać"
+        },
+        {
+          "id": "d",
+          "text": "spieszyć się"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„repair” oznacza po polsku „naprawiać”."
+    },
+    {
+      "id": "b1_everyday-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „replace”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zależeć"
+        },
+        {
+          "id": "b",
+          "text": "decydować"
+        },
+        {
+          "id": "c",
+          "text": "zastępować"
+        },
+        {
+          "id": "d",
+          "text": "prawdopodobnie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„replace” oznacza po polsku „zastępować”."
+    },
+    {
+      "id": "b1_everyday-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „return”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oferować"
+        },
+        {
+          "id": "b",
+          "text": "prawdopodobnie"
+        },
+        {
+          "id": "c",
+          "text": "zwracać"
+        },
+        {
+          "id": "d",
+          "text": "kontynuować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„return” oznacza po polsku „zwracać”."
+    },
+    {
+      "id": "b1_everyday-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „save”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "anulować"
+        },
+        {
+          "id": "b",
+          "text": "wybierać"
+        },
+        {
+          "id": "c",
+          "text": "oszczędzać"
+        },
+        {
+          "id": "d",
+          "text": "unikać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„save” oznacza po polsku „oszczędzać”."
+    },
+    {
+      "id": "b1_everyday-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „share”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwykły"
+        },
+        {
+          "id": "b",
+          "text": "dostarczać"
+        },
+        {
+          "id": "c",
+          "text": "dzielić się"
+        },
+        {
+          "id": "d",
+          "text": "zależeć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„share” oznacza po polsku „dzielić się”."
+    },
+    {
+      "id": "b1_everyday-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „spend”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wydawać"
+        },
+        {
+          "id": "b",
+          "text": "dostępny"
+        },
+        {
+          "id": "c",
+          "text": "pozwalać"
+        },
+        {
+          "id": "d",
+          "text": "zamiast"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„spend” oznacza po polsku „wydawać”."
+    },
+    {
+      "id": "b1_everyday-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „suggest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oferować"
+        },
+        {
+          "id": "b",
+          "text": "sugerować"
+        },
+        {
+          "id": "c",
+          "text": "prawdopodobnie"
+        },
+        {
+          "id": "d",
+          "text": "wydawać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„suggest” oznacza po polsku „sugerować”."
+    },
+    {
+      "id": "b1_everyday-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „allow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zauważać"
+        },
+        {
+          "id": "b",
+          "text": "unikać"
+        },
+        {
+          "id": "c",
+          "text": "podążać"
+        },
+        {
+          "id": "d",
+          "text": "pozwalać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„allow” oznacza po polsku „pozwalać”."
+    },
+    {
+      "id": "b1_everyday-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „avoid”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oszczędzać"
+        },
+        {
+          "id": "b",
+          "text": "skarżyć się"
+        },
+        {
+          "id": "c",
+          "text": "odmawiać"
+        },
+        {
+          "id": "d",
+          "text": "unikać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„avoid” oznacza po polsku „unikać”."
+    },
+    {
+      "id": "b1_everyday-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „belong”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zwykły"
+        },
+        {
+          "id": "b",
+          "text": "konieczny"
+        },
+        {
+          "id": "c",
+          "text": "należeć"
+        },
+        {
+          "id": "d",
+          "text": "obiecywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„belong” oznacza po polsku „należeć”."
+    },
+    {
+      "id": "b1_everyday-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cancel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przypominać"
+        },
+        {
+          "id": "b",
+          "text": "porównywać"
+        },
+        {
+          "id": "c",
+          "text": "obiecywać"
+        },
+        {
+          "id": "d",
+          "text": "anulować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„cancel” oznacza po polsku „anulować”."
+    },
+    {
+      "id": "b1_everyday-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „collect”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kontaktować się"
+        },
+        {
+          "id": "b",
+          "text": "zbierać"
+        },
+        {
+          "id": "c",
+          "text": "pożyczać od kogoś"
+        },
+        {
+          "id": "d",
+          "text": "wydarzać się"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„collect” oznacza po polsku „zbierać”."
+    },
+    {
+      "id": "b1_everyday-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „compare”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "porównywać"
+        },
+        {
+          "id": "b",
+          "text": "pożyczać od kogoś"
+        },
+        {
+          "id": "c",
+          "text": "poprawiać"
+        },
+        {
+          "id": "d",
+          "text": "prawdopodobnie"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„compare” oznacza po polsku „porównywać”."
+    },
+    {
+      "id": "b1_everyday-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „contact”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "oferować"
+        },
+        {
+          "id": "b",
+          "text": "wydawać"
+        },
+        {
+          "id": "c",
+          "text": "anulować"
+        },
+        {
+          "id": "d",
+          "text": "kontaktować się"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„contact” oznacza po polsku „kontaktować się”."
+    },
+    {
+      "id": "b1_everyday-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „continue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zastępować"
+        },
+        {
+          "id": "b",
+          "text": "zwyczajny"
+        },
+        {
+          "id": "c",
+          "text": "kontynuować"
+        },
+        {
+          "id": "d",
+          "text": "obejmować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„continue” oznacza po polsku „kontynuować”."
+    },
+    {
+      "id": "b1_everyday-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „decide”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zbierać"
+        },
+        {
+          "id": "b",
+          "text": "umówione spotkanie"
+        },
+        {
+          "id": "c",
+          "text": "unikać"
+        },
+        {
+          "id": "d",
+          "text": "decydować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„decide” oznacza po polsku „decydować”."
+    },
+    {
+      "id": "b1_everyday-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „explain”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "poprawiać"
+        },
+        {
+          "id": "b",
+          "text": "umówione spotkanie"
+        },
+        {
+          "id": "c",
+          "text": "sugerować"
+        },
+        {
+          "id": "d",
+          "text": "wyjaśniać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„explain” oznacza po polsku „wyjaśniać”."
+    },
+    {
+      "id": "b1_everyday-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „follow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podążać"
+        },
+        {
+          "id": "b",
+          "text": "należeć"
+        },
+        {
+          "id": "c",
+          "text": "dostępny"
+        },
+        {
+          "id": "d",
+          "text": "zauważać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„follow” oznacza po polsku „podążać”."
+    },
+    {
+      "id": "b1_everyday-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „happen”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zapraszać"
+        },
+        {
+          "id": "b",
+          "text": "wydarzać się"
+        },
+        {
+          "id": "c",
+          "text": "ostatnio"
+        },
+        {
+          "id": "d",
+          "text": "podążać"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„happen” oznacza po polsku „wydarzać się”."
+    },
+    {
+      "id": "b1_everyday-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „hurry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dostępny"
+        },
+        {
+          "id": "b",
+          "text": "lokalny"
+        },
+        {
+          "id": "c",
+          "text": "spieszyć się"
+        },
+        {
+          "id": "d",
+          "text": "zależeć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„hurry” oznacza po polsku „spieszyć się”."
+    },
+    {
+      "id": "b1_everyday-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „instead”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamiast"
+        },
+        {
+          "id": "b",
+          "text": "poprawiać"
+        },
+        {
+          "id": "c",
+          "text": "dostarczać"
+        },
+        {
+          "id": "d",
+          "text": "wydarzać się"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„instead” oznacza po polsku „zamiast”."
+    },
+    {
+      "id": "b1_everyday-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „probably”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obejmować"
+        },
+        {
+          "id": "b",
+          "text": "dostarczać"
+        },
+        {
+          "id": "c",
+          "text": "zwykły"
+        },
+        {
+          "id": "d",
+          "text": "prawdopodobnie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„probably” oznacza po polsku „prawdopodobnie”."
+    },
+    {
+      "id": "b1_everyday-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recently”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ostatnio"
+        },
+        {
+          "id": "b",
+          "text": "publiczny"
+        },
+        {
+          "id": "c",
+          "text": "wydarzać się"
+        },
+        {
+          "id": "d",
+          "text": "pozwalać"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„recently” oznacza po polsku „ostatnio”."
+    },
+    {
+      "id": "b1_everyday-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „usual”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "lokalny"
+        },
+        {
+          "id": "b",
+          "text": "kontynuować"
+        },
+        {
+          "id": "c",
+          "text": "zwykły"
+        },
+        {
+          "id": "d",
+          "text": "zależeć"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„usual” oznacza po polsku „zwykły”."
+    },
+    {
+      "id": "b1_everyday-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „necessary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zamiast"
+        },
+        {
+          "id": "b",
+          "text": "poprawiać"
+        },
+        {
+          "id": "c",
+          "text": "konieczny"
+        },
+        {
+          "id": "d",
+          "text": "przygotowywać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„necessary” oznacza po polsku „konieczny”."
+    },
+    {
+      "id": "b1_everyday-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „local”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przypominać"
+        },
+        {
+          "id": "b",
+          "text": "wydarzać się"
+        },
+        {
+          "id": "c",
+          "text": "lokalny"
+        },
+        {
+          "id": "d",
+          "text": "konieczny"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„local” oznacza po polsku „lokalny”."
+    },
+    {
+      "id": "b1_everyday-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „public”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "prywatny"
+        },
+        {
+          "id": "b",
+          "text": "ostatnio"
+        },
+        {
+          "id": "c",
+          "text": "publiczny"
+        },
+        {
+          "id": "d",
+          "text": "oszczędzać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„public” oznacza po polsku „publiczny”."
+    },
+    {
+      "id": "b1_everyday-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „private”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "należeć"
+        },
+        {
+          "id": "b",
+          "text": "przypominać"
+        },
+        {
+          "id": "c",
+          "text": "pozwalać"
+        },
+        {
+          "id": "d",
+          "text": "prywatny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„private” oznacza po polsku „prywatny”."
+    },
+    {
+      "id": "b1_everyday-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „ordinary”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "obejmować"
+        },
+        {
+          "id": "b",
+          "text": "opisywać"
+        },
+        {
+          "id": "c",
+          "text": "zwyczajny"
+        },
+        {
+          "id": "d",
+          "text": "wydawać"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„ordinary” oznacza po polsku „zwyczajny”."
+    }
+  ]
+}

@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b1_travel",
+    "name": "B1 – Podróże i transport",
+    "level": "B1"
+  },
+  "questions": [
+    {
+      "id": "b1_travel-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „accommodation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "broszura"
+        },
+        {
+          "id": "b",
+          "text": "zwiedzanie"
+        },
+        {
+          "id": "c",
+          "text": "zakwaterowanie"
+        },
+        {
+          "id": "d",
+          "text": "schronisko młodzieżowe"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„accommodation” oznacza po polsku „zakwaterowanie”."
+    },
+    {
+      "id": "b1_travel-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „abroad”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bagaż"
+        },
+        {
+          "id": "b",
+          "text": "zakwaterowanie"
+        },
+        {
+          "id": "c",
+          "text": "za granicą"
+        },
+        {
+          "id": "d",
+          "text": "przewodnik"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„abroad” oznacza po polsku „za granicą”."
+    },
+    {
+      "id": "b1_travel-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „adventure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "walizka"
+        },
+        {
+          "id": "b",
+          "text": "cel podróży"
+        },
+        {
+          "id": "c",
+          "text": "przygoda"
+        },
+        {
+          "id": "d",
+          "text": "lądować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„adventure” oznacza po polsku „przygoda”."
+    },
+    {
+      "id": "b1_travel-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „backpacker”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odkrywać"
+        },
+        {
+          "id": "b",
+          "text": "turysta z plecakiem"
+        },
+        {
+          "id": "c",
+          "text": "schronisko młodzieżowe"
+        },
+        {
+          "id": "d",
+          "text": "wejście"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„backpacker” oznacza po polsku „turysta z plecakiem”."
+    },
+    {
+      "id": "b1_travel-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „booking”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kurs wymiany"
+        },
+        {
+          "id": "b",
+          "text": "dotrzeć"
+        },
+        {
+          "id": "c",
+          "text": "spóźnić się na pociąg"
+        },
+        {
+          "id": "d",
+          "text": "rezerwacja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„booking” oznacza po polsku „rezerwacja”."
+    },
+    {
+      "id": "b1_travel-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „border crossing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biuro podróży"
+        },
+        {
+          "id": "b",
+          "text": "przyjazd"
+        },
+        {
+          "id": "c",
+          "text": "cel podróży"
+        },
+        {
+          "id": "d",
+          "text": "przejście graniczne"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„border crossing” oznacza po polsku „przejście graniczne”."
+    },
+    {
+      "id": "b1_travel-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „brochure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odjazd"
+        },
+        {
+          "id": "b",
+          "text": "peron"
+        },
+        {
+          "id": "c",
+          "text": "broszura"
+        },
+        {
+          "id": "d",
+          "text": "ubezpieczenie podróżne"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„brochure” oznacza po polsku „broszura”."
+    },
+    {
+      "id": "b1_travel-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „campsite”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kemping"
+        },
+        {
+          "id": "b",
+          "text": "za granicą"
+        },
+        {
+          "id": "c",
+          "text": "zagraniczny"
+        },
+        {
+          "id": "d",
+          "text": "rezerwacja miejsca"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„campsite” oznacza po polsku „kemping”."
+    },
+    {
+      "id": "b1_travel-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „carriage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wagon kolejowy"
+        },
+        {
+          "id": "b",
+          "text": "atrakcja turystyczna"
+        },
+        {
+          "id": "c",
+          "text": "biuro podróży"
+        },
+        {
+          "id": "d",
+          "text": "wynajmować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„carriage” oznacza po polsku „wagon kolejowy”."
+    },
+    {
+      "id": "b1_travel-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „delay”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "b",
+          "text": "wagon kolejowy"
+        },
+        {
+          "id": "c",
+          "text": "opóźnienie"
+        },
+        {
+          "id": "d",
+          "text": "transport"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„delay” oznacza po polsku „opóźnienie”."
+    },
+    {
+      "id": "b1_travel-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „destination”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kierunek"
+        },
+        {
+          "id": "b",
+          "text": "schronisko młodzieżowe"
+        },
+        {
+          "id": "c",
+          "text": "wejście"
+        },
+        {
+          "id": "d",
+          "text": "cel podróży"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„destination” oznacza po polsku „cel podróży”."
+    },
+    {
+      "id": "b1_travel-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „direction”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pojazd"
+        },
+        {
+          "id": "b",
+          "text": "turysta z plecakiem"
+        },
+        {
+          "id": "c",
+          "text": "kierunek"
+        },
+        {
+          "id": "d",
+          "text": "karta pokładowa"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„direction” oznacza po polsku „kierunek”."
+    },
+    {
+      "id": "b1_travel-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „distance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odległość"
+        },
+        {
+          "id": "b",
+          "text": "biuro podróży"
+        },
+        {
+          "id": "c",
+          "text": "podróż"
+        },
+        {
+          "id": "d",
+          "text": "pasażer"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„distance” oznacza po polsku „odległość”."
+    },
+    {
+      "id": "b1_travel-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „entrance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "odjazd"
+        },
+        {
+          "id": "b",
+          "text": "przewodnik"
+        },
+        {
+          "id": "c",
+          "text": "bagaż"
+        },
+        {
+          "id": "d",
+          "text": "wejście"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„entrance” oznacza po polsku „wejście”."
+    },
+    {
+      "id": "b1_travel-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „fare”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przejście graniczne"
+        },
+        {
+          "id": "b",
+          "text": "opłata za przejazd"
+        },
+        {
+          "id": "c",
+          "text": "odległość"
+        },
+        {
+          "id": "d",
+          "text": "dotrzeć"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„fare” oznacza po polsku „opłata za przejazd”."
+    },
+    {
+      "id": "b1_travel-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „foreign”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zagraniczny"
+        },
+        {
+          "id": "b",
+          "text": "kierunek"
+        },
+        {
+          "id": "c",
+          "text": "wynajmować"
+        },
+        {
+          "id": "d",
+          "text": "paszport"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„foreign” oznacza po polsku „zagraniczny”."
+    },
+    {
+      "id": "b1_travel-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „guide”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cel podróży"
+        },
+        {
+          "id": "b",
+          "text": "przewodnik"
+        },
+        {
+          "id": "c",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "d",
+          "text": "wagon kolejowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„guide” oznacza po polsku „przewodnik”."
+    },
+    {
+      "id": "b1_travel-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „journey”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kurs wymiany"
+        },
+        {
+          "id": "b",
+          "text": "paszport"
+        },
+        {
+          "id": "c",
+          "text": "przewodnik"
+        },
+        {
+          "id": "d",
+          "text": "podróż"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„journey” oznacza po polsku „podróż”."
+    },
+    {
+      "id": "b1_travel-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „luggage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "za granicą"
+        },
+        {
+          "id": "b",
+          "text": "turysta z plecakiem"
+        },
+        {
+          "id": "c",
+          "text": "bagaż"
+        },
+        {
+          "id": "d",
+          "text": "kierunek"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„luggage” oznacza po polsku „bagaż”."
+    },
+    {
+      "id": "b1_travel-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „passenger”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przyjazd"
+        },
+        {
+          "id": "b",
+          "text": "wycieczka"
+        },
+        {
+          "id": "c",
+          "text": "przewodnik"
+        },
+        {
+          "id": "d",
+          "text": "pasażer"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„passenger” oznacza po polsku „pasażer”."
+    },
+    {
+      "id": "b1_travel-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „passport”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "biuro podróży"
+        },
+        {
+          "id": "b",
+          "text": "wejście"
+        },
+        {
+          "id": "c",
+          "text": "paszport"
+        },
+        {
+          "id": "d",
+          "text": "za granicą"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„passport” oznacza po polsku „paszport”."
+    },
+    {
+      "id": "b1_travel-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „platform”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "schronisko młodzieżowe"
+        },
+        {
+          "id": "b",
+          "text": "peron"
+        },
+        {
+          "id": "c",
+          "text": "przewodnik"
+        },
+        {
+          "id": "d",
+          "text": "odległość"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„platform” oznacza po polsku „peron”."
+    },
+    {
+      "id": "b1_travel-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reservation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rezerwacja miejsca"
+        },
+        {
+          "id": "b",
+          "text": "transport"
+        },
+        {
+          "id": "c",
+          "text": "wynajmować"
+        },
+        {
+          "id": "d",
+          "text": "zagraniczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„reservation” oznacza po polsku „rezerwacja miejsca”."
+    },
+    {
+      "id": "b1_travel-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „route”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynajmować"
+        },
+        {
+          "id": "b",
+          "text": "trasa"
+        },
+        {
+          "id": "c",
+          "text": "biuro podróży"
+        },
+        {
+          "id": "d",
+          "text": "pojazd"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„route” oznacza po polsku „trasa”."
+    },
+    {
+      "id": "b1_travel-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sightseeing”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "broszura"
+        },
+        {
+          "id": "b",
+          "text": "zwiedzanie"
+        },
+        {
+          "id": "c",
+          "text": "podróż morska"
+        },
+        {
+          "id": "d",
+          "text": "wycieczka"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sightseeing” oznacza po polsku „zwiedzanie”."
+    },
+    {
+      "id": "b1_travel-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „suitcase”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zostać na noc"
+        },
+        {
+          "id": "b",
+          "text": "walizka"
+        },
+        {
+          "id": "c",
+          "text": "transport"
+        },
+        {
+          "id": "d",
+          "text": "odjazd"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„suitcase” oznacza po polsku „walizka”."
+    },
+    {
+      "id": "b1_travel-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „traffic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ruch uliczny"
+        },
+        {
+          "id": "b",
+          "text": "kontrola celna"
+        },
+        {
+          "id": "c",
+          "text": "zatłoczony"
+        },
+        {
+          "id": "d",
+          "text": "paszport"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„traffic” oznacza po polsku „ruch uliczny”."
+    },
+    {
+      "id": "b1_travel-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „transport”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "schronisko młodzieżowe"
+        },
+        {
+          "id": "b",
+          "text": "zwiedzanie"
+        },
+        {
+          "id": "c",
+          "text": "kemping"
+        },
+        {
+          "id": "d",
+          "text": "transport"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„transport” oznacza po polsku „transport”."
+    },
+    {
+      "id": "b1_travel-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „trip”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "opóźnienie"
+        },
+        {
+          "id": "b",
+          "text": "spóźnić się na pociąg"
+        },
+        {
+          "id": "c",
+          "text": "wycieczka"
+        },
+        {
+          "id": "d",
+          "text": "zwiedzanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„trip” oznacza po polsku „wycieczka”."
+    },
+    {
+      "id": "b1_travel-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „vehicle”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wejście"
+        },
+        {
+          "id": "b",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "c",
+          "text": "pojazd"
+        },
+        {
+          "id": "d",
+          "text": "kurs wymiany"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„vehicle” oznacza po polsku „pojazd”."
+    },
+    {
+      "id": "b1_travel-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „voyage”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wagon kolejowy"
+        },
+        {
+          "id": "b",
+          "text": "schronisko młodzieżowe"
+        },
+        {
+          "id": "c",
+          "text": "podróż morska"
+        },
+        {
+          "id": "d",
+          "text": "przygoda"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„voyage” oznacza po polsku „podróż morska”."
+    },
+    {
+      "id": "b1_travel-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „crowded”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynajmować"
+        },
+        {
+          "id": "b",
+          "text": "zatłoczony"
+        },
+        {
+          "id": "c",
+          "text": "zwiedzanie"
+        },
+        {
+          "id": "d",
+          "text": "lądować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„crowded” oznacza po polsku „zatłoczony”."
+    },
+    {
+      "id": "b1_travel-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „direct”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezpośredni"
+        },
+        {
+          "id": "b",
+          "text": "przewodnik"
+        },
+        {
+          "id": "c",
+          "text": "wycieczka"
+        },
+        {
+          "id": "d",
+          "text": "wygodny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„direct” oznacza po polsku „bezpośredni”."
+    },
+    {
+      "id": "b1_travel-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „convenient”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podróż morska"
+        },
+        {
+          "id": "b",
+          "text": "wygodny"
+        },
+        {
+          "id": "c",
+          "text": "zwiedzanie"
+        },
+        {
+          "id": "d",
+          "text": "schronisko młodzieżowe"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„convenient” oznacza po polsku „wygodny”."
+    },
+    {
+      "id": "b1_travel-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „explore”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "walizka"
+        },
+        {
+          "id": "b",
+          "text": "przygoda"
+        },
+        {
+          "id": "c",
+          "text": "ubezpieczenie podróżne"
+        },
+        {
+          "id": "d",
+          "text": "odkrywać"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„explore” oznacza po polsku „odkrywać”."
+    },
+    {
+      "id": "b1_travel-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „miss a train”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "trasa"
+        },
+        {
+          "id": "b",
+          "text": "zostać na noc"
+        },
+        {
+          "id": "c",
+          "text": "atrakcja turystyczna"
+        },
+        {
+          "id": "d",
+          "text": "spóźnić się na pociąg"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„miss a train” oznacza po polsku „spóźnić się na pociąg”."
+    },
+    {
+      "id": "b1_travel-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reach”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "za granicą"
+        },
+        {
+          "id": "b",
+          "text": "ruch uliczny"
+        },
+        {
+          "id": "c",
+          "text": "biuro podróży"
+        },
+        {
+          "id": "d",
+          "text": "dotrzeć"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„reach” oznacza po polsku „dotrzeć”."
+    },
+    {
+      "id": "b1_travel-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „rent”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wycieczka"
+        },
+        {
+          "id": "b",
+          "text": "wynajmować"
+        },
+        {
+          "id": "c",
+          "text": "schronisko młodzieżowe"
+        },
+        {
+          "id": "d",
+          "text": "turysta z plecakiem"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„rent” oznacza po polsku „wynajmować”."
+    },
+    {
+      "id": "b1_travel-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „stay overnight”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "schronisko młodzieżowe"
+        },
+        {
+          "id": "b",
+          "text": "zagraniczny"
+        },
+        {
+          "id": "c",
+          "text": "zostać na noc"
+        },
+        {
+          "id": "d",
+          "text": "zakwaterowanie"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„stay overnight” oznacza po polsku „zostać na noc”."
+    },
+    {
+      "id": "b1_travel-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „take off”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "startować"
+        },
+        {
+          "id": "b",
+          "text": "podróż"
+        },
+        {
+          "id": "c",
+          "text": "paszport"
+        },
+        {
+          "id": "d",
+          "text": "karta pokładowa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„take off” oznacza po polsku „startować”."
+    },
+    {
+      "id": "b1_travel-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „land”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "paszport"
+        },
+        {
+          "id": "b",
+          "text": "transport"
+        },
+        {
+          "id": "c",
+          "text": "lądować"
+        },
+        {
+          "id": "d",
+          "text": "wynajmować"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„land” oznacza po polsku „lądować”."
+    },
+    {
+      "id": "b1_travel-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „customs”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kontrola celna"
+        },
+        {
+          "id": "b",
+          "text": "wejście"
+        },
+        {
+          "id": "c",
+          "text": "odkrywać"
+        },
+        {
+          "id": "d",
+          "text": "bezpośredni"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„customs” oznacza po polsku „kontrola celna”."
+    },
+    {
+      "id": "b1_travel-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „departure”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "cel podróży"
+        },
+        {
+          "id": "b",
+          "text": "bagaż"
+        },
+        {
+          "id": "c",
+          "text": "rezerwacja"
+        },
+        {
+          "id": "d",
+          "text": "odjazd"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„departure” oznacza po polsku „odjazd”."
+    },
+    {
+      "id": "b1_travel-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „arrival”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wynajmować"
+        },
+        {
+          "id": "b",
+          "text": "przyjazd"
+        },
+        {
+          "id": "c",
+          "text": "broszura"
+        },
+        {
+          "id": "d",
+          "text": "podróż"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„arrival” oznacza po polsku „przyjazd”."
+    },
+    {
+      "id": "b1_travel-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „tourist attraction”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kierunek"
+        },
+        {
+          "id": "b",
+          "text": "zakwaterowanie"
+        },
+        {
+          "id": "c",
+          "text": "atrakcja turystyczna"
+        },
+        {
+          "id": "d",
+          "text": "bezpośredni"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„tourist attraction” oznacza po polsku „atrakcja turystyczna”."
+    },
+    {
+      "id": "b1_travel-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „travel insurance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "pojazd"
+        },
+        {
+          "id": "b",
+          "text": "opóźnienie"
+        },
+        {
+          "id": "c",
+          "text": "ubezpieczenie podróżne"
+        },
+        {
+          "id": "d",
+          "text": "atrakcja turystyczna"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„travel insurance” oznacza po polsku „ubezpieczenie podróżne”."
+    },
+    {
+      "id": "b1_travel-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „exchange rate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kurs wymiany"
+        },
+        {
+          "id": "b",
+          "text": "przyjazd"
+        },
+        {
+          "id": "c",
+          "text": "karta pokładowa"
+        },
+        {
+          "id": "d",
+          "text": "atrakcja turystyczna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„exchange rate” oznacza po polsku „kurs wymiany”."
+    },
+    {
+      "id": "b1_travel-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „boarding pass”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "atrakcja turystyczna"
+        },
+        {
+          "id": "b",
+          "text": "pojazd"
+        },
+        {
+          "id": "c",
+          "text": "karta pokładowa"
+        },
+        {
+          "id": "d",
+          "text": "podróż morska"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„boarding pass” oznacza po polsku „karta pokładowa”."
+    },
+    {
+      "id": "b1_travel-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „youth hostel”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ruch uliczny"
+        },
+        {
+          "id": "b",
+          "text": "podróż"
+        },
+        {
+          "id": "c",
+          "text": "odkrywać"
+        },
+        {
+          "id": "d",
+          "text": "schronisko młodzieżowe"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„youth hostel” oznacza po polsku „schronisko młodzieżowe”."
+    },
+    {
+      "id": "b1_travel-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „travel agency”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "atrakcja turystyczna"
+        },
+        {
+          "id": "b",
+          "text": "broszura"
+        },
+        {
+          "id": "c",
+          "text": "ruch uliczny"
+        },
+        {
+          "id": "d",
+          "text": "biuro podróży"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„travel agency” oznacza po polsku „biuro podróży”."
+    }
+  ]
+}

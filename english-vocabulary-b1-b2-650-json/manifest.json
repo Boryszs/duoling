@@ -1,0 +1,106 @@
+{
+  "description": "Praktyczny zestaw słownictwa na poziomie B1–B2. Oznaczenia poziomów są orientacyjne i nie stanowią oficjalnej certyfikacji CEFR.",
+  "totalCategories": 13,
+  "totalQuestions": 650,
+  "levels": {
+    "B1": 300,
+    "B2": 350
+  },
+  "categories": [
+    {
+      "file": "01_b1_everyday.json",
+      "categoryId": "b1_everyday",
+      "categoryName": "B1 – Życie codzienne",
+      "level": "B1",
+      "questionCount": 50
+    },
+    {
+      "file": "02_b1_travel.json",
+      "categoryId": "b1_travel",
+      "categoryName": "B1 – Podróże i transport",
+      "level": "B1",
+      "questionCount": 50
+    },
+    {
+      "file": "03_b1_work_education.json",
+      "categoryId": "b1_work_education",
+      "categoryName": "B1 – Praca i edukacja",
+      "level": "B1",
+      "questionCount": 50
+    },
+    {
+      "file": "04_b1_health.json",
+      "categoryId": "b1_health",
+      "categoryName": "B1 – Zdrowie i styl życia",
+      "level": "B1",
+      "questionCount": 50
+    },
+    {
+      "file": "05_b1_relationships.json",
+      "categoryId": "b1_relationships",
+      "categoryName": "B1 – Relacje i emocje",
+      "level": "B1",
+      "questionCount": 50
+    },
+    {
+      "file": "06_b1_technology_media.json",
+      "categoryId": "b1_technology_media",
+      "categoryName": "B1 – Technologia i media",
+      "level": "B1",
+      "questionCount": 50
+    },
+    {
+      "file": "07_b2_business.json",
+      "categoryId": "b2_business",
+      "categoryName": "B2 – Biznes i gospodarka",
+      "level": "B2",
+      "questionCount": 50
+    },
+    {
+      "file": "08_b2_society.json",
+      "categoryId": "b2_society",
+      "categoryName": "B2 – Społeczeństwo i kultura",
+      "level": "B2",
+      "questionCount": 50
+    },
+    {
+      "file": "09_b2_environment_science.json",
+      "categoryId": "b2_environment_science",
+      "categoryName": "B2 – Środowisko i nauka",
+      "level": "B2",
+      "questionCount": 50
+    },
+    {
+      "file": "10_b2_communication.json",
+      "categoryId": "b2_communication",
+      "categoryName": "B2 – Komunikacja i opinie",
+      "level": "B2",
+      "questionCount": 50
+    },
+    {
+      "file": "11_b2_advanced_verbs.json",
+      "categoryId": "b2_advanced_verbs",
+      "categoryName": "B2 – Zaawansowane czasowniki",
+      "level": "B2",
+      "questionCount": 50
+    },
+    {
+      "file": "12_b2_advanced_adjectives.json",
+      "categoryId": "b2_advanced_adjectives",
+      "categoryName": "B2 – Zaawansowane przymiotniki",
+      "level": "B2",
+      "questionCount": 50
+    },
+    {
+      "file": "13_b2_phrasal_verbs.json",
+      "categoryId": "b2_phrasal_verbs",
+      "categoryName": "B2 – Phrasal verbs",
+      "level": "B2",
+      "questionCount": 50
+    }
+  ],
+  "validation": {
+    "duplicateEnglishEntries": [],
+    "schemaErrors": []
+  }
+}

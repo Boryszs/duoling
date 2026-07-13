@@ -1,0 +1,1209 @@
+{
+  "category": {
+    "id": "b2_business",
+    "name": "B2 – Biznes i gospodarka",
+    "level": "B2"
+  },
+  "questions": [
+    {
+      "id": "b2_business-001",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „achieve”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "osiągać"
+        },
+        {
+          "id": "b",
+          "text": "cel biznesowy"
+        },
+        {
+          "id": "c",
+          "text": "przychód"
+        },
+        {
+          "id": "d",
+          "text": "dochód"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„achieve” oznacza po polsku „osiągać”."
+    },
+    {
+      "id": "b2_business-002",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „budget”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rekrutować"
+        },
+        {
+          "id": "b",
+          "text": "wprowadzać na rynek"
+        },
+        {
+          "id": "c",
+          "text": "budżet"
+        },
+        {
+          "id": "d",
+          "text": "gospodarczy"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„budget” oznacza po polsku „budżet”."
+    },
+    {
+      "id": "b2_business-003",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „campaign”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kampania"
+        },
+        {
+          "id": "b",
+          "text": "raport roczny"
+        },
+        {
+          "id": "c",
+          "text": "podaż"
+        },
+        {
+          "id": "d",
+          "text": "zysk"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„campaign” oznacza po polsku „kampania”."
+    },
+    {
+      "id": "b2_business-004",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „client”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "klient biznesowy"
+        },
+        {
+          "id": "b",
+          "text": "wprowadzać na rynek"
+        },
+        {
+          "id": "c",
+          "text": "inwestycja"
+        },
+        {
+          "id": "d",
+          "text": "handel"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„client” oznacza po polsku „klient biznesowy”."
+    },
+    {
+      "id": "b2_business-005",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „competition”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konkurencja"
+        },
+        {
+          "id": "b",
+          "text": "konkurent"
+        },
+        {
+          "id": "c",
+          "text": "klient biznesowy"
+        },
+        {
+          "id": "d",
+          "text": "strategia"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„competition” oznacza po polsku „konkurencja”."
+    },
+    {
+      "id": "b2_business-006",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „consumer”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "branża"
+        },
+        {
+          "id": "b",
+          "text": "konsument"
+        },
+        {
+          "id": "c",
+          "text": "rozszerzać działalność"
+        },
+        {
+          "id": "d",
+          "text": "kampania"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„consumer” oznacza po polsku „konsument”."
+    },
+    {
+      "id": "b2_business-007",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „contract”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "umowa"
+        },
+        {
+          "id": "b",
+          "text": "promować"
+        },
+        {
+          "id": "c",
+          "text": "branża"
+        },
+        {
+          "id": "d",
+          "text": "wartość"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„contract” oznacza po polsku „umowa”."
+    },
+    {
+      "id": "b2_business-008",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cost”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "budżet"
+        },
+        {
+          "id": "b",
+          "text": "koszt"
+        },
+        {
+          "id": "c",
+          "text": "promować"
+        },
+        {
+          "id": "d",
+          "text": "finansowy"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„cost” oznacza po polsku „koszt”."
+    },
+    {
+      "id": "b2_business-009",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „customer service”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ryzyko"
+        },
+        {
+          "id": "b",
+          "text": "szansa"
+        },
+        {
+          "id": "c",
+          "text": "umowa"
+        },
+        {
+          "id": "d",
+          "text": "obsługa klienta"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„customer service” oznacza po polsku „obsługa klienta”."
+    },
+    {
+      "id": "b2_business-010",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „demand”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konkurencja"
+        },
+        {
+          "id": "b",
+          "text": "branża"
+        },
+        {
+          "id": "c",
+          "text": "rekrutować"
+        },
+        {
+          "id": "d",
+          "text": "popyt"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„demand” oznacza po polsku „popyt”."
+    },
+    {
+      "id": "b2_business-011",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „economic”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzedaż"
+        },
+        {
+          "id": "b",
+          "text": "gospodarczy"
+        },
+        {
+          "id": "c",
+          "text": "zakup"
+        },
+        {
+          "id": "d",
+          "text": "finanse"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„economic” oznacza po polsku „gospodarczy”."
+    },
+    {
+      "id": "b2_business-012",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „economy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyniki"
+        },
+        {
+          "id": "b",
+          "text": "konkurencja"
+        },
+        {
+          "id": "c",
+          "text": "gospodarka"
+        },
+        {
+          "id": "d",
+          "text": "podaż"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„economy” oznacza po polsku „gospodarka”."
+    },
+    {
+      "id": "b2_business-013",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „efficient”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rynek"
+        },
+        {
+          "id": "b",
+          "text": "gospodarka"
+        },
+        {
+          "id": "c",
+          "text": "koszt"
+        },
+        {
+          "id": "d",
+          "text": "wydajny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„efficient” oznacza po polsku „wydajny”."
+    },
+    {
+      "id": "b2_business-014",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „employ”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "b",
+          "text": "negocjować"
+        },
+        {
+          "id": "c",
+          "text": "handel detaliczny"
+        },
+        {
+          "id": "d",
+          "text": "obniżać koszty"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„employ” oznacza po polsku „zatrudniać”."
+    },
+    {
+      "id": "b2_business-015",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „expand”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozszerzać działalność"
+        },
+        {
+          "id": "b",
+          "text": "dochód"
+        },
+        {
+          "id": "c",
+          "text": "sprzedaż"
+        },
+        {
+          "id": "d",
+          "text": "raport roczny"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„expand” oznacza po polsku „rozszerzać działalność”."
+    },
+    {
+      "id": "b2_business-016",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „finance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "rozszerzać działalność"
+        },
+        {
+          "id": "b",
+          "text": "finanse"
+        },
+        {
+          "id": "c",
+          "text": "osiągać"
+        },
+        {
+          "id": "d",
+          "text": "produktywność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„finance” oznacza po polsku „finanse”."
+    },
+    {
+      "id": "b2_business-017",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „financial”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "finansowy"
+        },
+        {
+          "id": "b",
+          "text": "usługa"
+        },
+        {
+          "id": "c",
+          "text": "gospodarka"
+        },
+        {
+          "id": "d",
+          "text": "podaż"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„financial” oznacza po polsku „finansowy”."
+    },
+    {
+      "id": "b2_business-018",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „growth”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siedziba główna"
+        },
+        {
+          "id": "b",
+          "text": "wzrost"
+        },
+        {
+          "id": "c",
+          "text": "popyt"
+        },
+        {
+          "id": "d",
+          "text": "rynek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„growth” oznacza po polsku „wzrost”."
+    },
+    {
+      "id": "b2_business-019",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „income”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zakup"
+        },
+        {
+          "id": "b",
+          "text": "handel"
+        },
+        {
+          "id": "c",
+          "text": "finanse"
+        },
+        {
+          "id": "d",
+          "text": "dochód"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„income” oznacza po polsku „dochód”."
+    },
+    {
+      "id": "b2_business-020",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „industry”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "branża"
+        },
+        {
+          "id": "b",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "c",
+          "text": "strategia"
+        },
+        {
+          "id": "d",
+          "text": "siedziba główna"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„industry” oznacza po polsku „branża”."
+    },
+    {
+      "id": "b2_business-021",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „invest”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "inwestować"
+        },
+        {
+          "id": "b",
+          "text": "budżet"
+        },
+        {
+          "id": "c",
+          "text": "obniżać koszty"
+        },
+        {
+          "id": "d",
+          "text": "rekrutować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„invest” oznacza po polsku „inwestować”."
+    },
+    {
+      "id": "b2_business-022",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „investment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "bezrobocie"
+        },
+        {
+          "id": "b",
+          "text": "rekrutować"
+        },
+        {
+          "id": "c",
+          "text": "przepływ pieniężny"
+        },
+        {
+          "id": "d",
+          "text": "inwestycja"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„investment” oznacza po polsku „inwestycja”."
+    },
+    {
+      "id": "b2_business-023",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „launch”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "szansa"
+        },
+        {
+          "id": "b",
+          "text": "wartość"
+        },
+        {
+          "id": "c",
+          "text": "raport roczny"
+        },
+        {
+          "id": "d",
+          "text": "wprowadzać na rynek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„launch” oznacza po polsku „wprowadzać na rynek”."
+    },
+    {
+      "id": "b2_business-024",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „market”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wzrost"
+        },
+        {
+          "id": "b",
+          "text": "konkurencja"
+        },
+        {
+          "id": "c",
+          "text": "branża"
+        },
+        {
+          "id": "d",
+          "text": "rynek"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„market” oznacza po polsku „rynek”."
+    },
+    {
+      "id": "b2_business-025",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „negotiate”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wyniki"
+        },
+        {
+          "id": "b",
+          "text": "inwestować"
+        },
+        {
+          "id": "c",
+          "text": "budżet"
+        },
+        {
+          "id": "d",
+          "text": "negocjować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„negotiate” oznacza po polsku „negocjować”."
+    },
+    {
+      "id": "b2_business-026",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „opportunity”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "produktywność"
+        },
+        {
+          "id": "b",
+          "text": "umowa"
+        },
+        {
+          "id": "c",
+          "text": "negocjować"
+        },
+        {
+          "id": "d",
+          "text": "szansa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„opportunity” oznacza po polsku „szansa”."
+    },
+    {
+      "id": "b2_business-027",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „organisation”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "organizacja"
+        },
+        {
+          "id": "b",
+          "text": "siedziba główna"
+        },
+        {
+          "id": "c",
+          "text": "konkurencja"
+        },
+        {
+          "id": "d",
+          "text": "gospodarka"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„organisation” oznacza po polsku „organizacja”."
+    },
+    {
+      "id": "b2_business-028",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „performance”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "zatrudniać"
+        },
+        {
+          "id": "b",
+          "text": "handel"
+        },
+        {
+          "id": "c",
+          "text": "wyniki"
+        },
+        {
+          "id": "d",
+          "text": "konkurencja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„performance” oznacza po polsku „wyniki”."
+    },
+    {
+      "id": "b2_business-029",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „profit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konkurent"
+        },
+        {
+          "id": "b",
+          "text": "wartość"
+        },
+        {
+          "id": "c",
+          "text": "konsument"
+        },
+        {
+          "id": "d",
+          "text": "zysk"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„profit” oznacza po polsku „zysk”."
+    },
+    {
+      "id": "b2_business-030",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „promote”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "negocjować"
+        },
+        {
+          "id": "b",
+          "text": "branża"
+        },
+        {
+          "id": "c",
+          "text": "inwestycja"
+        },
+        {
+          "id": "d",
+          "text": "promować"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„promote” oznacza po polsku „promować”."
+    },
+    {
+      "id": "b2_business-031",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „purchase”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "finansowy"
+        },
+        {
+          "id": "b",
+          "text": "umowa"
+        },
+        {
+          "id": "c",
+          "text": "zakup"
+        },
+        {
+          "id": "d",
+          "text": "konkurencja"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„purchase” oznacza po polsku „zakup”."
+    },
+    {
+      "id": "b2_business-032",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „reduce costs”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siedziba główna"
+        },
+        {
+          "id": "b",
+          "text": "raport roczny"
+        },
+        {
+          "id": "c",
+          "text": "obniżać koszty"
+        },
+        {
+          "id": "d",
+          "text": "kampania"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„reduce costs” oznacza po polsku „obniżać koszty”."
+    },
+    {
+      "id": "b2_business-033",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „recruit”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "sprzedaż"
+        },
+        {
+          "id": "b",
+          "text": "rekrutować"
+        },
+        {
+          "id": "c",
+          "text": "podaż"
+        },
+        {
+          "id": "d",
+          "text": "usługa"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„recruit” oznacza po polsku „rekrutować”."
+    },
+    {
+      "id": "b2_business-034",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „retail”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ryzyko"
+        },
+        {
+          "id": "b",
+          "text": "budżet"
+        },
+        {
+          "id": "c",
+          "text": "gospodarka"
+        },
+        {
+          "id": "d",
+          "text": "handel detaliczny"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„retail” oznacza po polsku „handel detaliczny”."
+    },
+    {
+      "id": "b2_business-035",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „risk”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "siła robocza"
+        },
+        {
+          "id": "b",
+          "text": "cel biznesowy"
+        },
+        {
+          "id": "c",
+          "text": "ryzyko"
+        },
+        {
+          "id": "d",
+          "text": "handel"
+        }
+      ],
+      "correctAnswerId": "c",
+      "explanation": "„risk” oznacza po polsku „ryzyko”."
+    },
+    {
+      "id": "b2_business-036",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „sales”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepływ pieniężny"
+        },
+        {
+          "id": "b",
+          "text": "sprzedaż"
+        },
+        {
+          "id": "c",
+          "text": "budżet"
+        },
+        {
+          "id": "d",
+          "text": "konkurent"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„sales” oznacza po polsku „sprzedaż”."
+    },
+    {
+      "id": "b2_business-037",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „service”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "koszt"
+        },
+        {
+          "id": "b",
+          "text": "wartość"
+        },
+        {
+          "id": "c",
+          "text": "rozszerzać działalność"
+        },
+        {
+          "id": "d",
+          "text": "usługa"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„service” oznacza po polsku „usługa”."
+    },
+    {
+      "id": "b2_business-038",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „strategy”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "ryzyko"
+        },
+        {
+          "id": "b",
+          "text": "strategia"
+        },
+        {
+          "id": "c",
+          "text": "wartość"
+        },
+        {
+          "id": "d",
+          "text": "produktywność"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„strategy” oznacza po polsku „strategia”."
+    },
+    {
+      "id": "b2_business-039",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „supply”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "podaż"
+        },
+        {
+          "id": "b",
+          "text": "raport roczny"
+        },
+        {
+          "id": "c",
+          "text": "organizacja"
+        },
+        {
+          "id": "d",
+          "text": "promować"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„supply” oznacza po polsku „podaż”."
+    },
+    {
+      "id": "b2_business-040",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „target”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gospodarka"
+        },
+        {
+          "id": "b",
+          "text": "wydajny"
+        },
+        {
+          "id": "c",
+          "text": "ryzyko"
+        },
+        {
+          "id": "d",
+          "text": "cel biznesowy"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„target” oznacza po polsku „cel biznesowy”."
+    },
+    {
+      "id": "b2_business-041",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „trade”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dochód"
+        },
+        {
+          "id": "b",
+          "text": "kampania"
+        },
+        {
+          "id": "c",
+          "text": "branża"
+        },
+        {
+          "id": "d",
+          "text": "handel"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„trade” oznacza po polsku „handel”."
+    },
+    {
+      "id": "b2_business-042",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „unemployment”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "kampania"
+        },
+        {
+          "id": "b",
+          "text": "branża"
+        },
+        {
+          "id": "c",
+          "text": "gospodarczy"
+        },
+        {
+          "id": "d",
+          "text": "bezrobocie"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„unemployment” oznacza po polsku „bezrobocie”."
+    },
+    {
+      "id": "b2_business-043",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „value”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wartość"
+        },
+        {
+          "id": "b",
+          "text": "branża"
+        },
+        {
+          "id": "c",
+          "text": "dochód"
+        },
+        {
+          "id": "d",
+          "text": "szansa"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„value” oznacza po polsku „wartość”."
+    },
+    {
+      "id": "b2_business-044",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „workforce”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "osiągać"
+        },
+        {
+          "id": "b",
+          "text": "siła robocza"
+        },
+        {
+          "id": "c",
+          "text": "wprowadzać na rynek"
+        },
+        {
+          "id": "d",
+          "text": "wyniki"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„workforce” oznacza po polsku „siła robocza”."
+    },
+    {
+      "id": "b2_business-045",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „annual report”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "dochód"
+        },
+        {
+          "id": "b",
+          "text": "raport roczny"
+        },
+        {
+          "id": "c",
+          "text": "rynek"
+        },
+        {
+          "id": "d",
+          "text": "wprowadzać na rynek"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„annual report” oznacza po polsku „raport roczny”."
+    },
+    {
+      "id": "b2_business-046",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „cash flow”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przepływ pieniężny"
+        },
+        {
+          "id": "b",
+          "text": "finansowy"
+        },
+        {
+          "id": "c",
+          "text": "siła robocza"
+        },
+        {
+          "id": "d",
+          "text": "finanse"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„cash flow” oznacza po polsku „przepływ pieniężny”."
+    },
+    {
+      "id": "b2_business-047",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „competitor”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "konkurent"
+        },
+        {
+          "id": "b",
+          "text": "gospodarczy"
+        },
+        {
+          "id": "c",
+          "text": "branża"
+        },
+        {
+          "id": "d",
+          "text": "kampania"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„competitor” oznacza po polsku „konkurent”."
+    },
+    {
+      "id": "b2_business-048",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „headquarters”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "wartość"
+        },
+        {
+          "id": "b",
+          "text": "przepływ pieniężny"
+        },
+        {
+          "id": "c",
+          "text": "promować"
+        },
+        {
+          "id": "d",
+          "text": "siedziba główna"
+        }
+      ],
+      "correctAnswerId": "d",
+      "explanation": "„headquarters” oznacza po polsku „siedziba główna”."
+    },
+    {
+      "id": "b2_business-049",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „productivity”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "gospodarka"
+        },
+        {
+          "id": "b",
+          "text": "produktywność"
+        },
+        {
+          "id": "c",
+          "text": "wprowadzać na rynek"
+        },
+        {
+          "id": "d",
+          "text": "inwestować"
+        }
+      ],
+      "correctAnswerId": "b",
+      "explanation": "„productivity” oznacza po polsku „produktywność”."
+    },
+    {
+      "id": "b2_business-050",
+      "question": "Co oznacza angielskie słowo lub wyrażenie „revenue”?",
+      "answers": [
+        {
+          "id": "a",
+          "text": "przychód"
+        },
+        {
+          "id": "b",
+          "text": "obsługa klienta"
+        },
+        {
+          "id": "c",
+          "text": "gospodarka"
+        },
+        {
+          "id": "d",
+          "text": "organizacja"
+        }
+      ],
+      "correctAnswerId": "a",
+      "explanation": "„revenue” oznacza po polsku „przychód”."
+    }
+  ]
+}
