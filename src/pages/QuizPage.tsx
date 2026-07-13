@@ -6,6 +6,12 @@ import type { QuizCategory, QuizQuestion, QuizResultAnswer } from "../models/qui
 import { getCategories, saveLastResult } from "../services/storage";
 import { shuffle } from "../utils/shuffle";
 
+function getNextRandomIndex(total: number, currentIndex: number) {
+  if (total <= 1) return 0;
+  const offset = Math.floor(Math.random() * (total - 1)) + 1;
+  return (currentIndex + offset) % total;
+}
+
 export function QuizPage() {
   const { categoryId = "", mode = "all" } = useParams();
   const navigate = useNavigate();
@@ -13,6 +19,8 @@ export function QuizPage() {
   const [category, setCategory] = useState<QuizCategory | null | undefined>(undefined);
   const [questions, setQuestions] = useState<QuizQuestion[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
+  const [randomRound, setRandomRound] = useState(1);
+  const [randomSelectedAnswerId, setRandomSelectedAnswerId] = useState<string | undefined>();
   const [selectedAnswers, setSelectedAnswers] = useState<Record<string, string>>({});
   const [checked, setChecked] = useState(false);
   const [showFinishConfirmation, setShowFinishConfirmation] = useState(false);
@@ -25,6 +33,11 @@ export function QuizPage() {
       setCategory(found);
       if (found) {
         setQuestions(shuffle(found.questions));
+        setCurrentIndex(0);
+        setRandomRound(1);
+        setRandomSelectedAnswerId(undefined);
+        setSelectedAnswers({});
+        setChecked(false);
       }
     });
   }, [categoryId]);
@@ -38,7 +51,11 @@ export function QuizPage() {
   }, [currentIndex]);
 
   const currentQuestion = questions[currentIndex];
-  const selectedAnswerId = currentQuestion ? selectedAnswers[currentQuestion.id] : undefined;
+  const selectedAnswerId = isRandom
+    ? randomSelectedAnswerId
+    : currentQuestion
+      ? selectedAnswers[currentQuestion.id]
+      : undefined;
   const isCorrect = Boolean(currentQuestion && selectedAnswerId === currentQuestion.correctAnswerId);
 
   const answeredCount = useMemo(
@@ -53,19 +70,19 @@ export function QuizPage() {
 
   function selectAnswer(answerId: string) {
     if (isRandom && checked) return;
+    if (isRandom) {
+      setRandomSelectedAnswerId(answerId);
+      return;
+    }
     setSelectedAnswers((current) => ({ ...current, [currentQuestion.id]: answerId }));
   }
 
   function nextRandomQuestion() {
     setChecked(false);
-    if (currentIndex < questions.length - 1) {
-      setCurrentIndex((index) => index + 1);
-    } else {
-      setQuestions(shuffle(category!.questions));
-      setCurrentIndex(0);
-      setSelectedAnswers({});
-      window.setTimeout(() => questionHeadingRef.current?.focus(), 0);
-    }
+    setRandomSelectedAnswerId(undefined);
+    setRandomRound((round) => round + 1);
+    setCurrentIndex((index) => getNextRandomIndex(questions.length, index));
+    window.setTimeout(() => questionHeadingRef.current?.focus(), 0);
   }
 
   async function finishAllQuiz() {
@@ -104,7 +121,11 @@ export function QuizPage() {
         >
           <span aria-hidden="true">✕</span>
         </button>
-        <ProgressBar current={isRandom ? currentIndex + 1 : answeredCount} total={questions.length} />
+        {isRandom ? (
+          <p className="quiz-counter" aria-live="polite">Runda {randomRound}</p>
+        ) : (
+          <ProgressBar current={answeredCount} total={questions.length} />
+        )}
       </div>
 
       <div className="question-card">
