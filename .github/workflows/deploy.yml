@@ -39,6 +39,15 @@ jobs:
       - name: Build application
         run: npm run build
 
+      - name: Verify Pages artifact
+        run: |
+          test -f dist/index.html
+          if grep -q '/src/main.tsx' dist/index.html; then
+            echo "dist/index.html still points to /src/main.tsx instead of built assets."
+            exit 1
+          fi
+          grep -q '/duoling/assets/' dist/index.html
+
       - name: Configure Pages
         uses: actions/configure-pages@v6
 
